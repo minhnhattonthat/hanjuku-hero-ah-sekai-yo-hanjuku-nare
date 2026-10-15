@@ -16,8 +16,10 @@ PAGE_BREAKS = ("{p}", "{1B}")
 
 
 def token_width(t):
-    if t.startswith(("{name", "{hero", "{str:", "{v0")):
+    if t.startswith(("{name", "{hero", "{str:")):
         return NAME_W
+    if t.startswith("{v0") and t[3] in "1234567":
+        return NAME_W  # battle inserts 01-07 (names); 0B-0F are effect/pause codes ($03:CEF4..)
     return 0
 
 
