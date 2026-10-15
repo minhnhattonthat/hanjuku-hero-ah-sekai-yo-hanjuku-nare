@@ -44,6 +44,21 @@ Interpreter in bank $04 (`$04:8871` load, `$04:897B` fetch). Script id in `$08D0
 - Menu/system messages: 0xFB6F0-0xFBFFF (null-terminated, 1A newline). Window templates with labels: 0xFB400.
 - Name entry screen: kana grid (graphics/tilemap) TBD.
 
+## Engine changes (asm/main.asm) and build layout (build.py)
+- ROM expanded to 2 MiB; tables at $20:8800 (ScriptTab 256x3), $20:8B00 (MsgTab 72x3), $20:9000 (BtlTab 1152x3);
+  text data packed from bank $21; title art $3E:8000 (+ copyright sprite tiles $3E:B880).
+- Hooks: $04:8871 ScriptLoad (event-script id -> long ptr), $04:E40B MsgLoad (menu messages), $03:CCE5 BtlLoad
+  (battle messages), $00:F09A SysFetch (bank-01 printer: code 01 lo hi bank = far jump; every original string start
+  is overwritten with a jump to its English), $09:F2CE TitlePatch (mode-7 title tiles + copyright sprites).
+- In place: name tables (8 bytes; two-letter ligature tiles 8A-B0 for long names), raw tile templates and name-entry
+  grids (tools/rawtext.py), yes/no labels $04:FC35, password pieces $1F:B24D, choice labels in script commands
+  19/33 (script/choices.json).
+- Windows (measured): event dialogue 26 cols x 4 lines (auto-wrap at 26, scrolls); castle menu box 26 x 2;
+  bank-01 message box 27 x 2 (no auto-wrap); yes/no box covers cols > 18; 3-way box cols > 15; castle-discovery
+  pop-ups 13 wide; opening crawl 26 cols (no digit 9: >= C3 is drawn as a voiced kana there).
+- Codes: 0x3C is drawn on the mark row (JP closing quote) - English uses 0x89 for '"'. Event command 36 prints a
+  general's name (8 wide). Battle codes 0B-0F are effects (no width), 01-07 inserts (names/numbers).
+
 ## Free space (FF runs, candidates)
 0x13AC0-0x13FFF, 0x14280-0x14FFF, 0x17C60-0x17FFF, 0x4C1C0-0x4CFFF, 0x86000-0x87FFF, 0xC44C0.., 0xCED80-0xCFFFF,
 0xE7240.., 0xE7A80-0xE7FFF (verify each before use). ROM can also grow to 2 MiB (header $7FD7 = 0B).
