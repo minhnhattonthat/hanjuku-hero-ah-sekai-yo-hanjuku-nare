@@ -16,5 +16,10 @@ def test_autowrap_drops_break_after_full_line():
     assert layout.wrap(t, 26) == "x" * 26 + "{n}next"
 
 
+def test_trailing_space_not_counted():
+    t = "y" * 25 + " longs"
+    assert layout.wrap(t, 26, autowrap=True) == "y" * 25 + "{n}longs"
+
+
 def test_tokens_kept():
     assert layout.wrap("Hi {hero}, go{w}{p}Next page", 26) == "Hi {hero}, go{w}{p}Next page"

@@ -5,6 +5,8 @@ Dakuten rows of templates (the row above a label) become all spaces.
 
 # fmt: off
 ENTRIES = [
+    # date/gold bar template ($1F:B441, 18 tiles): year digits end col 2, month col 7, gold cols 11-15
+    (0xFB441, 18, "   yr   mo.     G "),
     # castle monthly-command menu template ($1F:B53C), 20 tiles per row, cursor at col 0 and col 10
     (0xFB53C, 20, ""),
     (0xFB55C, 20, " Merchant  Recruit"),

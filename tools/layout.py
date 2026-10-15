@@ -34,6 +34,7 @@ def wrap(text, width, autowrap=False, wide=()):
         nonlocal col, var, soft
         while out and out[-1] == " ":
             out.pop()
+            col -= 1
         if not (autowrap and col == width and not var):
             out.append("{n}")
         col, var, soft = 0, False, auto
@@ -47,8 +48,6 @@ def wrap(text, width, autowrap=False, wide=()):
                 continue
             w = NAME_W if p in wide else token_width(p)
             if w and col + w > width and col > 0:
-                if out and out[-1] == " ":
-                    out.pop()
                 newline(True)
             out.append(p)
             if p in PAGE_BREAKS:
