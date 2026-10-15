@@ -277,7 +277,7 @@
   "off": "00CC93",
   "len": 19,
   "jp": "へいし　　　　　　　　にん{n}きりふだ",
-  "en": "Troops{n}Cards"
+  "en": "Troops{n}Card"
  },
  {
   "id": "S0CCA6",
@@ -361,35 +361,35 @@
   "off": "00CD62",
   "len": 31,
   "jp": "　　　いどう{n}　　　ステータス{n}　　　キャンプ{n}　　　きかん",
-  "en": "   Move{n}   Status{n}   Camp{n}   Return"
+  "en": "   Move{n}   Stats{n}   Camp{n}   Back"
  },
  {
   "id": "S0CD81",
   "off": "00CD81",
   "len": 81,
   "jp": "　　　　　　　　しょうぐん{n}ＨＰ　　　　　」　　　　Ｐ{n}せんとう　　　　　　　　Ｐ{n}ないせい　　　　　　　　Ｐ{n}ちんぎん　　　　　　　　Ｇ{n}たまご　なし{n}しゅみ",
-  "en": "        General{n}HP     /    P{n}Combat      P{n}Domestic    P{n}Wage        G{n}Egg none{n}Hobby"
+  "en": "        {n}HP     /    P{n}Combat      P{n}Domestic    P{n}Wage        G{n}Egg none{n}Fun"
  },
  {
   "id": "S0CDD2",
   "off": "00CDD2",
   "len": 19,
   "jp": "へいし　　　　　　　　にん{n}きりふだ",
-  "en": "Troops{n}Cards"
+  "en": "Troops{n}Card"
  },
  {
   "id": "S0CDE5",
   "off": "00CDE5",
   "len": 18,
   "jp": "　　　しゅつげき{n}　　　ステータス",
-  "en": "   Sortie{n}   Status"
+  "en": "   March{n}   Stats"
  },
  {
   "id": "S0CDF7",
   "off": "00CDF7",
   "len": 47,
   "jp": "　　　かんじゅくぐん{n}　　　　　　　　しょうぐん{n}へいし　　　　　にん{n}たまご　　　　　なし",
-  "en": "   Hard-Boiled{n}        General{n}Men{n}Egg     none"
+  "en": "   Hard-Boiled{n}        {n}Men{n}Egg     none"
  },
  {
   "id": "S0CE26",
@@ -410,7 +410,7 @@
   "off": "00CE50",
   "len": 17,
   "jp": "　　　しゅつげき{n}　　　こうかん",
-  "en": "   Sortie{n}   Trade"
+  "en": "   March{n}   Trade"
  },
  {
   "id": "S0CE61",
@@ -438,14 +438,14 @@
   "off": "00CE86",
   "len": 14,
   "jp": "　　　　　　　　しょうぐん",
-  "en": "        General"
+  "en": "        "
  },
  {
   "id": "S0CE94",
   "off": "00CE94",
   "len": 15,
   "jp": "　　　へいし{n}　　　きりふだ",
-  "en": "   Soldiers{n}   Cards"
+  "en": "   Men{n}   Card"
  },
  {
   "id": "S0CEA3",

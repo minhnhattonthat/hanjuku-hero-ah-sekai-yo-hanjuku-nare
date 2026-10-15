@@ -30,6 +30,8 @@ Skill: translate-retro-game (H:\translation\batch\.claude\skills\translate-retro
 ## Status
 - Done: phases 1-6: all text systems translated + reviewed (fix passes fix01-fix04 in work/tl), title screen,
   name entry, castle menu template, password pieces, choice labels (script/choices.json), name ligatures.
-- Next: phase 8 QA tour (tools/debug/tour.py, then tools/debug/textsheet.py per run dir), fix findings, phase 9 release.
-- Open: big kanji logo on title kept as art; 25 long names fall back to 8-char forms; battle bubble line limit (3)
-  unverified in-game; small system popups fitted to JP window widths (unverified).
+- Phase 8 done: tour2 (all 256 scripts, settled-text sheets reviewed), castle menu / main menu / map popups / battles
+  checked; fixes: wrap trailing-space bug, choice-box page widths, speaker names (cmd 36), battle text bank hooks.
+- Phase 9: `python -X utf8 tools/release.py` -> release/hanjuku-hero-ah-sekai-yo-hanjuku-nare_en.zip.
+- Open: big kanji logo on title kept as art; 25 long names fall back to 8-char forms; battle bubble shows 1 line
+  (multi-line quips unverified); save/load screen and ending/credits not reached in QA; hero name empty in warps.

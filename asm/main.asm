@@ -27,6 +27,7 @@ org $03CCE5
 ; The battle printer assumed text and names share bank $17: the per-char delay ($03:D016) and panel updates
 ; reset $F6 to $17. Re-load the message bank before each character fetch, and read inserted names from $17.
 MsgBank = $7FFFF0
+MsgFlag = $7FFFF1
 RtlInBank03 = $038027      ; any $6B byte in bank $03, used as a trampoline back to bank $20
 org $03CD1B
     jsl BtlFetch         ; was: JSR $D016 / LDA [$F4],y
@@ -177,6 +178,8 @@ BtlLoad:
     lda.l BtlTab+2,x
     sta $F6
     sta.l MsgBank
+    lda #$A5             ; magic value (WRAM is not cleared at power-on)
+    sta.l MsgFlag
     rtl
 
 BtlFetch:                ; call $03:D016 (ends in RTS) via the RTL trampoline, then fetch from the message bank
@@ -185,8 +188,18 @@ BtlFetch:                ; call $03:D016 (ends in RTS) via the RTL trampoline, t
     pea.w RtlInBank03-1
     jml $03D016
 .back:
+    lda.l MsgFlag        ; only while a message started by BtlLoad is printing (the loop also prints names)
+    cmp #$A5
+    bne .plain
     lda.l MsgBank
     sta $F6
+    lda [$F4],y
+    bne .done
+    lda #$00             ; end of message: leave message mode (A=0, Z set for the caller's BNE)
+    sta.l MsgFlag
+.done:
+    rtl
+.plain:
     lda [$F4],y
     rtl
 
