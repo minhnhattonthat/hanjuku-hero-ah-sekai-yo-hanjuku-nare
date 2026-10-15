@@ -126,7 +126,11 @@ def build(args):
             return qa[e["id"]]
         if args.marker:
             return marker_text(e, kind)
+        if e.get("same_as"):  # duplicate pointer to the same JP string: use the translated twin
+            e = same_index[e["same_as"]]
         return e.get("en") or ""
+
+    same_index = {e["id"]: e for f in ("battle", "menu") for e in load(f)}
 
     rom = bytearray(orig) + b"\xFF" * (ROM_SIZE - len(orig))
     out = Path(args.out)
