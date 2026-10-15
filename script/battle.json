@@ -3573,121 +3573,121 @@
   "id": "B251",
   "off": "0BDE74",
   "jp": "”おきゃくさん！　きょうは　いいてんきアルネ！！{n}　つりにでも　いきたいアルネ”",
-  "en": ""
+  "en": "\"Hey, customer! Nice day{n}today, yes yes!! Wanna go{n}fishing, yes yes!\""
  },
  {
   "id": "B252",
   "off": "0BDF25",
   "jp": "”そのちょうしだァ〜ッ！！”",
-  "en": ""
+  "en": "\"That's the spiriiit!!\""
  },
  {
   "id": "B253",
   "off": "0BDFBD",
   "jp": "”たたかいたくて　たたかってるんじゃ　ないんだ！{n}　わかい　しよう！！　はなしあおう！！”",
-  "en": ""
+  "en": "\"I don't fight 'cause I{n}want to! Let's make up!!{n}Let's talk it over!!\""
  },
  {
   "id": "B254",
   "off": "0BE0A1",
   "jp": "”おっと‥‥　あんぜんだいいち！！”",
-  "en": ""
+  "en": "\"Whoops... Safety first!!\""
  },
  {
   "id": "B255",
   "off": "0BE145",
   "jp": "”ウッ！”{n}　{v02}は　いっしゅん　うごきがとまった",
-  "en": ""
+  "en": "\"Ugh!\"{n}{v02} froze for a moment"
  },
  {
   "id": "B256",
   "off": "0BE1D0",
   "jp": "”ぷるるーん”",
-  "en": ""
+  "en": "\"Jiggle-wiggle~\""
  },
  {
   "id": "B257",
   "off": "0BE23E",
   "jp": "”きゅうきょくの　ラグナログるまで　いまいっぽ”",
-  "en": ""
+  "en": "\"Just one step left till the{n}ultimate Ragnarokking\""
  },
  {
   "id": "B258",
   "off": "0BE2EB",
   "jp": "”わたしが　いちばんだって　おしえてあげる！！”",
-  "en": ""
+  "en": "\"I'll show you who's{n}number one!!\""
  },
  {
   "id": "B259",
   "off": "0BE378",
   "jp": "{v02}は　つぶらなひとみで　こっちを{n}みている",
-  "en": ""
+  "en": "{v02} is gazing at you{n}with big round eyes"
  },
  {
   "id": "B25A",
   "off": "0BE410",
   "jp": "”ビヨヨォ〜ン！”{n}　{v02}は　さゆうにゆれて　わらっている",
-  "en": ""
+  "en": "\"Boinnng~!\"{n}{v02} sways side{n}to side, laughing"
  },
  {
   "id": "B25B",
   "off": "0BE4FB",
   "jp": "”よくもやったな　ぶひひん！！”",
-  "en": ""
+  "en": "\"You'll pay for that,{n}oinky-oink!!\""
  },
  {
   "id": "B25C",
   "off": "0BE58E",
   "jp": "”なにするのよ！　いたいじゃないッ！！”",
-  "en": ""
+  "en": "\"What are you doing?!{n}That hurts!!\""
  },
  {
   "id": "B25D",
   "off": "0BE626",
   "jp": "”パパラパー！”",
-  "en": ""
+  "en": "\"Paparapaa!\""
  },
  {
   "id": "B25E",
   "off": "0BE6B7",
   "jp": "”チッ！！　しぶといヤツ！”",
-  "en": ""
+  "en": "\"Tch!! Stubborn pest!\""
  },
  {
   "id": "B25F",
   "off": "0BE789",
   "jp": "”そのたいどが　イカンといっとるのだッ！！”",
-  "en": ""
+  "en": "\"It's that attitude I'm{n}saying is no good!!\""
  },
  {
   "id": "B260",
   "off": "0BE81F",
   "jp": "”ピシピシッ”{n}　{v02}の　こおりが　とけかけてる！",
-  "en": ""
+  "en": "\"Crack crack\"{n}{v02}'s ice is melting!"
  },
  {
   "id": "B261",
   "off": "0BE8E3",
   "jp": "”ぐんしん{v02}にさからうとは{n}　ふとどきせんばん！”",
-  "en": ""
+  "en": "\"You dare defy {v02},{n}god of war?! Outrageous!\""
  },
  {
   "id": "B262",
   "off": "0BE99A",
   "jp": "”ガルルルルルルルルルルルルルルルルルッ‥‥！”{n}　{v02}は　うなりごえを　あげてる",
-  "en": ""
+  "en": "\"Grrrrrrrrrrrrrrrrrr...!\"{n}{v02} is growling"
  },
  {
   "id": "B263",
   "off": "0BEA4F",
   "jp": "”グラナ　ラメラ〜　ストロマ　ラメラ〜”{n}　{v02}は　さらに　きを　たかめた",
-  "en": ""
+  "en": "\"Grana lamella~ Stroma{n}lamella~\"{n}{v02}'s ki rose further"
  },
  {
   "id": "B264",
   "off": "0BEB3C",
   "jp": "”おそれをしらぬ　ものたちよ！{n}　しんのきょうふを　あじわうがよい！！”",
-  "en": ""
+  "en": "\"Ye who know no fear!{n}Now taste true terror!!\""
  },
  {
   "id": "B265",
@@ -3759,7 +3759,7 @@
   "id": "B270",
   "off": "0BF5F4",
   "jp": "”だだだ‥‥だいげきどーーーーーー！”",
-  "en": ""
+  "en": "\"R-r-r... RAAAAAAAAGE!\""
  },
  {
   "id": "B271",
@@ -3795,37 +3795,37 @@
   "id": "B276",
   "off": "0BFA64",
   "jp": "”あしきものに　わたしは　たおせん！！”",
-  "en": ""
+  "en": "\"No evil one can{n}defeat me!!\""
  },
  {
   "id": "B277",
   "off": "0BAADD",
   "jp": "”キーーング！”",
-  "en": ""
+  "en": "\"Kiiiiing!\""
  },
  {
   "id": "B278",
   "off": "0BF8F0",
   "jp": "”イタタッ！！{n}　こりゃ　とても　あたしじゃ　かないませんなー”",
-  "en": ""
+  "en": "\"Ow ow!!{n}Well now, I'm no match{n}for this at all~\""
  },
  {
   "id": "B279",
   "off": "0BFB43",
   "jp": "”みたか　しゅぎょうの　せいかを！！”",
-  "en": ""
+  "en": "\"Behold the fruits{n}of my training!!\""
  },
  {
   "id": "B27A",
   "off": "0BFB81",
   "jp": "”おめでとりーーーーーー！！”",
-  "en": ""
+  "en": "\"Congratu-chick-ations!!\""
  },
  {
   "id": "B27B",
   "off": "0BFCAE",
   "jp": "”テッコン　キンクリート‥‥‥”",
-  "en": ""
+  "en": "\"Tekkon Kinkreet...\""
  },
  {
   "id": "B27C",
@@ -3858,127 +3858,127 @@
   "id": "B280",
   "off": "0BF9AE",
   "jp": "”わたしは　かならず　かえってくるぞ！”",
-  "en": ""
+  "en": "\"I will be back, mark my{n}words!\""
  },
  {
   "id": "B281",
   "off": "0BAB66",
   "jp": "{v02}は　ちょっと　かなしいようだ",
-  "en": ""
+  "en": "{v02} seems a little sad"
  },
  {
   "id": "B282",
   "off": "0BABD0",
   "jp": "”キュウゥ〜〜ッ”",
-  "en": ""
+  "en": "\"Kyuuu~~!\""
  },
  {
   "id": "B283",
   "off": "0BACB5",
   "jp": "”ノー　フューチャー　イズ　マイ　フューチャー！”{n}　{v02}は　さけびながら　しんでいった",
-  "en": ""
+  "en": "\"No future is my future!\"{n}{v02} died screaming"
  },
  {
   "id": "B284",
   "off": "0BAD8A",
   "jp": "”こんどは　１００ワットにして　ガンバロウね{n}　‥‥　”",
-  "en": ""
+  "en": "\"Next time let's go 100{n}watts and try harder{n}...\""
  },
  {
   "id": "B285",
   "off": "0BAE54",
   "jp": "”へなへなへな‥‥”{n}　{v02}は　くたばった",
-  "en": ""
+  "en": "\"Woozy woozy woozy...\"{n}{v02} kicked the bucket"
  },
  {
   "id": "B286",
   "off": "0BAEF7",
   "jp": "”ジュ　ヌ　プー　パ　ル　クロワール！！”{n}”ヴー　プレザンテ！！”",
-  "en": ""
+  "en": "\"Je ne peux pas le croire!!\"{n}\"Vous presentez!!\""
  },
  {
   "id": "B287",
   "off": "0BAFBD",
   "jp": "”ふげげげ〜ッ！”{n}　{v02}は　なかみが　ぜんぶ　でてしまった",
-  "en": ""
+  "en": "\"Fugegege~!\"{n}{v02}'s insides all{n}spilled out"
  },
  {
   "id": "B288",
   "off": "0BB027",
   "jp": "”ぷしゅ　ぷしゅ　ぷしゅ”{n}　{v02}は　くすぶりながら　きえていった",
-  "en": ""
+  "en": "\"Pssh pssh pssh\"{n}{v02} smoldered and{n}faded away"
  },
  {
   "id": "B289",
   "off": "0BB0EF",
   "jp": "”わたしのショーは　これで　お‥し‥ま‥い♥”",
-  "en": ""
+  "en": "\"And so my show comes{n}to an e... n... d...♥\""
  },
  {
   "id": "B28A",
   "off": "0BB16B",
   "jp": "”おでーーーん”",
-  "en": ""
+  "en": "\"Odeeeen\""
  },
  {
   "id": "B28B",
   "off": "0BB1EA",
   "jp": "”ヒュルルルルゥ〜〜〜〜！！”{n}　{v02}は　どこかに　とんでいった",
-  "en": ""
+  "en": "\"Wheeeeee~~~~!!\"{n}{v02} flew off somewhere"
  },
  {
   "id": "B28C",
   "off": "0BB28F",
   "jp": "”ガスパチョ‥‥”",
-  "en": ""
+  "en": "\"Gazpacho...\""
  },
  {
   "id": "B28D",
   "off": "0BB318",
   "jp": "”ああ‥‥　あなたのむねで‥‥{n}　とわのねむりに‥”",
-  "en": ""
+  "en": "\"Ah... In your arms...{n}to eternal sleep...\""
  },
  {
   "id": "B28E",
   "off": "0BB3CC",
   "jp": "”ナオ　ワタシハ　ジドウテキニ　ショウメツ‥‥{n}　スルンダヨ〜ン！”",
-  "en": ""
+  "en": "\"AND NOW I WILL AUTO-{n}MATICALLY SELF-DESTRUCT...{n}TOODLE-OOO~!\""
  },
  {
   "id": "B28F",
   "off": "0BB471",
   "jp": "”かーちゃん　こどもたちば　よろしゅう{n}　たのむばい　‥‥グフッ”",
-  "en": ""
+  "en": "\"Missus, look after the{n}young'uns fer me...{n}...Guhh\""
  },
  {
   "id": "B290",
   "off": "0BB50A",
   "jp": "”フッ‥‥”",
-  "en": ""
+  "en": "\"Heh...\""
  },
  {
   "id": "B291",
   "off": "0BB59E",
   "jp": "”さようなら　わたしのことは　わすれて{n}　しあわせに　なって‥‥”",
-  "en": ""
+  "en": "\"Goodbye. Forget about me{n}and be happy...\""
  },
  {
   "id": "B292",
   "off": "0BB64D",
   "jp": "”こんなんじゃ　りゅうねんデスッ‥‥‥”",
-  "en": ""
+  "en": "\"At this rate I'll be held{n}back a year...!\""
  },
  {
   "id": "B293",
   "off": "0BB71B",
   "jp": "”ベイベー‥‥　あのこに　つたえておくれ{n}　アバヨ　‥‥ってね”",
-  "en": ""
+  "en": "\"Baby... tell that girl{n}for me... 'So long'...{n}y'know\""
  },
  {
   "id": "B294",
   "off": "0BB7DC",
   "jp": "”じゅもんが　おもいだせん‥‥{n}　クゥ‥‥”",
-  "en": ""
+  "en": "\"I can't remember the{n}spell...{n}Grr...\""
  },
  {
   "id": "B295",
@@ -3991,37 +3991,37 @@
   "id": "B296",
   "off": "0BB9AC",
   "jp": "”ぶにゃ‥‥‥”{n}　{v02}は　すごすご　にげだした！",
-  "en": ""
+  "en": "\"Bunya...\"{n}{v02} slunk away!"
  },
  {
   "id": "B297",
   "off": "0BBA5E",
   "jp": "”ツキヨノヨル　バカリト　オモウナヨ‥‥”",
-  "en": ""
+  "en": "\"Don't think every night{n}will be moonlit...\""
  },
  {
   "id": "B298",
   "off": "0BBB3F",
   "jp": "”ガチョーーン！！”",
-  "en": ""
+  "en": "\"Ka-chooong!!\""
  },
  {
   "id": "B299",
   "off": "0BBC81",
   "jp": "”なーんてな　これも　ギャグじゃ”{n}{wait:08}　‥‥やっぱり　ぜんぜん　ウケてない",
-  "en": ""
+  "en": "\"Hah, just kiddin'. That's{n}a gag too, see\"{n}{wait:08}...Nope. Not one laugh"
  },
  {
   "id": "B29A",
   "off": "0BBD4A",
   "jp": "”ばっ　は　は〜〜〜い”",
-  "en": ""
+  "en": "\"Ba... ha... ha-yesss~~~\""
  },
  {
   "id": "B29B",
   "off": "0BBDCA",
   "jp": "”キュピピィーーーーッ！！”",
-  "en": ""
+  "en": "\"Kyupipiiiii!!\""
  },
  {
   "id": "B29C",
@@ -4034,67 +4034,67 @@
   "id": "B29D",
   "off": "0BBE95",
   "jp": "{v02}は　ころがって　かえっていった",
-  "en": ""
+  "en": "{v02} rolled back home"
  },
  {
   "id": "B29E",
   "off": "0BBF25",
   "jp": "”フッ‥‥　きにいったぜ‥‥わかいの♥”",
-  "en": ""
+  "en": "\"Heh... I like you...{n}kid♥\""
  },
  {
   "id": "B29F",
   "off": "0BBFCB",
   "jp": "”けっこうな　おてまえで”",
-  "en": ""
+  "en": "\"Most splendidly done.\""
  },
  {
   "id": "B2A0",
   "off": "0BC043",
   "jp": "{v02}は　ゴロゴロ　ころがりながら{n}かえっていった",
-  "en": ""
+  "en": "{v02} rolled away home,{n}tumbling over and over"
  },
  {
   "id": "B2A1",
   "off": "0BC0DB",
   "jp": "”ぐえッ！ぐえッ！ぐえッ！！”",
-  "en": ""
+  "en": "\"Gweh! Gweh! Gweh!!\""
  },
  {
   "id": "B2A2",
   "off": "0BC186",
   "jp": "”‥‥‥ヒトゴロシ‥‥！！”",
-  "en": ""
+  "en": "\"...Murderer...!!\""
  },
  {
   "id": "B2A3",
   "off": "0BC1FA",
   "jp": "”わしゃ　しんでも　うごかん！！　‥‥‥あ！？”",
-  "en": ""
+  "en": "\"I won't budge even if{n}I die!! ...Huh!?\""
  },
  {
   "id": "B2A4",
   "off": "0BC271",
   "jp": "”まけち‥‥”",
-  "en": ""
+  "en": "\"I lost-chu...\""
  },
  {
   "id": "B2A5",
   "off": "0BC30E",
   "jp": "”もえつきた‥‥‥”",
-  "en": ""
+  "en": "\"Burned out...\""
  },
  {
   "id": "B2A6",
   "off": "0BC398",
   "jp": "”ベチャベチャ！”{n}　{v02}は　もだえながら　しんでいった",
-  "en": ""
+  "en": "\"Splat splat!\"{n}{v02} died writhing"
  },
  {
   "id": "B2A7",
   "off": "0BC416",
   "jp": "”あ‥‥　ちょっと　{v0B}いたい‥‥”",
-  "en": ""
+  "en": "\"Ah... that {v0B}hurt a little...\""
  },
  {
   "id": "B2A8",
@@ -4107,433 +4107,433 @@
   "id": "B2A9",
   "off": "0BC514",
   "jp": "”チャリーーーーーーン！”{n}　{v02}は　フォークとナイフを　おとした！！",
-  "en": ""
+  "en": "\"Clanggggg!\"{n}{v02} dropped its fork{n}and knife!!"
  },
  {
   "id": "B2AA",
   "off": "0BC58B",
   "jp": "”もう　イタズラしないのらー”",
-  "en": ""
+  "en": "\"I won't do pranksies{n}anymore~\""
  },
  {
   "id": "B2AB",
   "off": "0BC637",
   "jp": "”おれの　ほんとうのナは　ピーターてンだ！{n}　みんなは　ピーちゃんって　よぶミョー‥‥”",
-  "en": ""
+  "en": "\"My real name is Peter!{n}Everybody calls me{n}Petey-myo...\""
  },
  {
   "id": "B2AC",
   "off": "0BC6DD",
   "jp": "”けんこうのため　すいすぎには　ちゅうい　しましょう{n}　ゲホゲホゲホッッッ‥‥！！”",
-  "en": ""
+  "en": "\"For your health, don't{n}smoke too much... *Hack*{n}*hack* *hack*...!!\""
  },
  {
   "id": "B2AD",
   "off": "0BC7A2",
   "jp": "”びじん　はく‥めい‥！　キュゥーーーッ‥‥”",
-  "en": ""
+  "en": "\"The fair... die... young...!{n}Kyuuuuu...\""
  },
  {
   "id": "B2AE",
   "off": "0BC868",
   "jp": "”くっくっくっ‥‥{n}　もういいのさ‥‥　くっくっくっ‥‥”",
-  "en": ""
+  "en": "\"Heh heh heh...{n}It doesn't matter now...{n}heh heh heh...\""
  },
  {
   "id": "B2AF",
   "off": "0BC926",
   "jp": "”おイタは　ダメッて　いったでしょ‥‥{n}　お{wait:08}　バ{wait:08}　カ{wait:08}　さん{wait:04}　‥‥”",
-  "en": ""
+  "en": "\"I told you no naughtiness...{n}You{wait:08} big{wait:08} dum{wait:08}my{wait:04}...\""
  },
  {
   "id": "B2B0",
   "off": "0BC9E4",
   "jp": "”だらくは　うつくしい‥‥{n}　しばるもののない　ほんとうの　じゆうだ‥‥”",
-  "en": ""
+  "en": "\"Decadence is beautiful...{n}True freedom, with nothing{n}to bind you...\""
  },
  {
   "id": "B2B1",
   "off": "0BCA98",
   "jp": "”サワサワサワサワ‥‥”{n}　たくさんの　あわが　かぜで　とんでいった",
-  "en": ""
+  "en": "\"Whsh whsh whsh whsh...\"{n}Lots of bubbles blew away{n}on the wind"
  },
  {
   "id": "B2B2",
   "off": "0BCB57",
   "jp": "”ミャ〜〜〜〜〜〜〜”{n}　{v02}は　きしょくわるい　こえをだした",
-  "en": ""
+  "en": "\"Myaaaaaaa~\"{n}{v02} let out a creepy{n}noise"
  },
  {
   "id": "B2B3",
   "off": "0BCC06",
   "jp": "”すんまっしェ〜ん！{n}　わたしが　わるかったと　ですばい‥‥”",
-  "en": ""
+  "en": "\"Sorryyy!{n}It were all my fault,{n}it were...\""
  },
  {
   "id": "B2B4",
   "off": "0BCCA3",
   "jp": "”ホケーーッ”{n}　どうこうが　ひらいてしまった",
-  "en": ""
+  "en": "\"Hokeeee\"{n}Its pupils dilated"
  },
  {
   "id": "B2B5",
   "off": "0BCD55",
   "jp": "”ウッ！！{n}　おおきな　カリをつくってしまった‥‥{n}　かならず　かえさせてもらうよ”",
-  "en": ""
+  "en": "\"Ugh!! I owe you a big one{n}now... Count on it,{n}I'll pay you back\""
  },
  {
   "id": "B2B6",
   "off": "0BCDE0",
   "jp": "{v02}は　リンプンを　ばらまいて{n}ぢめんに　まい　おちた",
-  "en": ""
+  "en": "{v02} scattered scales{n}and fluttered to the ground"
  },
  {
   "id": "B2B7",
   "off": "0BCE9A",
   "jp": "”いつのひか　サイコーの　ドラゴンになって‥‥{n}　かならず‥‥　かえってくるっ‥‥！！”",
-  "en": ""
+  "en": "\"Someday I'll be the best{n}dragon ever... and I'll{n}be back...!!\""
  },
  {
   "id": "B2B8",
   "off": "0BCF34",
   "jp": "”くしゅん‥‥ぷいぷいーッ！！”{n}　{v02}は　おこった",
-  "en": ""
+  "en": "\"Achoo... Hmph-hmph!!\"{n}{v02} got angry"
  },
  {
   "id": "B2B9",
   "off": "0BCFBC",
   "jp": "”ゴボゴボコボ”{n}　{v02}は　しずんでいった",
-  "en": ""
+  "en": "\"Glub glub glub\"{n}{v02} sank"
  },
  {
   "id": "B2BA",
   "off": "0BD026",
   "jp": "”サクッ！”{n}　{v02}は　ハムじょうに{n}　スライス　された",
-  "en": ""
+  "en": "\"Shnk!\"{n}{v02} got sliced{n}like ham"
  },
  {
   "id": "B2BB",
   "off": "0BD0C4",
   "jp": "”ガラガラガラゴロデズーン”{n}　{v02}は　ほうかいした",
-  "en": ""
+  "en": "\"Crash crumble rumble BOOM\"{n}{v02} collapsed"
  },
  {
   "id": "B2BC",
   "off": "0BD151",
   "jp": "”ぴちぴちぴち‥‥”",
-  "en": ""
+  "en": "\"Flip flop flip...\""
  },
  {
   "id": "B2BD",
   "off": "0BD1C4",
   "jp": "”ぶちゅるちゅーーーーーー”{n}　さいごは　なさけない　しにざまだった",
-  "en": ""
+  "en": "\"Bshlurrrrrrrrp\"{n}It died a pitiful death"
  },
  {
   "id": "B2BE",
   "off": "0BD254",
   "jp": "”‥‥たいりょくの　げんかいッ！！”",
-  "en": ""
+  "en": "\"...My stamina's at{n}its limit!!\""
  },
  {
   "id": "B2BF",
   "off": "0BD2E2",
   "jp": "”シュウーーーーーーーーッ‥‥‥”{n}　{v02}は　はかなく　きえた",
-  "en": ""
+  "en": "\"Hisssssssss...\"{n}{v02} faded like a dream"
  },
  {
   "id": "B2C0",
   "off": "0BD379",
   "jp": "”ガラガラガラグラドシャーーン”{n}　{v02}は　ほうかいした",
-  "en": ""
+  "en": "\"Crash rumble tumble WHAM\"{n}{v02} collapsed"
  },
  {
   "id": "B2C1",
   "off": "0BD3F7",
   "jp": "”うけとれ‥‥　これが　チャンピオンベルトだ！”",
-  "en": ""
+  "en": "\"Take it... This is the{n}champion belt!\""
  },
  {
   "id": "B2C2",
   "off": "0BD48B",
   "jp": "”ぎゃぴィーーーッ！！”",
-  "en": ""
+  "en": "\"Gyapiiiii!!\""
  },
  {
   "id": "B2C3",
   "off": "0BD575",
   "jp": "”ジュニアよ　パパを　のりこえて　つよくいきろよ！”{n}　ベビーモスは　なみだを　こらえて　はしりさった",
-  "en": ""
+  "en": "\"Junior, surpass your papa{n}and live strong!\"{n}Babymoth ran off in tears"
  },
  {
   "id": "B2C4",
   "off": "0BD633",
   "jp": "”ケッコウ　やるなァ‥‥”",
-  "en": ""
+  "en": "\"You're pretty good...\""
  },
  {
   "id": "B2C5",
   "off": "0BD686",
   "jp": "”まいったなァ〜　マケちまったぞォ〜”",
-  "en": ""
+  "en": "\"Well, darn~{n}I've gone and lost~\""
  },
  {
   "id": "B2C6",
   "off": "0BD785",
   "jp": "”おぼえてらっしゃい！！{n}　また　くるわよッ！”",
-  "en": ""
+  "en": "\"You'll regret this!!{n}I'll be back!\""
  },
  {
   "id": "B2C7",
   "off": "0BD81D",
   "jp": "”パオーーーッ！！”{n}　{v02}は　とつぜん　はしりだした",
-  "en": ""
+  "en": "\"Pawoooo!!\"{n}{v02} suddenly ran off"
  },
  {
   "id": "B2C8",
   "off": "0BD89B",
   "jp": "{v02}は　おどりながら　きえていった！",
-  "en": ""
+  "en": "{v02} danced away{n}and vanished!"
  },
  {
   "id": "B2C9",
   "off": "0BD929",
   "jp": "ドラゴンは　つめたくなった　おとこを　つれて{n}とびさっていった",
-  "en": ""
+  "en": "The dragon flew off with{n}the man, now cold"
  },
  {
   "id": "B2CA",
   "off": "0BD9CD",
   "jp": "”オゴォォォォォォォォォッッッッッ！！”{n}　‥‥‥‥‥‥‥‥{n}　{v02}は　からまった‥‥",
-  "en": ""
+  "en": "\"Ogoooooooooo!!\"{n}........{n}{v02} got tangled up..."
  },
  {
   "id": "B2CB",
   "off": "0BDB2F",
   "jp": "”{v0D}ズズズズズズズ”{n}　ちきゅうは　ほうかいしてしまった！？{n}　‥‥‥{v0D}",
-  "en": ""
+  "en": "\"{v0D}Rumble rumble\"{n}Has the earth collapsed!?{n}...{v0D}"
  },
  {
   "id": "B2CC",
   "off": "0BDBBA",
   "jp": "”ササササササーーー”{n}　{v02}は　にげだした",
-  "en": ""
+  "en": "\"Swish swish swish\"{n}{v02} ran away"
  },
  {
   "id": "B2CD",
   "off": "0BDC34",
   "jp": "”ナンテ　ヒドイコトヲ　スルンダァー‥‥”",
-  "en": ""
+  "en": "\"HOW COULD YOU DO SUCH{n}A CRUEL THING...\""
  },
  {
   "id": "B2CE",
   "off": "0BDCBE",
   "jp": "”マミーは　ようじの　ごほん‥‥”",
-  "en": ""
+  "en": "\"Mummy is a picture book{n}for toddlers...\""
  },
  {
   "id": "B2CF",
   "off": "0BDD78",
   "jp": "”うわァ〜！　リズムが　くるってしまったー！！”",
-  "en": ""
+  "en": "\"Waah~! My rhythm's all{n}messed up!!\""
  },
  {
   "id": "B2D0",
   "off": "0BDDFC",
   "jp": "”キューーーン”{n}　{v02}は　いじけてしまった",
-  "en": ""
+  "en": "\"Kyuuun\"{n}{v02} went into a sulk"
  },
  {
   "id": "B2D1",
   "off": "0BDE9D",
   "jp": "”キビシィーーー！！”",
-  "en": ""
+  "en": "\"Toooo harsh!!\""
  },
  {
   "id": "B2D2",
   "off": "0BDF34",
   "jp": "”よ〜し！　きょうは　これまでー！！”",
-  "en": ""
+  "en": "\"Okaaay! That's all{n}for today!!\""
  },
  {
   "id": "B2D3",
   "off": "0BDFEB",
   "jp": "”どうか　そのちからを　せいぎのために‥‥”{n}　‥‥‥‥‥ガクッ",
-  "en": ""
+  "en": "\"Please... use that power{n}for justice...\"{n}......*thud*"
  },
  {
   "id": "B2D4",
   "off": "0BE0B4",
   "jp": "”おっと‥‥　ふいのじこだ！！”",
-  "en": ""
+  "en": "\"Whoops... An accident!!\""
  },
  {
   "id": "B2D5",
   "off": "0BE15E",
   "jp": "”リャーメ　ア　ウン　メディコ‥‥”{n}　{v02}は　コーヒーをはいて　たおれこんだ",
-  "en": ""
+  "en": "\"Chiama un medico...\"{n}{v02} spat coffee{n}and collapsed"
  },
  {
   "id": "B2D6",
   "off": "0BE1D8",
   "jp": "なるとは　まけてしまった",
-  "en": ""
+  "en": "Naruto lost"
  },
  {
   "id": "B2D7",
   "off": "0BE257",
   "jp": "”しんのゆうしゃよ！　わたしをあたえよう‥‥{n}　なに〜　いらないだと〜〜！！”",
-  "en": ""
+  "en": "\"O true hero! I give you{n}myself... What~? You don't{n}want me~?!!\""
  },
  {
   "id": "B2D8",
   "off": "0BE304",
   "jp": "”いったーい　しんじらンなーい！！”",
-  "en": ""
+  "en": "\"Owww! I can't belieeeve it!!\""
  },
  {
   "id": "B2D9",
   "off": "0BE38E",
   "jp": "{v02}は　なきながら　かえっていった",
-  "en": ""
+  "en": "{v02} went home crying"
  },
  {
   "id": "B2DA",
   "off": "0BE42D",
   "jp": "”ホップ！　ステップ！　ジャーーンプ！！”{n}　{v02}は　にげだした",
-  "en": ""
+  "en": "\"Hop! Step! Juuuump!!\"{n}{v02} ran away"
  },
  {
   "id": "B2DB",
   "off": "0BE50C",
   "jp": "”おれは　めげない　ぶひひん！！”",
-  "en": ""
+  "en": "\"I won't give up,{n}oinky-oink!!\""
  },
  {
   "id": "B2DC",
   "off": "0BE5A3",
   "jp": "”おぼえてらっしゃいッ！！”",
-  "en": ""
+  "en": "\"You'll regret this!!\""
  },
  {
   "id": "B2DD",
   "off": "0BE62F",
   "jp": "”ハッハッハッハッ”{n}　{v02}は　ごまかすように　わらった",
-  "en": ""
+  "en": "\"Hahahaha\"{n}{v02} laughed it off"
  },
  {
   "id": "B2DE",
   "off": "0BE6C6",
   "jp": "”おかしけりゃ　わらいな{n}　アタイの　マケだよ　すきにしな！！”",
-  "en": ""
+  "en": "\"Go on, laugh if it's funny.{n}I lost. Do what ya want!!\""
  },
  {
   "id": "B2DF",
   "off": "0BE7A0",
   "jp": "”プシューーーーーーッ”{n}　{v02}は　ちをふいて　たおれた",
-  "en": ""
+  "en": "\"Pshhhhhhh\"{n}{v02} spurted blood{n}and fell"
  },
  {
   "id": "B2E0",
   "off": "0BE838",
   "jp": "”あたらちい　ボディに　こうかんだッ！”",
-  "en": ""
+  "en": "\"Time to twade for a{n}new body!\""
  },
  {
   "id": "B2E1",
   "off": "0BE8FD",
   "jp": "”この　わたしを　たおすとは‥‥　みごとだ‥‥！”",
-  "en": ""
+  "en": "\"To defeat me...{n}Splendid...!\""
  },
  {
   "id": "B2E2",
   "off": "0BE9C3",
   "jp": "”コケーーーーッ‥！”",
-  "en": ""
+  "en": "\"Bawwwk...!\""
  },
  {
   "id": "B2E3",
   "off": "0BEA74",
   "jp": "”‥‥‥‥”",
-  "en": ""
+  "en": "\"........\""
  },
  {
   "id": "B2E4",
   "off": "0BEB61",
   "jp": "”し　しんじられぬ！　きさまは　カミかッ！！”",
-  "en": ""
+  "en": "\"I-impossible! Are you a god?!\""
  },
  {
   "id": "B2E5",
   "off": "0BEC3B",
   "jp": "”あ〜ら　こちら　おつよい！{n}　ぜひ　いっしょに　もりあがりたいですな‥‥{n}　おさきに　あのよで　まってます〜ッ！”",
-  "en": ""
+  "en": "\"My, how strong! I'd love{n}to party with you... I'll{n}wait in the afterlife~!\""
  },
  {
   "id": "B2E6",
   "off": "0BED1A",
   "jp": "”ああ‥‥　わたし　しぬのね‥‥{n}　はかなく　そして　かなしい　わたしの{n}　じんせいに‥‥　サヨナラ‥‥”",
-  "en": ""
+  "en": "\"Ah... I'm dying...{n}Farewell to my fleeting,{n}sad little life...\""
  },
  {
   "id": "B2E7",
   "off": "0BEDF2",
   "jp": "”ウウ！　こたつの　せきがいせんランプが！{n}　さ‥‥　さむ‥‥！”",
-  "en": ""
+  "en": "\"Ugh! The kotatsu heat lamp!{n}S... so cold...!\""
  },
  {
   "id": "B2E8",
   "off": "0BEEF8",
   "jp": "”おれたちは　もう　もどれない‥‥{n}　あの　あつい　なつには‥‥　ってか〜ッ！！”",
-  "en": ""
+  "en": "\"We can never go back...{n}to that hot summer...{n}...Or so they say~!!\""
  },
  {
   "id": "B2E9",
   "off": "0BEFF3",
   "jp": "”シュウフク　システム　タイハ‥‥{n}　セントウ　ゾッコウ　フカノウ‥‥{n}　ボイルドニハ　イジョウナシ‥‥”",
-  "en": ""
+  "en": "\"REPAIR SYSTEM DESTROYED{n}COMBAT IMPOSSIBLE...{n}BOILED: NO ANOMALY...\""
  },
  {
   "id": "B2EA",
   "off": "0BF0DA",
   "jp": "”か〜ん〜じゅ〜く〜　ご〜じゅ〜う〜ね〜ん‥‥{n}　げ〜て〜ん〜の　う〜ち〜を　く〜ら〜ぶ〜れ〜{n}　バアッ！！”",
-  "en": ""
+  "en": "Ha~rd-boiled fi~fty ye~ars{n}com~pared to this wo~rld{n}BWAH!!"
  },
  {
   "id": "B2EB",
   "off": "0BF194",
   "jp": "”ウグ‥‥！{n}　はんじゅく　エキスが　からだのなかで‥‥！{n}　グガアアアア！！”",
-  "en": ""
+  "en": "\"Ugh...! The soft-boiled{n}extract is in my body...!{n}GUGAAAAA!!\""
  },
  {
   "id": "B2EC",
   "off": "0BF273",
   "jp": "”オ〜マイガッ‥‥{n}　ア〜ンビリ〜バボ〜‥‥！”",
-  "en": ""
+  "en": "\"Oh my Gawd...{n}Unbelievabooo...!\""
  },
  {
   "id": "B2ED",
   "off": "0BF360",
   "jp": "”ば　ばかな‥‥！！”",
-  "en": ""
+  "en": "\"I-impossible...!!\""
  },
  {
   "id": "B2EE",
   "off": "0BF44A",
   "jp": "”キャーッ！”{n}”だいじょうぶか　ピンク！！”{n}”レッド！　このままじゃ‥‥！”",
-  "en": ""
+  "en": "\"Kyaa!\"{n}\"You okay, Pink?!\"{n}\"Red! At this rate...!\""
  },
  {
   "id": "B2EF",
   "off": "0BF54D",
   "jp": "”レッド！　けいほうが！”{n}”レッド！　チエーンが　やききれる！”{n}”レッド！　だっしゅつを！”　”レッド！！”{n}”うるせ〜　おまえら〜〜〜ッ！！”",
-  "en": ""
+  "en": "\"Red! Alarm! The chain!{n}Red! Eject! Red!!\"{n}\"Shut UP, all of youuu!!\""
  },
  {
   "id": "B2F0",
   "off": "0BF608",
   "jp": "”プッシューーーーーーーーッッッッ！！”{n}　{v02}は　けっかんが　きれてしまった",
-  "en": ""
+  "en": "\"Pshhhhhhhhhh!!\"{n}{v02} burst a blood{n}vessel"
  },
  {
   "id": "B2F1",
@@ -4545,49 +4545,49 @@
   "id": "B2F2",
   "off": "0BF6C0",
   "jp": "”まだまだ　くいたりねえ〜ッ‥‥！！”",
-  "en": ""
+  "en": "\"I'm still not full~...!!\""
  },
  {
   "id": "B2F3",
   "off": "0BF74B",
   "jp": "”さあ‥‥{n}　ボイルドさまの　ごたんじょうだ‥‥！！”",
-  "en": ""
+  "en": "\"Now...{n}behold the birth of{n}Lord Boiled...!!\""
  },
  {
   "id": "B2F4",
   "off": "0BF792",
   "jp": "”き‥‥！さま‥‥！！！！”",
-  "en": ""
+  "en": "\"Y...! You...!!!!\""
  },
  {
   "id": "B2F5",
   "off": "0BF7E1",
   "jp": "”ま‥‥さ‥‥か！！”",
-  "en": ""
+  "en": "\"I... can't... be...!!\""
  },
  {
   "id": "B2F6",
   "off": "0BFA79",
   "jp": "”ばかなッ！　このわたしを　たおすとわ！！”",
-  "en": ""
+  "en": "\"Impossible! To defeat{n}me!!\""
  },
  {
   "id": "B2F7",
   "off": "0BAAE6",
   "jp": "”あじゃぱー”",
-  "en": ""
+  "en": "\"Ajapaaa\""
  },
  {
   "id": "B2F8",
   "off": "0BF911",
   "jp": "”こりゃあ　おつよい！！{n}　あたしなぞ　でるうつわじゃ　ありませなんだな〜”",
-  "en": ""
+  "en": "\"My, how strong!!{n}Guess I was never the{n}type to take the stage~\""
  },
  {
   "id": "B2F9",
   "off": "0BFB57",
   "jp": "”わたしは　なんどでも　よみがえる！！”",
-  "en": ""
+  "en": "\"I will rise again and{n}again!!\""
  },
  {
   "id": "B2FA",
@@ -4600,7 +4600,7 @@
   "id": "B2FB",
   "off": "0BFCBF",
   "jp": "”おぼえてろー　ちかえちしてやるからなー{n}　‥‥‥”",
-  "en": ""
+  "en": "\"You'll pay! I'll get my{n}weevenge on you!{n}...\""
  },
  {
   "id": "B2FC",
@@ -4634,13 +4634,13 @@
   "id": "B300",
   "off": "0BF95E",
   "jp": "しかし　とどかなかった",
-  "en": ""
+  "en": "But it didn't reach"
  },
  {
   "id": "B301",
   "off": "0BF98A",
   "jp": "{v03}は　はなみずをたらした！",
-  "en": ""
+  "en": "{v03}'s nose started{n}running!"
  },
  {
   "id": "B302",
@@ -4670,31 +4670,31 @@
   "id": "B306",
   "off": "0BAC2A",
   "jp": "”ウッ！！”{n}　{v03}は　みにおぼえがある！",
-  "en": ""
+  "en": "\"Ugh!!\"{n}{v03} has a guilty{n}conscience!"
  },
  {
   "id": "B307",
   "off": "0BAC93",
   "jp": "”プチン”{n}　{v03}のなかで　なにかがきれた！",
-  "en": ""
+  "en": "\"Snap\"{n}Something inside {v03}{n}snapped!"
  },
  {
   "id": "B308",
   "off": "0BAD14",
   "jp": "{v03}は　こしを　ぬかした！",
-  "en": ""
+  "en": "{v03} collapsed in fright!"
  },
  {
   "id": "B309",
   "off": "0BAD51",
   "jp": "{v03}は　とばっちりを　くった",
-  "en": ""
+  "en": "{v03} got caught in the crossfire"
  },
  {
   "id": "B30A",
   "off": "0BADE0",
   "jp": "{v03}は　おもわず　めを　みはった！",
-  "en": ""
+  "en": "{v03} stared in amazement!"
  },
  {
   "id": "B30B",
@@ -4712,7 +4712,7 @@
   "id": "B30D",
   "off": "0BAEC1",
   "jp": "{v03}は　あしを　すくわれた！",
-  "en": ""
+  "en": "{v03} got tripped up!"
  },
  {
   "id": "B30E",
@@ -4736,37 +4736,37 @@
   "id": "B311",
   "off": "0BB009",
   "jp": "{v0B}",
-  "en": ""
+  "en": "{v0B}"
  },
  {
   "id": "B312",
   "off": "0BB07A",
   "jp": "{v03}は　ぶっとんだ！",
-  "en": ""
+  "en": "{v03} went flying!"
  },
  {
   "id": "B313",
   "off": "0BB0C3",
   "jp": "”とばしてェー！　とめないでェー！！♥”",
-  "en": ""
+  "en": "Send me flying! Don't stop meee!!♥"
  },
  {
   "id": "B314",
   "off": "0BB136",
   "jp": "”グサッ”",
-  "en": ""
+  "en": "Stab!"
  },
  {
   "id": "B315",
   "off": "0BB14E",
   "jp": "{v02}は　ヤリで　グリグリした！",
-  "en": ""
+  "en": "{v02} twisted its spear in!"
  },
  {
   "id": "B316",
   "off": "0BB1A1",
   "jp": "{v02}は　むねいっぱいに{n}くうきを　すった！",
-  "en": ""
+  "en": "{v02} took a deep breath!"
  },
  {
   "id": "B317",
@@ -4778,43 +4778,43 @@
   "id": "B318",
   "off": "0BB269",
   "jp": "{v03}は　おもわず　しこを　ふんだ！",
-  "en": ""
+  "en": "{v03} couldn't help doing a sumo stomp!"
  },
  {
   "id": "B319",
   "off": "0BB23D",
   "jp": "”ゲロゲロピー‥‥”{n}　{v03}の　くちには　あわなかった！",
-  "en": ""
+  "en": "Blegh-blegh-pyuu....{n}It wasn't to {v03}'s taste!"
  },
  {
   "id": "B31A",
   "off": "0BB2CC",
   "jp": "{v03}は　せいしんてきダメージをうけた！",
-  "en": ""
+  "en": "{v03} took mental damage!"
  },
  {
   "id": "B31B",
   "off": "0BB2FC",
   "jp": "{v03}は　みのけが　よだった！",
-  "en": ""
+  "en": "{v03}'s hair stood on end!"
  },
  {
   "id": "B31C",
   "off": "0BB365",
   "jp": "{v03}のずじょうで　ばくはつした！",
-  "en": ""
+  "en": "It exploded over {v03}'s head!"
  },
  {
   "id": "B31D",
   "off": "0BB3A5",
   "jp": "{v0B}{v02}の　すてみの　こうげき！",
-  "en": ""
+  "en": "{v0B}{v02} attacked recklessly!"
  },
  {
   "id": "B31E",
   "off": "0BB41F",
   "jp": "{v03}は　もりで　つつかれた！",
-  "en": ""
+  "en": "{v03} was poked with a harpoon!"
  },
  {
   "id": "B31F",
@@ -4838,37 +4838,37 @@
   "id": "B322",
   "off": "0BB52F",
   "jp": "”これが　あいという　モノなのね〜〜〜〜！！”",
-  "en": ""
+  "en": "So THIS is what love feels liiiiike!!"
  },
  {
   "id": "B323",
   "off": "0BB566",
   "jp": "{v03}は　わけもわからず{n}たたかれた！",
-  "en": ""
+  "en": "{v03} got smacked{n}without knowing why!"
  },
  {
   "id": "B324",
   "off": "0BB600",
   "jp": "”‥‥デスッ！！”",
-  "en": ""
+  "en": "......DESU!!"
  },
  {
   "id": "B325",
   "off": "0BB62C",
   "jp": "{v02}の　くちもとに　こうこつの{n}えみが　もれた",
-  "en": ""
+  "en": "A smile of ecstasy escaped{n}{v02}'s lips"
  },
  {
   "id": "B326",
   "off": "0BB6DD",
   "jp": "せつなさが　{v03}を　おそった！　",
-  "en": ""
+  "en": "Heartache overcame{n}{v03}!"
  },
  {
   "id": "B327",
   "off": "0BB69F",
   "jp": "{v03}は　うたに　ききほれた！",
-  "en": ""
+  "en": "{v03} was enraptured by the song!"
  },
  {
   "id": "B328",
@@ -4904,19 +4904,19 @@
   "id": "B32D",
   "off": "0BB985",
   "jp": "{v03}は　ドロニンギョーに　なった！",
-  "en": ""
+  "en": "{v03} turned into a mud doll!"
  },
  {
   "id": "B32E",
   "off": "0BBA0F",
   "jp": "{v03}は　ふかかいな　ショックうけた{n}",
-  "en": ""
+  "en": "{v03} got a baffling shock{n}"
  },
  {
   "id": "B32F",
   "off": "0BBA39",
   "jp": "{v03}は　ダンベルを　ガシガシくらった！",
-  "en": ""
+  "en": "{v03} got pounded by dumbbells!"
  },
  {
   "id": "B330",
@@ -4928,13 +4928,13 @@
   "id": "B331",
   "off": "0BBAD1",
   "jp": "{v03}は　７０ねんあんぽ　のことを{n}おもいだした！{v0B}",
-  "en": ""
+  "en": "{v03} remembered the 1970{n}treaty protests!{v0B}"
  },
  {
   "id": "B332",
   "off": "0BBC4B",
   "jp": "ぜんぜん　ウケてない",
-  "en": ""
+  "en": "Not a single laugh"
  },
  {
   "id": "B333",
@@ -4947,7 +4947,7 @@
   "id": "B334",
   "off": "0BBD14",
   "jp": "{v03}は　だっせーソリコミを{n}いれられた！",
-  "en": ""
+  "en": "{v03} got a lame punk{n}hairline shave!"
  },
  {
   "id": "B335",
@@ -4959,7 +4959,7 @@
   "id": "B336",
   "off": "0BBD83",
   "jp": "{v03}は　ほっぺたを　なめられた！",
-  "en": ""
+  "en": "{v03}'s cheek got licked!"
  },
  {
   "id": "B337",
@@ -4971,31 +4971,31 @@
   "id": "B338",
   "off": "0BBDFE",
   "jp": "{v03}は　ビンタの　もうこうを{n}くらった！",
-  "en": ""
+  "en": "{v03} took a barrage of{n}slaps!"
  },
  {
   "id": "B339",
   "off": "0BBE31",
   "jp": "{v03}は　ビビってしまった！",
-  "en": ""
+  "en": "{v03} got scared stiff!"
  },
  {
   "id": "B33A",
   "off": "0BBE53",
   "jp": "{v03}にあたった！　ラッキー！！",
-  "en": ""
+  "en": "It hit {v03}! Lucky!!"
  },
  {
   "id": "B33B",
   "off": "0BBE74",
   "jp": "{v03}は　それにあたって　コケた！",
-  "en": ""
+  "en": "{v03} tripped over it!"
  },
  {
   "id": "B33C",
   "off": "0BBED6",
   "jp": "{v03}は　ガラのわるいヤツだと　おもった！",
-  "en": ""
+  "en": "{v03} thought, what a thug!"
  },
  {
   "id": "B33D",
@@ -5007,25 +5007,25 @@
   "id": "B33E",
   "off": "0BBF78",
   "jp": "{v03}は　にがいおちゃを　のまされた！",
-  "en": ""
+  "en": "{v03} was made to drink bitter tea!"
  },
  {
   "id": "B33F",
   "off": "0BBFAA",
   "jp": "{v03}は　はらを　くだした！",
-  "en": ""
+  "en": "{v03} got an upset stomach!"
  },
  {
   "id": "B340",
   "off": "0BC002",
   "jp": "さいわい　{v03}にあたった！？",
-  "en": ""
+  "en": "Luckily, it hit {v03}!?"
  },
  {
   "id": "B341",
   "off": "0BC022",
   "jp": "{v03}は　それにあたり　しっしんした！",
-  "en": ""
+  "en": "{v03} got hit and fainted!"
  },
  {
   "id": "B342",
@@ -5037,31 +5037,31 @@
   "id": "B343",
   "off": "0BC0A9",
   "jp": "‥‥‥{n}あまり　こうかは　ないように　おもえる‥‥",
-  "en": ""
+  "en": "......{n}It doesn't seem very effective...."
  },
  {
   "id": "B344",
   "off": "0BC169",
   "jp": "{v03}は　ひとだまに　おそわれた！",
-  "en": ""
+  "en": "{v03} was attacked by will-o'-wisps!"
  },
  {
   "id": "B345",
   "off": "0BC12E",
   "jp": "{v03}は　くろいかげに　おそわれた！",
-  "en": ""
+  "en": "{v03} was attacked by a black shadow!"
  },
  {
   "id": "B346",
   "off": "0BC1AF",
   "jp": "{v03}は　くびを　かしげた！",
-  "en": ""
+  "en": "{v03} looked puzzled!"
  },
  {
   "id": "B347",
   "off": "0BC1D6",
   "jp": "{v03}は　ヘンなヤツだと　おもった！",
-  "en": ""
+  "en": "{v03} thought, what a weirdo!"
  },
  {
   "id": "B348",
@@ -5073,7 +5073,7 @@
   "id": "B349",
   "off": "0BC250",
   "jp": "{v03}は　こどもになった！",
-  "en": ""
+  "en": "{v03} turned into a child!"
  },
  {
   "id": "B34A",
@@ -5085,7 +5085,7 @@
   "id": "B34B",
   "off": "0BC2E8",
   "jp": "{v03}は　かなしくて　なきだした！",
-  "en": ""
+  "en": "{v03} burst into sad tears!"
  },
  {
   "id": "B34C",
@@ -5097,19 +5097,19 @@
   "id": "B34D",
   "off": "0BC36D",
   "jp": "{v03}は　ねんえきに　つつまれた",
-  "en": ""
+  "en": "{v03} was wrapped in slime"
  },
  {
   "id": "B34E",
   "off": "0BC3F8",
   "jp": "{v03}は　トリップダケを　くわされた！",
-  "en": ""
+  "en": "{v03} was fed a Trip Mushroom!"
  },
  {
   "id": "B34F",
   "off": "0BC3D5",
   "jp": "{v0B}{v03}は　ワライダケを　くわされた！",
-  "en": ""
+  "en": "{v0B}{v03} was fed a Laughing Mushroom!"
  },
  {
   "id": "B350",
@@ -5121,7 +5121,7 @@
   "id": "B351",
   "off": "0BC47C",
   "jp": "{v03}は　クサイいきを　まともにすった！",
-  "en": ""
+  "en": "{v03} inhaled stinky breath head-on!"
  },
  {
   "id": "B352",
@@ -5139,13 +5139,13 @@
   "id": "B354",
   "off": "0BC563",
   "jp": "{v03}は　かおに　らくがきされた！",
-  "en": ""
+  "en": "{v03}'s face got doodled on!"
  },
  {
   "id": "B355",
   "off": "0BC54D",
   "jp": "{v03}は　くすぐられた！",
-  "en": ""
+  "en": "{v03} got tickled!"
  },
  {
   "id": "B356",
@@ -5163,49 +5163,49 @@
   "id": "B358",
   "off": "0BC6BE",
   "jp": "{v03}は　ケムに　まかれた",
-  "en": ""
+  "en": "{v03} was baffled by a smokescreen"
  },
  {
   "id": "B359",
   "off": "0BC6A0",
   "jp": "ちっそくの　けむりが　たちこめる！！",
-  "en": ""
+  "en": "Choking smoke fills the air!!"
  },
  {
   "id": "B35A",
   "off": "0BC736",
   "jp": "{v03}は　おもわず　はらいのけた！",
-  "en": ""
+  "en": "{v03} instinctively brushed it off!"
  },
  {
   "id": "B35B",
   "off": "0BC77D",
   "jp": "{v03}に　グサグサ　ささった！",
-  "en": ""
+  "en": "It stuck into {v03} again and again!"
  },
  {
   "id": "B35C",
   "off": "0BC83E",
   "jp": "{v03}は　いきちを　すわれた！",
-  "en": ""
+  "en": "{v03}'s blood got sucked!"
  },
  {
   "id": "B35D",
   "off": "0BC804",
   "jp": "くらやみのきょうふが　{v03}を{n}おそった！",
-  "en": ""
+  "en": "The terror of darkness{n}assailed {v03}!"
  },
  {
   "id": "B35E",
   "off": "0BC8FF",
   "jp": "てっきゅうが　{v03}を　おそった！",
-  "en": ""
+  "en": "An iron ball{n}assailed {v03}!"
  },
  {
   "id": "B35F",
   "off": "0BC8C6",
   "jp": "{v03}は　つかまって　ヒドイめにあった！",
-  "en": ""
+  "en": "{v03} got caught and roughed up!"
  },
  {
   "id": "B360",
@@ -5223,13 +5223,13 @@
   "id": "B362",
   "off": "0BCA46",
   "jp": "たいりょうの　あわが　すべてを　つつみこんだ！",
-  "en": ""
+  "en": "A flood of bubbles engulfed everything!"
  },
  {
   "id": "B363",
   "off": "0BCA74",
   "jp": "ふしぎな　きりが　あたりを　つつんだ",
-  "en": ""
+  "en": "A strange mist enveloped the area"
  },
  {
   "id": "B364",
@@ -5241,7 +5241,7 @@
   "id": "B365",
   "off": "0BCB25",
   "jp": "{v03}は　くろいいとに　あやつられた！",
-  "en": ""
+  "en": "{v03} was controlled by black threads!"
  },
  {
   "id": "B366",
@@ -5265,19 +5265,19 @@
   "id": "B369",
   "off": "0BAD5F",
   "jp": "{v03}は　あぜんとしている！",
-  "en": ""
+  "en": "{v03} is dumbfounded!"
  },
  {
   "id": "B36A",
   "off": "0BCCEE",
   "jp": "{v03}は　いきるのぞみを　うしなった！",
-  "en": ""
+  "en": "{v03} lost the will to live!"
  },
  {
   "id": "B36B",
   "off": "0BCD26",
   "jp": "{v03}は　はきけに　くるしんだ！",
-  "en": ""
+  "en": "{v03} suffered from nausea!"
  },
  {
   "id": "B36C",
@@ -5290,7 +5290,7 @@
   "id": "B36D",
   "off": "0BCDB7",
   "jp": "ふしぎなそよかぜが　{v03}を{n}おそった！",
-  "en": ""
+  "en": "A strange breeze{n}assailed {v03}!"
  },
  {
   "id": "B36E",
@@ -5308,61 +5308,61 @@
   "id": "B370",
   "off": "0BCEF4",
   "jp": "{v03}のあしもとに　ぶつかった！",
-  "en": ""
+  "en": "It slammed into {v03}'s feet!"
  },
  {
   "id": "B371",
   "off": "0BCF12",
   "jp": "{v02}は　{v03}のせなかに　おぶさった！",
-  "en": ""
+  "en": "{v02} climbed onto{n}{v03}'s back!"
  },
  {
   "id": "B372",
   "off": "0BCF7D",
   "jp": "{v03}は　さかなと　まちがわれた！",
-  "en": ""
+  "en": "{v03} was mistaken for a fish!"
  },
  {
   "id": "B373",
   "off": "0BCFA2",
   "jp": "{v03}の　あそこに　あたった！",
-  "en": ""
+  "en": "It hit {v03} somewhere sensitive!"
  },
  {
   "id": "B374",
   "off": "0BCFE2",
   "jp": "{v02}は　やみくもに　しっぽを　ふった",
-  "en": ""
+  "en": "{v02} swung its tail wildly"
  },
  {
   "id": "B375",
   "off": "0BD004",
   "jp": "{v02}は　やみくもに　ケリまくった",
-  "en": ""
+  "en": "{v02} kicked wildly"
  },
  {
   "id": "B376",
   "off": "0BD079",
   "jp": "{v03}は　あたまを　かじられた！？",
-  "en": ""
+  "en": "{v03}'s head got chomped!?"
  },
  {
   "id": "B377",
   "off": "0BD0A0",
   "jp": "{v03}の　せすじに　なにか　はしった",
-  "en": ""
+  "en": "Something ran down{n}{v03}'s spine"
  },
  {
   "id": "B378",
   "off": "0BD118",
   "jp": "{v03}は　しっぽで　たたかれた！",
-  "en": ""
+  "en": "{v03} was whacked by a tail!"
  },
  {
   "id": "B379",
   "off": "0BD137",
   "jp": "カラっとあがって　パワーアップ！",
-  "en": ""
+  "en": "Fried up crispy! Power up!"
  },
  {
   "id": "B37A",
@@ -5374,7 +5374,7 @@
   "id": "B37B",
   "off": "0BD19A",
   "jp": "{v02}は　ていねいに　プレスした！",
-  "en": ""
+  "en": "{v02} gave a careful press!"
  },
  {
   "id": "B37C",
@@ -5398,7 +5398,7 @@
   "id": "B37F",
   "off": "0BD2B2",
   "jp": "{v03}は　ほのおに　つつまれた！",
-  "en": ""
+  "en": "{v03} was engulfed in flames!"
  },
  {
   "id": "B380",
@@ -5434,19 +5434,19 @@
   "id": "B385",
   "off": "0BD462",
   "jp": "{v02}は　かわいがられた！",
-  "en": ""
+  "en": "{v02} got pampered!"
  },
  {
   "id": "B386",
   "off": "0BD4DD",
   "jp": "”キューーーー”{n}　ベビーモスが　しんけんなめで　みまもっている",
-  "en": ""
+  "en": "Kyuuuuu...{n}The Babymoth watches intently"
  },
  {
   "id": "B387",
   "off": "0BD537",
   "jp": "”キュピーー！！”{n}　ベビーモスは　かんしん　している",
-  "en": ""
+  "en": "Kyupiii!!{n}The Babymoth is impressed"
  },
  {
   "id": "B388",
@@ -5476,13 +5476,13 @@
   "id": "B38C",
   "off": "0BD764",
   "jp": "{v03}は　さいだいの　ショックをうけた",
-  "en": ""
+  "en": "{v03} got the shock of a lifetime"
  },
  {
   "id": "B38D",
   "off": "0BD733",
   "jp": "{v0E}{wait:14}{v0E}",
-  "en": ""
+  "en": "{v0E}{wait:14}{v0E}"
  },
  {
   "id": "B38E",
@@ -5506,13 +5506,13 @@
   "id": "B391",
   "off": "0BD876",
   "jp": "{v03}は　クサリホウガンを　くらった！",
-  "en": ""
+  "en": "{v03} got hit by a ball and chain!"
  },
  {
   "id": "B392",
   "off": "0BD8CD",
   "jp": "しゃくねつのほのおが　{v03}を{n}のみこんだ！",
-  "en": ""
+  "en": "Scorching flames{n}swallowed {v03}!"
  },
  {
   "id": "B393",
@@ -5542,7 +5542,7 @@
   "id": "B397",
   "off": "0BDAFC",
   "jp": "ちきゅうは　だいばくはつした",
-  "en": ""
+  "en": "The Earth exploded"
  },
  {
   "id": "B398",
@@ -5554,13 +5554,13 @@
   "id": "B399",
   "off": "0BDBA3",
   "jp": "{v03}は　からまって　うごけない！",
-  "en": ""
+  "en": "{v03} is tangled and can't move!"
  },
  {
   "id": "B39A",
   "off": "0BDC10",
   "jp": "{v03}は　あいのひかりに　つつまれた！",
-  "en": ""
+  "en": "{v03} was bathed in the light of love!"
  },
  {
   "id": "B39B",
@@ -5584,49 +5584,49 @@
   "id": "B39E",
   "off": "0BDD06",
   "jp": "{v03}は　しきぼうで　たたかれた！",
-  "en": ""
+  "en": "{v03} was whacked with a baton!"
  },
  {
   "id": "B39F",
   "off": "0BDD3E",
   "jp": "{v03}は　うごきが　にぶくなった！",
-  "en": ""
+  "en": "{v03} slowed down!"
  },
  {
   "id": "B3A0",
   "off": "0BDDD5",
   "jp": "{v03}は　れいきが　ほねに　しみた！",
-  "en": ""
+  "en": "The chill seeped into{n}{v03}'s bones!"
  },
  {
   "id": "B3A1",
   "off": "0BDDB1",
   "jp": "{v03}は　おもわず　ブルッときた！",
-  "en": ""
+  "en": "{v03} couldn't help shivering!"
  },
  {
   "id": "B3A2",
   "off": "0BDE3B",
   "jp": "{v03}は　あついラーメンを　くらった！",
-  "en": ""
+  "en": "{v03} got hit with hot ramen!"
  },
  {
   "id": "B3A3",
   "off": "0BDE67",
   "jp": "{v03}は　はなを　つまんだ！",
-  "en": ""
+  "en": "{v03} pinched their nose!"
  },
  {
   "id": "B3A4",
   "off": "0BDEE1",
   "jp": "{v03}は　フェンスをこえた！",
-  "en": ""
+  "en": "{v03} went over the fence!"
  },
  {
   "id": "B3A5",
   "off": "0BDF10",
   "jp": "{v03}は　おにのような　ノックを{n}くらった！",
-  "en": ""
+  "en": "{v03} got hit by brutal{n}fielding practice!"
  },
  {
   "id": "B3A6",
@@ -5638,7 +5638,7 @@
   "id": "B3A7",
   "off": "0BDFAB",
   "jp": "あたりは　ひのうみに　つつまれた！",
-  "en": ""
+  "en": "The area became a sea of flames!"
  },
  {
   "id": "B3A8",
@@ -5656,49 +5656,49 @@
   "id": "B3AA",
   "off": "0BE0EF",
   "jp": "”バイラリ〜ア　コンミ〜ゴ！！”{n}　{v03}は　マラカスで　なぐられた！",
-  "en": ""
+  "en": "Bailar~a conmi~go!!{n}{v03} got hit with maracas!"
  },
  {
   "id": "B3AB",
   "off": "0BE13A",
   "jp": "{v03}は　こうふんした！",
-  "en": ""
+  "en": "{v03} got excited!"
  },
  {
   "id": "B3AC",
   "off": "0BE1BF",
   "jp": "{v03}は　おもわず　ほおずりした‥‥",
-  "en": ""
+  "en": "{v03} couldn't help nuzzling it..."
  },
  {
   "id": "B3AD",
   "off": "0BE1AE",
   "jp": "{v03}は　めをまわした！！",
-  "en": ""
+  "en": "{v03} got dizzy!!"
  },
  {
   "id": "B3AE",
   "off": "0BE206",
   "jp": "{v03}は　まっぷたつに{n}きりさかれた！",
-  "en": ""
+  "en": "{v03} was sliced{n}clean in two!"
  },
  {
   "id": "B3AF",
   "off": "0BE22B",
   "jp": "{v03}は　じゅうもんじに{n}きりさかれた！",
-  "en": ""
+  "en": "{v03} was slashed{n}in a cross!"
  },
  {
   "id": "B3B0",
   "off": "0BE2D2",
   "jp": "”ボキッ　バキッ”{n}　{v03}は　ほねを　くだかれた！",
-  "en": ""
+  "en": "Snap! Crack!{n}{v03}'s bones were crushed!"
  },
  {
   "id": "B3B1",
   "off": "0BE2A7",
   "jp": "はげしい　みずしぶきが　{v03}を{n}おそった！",
-  "en": ""
+  "en": "A violent spray of water{n}assailed {v03}!"
  },
  {
   "id": "B3B2",
@@ -5710,13 +5710,13 @@
   "id": "B3B3",
   "off": "0BE369",
   "jp": "{v03}は　マヌケにも　あたった！",
-  "en": ""
+  "en": "{v03} stupidly got hit!"
  },
  {
   "id": "B3B4",
   "off": "0BE404",
   "jp": "{v03}は　きりきざまれた！",
-  "en": ""
+  "en": "{v03} was cut to ribbons!"
  },
  {
   "id": "B3B5",
@@ -5734,31 +5734,31 @@
   "id": "B3B7",
   "off": "0BE4DA",
   "jp": "やは　おそろしいまでの　きゅういんりょくで{n}{v03}に　へばりついた！",
-  "en": ""
+  "en": "The arrow clung to{n}{v03} with{n} terrifying suction!"
  },
  {
   "id": "B3B8",
   "off": "0BE54E",
   "jp": "{v03}は　ほっぺが　はれた！",
-  "en": ""
+  "en": "{v03}'s cheeks swelled up!"
  },
  {
   "id": "B3B9",
   "off": "0BE57B",
   "jp": "{v03}は　じぞうのように　かたくなった！",
-  "en": ""
+  "en": "{v03} went stiff as a Jizo statue!"
  },
  {
   "id": "B3BA",
   "off": "0BE5E7",
   "jp": "{v03}は　あたまを　どつかれた！",
-  "en": ""
+  "en": "{v03} got whacked on the head!"
  },
  {
   "id": "B3BB",
   "off": "0BE618",
   "jp": "{v0B}{v03}は　らくらいにあった！",
-  "en": ""
+  "en": "{v0B}{v03} was struck by lightning!"
  },
  {
   "id": "B3BC",
@@ -5776,25 +5776,25 @@
   "id": "B3BE",
   "off": "0BE778",
   "jp": "{v03}は　おしりが　はれてしまった！",
-  "en": ""
+  "en": "{v03}'s butt got all swollen!"
  },
  {
   "id": "B3BF",
   "off": "0BE739",
   "jp": "{v03}は　おもわず　ねてしまった！",
-  "en": ""
+  "en": "{v03} couldn't help dozing off!"
  },
  {
   "id": "B3C0",
   "off": "0BE80F",
   "jp": "{v03}は　たいあたりを　くらった！",
-  "en": ""
+  "en": "{v03} got body-slammed!"
  },
  {
   "id": "B3C1",
   "off": "0BE7EF",
   "jp": "{v03}は　なだれに　おそわれた！",
-  "en": ""
+  "en": "{v03} was hit by an avalanche!"
  },
  {
   "id": "B3C2",
@@ -5812,19 +5812,19 @@
   "id": "B3C4",
   "off": "0BE958",
   "jp": "きょうふうが　{v03}を　おそった！",
-  "en": ""
+  "en": "A gale assailed {v03}!"
  },
  {
   "id": "B3C5",
   "off": "0BE984",
   "jp": "しゃくねつの　ほのおが　{v03}を{n}のみこんだ！",
-  "en": ""
+  "en": "Scorching flames{n}swallowed {v03}!"
  },
  {
   "id": "B3C6",
   "off": "0BEA3D",
   "jp": "きの　かたまりが　{v03}を{n}おそった！",
-  "en": ""
+  "en": "A mass of ki energy{n}assailed {v03}!"
  },
  {
   "id": "B3C7",
@@ -5836,157 +5836,157 @@
   "id": "B3C8",
   "off": "0BEACD",
   "jp": "{v03}は　さつりくのオーラに{n}つつまれた",
-  "en": ""
+  "en": "{v03} was wrapped in a{n}murderous aura"
  },
  {
   "id": "B3C9",
   "off": "0BEB26",
   "jp": "{v03}は　きょうふのドンゾコに{n}たたきこまれた",
-  "en": ""
+  "en": "{v03} was plunged into{n}the depths of terror"
  },
  {
   "id": "B3CA",
   "off": "0BEBBC",
   "jp": "{v03}の　あしもとに　つくしが　はえ{n}ばくはつした！",
-  "en": ""
+  "en": "Horsetail shoots sprouted{n}under {v03} and exploded!"
  },
  {
   "id": "B3CB",
   "off": "0BEC14",
   "jp": "うたごえとともに　さわやかな　はるのかぜ！{n}{v03}は　ハイな　きぶんになった！",
-  "en": ""
+  "en": "With a song came a fresh{n}spring breeze! {v03}{n}felt totally high!"
  },
  {
   "id": "B3CC",
   "off": "0BECBE",
   "jp": "むすうの　かれはが　まいあがり{n}{v03}の　からだを　きりさいた！",
-  "en": ""
+  "en": "Countless dead leaves rose{n}and slashed {v03}!"
  },
  {
   "id": "B3CD",
   "off": "0BED03",
   "jp": "{v03}は　うんざりした　きぶんに{n}させられた！",
-  "en": ""
+  "en": "{v03} was made to feel{n}thoroughly fed up!"
  },
  {
   "id": "B3CE",
   "off": "0BED9E",
   "jp": "{v03}は　あつい　しるけ{n}タップリの　はんぺんを　くちに{n}ねじこまれた！",
-  "en": ""
+  "en": "{v03} got hot, juicy{n}fishcake crammed into{n}their mouth!"
  },
  {
   "id": "B3CF",
   "off": "0BEDD9",
   "jp": "{v03}は　こたつで　ねて{n}かぜを　ひいてしまった！",
-  "en": ""
+  "en": "{v03} napped in the{n}kotatsu and caught a cold!"
  },
  {
   "id": "B3D0",
   "off": "0BEE6D",
   "jp": "ねっきの　こもった　パンチが　{v03}を{n}おそった！　こ　これは　あついッ！！",
-  "en": ""
+  "en": "A fiery, passionate punch{n}assailed {v03}! Th-this{n}is HOT!!"
  },
  {
   "id": "B3D1",
   "off": "0BEED0",
   "jp": "”な　なぜ　それを！？”{n}　{v03}の　こころのキズが{n}　はげしく　いたみだした！",
-  "en": ""
+  "en": "H-how do you know that?!{n}{v03}'s old heartbreak{n}throbbed painfully!"
  },
  {
   "id": "B3D2",
   "off": "0BEF82",
   "jp": "{v02}の　ぼせいほんのうが　さくれつ！{n}はげしい　いちげき！！",
-  "en": ""
+  "en": "{v02}'s mother instinct{n}erupted! A fierce blow!!"
  },
  {
   "id": "B3D3",
   "off": "0BEFC9",
   "jp": "{v02}の　からだから　コードが　のびる！{n}{v03}は　いまの　じぶんに　ぎもんを{n}もった！",
-  "en": ""
+  "en": "{v02} extended a cord!{n}{v03} started doubting{n}their current self!"
  },
  {
   "id": "B3D4",
   "off": "0BF08A",
   "jp": "”オーッケー！　はざまぎりじゃ！！”",
-  "en": ""
+  "en": "Okaaay! Hazama Slash!!"
  },
  {
   "id": "B3D5",
   "off": "0BF0C0",
   "jp": "{v03}の　からだに　まきつき{n}みうごきが　とれない！",
-  "en": ""
+  "en": "It wrapped around {v03}!{n}Can't move!"
  },
  {
   "id": "B3D6",
   "off": "0BF14D",
   "jp": "{v02}の　するどい　ツメが{n}{v03}の　のどもとを　きりさいた！",
-  "en": ""
+  "en": "{v02}'s sharp claws{n}slashed {v03}'s throat!"
  },
  {
   "id": "B3D7",
   "off": "0BF17F",
   "jp": "{v03}は　エキスを　ちゅうにゅう{n}された！",
-  "en": ""
+  "en": "{v03} was injected{n}with extract!"
  },
  {
   "id": "B3D8",
   "off": "0BF201",
   "jp": "{v03}の　からだが　ふきとばされた！{n}ここが　かわだったら　まちがいなく{n}じょうりゅうまで　いっていたはずだ！",
-  "en": ""
+  "en": "{v03} went flying! In a{n}river, it'd surely have{n}gone all the way upstream!"
  },
  {
   "id": "B3D9",
   "off": "0BF257",
   "jp": "いわのような　ぎおんの　もじが{n}{v03}に　ふりそそいだ！",
-  "en": ""
+  "en": "Rock-hard sound effects{n}rained down on {v03}!"
  },
  {
   "id": "B3DA",
   "off": "0BF2D2",
   "jp": "{v02}は　うで　あし　つばさ　しっぽ　きば{n}たてがみ　すべてを　つかい　こうげきしてきた！",
-  "en": ""
+  "en": "{v02} used arms, legs,{n}wings, tail, fangs, mane -{n}everything to attack!"
  },
  {
   "id": "B3DB",
   "off": "0BF324",
   "jp": "じしん　かみなり　つなみ　たつまき　さんせいう{n}そして　いんせき！　あらゆる　しぜんげんしょうが{n}{v03}を　おそった！{v0B}",
-  "en": ""
+  "en": "Quake, thunder, tsunami,{n}twister, acid rain, meteor{n}all hit {v03}!{v0B}"
  },
  {
   "id": "B3DC",
   "off": "0BF3DA",
   "jp": "５にんの　ちからを　あつめた　ボールが{n}{v03}を　ふきとばした！",
-  "en": ""
+  "en": "A ball powered by all five{n}blew {v03} away!"
  },
  {
   "id": "B3DD",
   "off": "0BF429",
   "jp": "チャチで　おおあじな　バズーカだが{n}いりょくは　すさまじい！！",
-  "en": ""
+  "en": "A cheap, clunky bazooka,{n}but the power is insane!!"
  },
  {
   "id": "B3DE",
   "off": "0BF4C3",
   "jp": "きょだいな　つるぎが　{v03}に{n}うちおろされた！",
-  "en": ""
+  "en": "A giant sword came down{n}on {v03}!"
  },
  {
   "id": "B3DF",
   "off": "0BF51C",
   "jp": "ぜんいんが　たちこぎ！　すさまじい　パワーだ！！{n}{v03}は　ゆでたまごのように{n}わぎりに　された！",
-  "en": ""
+  "en": "All stand to pedal! What{n}power!! {v03} was{n}sliced like a boiled egg!"
  },
  {
   "id": "B3E0",
   "off": "0BF5CE",
   "jp": "{v02}のいかりが　ばくはつした！",
-  "en": ""
+  "en": "{v02}'s anger exploded!"
  },
  {
   "id": "B3E1",
   "off": "0BF5E9",
   "jp": "{v02}は　きが　はれた！",
-  "en": ""
+  "en": "{v02} felt refreshed!"
  },
  {
   "id": "B3E2",
@@ -6006,13 +6006,13 @@
   "id": "B3E4",
   "off": "0BF67D",
   "jp": "{v03}は　ちょうみりょうを　かけられた！{n}からだが　シビれる！",
-  "en": ""
+  "en": "{v03} got seasoned!{n}Body going numb!"
  },
  {
   "id": "B3E5",
   "off": "0BF6A6",
   "jp": "”ゴックンちょ！”{n}{v03}は　まるのみに　された！！",
-  "en": ""
+  "en": "Gulp!{n}{v03} was swallowed whole!!"
  },
  {
   "id": "B3E6",
@@ -6024,7 +6024,7 @@
   "id": "B3E7",
   "off": "0BF728",
   "jp": "{v03}の　せいめいりょくが　マントのなかの{n}くうかんに　すいこまれた！",
-  "en": ""
+  "en": "{v03}'s life force was{n}sucked into the void{n}inside the cloak!"
  },
  {
   "id": "B3E8",
@@ -6054,7 +6054,7 @@
   "id": "B3EC",
   "off": "0BE49F",
   "jp": "”はい？”{n}　{v03}は　くびをかしげた！",
-  "en": ""
+  "en": "Huh?{n}{v03} looked puzzled!"
  },
  {
   "id": "B3ED",
@@ -6084,31 +6084,31 @@
   "id": "B3F1",
   "off": "0BF8C4",
   "jp": "”パチパチパチパチパチパチパチパチパチパチパチ”{n}　‥‥おもわず　はくしゅを　おくった",
-  "en": ""
+  "en": "Clap clap clap clap clap!{n}...Couldn't help but applaud"
  },
  {
   "id": "B3F2",
   "off": "0BFAEB",
   "jp": "しかし　とどかなかった！",
-  "en": ""
+  "en": "But it fell short!"
  },
  {
   "id": "B3F3",
   "off": "0BFB34",
   "jp": "しかし　かるく　よけられた！",
-  "en": ""
+  "en": "But it was easily dodged!"
  },
  {
   "id": "B3F4",
   "off": "0BFBD1",
   "jp": "あばれたら　ちょっと　おちついた",
-  "en": ""
+  "en": "Going wild calmed it a bit"
  },
  {
   "id": "B3F5",
   "off": "0BFC49",
   "jp": "”！！！！！！！！！！！！！！！！！！！！！！”{n}",
-  "en": ""
+  "en": "!!!!!!!!!!!!!!!!!!!!!!{n}"
  },
  {
   "id": "B3F6",
@@ -6144,19 +6144,19 @@
   "id": "B3FB",
   "off": "0BFDAA",
   "jp": "”ほう{n}　なかなか　たのしそうだな”",
-  "en": ""
+  "en": "Oh?{n}That looks rather fun"
  },
  {
   "id": "B3FC",
   "off": "0BFDE4",
   "jp": "”おきに　めしたかな？”",
-  "en": ""
+  "en": "Did you enjoy it?"
  },
  {
   "id": "B3FD",
   "off": "0BFE13",
   "jp": "”ハッハッハ　はんじゅくとは　じつに　ゆかいな{n}　そんざいだよ”",
-  "en": ""
+  "en": "Ha ha ha! Soft-boiled folk{n}are truly amusing beings"
  },
  {
   "id": "B3FE",
@@ -6174,151 +6174,151 @@
   "id": "B400",
   "off": "0BF9C3",
   "jp": "”か　かんどうだ‥‥‥‥このひがくるのを{n}　どれほど　まちわびたことか‥‥う‥ううう‥‥！”",
-  "en": ""
+  "en": "I-I'm so moved... How I've{n}longed for this day...{n}Uu... uuuh...!"
  },
  {
   "id": "B401",
   "off": "0BAB76",
   "jp": "{v02}は　ちょっと　しあわせなようだ",
-  "en": ""
+  "en": "{v02} seems a little happy"
  },
  {
   "id": "B402",
   "off": "0BABDA",
   "jp": "”ヒューヒユー　はくしゅ　はくしゅー”",
-  "en": ""
+  "en": "Woo-hoo! Applause, applause!"
  },
  {
   "id": "B403",
   "off": "0BACE1",
   "jp": "”わたしが　{v02}だ！！”",
-  "en": ""
+  "en": "I am {v02}!!"
  },
  {
   "id": "B404",
   "off": "0BADA7",
   "jp": "{v0C}”ピカピカピカピカ”{n}　ふたりは　うれしそうに　なかよく　ひかった{v0C}",
-  "en": ""
+  "en": "{v0C}Sparkle sparkle!{n}The two shone happily{n}together.{v0C}"
  },
  {
   "id": "B405",
   "off": "0BAE69",
   "jp": "”ふゥ　‥‥{n}　さいこう　だったぜ‥‥”",
-  "en": ""
+  "en": "Phew...{n}That was the best..."
  },
  {
   "id": "B406",
   "off": "0BAF1A",
   "jp": "”オー　シャンぜリ〜ゼ〜‥‥”{n}”メルスィー　ドモ　アリ　ガートウ”",
-  "en": ""
+  "en": "O Champs-Elysees~...{n}Mersee, domo ari-gaato"
  },
  {
   "id": "B407",
   "off": "0BAFDB",
   "jp": "”はふはふほー♥”",
-  "en": ""
+  "en": "Hafu hafu hoh~♥"
  },
  {
   "id": "B408",
   "off": "0BB048",
   "jp": "”パチパチ　パチパチ”{n}　{v02}は　おもわず　コーフンした",
-  "en": ""
+  "en": "Clap clap, clap clap{n}{v02} got all worked up"
  },
  {
   "id": "B409",
   "off": "0BB107",
   "jp": "”おとなになったら　またいらっしゃい♥”",
-  "en": ""
+  "en": "Come back when you're older♥"
  },
  {
   "id": "B40A",
   "off": "0BB174",
   "jp": "”チュウ　チュウ　タコ　かいなー{n}　ちゅるちゅるちゅるちゅる”",
-  "en": ""
+  "en": "Eeny meeny miny mo~{n}Slurp slurp slurp slurp"
  },
  {
   "id": "B40B",
   "off": "0BB20A",
   "jp": "{v02}は　うれしそうに{n}ただよいながら　さって　いった",
-  "en": ""
+  "en": "{v02} drifted happily{n}away"
  },
  {
   "id": "B40C",
   "off": "0BB299",
   "jp": "”カンカラ　カンカンカン！！”",
-  "en": ""
+  "en": "Clang-a-lang clang clang!!"
  },
  {
   "id": "B40D",
   "off": "0BB333",
   "jp": "”これでもう　あたしの　ものよーーー！{n}　ブッチューーーーーッ！！”",
-  "en": ""
+  "en": "Now you're all MINE!{n}Smoooooooch!!"
  },
  {
   "id": "B40E",
   "off": "0BB3EF",
   "jp": "”ワタシハ　コダイノ　セントウガタロボット‥‥{n}　ダヨ〜ン！”",
-  "en": ""
+  "en": "I AM AN ANCIENT BATTLE{n}ROBOT... DA-YOOON!"
  },
  {
   "id": "B40F",
   "off": "0BB493",
   "jp": "”かーちゃん　ばんのオカズが　とれたばい{n}　よかろ？　よかろ？”",
-  "en": ""
+  "en": "Ma! I done caught supper!{n}Ain't it good? Ain't it?"
  },
  {
   "id": "B410",
   "off": "0BB511",
   "jp": "”ほっほっほっほっ”",
-  "en": ""
+  "en": "Ho ho ho ho"
  },
  {
   "id": "B411",
   "off": "0BB5C0",
   "jp": "”ああっ！！　わたし　あいするひとを{n}　ころしてしまったのね！！　‥‥クラッ”",
-  "en": ""
+  "en": "Oh no!! I've killed my{n}beloved!! ...*swoon*"
  },
  {
   "id": "B412",
   "off": "0BB662",
   "jp": "”よびこうの　じかんデスッ！”",
-  "en": ""
+  "en": "Cram school time... DESU!"
  },
  {
   "id": "B413",
   "off": "0BB73C",
   "jp": "”あいをみつける〜　そのひまで〜♪{n}　おれは〜　さすらい　つづけるのさァ〜♪”",
-  "en": ""
+  "en": "Till the day I find love~♪{n}I'll keep on wandering~♪"
  },
  {
   "id": "B414",
   "off": "0BB7F3",
   "jp": "”ＹＲＸＬＢＡじゃーーッ！！”{n}　{v02}は　やっと　じゅもんを{n}　おもいだした",
-  "en": ""
+  "en": "YRXLBA!!{n}{v02} at last recalled{n}the spell"
  },
  {
   "id": "B415",
   "off": "0BB819",
   "jp": "”かった　かった　ワーワー{n}　さいごに　れいのやつ　もういちどー！{n}　オーーーーッ！！！”{1B}”ワラワラワラワラワラワラワラワラワラワラワラ{n}　ワラワラワラワラワラワラワラワラワラワラワラ{n}　ワラワラワラワラワラワラワラワラワラワラワラ{n}　ワラワラワラワラワラワラワラワラワラワラワラ{n}　ワラワラワラワラワラワラウラワラワラワラワラ{n}　ワラワラワラワラワラワラワラワラワラワラワラ{n}　ワラワラワラワラワラワラワラワラワラワラワラ{n}　ワラワラワラワラワラワラワラワラワラワラワラ{n}　ワラワラワラワラワラワラワラワラワラワラ！",
-  "en": ""
+  "en": "We won! We won! Hooray!{n}One last time, the usual!{n}Ohhhhhh!!!{1B}Rah rah rah rah rah rah{n}Rah rah rah ruh rah rah{n}Rah rah rah rah rah rah!"
  },
  {
   "id": "B416",
   "off": "0BB9C5",
   "jp": "”ぶに〜♥”{n}　{v02}は　うれしそうに　ケツをふった！",
-  "en": ""
+  "en": "Buni~♥{n}{v02} happily wiggled its butt!"
  },
  {
   "id": "B417",
   "off": "0BBA74",
   "jp": "”アアッ‥‥　ニクタイビッ！！”",
-  "en": ""
+  "en": "Aahh... Body beautiful!!"
  },
  {
   "id": "B418",
   "off": "0BBB4A",
   "jp": "”またこんど　あそんで　あげるわねー♥{n}　オホホホホホホホホ”",
-  "en": ""
+  "en": "I'll play with you again{n}sometime♥ Ohohohohohohoho"
  },
  {
   "id": "B419",

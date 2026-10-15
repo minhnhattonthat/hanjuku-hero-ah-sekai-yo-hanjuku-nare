@@ -38,7 +38,16 @@ _D = ["01234", "56789", ".,'-!", "?&()/", ":;+%*", "#=<>\"", "~♪♥é ", "    
 GRIDS = [(0xFB100, "".join(_U)), (0xFB150, "".join(_L)), (0xFB1A0, "".join(_D))]
 
 
+# password pieces ($1F:B24D, 10 x 8 bytes, 00-padded), shown on the Ovarium password screen; the event texts
+# that hand them out (scripts 9B-A4) must use the same words.
+PASSWORD = ["Our", "Hardened", "Beings'", "Great", "Mother", "Egg Mama", "Palace", "Ovarium!", "Show me", "the way"]
+
+
 def apply(rom, table):
+    for i, w in enumerate(PASSWORD):
+        b = table.encode(w)
+        assert len(b) <= 8, w
+        rom[0xFB24D + 8 * i:0xFB24D + 8 * i + 8] = b + b"\x00" * (8 - len(b))
     for off, n, en in ENTRIES:
         en = en.replace("§", "")
         b = table.encode(en) if en else b""
