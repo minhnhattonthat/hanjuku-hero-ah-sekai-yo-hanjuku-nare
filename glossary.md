@@ -78,4 +78,10 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | メインメニュー | Main Menu | |
 
 ## Decisions from earlier batches
-- (none yet)
+- だいしょうぐん -> Great Shogun (Hard-Boiled Great Shogun, Nobunaga); はんじゅくちょうりメモ -> Soft-Boiled Cooking Notes, "No. N".
+- はんじゅくち -> soft-boiled points; ないせいりょく -> domestic power; せんとうりょく -> combat power.
+- かんじゅくなるものたち -> the Hard-Boiled Ones; かんじゅくだいまおう -> Hard-Boiled Demon King; してんのう -> Four Heavenly Kings.
+- Title in text: "Hanjuku Hero: Ah, World, Be Soft-Boiled...!!"; previews "Next time on Hanjuku Hero / Episode N:".
+- Trump cards: Fire Voice, Black Hole, Sprech Voice, Korobo Corps, Mega Fart (name fields use ligatures to fit).
+- Password pieces (8 chars): Our / Hardened / Beings' / Great / Mother / Egg Mama / Palace / Ovarium! / Show me / the way.
+- Names longer than 8: `en_full` in script/names.json, packed with two-letter ligature tiles; 25 fall back to 8-char forms.

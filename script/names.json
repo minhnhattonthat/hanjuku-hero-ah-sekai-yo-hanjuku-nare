@@ -167,7 +167,7 @@
   "id": "A014",
   "off": "0B80A0",
   "jp": "しろまどうし",
-  "en": "W.Mage",
+  "en": "WhtMage",
   "max": 8,
   "pad": "00",
   "en_full": "White Mage"
@@ -519,9 +519,10 @@
   "id": "A03F",
   "off": "0B81F8",
   "jp": "ぼーぼーどり",
-  "en": "Firebird",
+  "en": "Blazebrd",
   "max": 8,
-  "pad": "00"
+  "pad": "00",
+  "en_full": "Blaze Bird"
  },
  {
   "id": "A040",
@@ -677,7 +678,7 @@
   "id": "A052",
   "off": "0B8290",
   "jp": "バッティングマン",
-  "en": "Bat Man",
+  "en": "Batter",
   "max": 8,
   "pad": "00"
  },
@@ -830,10 +831,10 @@
   "id": "A065",
   "off": "0B8328",
   "jp": "スプリミョーネ",
-  "en": "Sprimion",
+  "en": "Sprimiri",
   "max": 8,
   "pad": "00",
-  "en_full": "Sprimione"
+  "en_full": "Sprimirione"
  },
  {
   "id": "A066",
@@ -1054,9 +1055,10 @@
   "id": "A080",
   "off": "0B8400",
   "jp": "しゅじんこう",
-  "en": "Protag",
+  "en": "MainChar",
   "max": 8,
-  "pad": "00"
+  "pad": "00",
+  "en_full": "Main Hero"
  },
  {
   "id": "A081",
@@ -2858,7 +2860,7 @@
   "id": "A15E",
   "off": "0B8AF0",
   "jp": "モーニングスター",
-  "en": "Daystar",
+  "en": "MornStar",
   "max": 8,
   "pad": "00",
   "en_full": "Morning Star"
@@ -3069,9 +3071,10 @@
   "id": "A178",
   "off": "0B8BC0",
   "jp": "シャチホコ",
-  "en": "Goldfish",
+  "en": "Shachi",
   "max": 8,
-  "pad": "00"
+  "pad": "00",
+  "en_full": "Shachihoko"
  },
  {
   "id": "A179",
@@ -4412,7 +4415,7 @@
   "id": "A21E",
   "off": "0B90F0",
   "jp": "ハリケーン",
-  "en": "Hurrcane",
+  "en": "Hurrican",
   "max": 8,
   "pad": "00",
   "en_full": "Hurricane"
@@ -5850,7 +5853,7 @@
   "id": "A2CF",
   "off": "0B9678",
   "jp": "カボチャエッグ",
-  "en": "Pumpkin",
+  "en": "PumpkEgg",
   "max": 8,
   "pad": "00",
   "en_full": "Pumpkin Egg"
@@ -6211,7 +6214,7 @@
   "id": "C01A",
   "off": "0C5ED0",
   "jp": "フヌイヌム",
-  "en": "Houyhnhm",
+  "en": "Houyhnhn",
   "max": 8,
   "pad": "FF",
   "en_full": "Houyhnhnms"
@@ -6335,7 +6338,7 @@
   "id": "C029",
   "off": "0C5F48",
   "jp": "プトレマイス",
-  "en": "Ptolemas",
+  "en": "Ptolemai",
   "max": 8,
   "pad": "FF",
   "en_full": "Ptolemais"

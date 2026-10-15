@@ -43,6 +43,18 @@ def manual_system():
     return set(p.read_text().split()) if p.exists() else set()
 
 
+def system_limit(e):
+    """Bank-01 strings print into windows sized for the JP: the 27-wide message box for long JP lines (>= 18),
+    else the JP width (castle-discovery popups $CEB4-$D110 share a 13-wide window). Lines: max(2, JP lines)."""
+    lines = [jlen(x) for x in e["jp"].split("{n}")]
+    o = int(e["off"], 16)
+    if max(lines) >= 18 or o < 0xCEB4:  # main-menu help, save/load prompts: message box
+        w = 27
+    else:
+        w = 13 if o <= 0xD110 else max(lines)
+    return f"{w}x{max(2, len(lines))}"
+
+
 def units():
     """Yield (file, entry, form, limit) in story/table order for every translatable entry."""
     for s in load("events"):
@@ -55,7 +67,7 @@ def units():
     man = manual_system()
     for e in load("system"):
         if e["jp"] and e["id"] not in man:
-            yield "system", e, "sys", "27x2"
+            yield "system", e, "sys", system_limit(e)
     for e in load("battle"):
         if "same_as" not in e and e["jp"]:
             yield "battle", e, "battle", "26x3"
@@ -240,8 +252,25 @@ def status():
         print(name, len(idx[name]), st)
 
 
+def fixbatch(name, ids):
+    """work/tl/<name>.tsv (input rows) + <name>.cur.tsv (current English) for a fix pass over the given ids
+    (ids may be prefixes, e.g. a script offset)."""
+    TL.mkdir(parents=True, exist_ok=True)
+    rows, cur = [], []
+    for f, e, form, lim in units():
+        if any(e["id"] == i or e["id"].startswith(i) for i in ids):
+            rows.append(f"{e['id']}\t{form}\t{lim}\t{e['jp']}\n")
+            cur.append(f"{e['id']}\t{e.get('en', '')}\n")
+    (TL / f"{name}.tsv").write_text("".join(rows), encoding="utf-8", newline="\n")
+    (TL / f"{name}.cur.tsv").write_text("".join(cur), encoding="utf-8", newline="\n")
+    print(f"{name}: {len(rows)} rows")
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1]
+    if cmd == "fixbatch":
+        fixbatch(sys.argv[2], sys.argv[3:])
+        sys.exit(0)
     if cmd == "split":
         split()
     elif cmd == "check":
