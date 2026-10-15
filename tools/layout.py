@@ -81,8 +81,26 @@ def name_tokens(codes):
     return {"{#%d}" % k for k, c in enumerate(codes) if c[:2] == "36"}
 
 
-def wrap_event(text, codes=()):
-    return wrap(text, EVENT_W, autowrap=True, wide=name_tokens(codes))
+CHOICE_W = {"19": 18, "33": 15}  # a yes/no (19) or 3-way (33) box covers the right of the window
+
+
+def page_widths(text, codes=(), choice_after=None):
+    """Width per {p}-page: narrower on the page that shows a choice box."""
+    pages = text.split("{p}")
+    ws = [EVENT_W] * len(pages)
+    for i, pg in enumerate(pages):
+        for k, c in enumerate(codes):
+            if c[:2] in CHOICE_W and "{#%d}" % k in pg:
+                ws[i] = CHOICE_W[c[:2]]
+    if choice_after in CHOICE_W:
+        ws[-1] = CHOICE_W[choice_after]
+    return pages, ws
+
+
+def wrap_event(text, codes=(), choice_after=None):
+    pages, ws = page_widths(text, codes, choice_after)
+    wide = name_tokens(codes)
+    return "{p}".join(wrap(pg, w, autowrap=(w == EVENT_W), wide=wide) for pg, w in zip(pages, ws))
 
 
 def wrap_menu(text):

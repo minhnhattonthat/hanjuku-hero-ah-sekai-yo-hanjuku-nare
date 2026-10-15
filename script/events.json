@@ -79,7 +79,8 @@
     "id": "0D01D8_001C",
     "jp": "　きょうは　おねがいが　あってきたの‥{w}{p}　きいてくれる？{n}",
     "en": "I came today because I have a favor to ask...{w}{p}Will you hear me out?{n}",
-    "codes": []
+    "codes": [],
+    "choice_after": "19"
    },
    {
     "id": "0D01D8_0059",
@@ -144,8 +145,9 @@
    {
     "id": "0D026D_01E6",
     "jp": "「さ！{n}　だれかひとり　ごじゆうに{n}　おえらびください　どうぞ！{n}",
-    "en": "Now! Choose any one of us{n}you like, please!{n}",
-    "codes": []
+    "en": "Now! Pick any{n}one of us you{n}like, please!{n}",
+    "codes": [],
+    "choice_after": "33"
    }
   ]
  },
@@ -160,7 +162,7 @@
    {
     "id": "0D049A_003B",
     "jp": "「ここで　しょうぐんどうしの　トレードを{n}　しようじゃないか。{w}{p}　そちらの　{nameA}しょうぐんと{n}　わがぐんの　イキのいいのとでは{n}　どーだ？{n}{#0}{p}「では　はじめよう！{w}",
-    "en": "How about we trade generals right here?{w}{p}Your general {nameA} for one of my lively ones. Deal?{n}{#0}{p}Then let's begin!{w}",
+    "en": "How about we trade generals right here?{w}{p}Your {nameA}{n}for a lively one{n}of mine. Deal?{n}{#0}{p}Then let's begin!{w}",
     "codes": [
      "19 69 81 9c a9 ff ff 6d 4b 99 9c a9 ff"
     ]
@@ -371,8 +373,9 @@
    {
     "id": "0D0DFA_0011",
     "jp": "「ど〜も　すぎやま　こういちです！{n}　たたかいのあいま　おんがくで{n}　ひといき　いれてみませんか？{n}",
-    "en": "Hi, Koichi Sugiyama here!{n}Why not take a musical{n}breather between battles?{n}",
-    "codes": []
+    "en": "Hi, it's Koichi{n}Sugiyama! A music{n}break mid-battle?{n}",
+    "codes": [],
+    "choice_after": "19"
    }
   ]
  },
@@ -511,7 +514,7 @@
    {
     "id": "0D1535_006F",
     "jp": "「われわれは　おんみつせんたい　ゴニンジャー！{w}{p}　５０Ｇで　てきの　{nameB}しょうぐんを{n}　うちとってみせるが　いかがかな！？{n}{#0}{#1}{p}「しょうちした！{n}　では　きっぽうを　おまちくだされ！{w}{p}　では　ゴメン！{w}",
-    "en": "We are the secret squadron, Goninja!{w}{p}For 50G, we shall strike down enemy general{n}{nameB}. What say you!?{n}{#0}{#1}{p}Understood! Await word of our success!{w}{p}And now, we vanish!{w}",
+    "en": "We are the secret squadron, Goninja!{w}{p}For 50G we'll{n}slay General{n}{nameB}. Deal?!{n}{#0}{#1}{p}Understood! Await word of our success!{w}{p}And now, we vanish!{w}",
     "codes": [
      "19 69 81 9c a9 ff ff 6d 4b 99 9c a9 ff",
      "37 32"
@@ -590,10 +593,11 @@
    {
     "id": "0D1953_003D",
     "jp": "「はーい！　こちらげんばの　{#0}です！{n}　ダンジョンないに　たからばこが　みっつありました！{w}{p}「さて　ここで　もんだいです！{n}　どれを　あけますか？{n}",
-    "en": "Hiii! {#0} here,{n}live on the scene!{n}There are three treasure chests in the dungeon!{w}{p}Now, a quiz for you!{n}Which one will you open?{n}",
+    "en": "Hiii! {#0} here,{n}live on the scene!{n}There are three treasure chests in the dungeon!{w}{p}Quiz time!{n}Which chest{n}will you open?{n}",
     "codes": [
      "36"
-    ]
+    ],
+    "choice_after": "33"
    }
   ]
  },
@@ -749,10 +753,11 @@
    {
     "id": "0D2030_0038",
     "jp": "「おおッ！{n}　こんなところに　いみありげな　スイッチが！{w}{p}{#0}「さーて‥{n}　どれを　おしましょ！？{n}",
-    "en": "Ooh! A meaningful-looking switch, right here!{w}{p}{#0}Now then...{n}Which one shall I press!?{n}",
+    "en": "Ooh! A meaningful-looking switch, right here!{w}{p}{#0}: Hm.{n}Which one{n}shall I press!?{n}",
     "codes": [
      "36"
-    ]
+    ],
+    "choice_after": "33"
    }
   ]
  },
@@ -774,7 +779,8 @@
     "id": "0D20C0_0070",
     "jp": "　どないしょ‥{n}",
     "en": "Whaddya do now...{n}",
-    "codes": []
+    "codes": [],
+    "choice_after": "33"
    }
   ]
  },
@@ -1016,7 +1022,8 @@
     "id": "0D2AAF_0041",
     "jp": "「この　クソあち〜なか　これいじょう{n}　たたかってられるかい！{w}{p}「バテバテだ〜！{n}「たいりょくの　げんかい！{w}{p}どうしますか？{n}",
     "en": "Who can keep fightin' in this blasted heat!{w}{p}I'm all tuckered out~!{n}I'm at my physical limit!{w}{p}What will you do?{n}",
-    "codes": []
+    "codes": [],
+    "choice_after": "33"
    },
    {
     "id": "0D2AAF_00B2",
@@ -1650,7 +1657,7 @@
    {
     "id": "0D3F18_0017",
     "jp": "「たびい〜　ゆけ〜ば〜♪{n}　するがの〜　くにに〜‥♪{w}{p}　ム！　はんじゅくの　ものだな！？{w}{p}　ここは　われらが　いこいのば！{n}　たちさらねば　いたいめを　みるぞ！{n}{#0}{p}「ものわかりが　いいな。{n}　にどと　くるでないぞ！{w}",
-    "en": "On my journey~ I gooo~♪{n}To the land of Surugaaa~...♪{w}{p}Hm! You're one of the soft-boiled lot!?{w}{p}This is our place of rest! Leave now, or you'll get hurt!{n}{#0}{p}Glad you understand. Don't ever come back!{w}",
+    "en": "On my journey~ I gooo~♪{n}To the land of Surugaaa~...♪{w}{p}Hm! You're one of the soft-boiled lot!?{w}{p}Our resting place!{n}Leave, or you'll{n}get hurt!{n}{#0}{p}Glad you understand. Don't ever come back!{w}",
     "codes": [
      "19 69 81 9c a9 ff ff 6d 4b 99 9c a9 ff"
     ]
@@ -4337,7 +4344,8 @@
     "id": "0DA6FF_044E",
     "jp": "　こんどは　われらが　エッグモンスターのため{n}　たたかうばんですぞ！{w}{p}　さ！　ごけつだんを！{n}",
     "en": "This time it's our turn to fight for the Egg Monsters!{w}{p}Now! Your decision, my lord!{n}",
-    "codes": []
+    "codes": [],
+    "choice_after": "19"
    }
   ]
  },
@@ -5891,8 +5899,9 @@
    {
     "id": "0DEB13_0007",
     "jp": "「ウェルカム！{w}{p}　ナイス　トゥ　ミーチュー！{n}　ミスタ〜　ハンジュク！！{w}{p}　ワタシガ　カンジュク　セイメイタイノ　リーダ〜{n}　カンジュク　ダイトウリョウデ〜ス！{w}{p}　アナタガタノ　チカラハ　イママデ　ヨ〜ク{n}　ミセテモライマシター！{w}{p}　コレイジョウノ　アラソイハ　タガイノ　ソンシツトハ　オモイマセンカ〜？{w}{p}　ワレワレハ　アナタガタヲ　シンアイナル{n}　ブラザ〜トシテ　オムカエシタイノデ〜ス！{w}{p}　ドウデショウ　ココデ{n}　キュウセン　キョウテイヲ{n}　ムスビマセンカ〜？{n}",
-    "en": "Welcome!{w}{p}Nice to meet you! Mista~ Hanjuku!!{w}{p}I am the leader of the Hard-Boiled Lifeforms, the Hard-Boiled Preside~nt!{w}{p}You have shown us your power ve~ry well so far!{w}{p}Don't you think more fighting is only a loss for us both~?{w}{p}We want to welcome you as our dear brotha~s!{w}{p}How about it? Shall we sign a ceasefire agreement right here~?{n}",
-    "codes": []
+    "en": "Welcome!{w}{p}Nice to meet you! Mista~ Hanjuku!!{w}{p}I am the leader of the Hard-Boiled Lifeforms, the Hard-Boiled Preside~nt!{w}{p}You have shown us your power ve~ry well so far!{w}{p}Don't you think more fighting is only a loss for us both~?{w}{p}We want to welcome you as our dear brotha~s!{w}{p}So? Shall we sign{n}a ceasefire pact{n}right here~?{n}",
+    "codes": [],
+    "choice_after": "19"
    }
   ]
  },
@@ -7518,7 +7527,8 @@
     "id": "0E1F72_0035",
     "jp": "　ほんとうに　よろしいのですか？{n}",
     "en": "Are you truly sure?{n}",
-    "codes": []
+    "codes": [],
+    "choice_after": "19"
    }
   ]
  },
@@ -7589,8 +7599,9 @@
    {
     "id": "0E2129_0002",
     "jp": "だいじん「また　ごじょうだんを！{n}　これからが　おもしろいとこですぞ！{n}　それでも　いやだと？{n}",
-    "en": "Minister: You jest! The fun's just starting! Still you say no?{n}",
-    "codes": []
+    "en": "Minister: You jest! The fun's just starting!{w}{p}Still you say no?{n}",
+    "codes": [],
+    "choice_after": "19"
    },
    {
     "id": "0E2129_0048",
@@ -7746,7 +7757,8 @@
     "id": "0E25D6_0002",
     "jp": "　オ〜　ノウ‥{w}{p}　ナゼ　ワタシノ　コウイ‥{n}　ウケトッテモラエナイノデショウ‥{w}{p}　ワタシ　ヴェリ〜　ザンネンデ〜ス！{w}{p}　モウイチド　カンガエナオシテ{n}　クレマセンカ？{n}",
     "en": "Oh~ no...{w}{p}Why won't you accept my goodwill...?{w}{p}I am ve~ry disappointed!{w}{p}Won't you think it over once more?{n}",
-    "codes": []
+    "codes": [],
+    "choice_after": "19"
    }
   ]
  },
@@ -7762,7 +7774,8 @@
     "id": "0E2645_0002",
     "jp": "　ホワ〜イ？{w}{p}　カンジュクナル　ワタシノホウカラ　アユミヨッテイル　ノデスヨ？{w}{p}　アナタガタモ　ワタシタチノタメ{n}　ヨク　カンガエテクダサ〜イ！{n}",
     "en": "Wha~y?{w}{p}I, the hard-boiled one, am meeting you halfway, you know?{w}{p}You should think carefully for our sake, too~!{n}",
-    "codes": []
+    "codes": [],
+    "choice_after": "19"
    }
   ]
  },
@@ -7778,7 +7791,8 @@
     "id": "0E26A8_0002",
     "jp": "　オウ　ノ〜！{n}　アナタタチノ　キモチ　リカイ　デキマセンネ‥{w}{p}　カナシイコトデ〜ス‥{w}{p}　ドウスレバ　ワタシノ　キモチ　アナタニ{n}　ツウジルデショウ‥{n}",
     "en": "Oh no~! I cannot understand your feelings...{w}{p}How sa~d...{w}{p}How can I make my feelings reach you...?{n}",
-    "codes": []
+    "codes": [],
+    "choice_after": "19"
    }
   ]
  },
@@ -10226,7 +10240,8 @@
     "id": "0FDBE9_0002",
     "jp": "　どれか　ほしいなー♥{n}",
     "en": "I want one of these~♥{n}",
-    "codes": []
+    "codes": [],
+    "choice_after": "33"
    },
    {
     "id": "0FDBE9_0031",
@@ -10248,7 +10263,8 @@
     "id": "0FDD46_0001",
     "jp": "なにを　かいあたえますか？{n}",
     "en": "What will you buy her?{n}",
-    "codes": []
+    "codes": [],
+    "choice_after": "33"
    }
   ]
  },

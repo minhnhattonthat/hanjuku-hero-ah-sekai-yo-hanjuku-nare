@@ -157,7 +157,7 @@ def pages(text):
     return re.split(r"\{p\}|\{1B\}", text)
 
 
-def check_entry(form, lim, jp, en, codes=()):
+def check_entry(form, lim, jp, en, codes=(), choice_after=None):
     errs = []
     if not en.strip():
         return ["empty"]
@@ -173,8 +173,15 @@ def check_entry(form, lim, jp, en, codes=()):
         errs.append("control tokens differ from JP")
     w, lines = map(int, lim.split("x"))
     wide = layout.name_tokens(codes)
-    wrapped = layout.wrap(en, w, wide=wide)
-    for pg in pages(wrapped):
+    if form == "dlg":
+        pgs, ws = layout.page_widths(en, codes, choice_after)
+    else:
+        pgs, ws = [en], [w]
+    checks = []
+    for pg0, pw in zip(pgs, ws):
+        for pg in pages(layout.wrap(pg0, pw, wide=wide)):
+            checks.append((pg, pw))
+    for pg, w in checks:
         ls = pg.split("{n}")
         if len(ls) > lines:
             errs.append(f"page has {len(ls)} lines > {lines}: {pg[:40]!r}")
