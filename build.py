@@ -77,6 +77,23 @@ def write_font(rom):
             rom[o + 2 * y + 1] = bits
 
 
+COPYRIGHT = ["©SQUARE   1992", "©SUGIYAMA 1992"]  # 14 columns each (title-screen sprites)
+COPY_GLYPH = ["..####..", ".#....#.", "#..##..#", "#.#....#", "#.#....#", "#..##..#", ".#....#.", "..####.."]
+
+
+def copyright_tiles():
+    out = bytearray()
+    for line in COPYRIGHT:
+        assert len(line) == 14
+        for ch in line:
+            rows = COPY_GLYPH if ch == "©" else (font_en.GLYPHS[ch] if ch != " " else ["." * 8] * 8)
+            lo = bytearray()
+            for r in rows:
+                lo += bytes([int(r.replace("#", "1").replace(".", "0"), 2), 0])
+            out += lo + bytes(16)
+    return bytes(out)
+
+
 def asar(rom_path):
     r = subprocess.run([str(ASAR), "--fix-checksum=off", str(ROOT / "asm" / "main.asm"), str(rom_path)],
                        capture_output=True, text=True)
@@ -118,8 +135,11 @@ def build(args):
     asar(out)
     rom = bytearray(out.read_bytes())
     write_font(rom)
+    title = (ROOT / "assets" / "title_m7_en.bin").read_bytes()
+    rom[0x1F0000:0x1F0000 + len(title)] = title  # $3E:8000, read by TitlePatch
+    rom[0x1F3880:0x1F3880 + 0x380] = copyright_tiles()  # $3E:B880 / $3E:BA40, sprite rows
 
-    pk = Packer(rom, DATA_FIRST_BANK)
+    pk = Packer(rom, DATA_FIRST_BANK, last=0x3D)
     stats = {}
 
     # event scripts

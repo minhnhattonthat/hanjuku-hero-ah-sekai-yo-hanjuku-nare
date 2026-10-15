@@ -29,7 +29,69 @@ org $00F09A
     jml SysFetch
     nop
 
+; --- title screen: English mode-7 tiles $01-$E2 over the decompressed block at $7F:8000 before its DMA
+org $09F2CE
+    jsl TitlePatch
+    nop
+
 org $208000
+TitlePatch:
+    php
+    phb
+    rep #$30
+    lda.l $7F84BC        ; signature of the title block (tile $13), so other users of this DMA are untouched
+    cmp #$0606
+    bne .skip
+    lda.l $7F84BE
+    cmp #$0107
+    bne .skip
+    phx
+    phy
+    lda #$387F
+    ldx #$8000
+    ldy #$8000
+    db $54, $7F, $3E     ; mvn dest $7F, src $3E (assets/title_m7_en.bin at $3E:8000)
+    ply
+    plx
+    plb
+    plp
+    jsl $03FAA3          ; the copy took most of a frame: wait for vblank again before the game's DMA
+    ; copyright sprite tiles (two lines = top/bottom halves of 16x16 sprites, VRAM $5E00 / $5F00, 14 tiles each)
+    rep #$10
+    lda #$01
+    sta $4300
+    lda #$18
+    sta $4301
+    lda #$3E
+    sta $4304
+    ldx #$5E00
+    stx $2116
+    ldx #$B880
+    stx $4302
+    ldx #$01C0
+    stx $4305
+    lda #$01
+    sta $420B
+    ldx #$5F00
+    stx $2116
+    ldx #$BA40
+    stx $4302
+    ldx #$01C0
+    stx $4305
+    lda #$01
+    sta $420B
+    ldx #$0040           ; restore the VRAM address the game's next DMA expects
+    stx $2116
+    lda #$00
+    sta $4300
+    rtl
+.skip:
+    plb
+    plp
+    lda #$00
+    sta $4300
+    rtl
+
 SysFetch:
     lda $0000,y
     cmp #$01

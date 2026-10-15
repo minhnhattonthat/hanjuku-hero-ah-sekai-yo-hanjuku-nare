@@ -4,105 +4,105 @@
   "off": "00C842",
   "len": 24,
   "jp": "わがくにのじょうたいを　みることができますぞ！",
-  "en": ""
+  "en": "You can view the state of{n}our kingdom here!"
  },
  {
   "id": "S0C85A",
   "off": "00C85A",
   "len": 30,
   "jp": "わがくにの　すべてのしょうぐんを　みることが{n}できますぞ！",
-  "en": ""
+  "en": "You can view all of our{n}kingdom's generals!"
  },
  {
   "id": "S0C878",
   "off": "00C878",
   "len": 26,
   "jp": "わがくにの　すべてのしろを　みることができますぞ！",
-  "en": ""
+  "en": "You can view all of our{n}kingdom's castles!"
  },
  {
   "id": "S0C892",
   "off": "00C892",
   "len": 33,
   "jp": "わがくにの　しょゆうしている　きりふだを{n}みることができますぞ！",
-  "en": ""
+  "en": "You can view the trump{n}cards our kingdom holds!"
  },
  {
   "id": "S0C8B3",
   "off": "00C8B3",
   "len": 37,
   "jp": "じかんのながれや　サウンドモードなどを　へんこう{n}することができますぞ！",
-  "en": ""
+  "en": "You can change time flow,{n}sound mode and such!"
  },
  {
   "id": "S0C8D8",
   "off": "00C8D8",
   "len": 39,
   "jp": "たたかいのれんしゅうが　できますぞ！　わたくしめが{n}おあいていたしましょう！",
-  "en": ""
+  "en": "Battle practice! I myself{n}shall be your opponent!"
  },
  {
   "id": "S0C8FF",
   "off": "00C8FF",
   "len": 32,
   "jp": "いままでの　たたかいのきろくを　ほぞんすることが{n}できますぞ！",
-  "en": ""
+  "en": "You can save the record of{n}your battles so far!"
  },
  {
   "id": "S0C91F",
   "off": "00C91F",
   "len": 41,
   "jp": "もうしわけないですじゃ！　つきいちコマンドのときは{n}セーブはできませんのじゃ！！",
-  "en": ""
+  "en": "Pardon me! You can't save{n}during the monthly command!"
  },
  {
   "id": "S0C948",
   "off": "00C948",
   "len": 16,
   "jp": "どこに　セーブなされますかな？",
-  "en": ""
+  "en": "Where shall you save, sire?"
  },
  {
   "id": "S0C958",
   "off": "00C958",
   "len": 13,
   "jp": "どちらになされますかな？",
-  "en": ""
+  "en": "Which shall it be?"
  },
  {
   "id": "S0C965",
   "off": "00C965",
   "len": 16,
   "jp": "どれを　ロードなされますかな？",
-  "en": ""
+  "en": "Which shall you load, sire?"
  },
  {
   "id": "S0C975",
   "off": "00C975",
   "len": 31,
   "jp": "ここで　セーブできますじゃ！{n}どこに　セーブなされますかな？",
-  "en": ""
+  "en": "You may save here, sire!{n}Where shall you save?"
  },
  {
   "id": "S0C994",
   "off": "00C994",
   "len": 24,
   "jp": "セーブを　しゅうりょうして{n}よろしいですかな？",
-  "en": ""
+  "en": "Finish saving now?{n}Is that all right?"
  },
  {
   "id": "S0C9AC",
   "off": "00C9AC",
   "len": 37,
   "jp": "メインメニューでの　しじを　おえたら{n}これで　せんとうさいかいですじゃ！",
-  "en": ""
+  "en": "After Main Menu orders,{n}this resumes the battle!"
  },
  {
   "id": "S0C9D1",
   "off": "00C9D1",
   "len": 30,
   "jp": "メインメニューをぬけて　つきいちコマンドに{n}もどりますぞ！",
-  "en": ""
+  "en": "This leaves the Main Menu{n}for the monthly command!"
  },
  {
   "id": "S0C9EF",
@@ -144,14 +144,14 @@
   "off": "00CAAE",
   "len": 29,
   "jp": "なにかボタンをおすと　コマンドせんたくに{n}もどりますぞ！",
-  "en": ""
+  "en": "Press any button to return{n}to command select!"
  },
  {
   "id": "S0CACB",
   "off": "00CACB",
   "len": 10,
   "jp": "よろしいですかな？",
-  "en": ""
+  "en": "Is that all right?"
  },
  {
   "id": "S0CAD5",
@@ -165,14 +165,14 @@
   "off": "00CAE0",
   "len": 33,
   "jp": "ちかごろ　たいちょうが　よくないのですじゃ{n}どうかおゆるしを！！",
-  "en": ""
+  "en": "I've been feeling poorly{n}of late. Do forgive me!!"
  },
  {
   "id": "S0CB01",
   "off": "00CB01",
   "len": 18,
   "jp": "どれを　へんこう　なさいますかな？",
-  "en": ""
+  "en": "Which shall you change?"
  },
  {
   "id": "S0CB13",
@@ -186,7 +186,7 @@
   "off": "00CB23",
   "len": 28,
   "jp": "おきまりになりましたら　Ａボタンで{n}けっていですじゃ！",
-  "en": ""
+  "en": "Once you've decided, press{n}the A Button to confirm!"
  },
  {
   "id": "S0CB3F",
@@ -200,28 +200,28 @@
   "off": "00CB4B",
   "len": 41,
   "jp": "さ〜て　なにを　なされますかな？{n}Ｂボタンで　メインメニューを　ぬけますじゃ！！",
-  "en": ""
+  "en": "We~ll, what shall you do?{n}Press B to exit Main Menu!!"
  },
  {
   "id": "S0CB74",
   "off": "00CB74",
   "len": 40,
   "jp": "じかんのながれは　はやい　ですじゃ！{n}ひとつきが　やく９０びょう　ですじゃ！！",
-  "en": ""
+  "en": "Fast time flow! A month{n}lasts about 90 seconds!!"
  },
  {
   "id": "S0CB9C",
   "off": "00CB9C",
   "len": 41,
   "jp": "じかんのながれは　ふつう　ですじゃ！{n}ひとつきが　やく１８０びょう　ですじゃ！！",
-  "en": ""
+  "en": "Normal time flow! A month{n}lasts about 180 seconds!!"
  },
  {
   "id": "S0CBC5",
   "off": "00CBC5",
   "len": 41,
   "jp": "じかんのながれは　おそい　ですじゃ！{n}ひとつきが　やく３６０びょう　ですじゃ！！",
-  "en": ""
+  "en": "Slow time flow! A month{n}lasts about 360 seconds!!"
  },
  {
   "id": "S0CBEE",
@@ -235,42 +235,42 @@
   "off": "00CBF8",
   "len": 19,
   "jp": "サウンドモードは　ステレオですじゃ！",
-  "en": ""
+  "en": "Sound mode is Stereo, sire!"
  },
  {
   "id": "S0CC0B",
   "off": "00CC0B",
   "len": 19,
   "jp": "サウンドモードは　モノラルですじゃ！",
-  "en": ""
+  "en": "Sound mode is Mono, sire!"
  },
  {
   "id": "S0CC1E",
   "off": "00CC1E",
   "len": 32,
   "jp": "ＡボタンかＢボタンをおすと　コマンドせんたくに{n}もどりますぞ！",
-  "en": ""
+  "en": "Press A or B to return to{n}command select!"
  },
  {
   "id": "S0CC3E",
   "off": "00CC3E",
   "len": 35,
   "jp": "Ａボタンでステータスひょうじ　Ｂボタンで{n}コマンドにもどりますじゃ！",
-  "en": ""
+  "en": "Press A for status, or B{n}to return to commands!"
  },
  {
   "id": "S0CC61",
   "off": "00CC61",
   "len": 27,
   "jp": "ＡボタンかＢボタンで　しろせんたくに{n}もどりますぞ！",
-  "en": ""
+  "en": "Press A or B to return to{n}castle select!"
  },
  {
   "id": "S0CC7C",
   "off": "00CC7C",
   "len": 23,
   "jp": "Ａボタンですすむ　Ｂボタンでもどるですじゃ！",
-  "en": ""
+  "en": "A to proceed, B to go back!"
  },
  {
   "id": "S0CC93",
@@ -305,7 +305,7 @@
   "off": "00CCDA",
   "len": 28,
   "jp": "ほんとうに　ここに　セーブしても{n}よろしいのですかな？",
-  "en": ""
+  "en": "Are you truly sure you wish{n}to save here?"
  },
  {
   "id": "S0CCF6",
@@ -319,7 +319,7 @@
   "off": "00CCFB",
   "len": 15,
   "jp": "セーブが　おわりましたぞ！！",
-  "en": ""
+  "en": "Saving is complete!!"
  },
  {
   "id": "S0CD0A",
@@ -340,7 +340,7 @@
   "off": "00CD2A",
   "len": 17,
   "jp": "このデータをロードするのですな？",
-  "en": ""
+  "en": "You wish to load this data?"
  },
  {
   "id": "S0CD3B",
@@ -354,7 +354,7 @@
   "off": "00CD49",
   "len": 25,
   "jp": "セーブしたところから{n}このシナリオのさいしょから",
-  "en": ""
+  "en": "From where you saved{n}From this scenario's start"
  },
  {
   "id": "S0CD62",
@@ -417,7 +417,7 @@
   "off": "00CE61",
   "len": 14,
   "jp": "きりふだセレクト　あと　こ",
-  "en": ""
+  "en": "Trump Card Select   left"
  },
  {
   "id": "S0CE6F",
@@ -459,84 +459,84 @@
   "off": "00CEB4",
   "len": 23,
   "jp": "ここは　けっかいで{n}まもられているようです！",
-  "en": ""
+  "en": "This place seems to be{n}protected by a barrier!"
  },
  {
   "id": "S0CECB",
   "off": "00CECB",
   "len": 28,
   "jp": "いばらとともに　けっかいも{n}しょうめつ　したようです！",
-  "en": ""
+  "en": "The barrier seems to have{n}vanished with the thorns!"
  },
  {
   "id": "S0CEE7",
   "off": "00CEE7",
   "len": 27,
   "jp": "みずの　ゆらめきの　おくに{n}しろのかげが　みえます！",
-  "en": ""
+  "en": "Deep in the rippling water{n}a castle's shadow is seen!"
  },
  {
   "id": "S0CF02",
   "off": "00CF02",
   "len": 24,
   "jp": "みずの　ひいたあとに{n}しろが　あらわれました！",
-  "en": ""
+  "en": "As the water receded,{n}a castle appeared!"
  },
  {
   "id": "S0CF1A",
   "off": "00CF1A",
   "len": 26,
   "jp": "かんじゅくプリンスじょう{n}けんせつよていち‥‥！？",
-  "en": ""
+  "en": "Hard-Boiled Prince Castle{n}construction site...!?"
  },
  {
   "id": "S0CF34",
   "off": "00CF34",
   "len": 26,
   "jp": "できあがった　おしろは{n}とても　ごうかなものだった",
-  "en": ""
+  "en": "The finished castle was{n}truly magnificent."
  },
  {
   "id": "S0CF4E",
   "off": "00CF4E",
   "len": 25,
   "jp": "しきおうの　しろだ！{n}だれがいるか　わからない！",
-  "en": ""
+  "en": "A Season King's castle!{n}Who knows who's inside!"
  },
  {
   "id": "S0CF67",
   "off": "00CF67",
   "len": 28,
   "jp": "なつくさや　つわものどもが{n}ゆめのあと　‥‥がっしょう",
-  "en": ""
+  "en": "Summer grass: remains of{n}warriors' dreams... *prays*"
  },
  {
   "id": "S0CF83",
   "off": "00CF83",
   "len": 25,
   "jp": "きょだいな　やまだ！{n}いりぐちは　みあたらない！",
-  "en": ""
+  "en": "A giant mountain!{n}No entrance in sight!"
  },
  {
   "id": "S0CF9C",
   "off": "00CF9C",
   "len": 28,
   "jp": "かんじゅく　だいまじょうが{n}そのすがたを　あらわした！",
-  "en": ""
+  "en": "Hard-Boiled Demon Castle{n}has revealed itself!"
  },
  {
   "id": "S0CFB8",
   "off": "00CFB8",
   "len": 28,
   "jp": "もりのなかに　かくれている{n}ので　わからないよ〜ん！！",
-  "en": ""
+  "en": "It's hidden in the forest,{n}so ya can't see it~!!"
  },
  {
   "id": "S0CFD4",
   "off": "00CFD4",
   "len": 23,
   "jp": "もりの　なかから{n}かんじゅく　ひみつきちが！",
-  "en": ""
+  "en": "Hard-Boiled Secret Base{n}emerges from the forest!"
  },
  {
   "id": "S0CFEB",
@@ -550,7 +550,7 @@
   "off": "00CFFF",
   "len": 28,
   "jp": "しろが　じったいかした！！{n}これで　なかにはいれるぞ！",
-  "en": ""
+  "en": "The castle materialized!!{n}Now we can go inside!"
  },
  {
   "id": "S0D01B",
@@ -564,63 +564,63 @@
   "off": "00D037",
   "len": 26,
   "jp": "ぶひんが　がったいして{n}わふうの　しろになった！！",
-  "en": ""
+  "en": "The parts combined into a{n}Japanese-style castle!!"
  },
  {
   "id": "S0D051",
   "off": "00D051",
   "len": 28,
   "jp": "かんじゅくへいき　”Ｐ”の{n}ばしょはぜったいひみつだ！",
-  "en": ""
+  "en": "The location of Hard-Boiled{n}Weapon \"P\" is top secret!"
  },
  {
   "id": "S0D06D",
   "off": "00D06D",
   "len": 28,
   "jp": "これが‥これが‥かんじゅく{n}へいき”Ｐ”だあァ〜ッッ！",
-  "en": ""
+  "en": "This... this is Hard-Boiled{n}Weapon \"P\"~~~!!"
  },
  {
   "id": "S0D089",
   "off": "00D089",
   "len": 27,
   "jp": "きょだいな　たてものだ！！{n}なかには　なにものが！！",
-  "en": ""
+  "en": "A gigantic building!!{n}What could be inside!!"
  },
  {
   "id": "S0D0A4",
   "off": "00D0A4",
   "len": 28,
   "jp": "われわれを　まちうけるかの{n}ごとく　もんが　ひらいた！",
-  "en": ""
+  "en": "As if awaiting us, the{n}gate swung open!"
  },
  {
   "id": "S0D0C0",
   "off": "00D0C0",
   "len": 28,
   "jp": "パスワードの　にゅうりょく{n}そうちが　あるようです！！",
-  "en": ""
+  "en": "There's a password entry{n}device, it seems!!"
  },
  {
   "id": "S0D0DC",
   "off": "00D0DC",
   "len": 27,
   "jp": "コンピュータールームへの{n}ゲートが　ひらいている！！",
-  "en": ""
+  "en": "The gate to the computer{n}room is open!!"
  },
  {
   "id": "S0D0F7",
   "off": "00D0F7",
   "len": 25,
   "jp": "ドームは　かたく　とざされ{n}なかにはいれない！！",
-  "en": ""
+  "en": "The dome is sealed tight!{n}We can't get in!!"
  },
  {
   "id": "S0D110",
   "off": "00D110",
   "len": 28,
   "jp": "このおくに　ボイルドが‥‥{n}さあ　さいごのけっせんだ！",
-  "en": ""
+  "en": "Beyond here is Boiled...{n}Now, the final battle!"
  },
  {
   "id": "S0D12C",
@@ -641,14 +641,14 @@
   "off": "00D152",
   "len": 13,
   "jp": "いどうようのきりふだです",
-  "en": ""
+  "en": "A trump card for movement."
  },
  {
   "id": "S0D15F",
   "off": "00D15F",
   "len": 13,
   "jp": "バトルようのきりふだです",
-  "en": ""
+  "en": "A trump card for battle."
  },
  {
   "id": "S0D16C",
@@ -662,7 +662,7 @@
   "off": "00D18B",
   "len": 19,
   "jp": "どのしろを　ぞうちく　なさいますか？",
-  "en": ""
+  "en": "Which castle shall you{n}expand?"
  },
  {
   "id": "S0D19E",
@@ -711,7 +711,7 @@
   "off": "00D20B",
   "len": 19,
   "jp": "とほほほ‥　おかねが　たりませんぞ！",
-  "en": ""
+  "en": "Woe is me... We don't{n}have enough money!"
  },
  {
   "id": "S0D21E",
@@ -725,42 +725,42 @@
   "off": "00D225",
   "len": 15,
   "jp": "いまこちらにむかっております",
-  "en": ""
+  "en": "Now on the way here."
  },
  {
   "id": "S0D234",
   "off": "00D234",
   "len": 10,
   "jp": "しろのなかにいます",
-  "en": ""
+  "en": "Inside the castle."
  },
  {
   "id": "S0D23E",
   "off": "00D23E",
   "len": 10,
   "jp": "キャンプしています",
-  "en": ""
+  "en": "Camping."
  },
  {
   "id": "S0D248",
   "off": "00D248",
   "len": 12,
   "jp": "キャンプのなかにいます",
-  "en": ""
+  "en": "Inside the camp."
  },
  {
   "id": "S0D254",
   "off": "00D254",
   "len": 15,
   "jp": "どうくつをたんさくちゅうです",
-  "en": ""
+  "en": "Exploring a cave."
  },
  {
   "id": "S0D263",
   "off": "00D263",
   "len": 10,
   "jp": "しんぐんちゅうです",
-  "en": ""
+  "en": "On the march."
  },
  {
   "id": "S0D26D",
@@ -802,42 +802,42 @@
   "off": "00D28F",
   "len": 18,
   "jp": "{n}おんせんを　はっけんしました！！",
-  "en": ""
+  "en": "{n}Found a hot spring!!"
  },
  {
   "id": "S0D2A1",
   "off": "00D2A1",
   "len": 23,
   "jp": "{n}あたし♥　のいえを　はっけん{n}しました！！",
-  "en": ""
+  "en": "{n}Discovered My♥ House!!"
  },
  {
   "id": "S0D2B8",
   "off": "00D2B8",
   "len": 18,
   "jp": "{n}やたいに　たどりつきました！！{n}",
-  "en": ""
+  "en": "{n}Reached a food stall!!"
  },
  {
   "id": "S0D2CA",
   "off": "00D2CA",
   "len": 16,
   "jp": "{n}ボスじょうに　せめこんだ！！",
-  "en": ""
+  "en": "{n}Stormed the boss castle!!"
  },
  {
   "id": "S0D2DA",
   "off": "00D2DA",
   "len": 16,
   "jp": "{n}てきと　そうぐうしました！！",
-  "en": ""
+  "en": "{n}Encountered the enemy!!"
  },
  {
   "id": "S0D2EA",
   "off": "00D2EA",
   "len": 16,
   "jp": "{n}てきに　せめこまれました！！",
-  "en": ""
+  "en": "{n}The enemy has invaded!!"
  },
  {
   "id": "S0D2FA",
@@ -858,140 +858,140 @@
   "off": "00D30A",
   "len": 37,
   "jp": "いばらのとうを　とりまいていた　すべての{n}いばらが　しょうめつしました！",
-  "en": ""
+  "en": "All the thorns around the{n}Tower of Thorns are gone!"
  },
  {
   "id": "S0D32F",
   "off": "00D32F",
   "len": 31,
   "jp": "にせヒーローは　その　しろまで{n}わがくにの　にせものだった！",
-  "en": ""
+  "en": "The Fake Hero's castle was{n}a fake of ours, too!"
  },
  {
   "id": "S0D34E",
   "off": "00D34E",
   "len": 32,
   "jp": "かんじゅくプリンスじょうは{n}いっぽ　かんせいに　ちかづいた！！",
-  "en": ""
+  "en": "Hard-Boiled Prince Castle{n}is a step closer to done!!"
  },
  {
   "id": "S0D36E",
   "off": "00D36E",
   "len": 31,
   "jp": "かんじゅくプリンスじょうは{n}こうして　ついにかんせいした！！",
-  "en": ""
+  "en": "Hard-Boiled Prince Castle{n}is complete at long last!!"
  },
  {
   "id": "S0D38D",
   "off": "00D38D",
   "len": 39,
   "jp": "４にんのしきおうの　ちからによって{n}すべてのきせつは　うしなわれてしまった！",
-  "en": ""
+  "en": "The power of 4 Season Kings{n}has wiped out all seasons!"
  },
  {
   "id": "S0D3B4",
   "off": "00D3B4",
   "len": 38,
   "jp": "かくれさていた　かんじゅくだいまじょうが{n}その　ぜんぼうを　あらわした！！",
-  "en": ""
+  "en": "Hard-Boiled Demon Castle{n}revealed its hidden form!!"
  },
  {
   "id": "S0D3DA",
   "off": "00D3DA",
   "len": 42,
   "jp": "かんじゅくひみつきちは　このもりのなかに{n}ひそんでいたのだった‥　あれ　しってた？",
-  "en": ""
+  "en": "Hard-Boiled Secret Base hid{n}in this wood... Knew that?"
  },
  {
   "id": "S0D404",
   "off": "00D404",
   "len": 46,
   "jp": "ゆうれいじょうは　じったいかすると{n}みずからのおもさに　たえかねたかのように{n}ちにおちた！",
-  "en": ""
+  "en": "Made real, the Ghost Castle{n}fell under its own weight!"
  },
  {
   "id": "S0D432",
   "off": "00D432",
   "len": 38,
   "jp": "しきおう　スプリミリョーネを　たおした！{n}これでまた　はなみが　できる！！",
-  "en": ""
+  "en": "Season King Sprimirione is{n}down! Flower-viewing time!!"
  },
  {
   "id": "S0D458",
   "off": "00D458",
   "len": 37,
   "jp": "しきおう　サマカンテを　たおした！{n}これでまた　ハイレグが　おがめる！！",
-  "en": ""
+  "en": "Season King Samacante is{n}down! Bikinis are back!!"
  },
  {
   "id": "S0D47D",
   "off": "00D47D",
   "len": 37,
   "jp": "しきおう　フォーリシアを　たおした！{n}これでまた　まつたけが　くえる！！",
-  "en": ""
+  "en": "Season King Folisia is{n}down! Matsutake are back!!"
  },
  {
   "id": "S0D4A2",
   "off": "00D4A2",
   "len": 39,
   "jp": "しきおう　ウイナッツォを　たおした！{n}これでまた　おとしだまが　もらえる！！",
-  "en": ""
+  "en": "Season King Winazzo falls!{n}New Year's money is back!!"
  },
  {
   "id": "S0D4C9",
   "off": "00D4C9",
   "len": 41,
   "jp": "これで　すべての　しきおうをたおした！{n}すべてのきせつは　ふたたびこのくにに！！",
-  "en": ""
+  "en": "All Season Kings defeated!{n}Every season has returned!!"
  },
  {
   "id": "S0D4F2",
   "off": "00D4F2",
   "len": 39,
   "jp": "ぶひんは　かんじゅくぐんの　しろだった！{n}ひみつへいきは　いったいどこに！？",
-  "en": ""
+  "en": "A Hard-Boiled Army castle!{n}Where's the secret weapon?!"
  },
  {
   "id": "S0D519",
   "off": "00D519",
   "len": 37,
   "jp": "ついに　かんじゅくひみつへいき”Ｐ”が{n}その　じったいを　あらわした！！",
-  "en": ""
+  "en": "At last Hard-Boiled Weapon{n}\"P\" reveals its true form!!"
  },
  {
   "id": "S0D53E",
   "off": "00D53E",
   "len": 41,
   "jp": "”Ｐ”から　ぶんりした　うちゅうせんが{n}もうスピードで　どこかへ　とんでいった！",
-  "en": ""
+  "en": "A spaceship split from \"P\"{n}and zoomed off somewhere!"
  },
  {
   "id": "S0D567",
   "off": "00D567",
   "len": 42,
   "jp": "なにかを　もとめるかのように　かんじゅく{n}きゅうでん　オヴァリウムは　かがやいた！",
-  "en": ""
+  "en": "Hard-Boiled Palace Ovarium{n}shone as though searching!"
  },
  {
   "id": "S0D591",
   "off": "00D591",
   "len": 40,
   "jp": "がんじょうそうな　もんが　あき　いかにも{n}たかそうな　じゅうたんが　でてきた！",
-  "en": ""
+  "en": "The sturdy gate opened and{n}out rolled a posh carpet!"
  },
  {
   "id": "S0D5B9",
   "off": "00D5B9",
   "len": 46,
   "jp": "かんじゅく　たいりく　カルボナーラが{n}ボイルドの　やぼうのため　うちゅうへ{n}とびだした！！",
-  "en": ""
+  "en": "Continent Carbonara flew to{n}space for Boiled's schemes!"
  },
  {
   "id": "S0D5E7",
   "off": "00D5E7",
   "len": 37,
   "jp": "ボイルドが　しぬとともに　カルボナーラも{n}その　きのうを　ていしした‥‥",
-  "en": ""
+  "en": "As Boiled died, Carbonara{n}also ceased to function..."
  },
  {
   "id": "S0D60C",

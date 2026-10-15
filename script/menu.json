@@ -3,126 +3,126 @@
   "id": "M00",
   "off": "0FB6F3",
   "jp": "さ〜て　どうなされますかな？",
-  "en": "",
+  "en": "Weeell, what shall we do, my lord?",
   "codes": []
  },
  {
   "id": "M01",
   "off": "0FB702",
   "jp": "きりふだをうる　しょうにんを　よびつけますぞ！",
-  "en": "",
+  "en": "I'll call the merchant who{n}sells trump cards!",
   "codes": []
  },
  {
   "id": "M02",
   "off": "0FB71A",
   "jp": "う〜ん　それいじょうもてないようですな！",
-  "en": "",
+  "en": "Hmmm, it seems you can't carry any more!",
   "codes": []
  },
  {
   "id": "M03",
   "off": "0FB72F",
   "jp": "　でっか！　さ〜すが　おめがたかい！{n}して　おいくつ　ごいりようでっか？",
-  "en": "",
+  "en": "Righto! Gooood eye, boss!{n}How many d'ya need, then?",
   "codes": []
  },
  {
   "id": "M04",
   "off": "0FB754",
   "jp": "　　こで　　　　　Ｇに　なりまんな！{n}よろしいでっか？",
-  "en": "",
+  "en": "  x      G, all told!{n}That alright with ya?",
   "codes": []
  },
  {
   "id": "M05",
   "off": "0FB770",
   "jp": "へいしを　ひとり　１ゴールドで　ほじゅうできますぞ！",
-  "en": "",
+  "en": "We can recruit soldiers at 1 gold apiece!",
   "codes": []
  },
  {
   "id": "M06",
   "off": "0FB78B",
   "jp": "げんざい　わがぐんの　へいしすうは　　　　めいですがなんめい　ほじゅうされますかな？",
-  "en": "",
+  "en": "Soldiers on hand:     men.{n}How many will you recruit?",
   "codes": []
  },
  {
   "id": "M07",
   "off": "0FB7B6",
   "jp": "　　めいで　　　Ｇになりますが　よろしいですかな？",
-  "en": "",
+  "en": "   =   G in all.{n}Is that acceptable, sire?",
   "codes": []
  },
  {
   "id": "M08",
   "off": "0FB7D0",
   "jp": "しろを　ぞうちくし　ぼうぎょりょくを{n}アップできますぞ！",
-  "en": "",
+  "en": "We can expand the castle{n}and raise its defense!",
   "codes": []
  },
  {
   "id": "M09",
   "off": "0FB7ED",
   "jp": "ステータスや　じかんのながれなど{n}メインのメニューに　うつりますぞ！",
-  "en": "",
+  "en": "We'll go to the main menu{n}for status, time and more!",
   "codes": []
  },
  {
   "id": "M0A",
   "off": "0FB810",
   "jp": "きゅうじんこうこくを　うち　しょうぐんを　あつめ{n}オーディションを　かいさいしますぞ！",
-  "en": "",
+  "en": "Place a want ad to gather{n}generals for an audition!",
   "codes": []
  },
  {
   "id": "M0B",
   "off": "0FB83C",
   "jp": "ども！　しょうぐん　えんごかいの　ものです。{n}しょうぐんの　ぼしゅうでございますね？",
-  "en": "",
+  "en": "Hello! General Placement{n}Agency here. Recruiting?",
   "codes": []
  },
  {
   "id": "M0C",
   "off": "0FB867",
   "jp": "５０Ｇ　かかりますが{n}よろしいでしょうか？",
-  "en": "",
+  "en": "That will be 50G.{n}Is that acceptable?",
   "codes": []
  },
  {
   "id": "M0D",
   "off": "0FB87D",
   "jp": "それでは　こうこくを　うたせていただきます。{n}すぐに　きぼうしゃが　あつまりますよ！",
-  "en": "",
+  "en": "Then we'll run your ad.{n}Applicants will come soon!",
   "codes": []
  },
  {
   "id": "M0E",
   "off": "0FB8A8",
   "jp": "それでは　またの　きかいに。{n}ごようのさいは　いつでも　おまかせを。",
-  "en": "",
+  "en": "Another time, then. Call{n}on us whenever you need!",
   "codes": []
  },
  {
   "id": "M0F",
   "off": "0FB8CB",
   "jp": "つかえない　しょうぐんを　クビに　できますぞ！",
-  "en": "",
+  "en": "You can fire useless generals!",
   "codes": []
  },
  {
   "id": "M10",
   "off": "0FB8E3",
   "jp": "どの　しょうぐんを　かいこに？",
-  "en": "",
+  "en": "Which general shall we dismiss?",
   "codes": []
  },
  {
   "id": "M11",
   "off": "0FB8F3",
   "jp": "{#0}で　ございますな？",
-  "en": "",
+  "en": "{#0}, is it?",
   "codes": [
    "36"
   ]
@@ -131,7 +131,7 @@
   "id": "M12",
   "off": "0FB8FE",
   "jp": "{#0}‥　ごくろうであったな。{n}もう　こなくてよいぞ！",
-  "en": "",
+  "en": "{#0}... Good work.{n}You needn't come anymore!",
   "codes": [
    "36"
   ]
@@ -140,266 +140,266 @@
   "id": "M13",
   "off": "0FB918",
   "jp": "たまごの　しようかいすうを　かいふくさせる{n}おはらいしを　よびますぞ！",
-  "en": "",
+  "en": "I'll summon an exorcist to{n}restore the eggs' uses!",
   "codes": []
  },
  {
   "id": "M14",
   "off": "0FB93C",
   "jp": "おはらいしを　よぶのですな？{n}５０Ｇかかりますが　よろしいですかな？",
-  "en": "",
+  "en": "Call the exorcist, then?{n}It costs 50G. All right?",
   "codes": []
  },
  {
   "id": "M15",
   "off": "0FB95F",
   "jp": "それでは　ぎしきの　じゅんびを　いたしましょう！",
-  "en": "",
+  "en": "Then let us prepare the ritual!",
   "codes": []
  },
  {
   "id": "M16",
   "off": "0FB978",
   "jp": "しじを　おえたら　これで　せんとうさいかいですじゃ！",
-  "en": "",
+  "en": "Once orders are given, this resumes the battle!",
   "codes": []
  },
  {
   "id": "M17",
   "off": "0FB993",
   "jp": "じゅうじキーの　さゆうで　ケタが{n}じょうげで　すうちが　かわりますぞ！",
-  "en": "",
+  "en": "D-pad left/right: digit,{n}up/down: change its value!",
   "codes": []
  },
  {
   "id": "M18",
   "off": "0FB9B7",
   "jp": "とほほ‥　おかねが　たりませんぞ！",
-  "en": "",
+  "en": "Alas... We haven't enough money!",
   "codes": []
  },
  {
   "id": "M19",
   "off": "0FB9C9",
   "jp": "よろしいですかな？",
-  "en": "",
+  "en": "Is that acceptable?",
   "codes": []
  },
  {
   "id": "M1A",
   "off": "0FB9D3",
   "jp": "わがぐんには　いま　しょうぐんが　ひとりも{n}おりませんぞ！",
-  "en": "",
+  "en": "Our army hasn't a single{n}general right now!",
   "codes": []
  },
  {
   "id": "M1B",
   "off": "0FB9F1",
   "jp": "やといたいのは　やまやまですが{n}げんざい　しろが　まんいんですな。",
-  "en": "",
+  "en": "I'd love to hire more, but{n}the castle is full now.",
   "codes": []
  },
  {
   "id": "M1C",
   "off": "0FBA13",
   "jp": "おかねが　たりないようですね。{n}わたしらも　しょうばいですからねえ。",
-  "en": "",
+  "en": "Not enough money, I fear.{n}We're a business too, see.",
   "codes": []
  },
  {
   "id": "M1D",
   "off": "0FBA36",
   "jp": "もうしわけございません。　ひとでぶそくで{n}きぼうしゃが　あつまりませんでした。",
-  "en": "",
+  "en": "So sorry. Labor shortages{n}meant no applicants came.",
   "codes": []
  },
  {
   "id": "M1E",
   "off": "0FBA5E",
   "jp": "だいきんは　おかえししますので{n}また　とうしゃを　ごりようください。",
-  "en": "",
+  "en": "We'll refund your fee, so{n}please use us again.",
   "codes": []
  },
  {
   "id": "M1F",
   "off": "0FBA81",
   "jp": "げんざい　わがぐんが　もっている{n}それぞれの　きりふだの　こすうですぞ。",
-  "en": "",
+  "en": "Here's how many of each{n}trump card our army holds.",
   "codes": []
  },
  {
   "id": "M20",
   "off": "0FBAA6",
   "jp": "どのしょうぐんの　たまごを　おはらいしますか？",
-  "en": "",
+  "en": "Which general's egg shall we exorcise?",
   "codes": []
  },
  {
   "id": "M21",
   "off": "0FBABE",
   "jp": "わがぐんには　いま　おはらいのひつような{n}たまごは　ありませんぞ！",
-  "en": "",
+  "en": "None of our eggs need{n}exorcising right now!",
   "codes": []
  },
  {
   "id": "M22",
   "off": "0FBAE0",
   "jp": "とほほ‥　おかねが　たりませんぞ！{n}しょうぐんを　かいこせねば　いけませんな！",
-  "en": "",
+  "en": "Alas... Not enough money!{n}We must dismiss a general!",
   "codes": []
  },
  {
   "id": "M23",
   "off": "0FBB08",
   "jp": "そのしょうぐんの　たまごは　おはらいのひつようが{n}ありませんぞ！",
-  "en": "",
+  "en": "That general's egg doesn't{n}need exorcising!",
   "codes": []
  },
  {
   "id": "M24",
   "off": "0FBB29",
   "jp": "つぎのたたかいに　そなえて{n}どのしょうぐんを　せんぱつたいに　くわえますかな？",
-  "en": "",
+  "en": "For the next battle, which{n}general shall go up front?",
   "codes": []
  },
  {
   "id": "M25",
   "off": "0FBB51",
   "jp": "おはらいのひつような　たまごは　ありませんぞ！",
-  "en": "",
+  "en": "No eggs need exorcising!",
   "codes": []
  },
  {
   "id": "M26",
   "off": "0FBB69",
   "jp": "これでもうみせじまいしますが{n}よろしいんでっか？",
-  "en": "",
+  "en": "Closin' up shop, then.{n}That alright with ya?",
   "codes": []
  },
  {
   "id": "M27",
   "off": "0FBB82",
   "jp": "このしょうぐんは　まだとうちゃく{n}してませんが　よろしいですか？",
-  "en": "",
+  "en": "This general hasn't come{n}yet. Is that all right?",
   "codes": []
  },
  {
   "id": "M28",
   "off": "0FBBA3",
   "jp": "これは　いかりを　きょくげんまで　たかめ　てきに{n}ぶつけるワザでおま！",
-  "en": "",
+  "en": "Ya build rage to the max{n}and hurl it at the foe!",
   "codes": []
  },
  {
   "id": "M29",
   "off": "0FBBC7",
   "jp": "これは　だいちを　およぎ　てきに　フイうちを{n}くらわすワザでおま！",
-  "en": "",
+  "en": "Ya swim through the earth{n}and ambush the foe, see!",
   "codes": []
  },
  {
   "id": "M2A",
   "off": "0FBBE9",
   "jp": "これは　くろねこを　よびだし　てきに　ふこうを{n}なげかけるワザでおま！",
-  "en": "",
+  "en": "This'n summons a black cat{n}to jinx the foe!",
   "codes": []
  },
  {
   "id": "M2B",
   "off": "0FBC0D",
   "jp": "これは　きたえぬいた　にくたいで　たいあたりを{n}ブチかますワザでおま！",
-  "en": "",
+  "en": "Slams the foe with a body{n}trained to the limit, see!",
   "codes": []
  },
  {
   "id": "M2C",
   "off": "0FBC31",
   "jp": "これは　たのしく　おどって　てきを　ゆだんさせ{n}おそいかかるワザでおま！",
-  "en": "",
+  "en": "Dance happy, lull the foe{n}off guard, then pounce!",
   "codes": []
  },
  {
   "id": "M2D",
   "off": "0FBC56",
   "jp": "これは　てきを　なだれしきに　おしたおし{n}だいダメージを　あたえるワザでおま！",
-  "en": "",
+  "en": "Bowls the foe over like an{n}avalanche for big damage!",
   "codes": []
  },
  {
   "id": "M2E",
   "off": "0FBC7E",
   "jp": "これは　かるいフットワークで　まいおどり{n}ハートにアタックする　ワザでおま！",
-  "en": "",
+  "en": "Dance on light feet and{n}attack right at the heart!",
   "codes": []
  },
  {
   "id": "M2F",
   "off": "0FBCA5",
   "jp": "これは　ぜんいんいちがんとなって{n}デングリガエシこうげきを　おみまいするワザでおま！",
-  "en": "",
+  "en": "Everyone as one, servin'{n}up a somersault attack!",
   "codes": []
  },
  {
   "id": "M30",
   "off": "0FBCD0",
   "jp": "これは　きょうぼうな　ピラニアぐんだんを{n}てきにむかい　ときはなつ　きけんなワザでおま！",
-  "en": "",
+  "en": "Unleashes a fierce piranha{n}horde on the foe. Risky!",
   "codes": []
  },
  {
   "id": "M31",
   "off": "0FBCFD",
   "jp": "これは　ノスタルジ〜きぶんで　カンをけり{n}てきに　こころのきずを　おわせる　つみなワザでおま！",
-  "en": "",
+  "en": "Nostalgic can-kicking that{n}scars hearts. Cruel move!",
   "codes": []
  },
  {
   "id": "M32",
   "off": "0FBD2D",
   "jp": "これは　ぜんしんぜんれいで　てきにのぞむ{n}まさに　すてみの　アラワザでおま！",
-  "en": "",
+  "en": "Body and soul against the{n}foe. All-out, do-or-die!",
   "codes": []
  },
  {
   "id": "M33",
   "off": "0FBD54",
   "jp": "これは　てきしょうぐんに　のりうつり{n}こんらんの　どんぞこに　たたきいれる　ワザでおま！",
-  "en": "",
+  "en": "Possess an enemy general{n}and plunge 'em into chaos!",
   "codes": []
  },
  {
   "id": "M34",
   "off": "0FBD81",
   "jp": "これは　てきもみかたも　りせいをすて{n}ハダカになって　ぶつかるワザでおま！　ウププ♥",
-  "en": "",
+  "en": "Friend and foe drop sense,{n}get naked, clash! Hee hee♥",
   "codes": []
  },
  {
   "id": "M35",
   "off": "0FBDAC",
   "jp": "この　きりふだは　きいろいかぜを　よびおこし{n}てきへいの　ＨＰを　はんげんさせる　ワザでおま！",
-  "en": "",
+  "en": "Calls up a yellow wind to{n}halve enemy troops' HP!",
   "codes": []
  },
  {
   "id": "M36",
   "off": "0FBDDC",
   "jp": "これは　こうそくフットワークで　ひとりで{n}ふたりぶん　こうげきできる　おとくなワザでおま！",
-  "en": "",
+  "en": "Fast feet let one fighter{n}attack as two. Great deal!",
   "codes": []
  },
  {
   "id": "M37",
   "off": "0FBE0A",
   "jp": "これは　かがくぎじゅつの　けっしょう{n}ゼンマイメカで　てきにつっこむ　ワザでおま！",
-  "en": "",
+  "en": "Peak science! A wind-up{n}mech that rams the foe!",
   "codes": []
  },
  {
   "id": "M38",
   "off": "0FBE34",
   "jp": "これは　たからばこで　てきをだまして{n}いたいめに　あわせる　ワザでおま！",
-  "en": "",
+  "en": "A treasure chest fools the{n}foe and makes it hurt!",
   "codes": []
  },
  {
@@ -414,14 +414,14 @@
   "id": "M3A",
   "off": "0FBE59",
   "jp": "この　きりふだは　ほのおのぎんゆうしじん　アンドレをよびだして　あついビートを　かきたてる　ワザでおま！",
-  "en": "",
+  "en": "Summons Andre, flame bard,{n}to stir up a red-hot beat!",
   "codes": []
  },
  {
   "id": "M3B",
   "off": "0FBE8E",
   "jp": "これは　ちょうじゅうりょくばに　へいしを{n}すいこませる　コワ〜イワザでおま！",
-  "en": "",
+  "en": "Drags troops into a super{n}gravity field. Scaaary!",
   "codes": []
  },
  {
@@ -436,28 +436,28 @@
   "id": "M3D",
   "off": "0FBEB5",
   "jp": "これは　せんそうはんたいを　うったえ{n}てきを　たちさらせる　ワザでおま！",
-  "en": "",
+  "en": "Pleads against war and{n}makes the foe leave!",
   "codes": []
  },
  {
   "id": "M3E",
   "off": "0FBEDA",
   "jp": "これは　てんしのちからで　へいしを　よみがえらせるワザでおま！",
-  "en": "",
+  "en": "An angel's power revives your soldiers!",
   "codes": []
  },
  {
   "id": "M3F",
   "off": "0FBEFA",
   "jp": "これは　だいちのせいれい　コロボックルに{n}かわりに　たたかってもらう　ワザでおま！",
-  "en": "",
+  "en": "Earth spirit Koropok{n}fights for ya instead!",
   "codes": []
  },
  {
   "id": "M40",
   "off": "0FBF24",
   "jp": "これは　いこくよりつたわる{n}ピュンピュンはねる　ワザでおま！",
-  "en": "",
+  "en": "From a foreign land: a{n}boing-boing bouncin' move!",
   "codes": []
  },
  {
@@ -472,21 +472,21 @@
   "id": "M42",
   "off": "0FBF43",
   "jp": "これは　がんじょうな　よろいで　ぶそうし{n}てきに　とっしんを　かます　ワザでおま！",
-  "en": "",
+  "en": "Clad in sturdy armor, ya{n}charge right at the foe!",
   "codes": []
  },
  {
   "id": "M43",
   "off": "0FBF6D",
   "jp": "これは　なんだかよく　わからないけど{n}とにかく　おとくな　ワザでおま！",
-  "en": "",
+  "en": "Dunno what it does, but{n}it's a real bargain, see!",
   "codes": []
  },
  {
   "id": "M44",
   "off": "0FBF91",
   "jp": "これは　はげしい　なみのごとく　こうげきをかける{n}ワザでおま！",
-  "en": "",
+  "en": "Attacks the foe like{n}a raging wave!",
   "codes": []
  },
  {
@@ -501,14 +501,14 @@
   "id": "M46",
   "off": "0FBFB1",
   "jp": "これは　あらしの　はげしさで　てきを　きりきざむ{n}ワザでおま！",
-  "en": "",
+  "en": "Shreds the foe with the{n}fury of a storm!",
   "codes": []
  },
  {
   "id": "M47",
   "off": "0FBFD1",
   "jp": "これは　たましいの　ほのおをもやして　てきに{n}ぶつける　ワザでおま！",
-  "en": "",
+  "en": "Burn yer soul's flame and{n}hurl it at the foe!",
   "codes": []
  }
 ]

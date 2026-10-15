@@ -53,6 +53,20 @@ It checks ids, tokens, encodable characters and the wrapped width/lines per page
 - Names (form `name`): 8 characters max. Pun/parody names: keep the joke (FF parodies stay recognisable, e.g. a
   "Behemoth" pun stays a Behemoth pun). Food/spice names of generals: use the normal English spelling.
 
+## Notes from earlier batches (binding)
+- Terms: はんじゅくち = soft-boiled points; せんとうりょく = combat power; ないせいりょく = domestic power;
+  しょうぐん えんごかい = General Placement Agency; なぞのびじょ = Mysterious Beauty; ゴニンジャー = Goninja;
+  しようかいすう (eggs) = uses; かんじゅくプリンス = Hard-Boiled Prince; かんじゅくクイーン = Hard-Boiled Queen;
+  かんじゅくだいまおう = Hard-Boiled Demon King (prefix "Demon King:"); かんじゅくだいまじょう = Hard-Boiled Demon
+  Castle; してんのう = Four Heavenly Kings; だいしょうぐん = Grand General; はんじゅくぐん = Soft-Boiled Army;
+  せいめいたい = Lifeform; いばらのとう = Tower of Thorns; しかいしゃ = Host; くろふく = Men in Black;
+  ギャル = Gal(s); エッグマンナイト = Eggman Knight; はんじゅくちょうりメモ = "Soft-Boiled Cooking Notes" (end
+  cards, always this form); episode previews: "Next time on Hanjuku Hero{n}Episode N: ...".
+- Some {#n} tokens print a name (up to 8 chars) although the checker counts them as 0 wide: leave room.
+- The checker flags letters "st/nd/rd/th" right after any token; if a word must continue after a {#n}, split it
+  so the next fragment doesn't start with those letters.
+- A JP line starting with は/が right after an inserted name: start the English with a space (" went home").
+
 ## Consistency
 Never edit `glossary.md` or anything except your own output file. For a recurring name or term not in the glossary,
 pick a form, use it consistently, and report it.

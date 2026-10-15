@@ -3616,13 +3616,13 @@
    {
     "id": "0D9468_0060",
     "jp": "「フッフッフ‥{w}{p}　このしろの　さむさだ。{n}　おまえたちも　さぞ　この　こたつに{n}　あたりたかろう。{w}{p}　だが　やめておいたほうが　けんめいだぞ。{w}{p}　この　こたつこそ　ふゆを　つかさどる　しきおう！{w}",
-    "en": "",
+    "en": "Heh heh heh...{w}{p}This castle sure is cold. I bet you'd all love to warm up under this kotatsu.{w}{p}But you'd be wise not to.{w}{p}For this kotatsu is none other than the Season King who rules winter!{w}",
     "codes": []
    },
    {
     "id": "0D9468_00DA",
     "jp": "「ウイナッツォさまだ！{w}",
-    "en": "",
+    "en": "The great Winazzo!{w}",
     "codes": []
    }
   ]
@@ -3647,109 +3647,109 @@
    {
     "id": "0D955B_0052",
     "jp": "へいし「おや‥{w}",
-    "en": "",
+    "en": "Soldier: Huh...{w}",
     "codes": []
    },
    {
     "id": "0D955B_006A",
     "jp": "「われわれは‥{w}{p}　どうしていたんだろう‥{w}",
-    "en": "",
+    "en": "What were we...{w}{p}What happened to us...?{w}",
     "codes": []
    },
    {
     "id": "0D955B_0093",
     "jp": "「なんで　オラ　ここにいるだ？{w}",
-    "en": "",
+    "en": "How'd I end up here, then?{w}",
     "codes": []
    },
    {
     "id": "0D955B_00AC",
     "jp": "「クリスマスでもないのに‥{w}",
-    "en": "",
+    "en": "And it isn't even Christmas...{w}",
     "codes": []
    },
    {
     "id": "0D955B_00C3",
     "jp": "「あたしらも　なんだか　ずっと　しょうがつの{n}　ような　きが‥{n}「とりい〜‥{w}",
-    "en": "",
+    "en": "It felt like New Year's went on forever for us too...{n}Cluck-cluuuck~...{w}",
     "codes": []
    },
    {
     "id": "0D955B_00F9",
     "jp": "だいじん「おお‥{w}",
-    "en": "",
+    "en": "Minister: Oh...{w}",
     "codes": []
    },
    {
     "id": "0D955B_010F",
     "jp": "　きがついたか　みなのもの！{n}　これで　４つのきせつが　かえってきたようじゃ！{w}",
-    "en": "",
+    "en": "You've come to your senses, everyone! It seems the four seasons have returned!{w}",
     "codes": []
    },
    {
     "id": "0D955B_0140",
     "jp": "　はるには　さくらが　さきみだれ‥{w}",
-    "en": "",
+    "en": "In spring, cherry blossoms in full bloom...{w}",
     "codes": []
    },
    {
     "id": "0D955B_0157",
     "jp": "　なつには　すなはまに　ハイレグネーちゃんが{n}　あふれ‥{w}",
-    "en": "",
+    "en": "In summer, beaches overflowing with high-cut bikini babes...{w}",
     "codes": []
    },
    {
     "id": "0D955B_017D",
     "jp": "　あきには　かれはちるなか　おとなの{n}　ラブロマンス！{w}",
-    "en": "",
+    "en": "In autumn, a grown-up love affair amid falling leaves!{w}",
     "codes": []
    },
    {
     "id": "0D955B_019E",
     "jp": "　そして　ふゆには　クリスマス　しょうがつ{n}　わたしの　たんじょうびと　たのしいことづくめじゃ！{w}",
-    "en": "",
+    "en": "And in winter, Christmas, New Year's and my birthday... nothing but fun!{w}",
     "codes": []
    },
    {
     "id": "0D955B_01D4",
     "jp": "　うつくしい　しきおりおりの　じょうけいを{n}　われらの　ちからで　とりかえしたのじゃ！{w}",
-    "en": "",
+    "en": "We've won back the beautiful sights of the changing seasons with our own strength!{w}",
     "codes": []
    },
    {
     "id": "0D955B_0222",
     "jp": "　がんばりましたな　{hero}さま！{w}{p}　きょうてき　しきおうも　くだしました！{w}{p}　のこるは　かんじゅく　だいまおう{n}　ただひとりですぞ！！{w}{p}　{hero}さま？{w}",
-    "en": "",
+    "en": "Well done, {hero}, my lord!{w}{p}You've even beaten the mighty Season Kings!{w}{p}All that remains is the Hard-Boiled Demon King alone!!{w}{p}{hero}, my lord?{w}",
     "codes": []
    },
    {
     "id": "0D955B_0278",
     "jp": "　{hero}さまは‥{w}",
-    "en": "",
+    "en": "{hero}, my lord...{w}",
     "codes": []
    },
    {
     "id": "0D955B_0289",
     "jp": "　いつでも　はるで　よろし〜ですな‥{w}",
-    "en": "",
+    "en": "...your head is always in springtime, isn't it~...{w}",
     "codes": []
    },
    {
     "id": "0D955B_02A6",
     "jp": "「おめでとり〜い！！{w}",
-    "en": "",
+    "en": "Congratu-cluck-tions!!{w}",
     "codes": []
    },
    {
     "id": "0D955B_02C5",
     "jp": "だいじん「ひ〜〜んッ！！{w}",
-    "en": "",
+    "en": "Minister: Waaaah!!{w}",
     "codes": []
    },
    {
     "id": "0D955B_02D7",
     "jp": "は{#0}{#1}ん{#2}{#3}じ{#4}{#5}ゅ{#6}く{#7}{#8}　{#9}ち{#10}{#11}ょ{#12}{#13}う{#14}{#15}り{#16}{#17}メ{#18}{#19}モ{#20}{n}{n}{#21}４{#22}{#23}に{#24}{#25}ん{#26}{#27}？{#28}{#29}め{#30}　{#31}‥{#32}　{#33}か{#34}{#35}ん{#36}{#37}じ{#38}{#39}ゅ{#40}{#41}く{#42}　{#43}{#44}し{#45}{#46}き{#47}{#48}お{#49}{#50}う",
-    "en": "",
+    "en": "So{#0}{#1}ft{#2}{#3}-Bo{#4}{#5}il{#6}ed{#7}{#8} {#9}Co{#10}{#11}ok{#12}{#13}in{#14}{#15}g {#16}{#17}No{#18}{#19}tes{#20}{n}{n}{#21}No{#22}{#23}. 4{#24}{#25}?{#26}{#27}...{#28}{#29}{n}{#30}Har{#31}d{#32}{#33}-Bo{#34}{#35}il{#36}{#37}ed{#38} {#39}Se{#40}{#41}as{#42}{#43}on{#44} {#45}{#46}Ki{#47}{#48}ng{#49}{#50}s",
     "codes": [
      "2b 02",
      "2d 18",
@@ -3817,7 +3817,7 @@
    {
     "id": "0D98D5_0010",
     "jp": "しきおうを　たおしきせつを　とりもどした{n}はんじゅくヒーローこと　{hero}に{n}ついに　だいまおうみずからが　たたかいをいどむ！{w}{p}だいまおうの　しんのすがたが　いま　あきらかに！！{w}{p}たたかえ　{hero}！{n}いまこそ　たまごを　わるときだ！！{w}{p}じかい　はんじゅくヒーロー　だい５わ{n}{n}”さらば　いとしきエッグマン”に‥{w}",
-    "en": "",
+    "en": "{hero}, the Hanjuku Hero, defeated the Season Kings and won back the seasons...{w}{p}...and now the Demon King himself at last issues a challenge!{w}{p}The Demon King's true form is about to be revealed!!{w}{p}Fight, {hero}!{n}Now is the time to crack the egg!!{w}{p}Next time on Hanjuku Hero{n}Episode 5:{n}\"Farewell, Beloved Eggman\"...{w}",
     "codes": []
    }
   ]
@@ -3833,109 +3833,109 @@
    {
     "id": "0D9988_003D",
     "jp": "かんじゅく　だいまおうを　たおすべく　かくごを{n}きめた　アルマムーンだったが‥{w}{p}だいまおうからは　なんの　れんらくもなく{n}いっこうは　ちょっと　さびしい　ひびを　おくって{n}いたのだった。{w}",
-    "en": "",
+    "en": "Almamoon had steeled itself to defeat the Hard-Boiled Demon King...{w}{p}...but no word came from the Demon King, and the gang spent their days feeling a bit lonely.{w}",
     "codes": []
    },
    {
     "id": "0D9988_009F",
     "jp": "だいじん「うぬぬ‥{w}{p}　こうして　まいにち　たいさく　かいぎを　ひらいて{n}　いるというのに‥{w}{p}　だいまおうの　ヤツめ　わがくにに　おそれを{n}　なして　おじけづいたんでは　あるまいな。{w}",
-    "en": "",
+    "en": "Minister: Grrr...{w}{p}Here we are, holding a strategy meeting every single day...{w}{p}That Demon King hasn't lost his nerve out of fear of our kingdom, has he?{w}",
     "codes": []
    },
    {
     "id": "0D9988_0100",
     "jp": "「ボケが‥{w}{p}だいじん「ん？{w}",
-    "en": "",
+    "en": "Senile old fool...{w}{p}Minister: Hm?{w}",
     "codes": []
    },
    {
     "id": "0D9988_0118",
     "jp": "　{hero}さま　いま　なにか{n}　おっしゃいましたかな？{w}{p}{hero}「この　おいぼれが。{w}",
-    "en": "",
+    "en": "{hero}, my lord, did you say something just now?{w}{p}{hero}: You doddering old fool.{w}",
     "codes": []
    },
    {
     "id": "0D9988_013F",
     "jp": "だいじん「は？{w}{p}{hero}「おいぼれと　いっとるんだ{n}　この　ヒヒじじいが。{w}",
-    "en": "",
+    "en": "Minister: Pardon?{w}{p}{hero}: I said doddering fool, you dirty old baboon.{w}",
     "codes": []
    },
    {
     "id": "0D9988_016D",
     "jp": "だいじん「{hero}さま！{n}　たまに　くちを　ひらいたかと　おもえば{n}　なんたることを！{w}{p}{hero}「ワシじゃよ　ワシ！{w}{p}だいじん「その　くちょうは　もしや‥{w}{p}{hero}「ウニにも‥{w}",
-    "en": "",
+    "en": "Minister: {hero}, my lord! The one time you open your mouth, you say such things!{w}{p}{hero}: It's me! Me!{w}{p}Minister: That way of talking... could it be...{w}{p}{hero}: Urchin-deed...{w}",
     "codes": []
    },
    {
     "id": "0D9988_01CA",
     "jp": "だいじん「やはり！　かんじゅく　だいまおうかあッ！{w}",
-    "en": "",
+    "en": "Minister: I knew it! The Hard-Boiled Demon King!{w}",
     "codes": []
    },
    {
     "id": "0D9988_0215",
     "jp": "だいじん「{hero}さまの　からだを{n}　どうするつもりじゃ！{w}",
-    "en": "",
+    "en": "Minister: What do you mean to do with {hero}'s body?!{w}",
     "codes": []
    },
    {
     "id": "0D9988_0264",
     "jp": "「よくも　わが　しきおうを{n}　ほうむりさってくれたな。{n}　ゆかいな　ヤツらだったのに‥{w}{p}　おかげで　さびしいじゃないか！{n}　おれいに　このからだを　つかって　バカな{n}　マネを　してやるぞ！{w}{p}だいじん「な　なにいッ！？{w}{p}{hero}「まずは　なさけない{n}　ボケがおじゃ！{w}",
-    "en": "",
+    "en": "How dare you send my Season Kings to their graves. They were such fun fellows...{w}{p}Now I'm lonely, thanks to you! As thanks, I'll use this body to do stupid things!{w}{p}Minister: Wh-whaaat!?{w}{p}{hero}: First, a pathetic, dopey face!{w}",
     "codes": []
    },
    {
     "id": "0D9988_02F4",
     "jp": "　おつぎに　チャックを　あげさげしてやる！{w}",
-    "en": "",
+    "en": "Next, I'll zip his fly up and down!{w}",
     "codes": []
    },
    {
     "id": "0D9988_031C",
     "jp": "　いたた！{w}",
-    "en": "",
+    "en": "Ouch!{w}",
     "codes": []
    },
    {
     "id": "0D9988_0325",
     "jp": "　は　はさんだ‥{w}{p}　ど　どうだ！　くやしかろう！{w}",
-    "en": "",
+    "en": "G-got it caught...{w}{p}H-how's that! Frustrating, isn't it!{w}",
     "codes": []
    },
    {
     "id": "0D9988_0342",
     "jp": "だいじん「べつに。{w}",
-    "en": "",
+    "en": "Minister: Not really.{w}",
     "codes": []
    },
    {
     "id": "0D9988_0356",
     "jp": "「なに？　まけおしみは　よせ！{w}{p}だいじん「いつもの　{hero}さまより{n}　まともなくらいじゃ！{w}{p}{hero}「な　なに〜？{w}",
-    "en": "",
+    "en": "What? Don't be a sore loser!{w}{p}Minister: You're saner than {hero} usually is!{w}{p}{hero}: Wh-whaaat?{w}",
     "codes": []
    },
    {
     "id": "0D9988_03A3",
     "jp": "　さ　さすがは　だいじん‥{w}{p}　きょうじんな　せいしんを　もっているな。{n}　ワシが　ライバルと　みこんだだけある。{w}{p}だいじん「かってに　みこまんでくれい！{w}{p}{hero}「そういうな。{n}　しきおうまでも　たおした　おぬしらだ。{n}　ワシが　じきじきに　あいてをしても　よさそうじゃ。{w}{p}　ワシの　がじょうは　そのなも　かんじゅく{n}　だいまじょう！{n}　たいりくに　そびえたつ　きょだいな　やまが{n}　そうじゃ。{w}{p}　だが　ワシの　はいかの　ものどもの　たまごは{n}　いままでとは　ワケがちがうぞ！{w}{p}　おいそれとは　たどりつけんじゃろうが{n}　いちおう　まっていてやっても　いいぞ。{w}",
-    "en": "",
+    "en": "A-as expected of the Minister...{w}{p}You have a mind of iron. No wonder I marked you as my rival.{w}{p}Minister: Don't go marking me without asking!{w}{p}{hero}: Don't say that. You lot even defeated my Season Kings.{w}{p}Perhaps I should face you myself.{w}{p}My castle goes by the name of Hard-Boiled Demon Castle!{w}{p}They say it's a huge mountain towering over the continent.{w}{p}But the eggs of my underlings are on a whole other level from before!{w}{p}You won't reach me easily, but I suppose I could wait for you anyway.{w}",
     "codes": []
    },
    {
     "id": "0D9988_04C8",
     "jp": "だいじん「おのれえ！　なんじゃ　その　いいぐさは！{w}",
-    "en": "",
+    "en": "Minister: Why, you! What kind of talk is that!{w}",
     "codes": []
    },
    {
     "id": "0D9988_04EC",
     "jp": "「やかましいわ！{n}　だいたい　きさまは　わきやくのクセに　セリフが{n}　おおすぎるんじゃ！{w}",
-    "en": "",
+    "en": "Pipe down! You're just a supporting character, yet you've got way too many lines!{w}",
     "codes": []
    },
    {
     "id": "0D9988_051E",
     "jp": "だいじん「なんじゃとお〜ッ！？{w}{p}{#0}{hero}「さらばだ！{w}",
-    "en": "",
+    "en": "Minister: Whaaat did you say~!?{w}{p}{#0}{hero}: Farewell!{w}",
     "codes": [
      "2e 03 06 29 07 28 08 24 10"
     ]
@@ -3943,19 +3943,19 @@
    {
     "id": "0D9988_054C",
     "jp": "だいじん「やかましいわいッ！{w}",
-    "en": "",
+    "en": "Minister: Pipe down yourself!{w}",
     "codes": []
    },
    {
     "id": "0D9988_059B",
     "jp": "だいじん「はッ！{w}{p}　{hero}さま‥{w}",
-    "en": "",
+    "en": "Minister: Ah!{w}{p}{hero}, my lord...{w}",
     "codes": []
    },
    {
     "id": "0D9988_05C6",
     "jp": "　もうしわけないですじゃ〜〜〜ッ！！{w}",
-    "en": "",
+    "en": "I am so terribly sorryyyy!!{w}",
     "codes": []
    }
   ]
@@ -3971,13 +3971,13 @@
    {
     "id": "0D9F6D_002B",
     "jp": "「ん？{w}",
-    "en": "",
+    "en": "Hm?{w}",
     "codes": []
    },
    {
     "id": "0D9F6D_0036",
     "jp": "　なんじゃ？{w}{p}{#0}　しんぶんなら　いらんぞ　いま　よんでるからな！{w}{p}　え？　かんじゅく　だいまおう？{w}",
-    "en": "",
+    "en": "What is it?{w}{p}{#0}If you're selling newspapers, I don't need one, I'm reading one now!{w}{p}Eh? The Hard-Boiled Demon King?{w}",
     "codes": [
      "2e 02 09 29 01 28"
     ]
@@ -3985,79 +3985,79 @@
    {
     "id": "0D9F6D_007E",
     "jp": "　この　わたしが？{w}",
-    "en": "",
+    "en": "Me?{w}",
     "codes": []
    },
    {
     "id": "0D9F6D_008D",
     "jp": "　め　め　めっそうもない！{n}　わしゃ　ただの　オヤジですじゃ！{w}{p}　あわわ　ホント　ホント！{w}",
-    "en": "",
+    "en": "N-n-no way! I'm just an ordinary old man!{w}{p}Oh dear, honest, honest!{w}",
     "codes": []
    },
    {
     "id": "0D9F6D_00C9",
     "jp": "　なんてな‥{w}",
-    "en": "",
+    "en": "Just kidding...{w}",
     "codes": []
    },
    {
     "id": "0D9F6D_00D1",
     "jp": "　ワシの　かわいい　ぶかたちを　かわいがって{n}　くれた　れいは　せねばな‥{w}",
-    "en": "",
+    "en": "I must repay you for being so kind to my cute underlings...{w}",
     "codes": []
    },
    {
     "id": "0D9F6D_00F8",
     "jp": "　クイーン！{w}",
-    "en": "",
+    "en": "Queen!{w}",
     "codes": []
    },
    {
     "id": "0D9F6D_0118",
     "jp": "　プリンス！{w}",
-    "en": "",
+    "en": "Prince!{w}",
     "codes": []
    },
    {
     "id": "0D9F6D_0138",
     "jp": "　しきおう　サマカンテ！{w}",
-    "en": "",
+    "en": "Season King Samacante!{w}",
     "codes": []
    },
    {
     "id": "0D9F6D_015E",
     "jp": "　しきおう　スプリミリョ〜ネ！{w}",
-    "en": "",
+    "en": "Season King Sprimirio~ne!{w}",
     "codes": []
    },
    {
     "id": "0D9F6D_0187",
     "jp": "　しきおう　フォ〜リシア！{w}",
-    "en": "",
+    "en": "Season King Fo~lisia!{w}",
     "codes": []
    },
    {
     "id": "0D9F6D_01AE",
     "jp": "　しきおう　ウイナッツォ！{w}",
-    "en": "",
+    "en": "Season King Winazzo!{w}",
     "codes": []
    },
    {
     "id": "0D9F6D_01D5",
     "jp": "　このワシに　ちからを　かしてくれい〜ッ！！{w}",
-    "en": "",
+    "en": "Lend me your power~!!{w}",
     "codes": []
    },
    {
     "id": "0D9F6D_0231",
     "jp": "「フフフ‥{w}",
-    "en": "",
+    "en": "Heh heh heh...{w}",
     "codes": []
    },
    {
     "id": "0D9F6D_023A",
     "jp": "　ハーッハッハッハ！{w}{p}　なに？{w}{p}　こんどは　アゴを　はずさないのかだと？{w}{p}　ふん！　いつまで　あそんでいるつもりだ！{n}　くだらん　ギャグなど　ここまで！{w}{p}　かんじゅくの　かんじゅくたる　ゆえん　そのめに{n}　やきつけて　しぬがよい！！{w}{p}　このすがたですら　じゅんびだんかいに　すぎぬと{n}　しれい！！{w}",
-    "en": "",
+    "en": "Hahahahaha!{w}{p}What?{w}{p}Won't I dislocate my jaw this time, you ask?{w}{p}Hmph! How long do you intend to play around! Enough with the stupid gags!{w}{p}Burn into your eyes what makes the hard-boiled so hard-boiled, and die!!{w}{p}And know that even this form is only the warm-up!!{w}",
     "codes": []
    }
   ]
@@ -4073,19 +4073,19 @@
    {
     "id": "0DA249_003F",
     "jp": "だいまおう「おのれ‥{w}{p}　シリアスになった　このわたしを　たおすとは‥{w}",
-    "en": "",
+    "en": "Demon King: Curses...{w}{p}To think you'd beat me after I got serious...{w}",
     "codes": []
    },
    {
     "id": "0DA249_006A",
     "jp": "　おのれえッ！！{w}{p}　せめて　だいじん！　きさまを　みちづれじゃ！{w}{p}　きさまが　いなくなれば　アルマムーンは{n}　ずのうを　うしなうに　ひとしい！！{w}{p}　{hero}ひとりで　なにが　できるものか！{w}",
-    "en": "",
+    "en": "Curses!!{w}{p}At least, Minister! I'll take you down with me!{w}{p}Without you, Almamoon is as good as brainless!!{w}{p}What can {hero} do all alone!{w}",
     "codes": []
    },
    {
     "id": "0DA249_00D6",
     "jp": "だいじん「ひえ〜ッ！{w}{p}{#0}{#1}「まていッ！{w}",
-    "en": "",
+    "en": "Minister: Eeeek!{w}{p}{#0}{#1}Hold it!{w}",
     "codes": [
      "23",
      "16"
@@ -4094,67 +4094,67 @@
    {
     "id": "0DA249_0105",
     "jp": "だいまおう「グアアアッ！！",
-    "en": "",
+    "en": "Demon King: GWAAAAH!!",
     "codes": []
    },
    {
     "id": "0DA249_012C",
     "jp": "エッグマンは　ちからつきた‥{w}",
-    "en": "",
+    "en": "Eggman has run out of strength...{w}",
     "codes": []
    },
    {
     "id": "0DA249_013E",
     "jp": "だいまおう「エッグマンに‥{w}{p}　やられるとは‥{w}",
-    "en": "",
+    "en": "Demon King: Beaten...{w}{p}...by an Eggman...{w}",
     "codes": []
    },
    {
     "id": "0DA249_0167",
     "jp": "「ゴホッ　ゴホッ！",
-    "en": "",
+    "en": "*Cough, cough!*",
     "codes": []
    },
    {
     "id": "0DA249_0187",
     "jp": "だいまおう「ひえ〜ッ！！{w}{p}　ワシャ　ただのオヤジですじゃ！{n}　みのがしてくれ〜！{w}{p}　ひいい〜ッ！",
-    "en": "",
+    "en": "Demon King: Eeeek!!{w}{p}I'm just an ordinary old man! Let me go~!{w}{p}Eeeeek~!",
     "codes": []
    },
    {
     "id": "0DA249_01ED",
     "jp": "だいじん「ヤツは　すでに　ただのオヤジ‥{n}　もう　なにもできませんじゃろ。{w}",
-    "en": "",
+    "en": "Minister: He's nothing but an ordinary old man now... He can't do anything anymore.{w}",
     "codes": []
    },
    {
     "id": "0DA249_0256",
     "jp": "だいじん「さいごの　さいごに　エッグマンに{n}　すくわれるとは‥{w}{p}　エッグマン‥{w}",
-    "en": "",
+    "en": "Minister: To be saved by Eggman at the very, very end...{w}{p}Eggman...{w}",
     "codes": []
    },
    {
     "id": "0DA249_0287",
     "jp": "　おぬしは　エッグモンスターの{n}　なかの　エッグモンスターじゃぞ‥！{w}",
-    "en": "",
+    "en": "You were the Egg Monster of all Egg Monsters...!{w}",
     "codes": []
    },
    {
     "id": "0DA249_02AD",
     "jp": "だいじん「{hero}さま‥{w}{p}　おきもちは　わかりますが　ないていても{n}　エッグマンも　よろこびますまい‥{w}",
-    "en": "",
+    "en": "Minister: {hero}, my lord...{w}{p}I know how you feel, but your tears would not make Eggman happy...{w}",
     "codes": []
    },
    {
     "id": "0DA249_02E2",
     "jp": "　せめて　しろに　つれかえり　てあつく‥{w}",
-    "en": "",
+    "en": "Let us at least take him back to the castle and give him a proper...{w}",
     "codes": []
    },
    {
     "id": "0DA249_0302",
     "jp": "　どうなされました？　{hero}さま‥{w}{p}{#0}　え？{w}{p}　ベーコンエッグが　たべたくなった？{w}",
-    "en": "",
+    "en": "What is it, {hero}, my lord...?{w}{p}{#0}Eh?{w}{p}You suddenly want some bacon and eggs?{w}",
     "codes": [
      "1e"
     ]
@@ -4162,19 +4162,19 @@
    {
     "id": "0DA249_032F",
     "jp": "　エッグマンも‥{w}",
-    "en": "",
+    "en": "Eggman can never...{w}",
     "codes": []
    },
    {
     "id": "0DA249_0341",
     "jp": "　うかばれませんぞ〜〜ッ！！{w}",
-    "en": "",
+    "en": "...rest in peace like thiiis!!{w}",
     "codes": []
    },
    {
     "id": "0DA249_0359",
     "jp": "は{#0}{#1}ん{#2}{#3}じ{#4}{#5}ゅ{#6}く{#7}{#8}　{#9}ち{#10}{#11}ょ{#12}{#13}う{#14}{#15}り{#16}{#17}メ{#18}{#19}モ{#20}{n}{n}{#21}５{#22}{#23}に{#24}{#25}ん{#26}{#27}め{#28}　{#29}‥{#30}　{#31}か{#32}{#33}ん{#34}{#35}じ{#36}{#37}ゅ{#38}{#39}く{#40}　{#41}{#42}だ{#43}{#44}い{#45}{#46}ま{#47}{#48}お{#49}{#50}う",
-    "en": "",
+    "en": "So{#0}{#1}ft{#2}{#3}-Bo{#4}{#5}il{#6}ed{#7}{#8} {#9}Co{#10}{#11}ok{#12}{#13}in{#14}{#15}g {#16}{#17}No{#18}{#19}tes{#20}{n}{n}{#21}No{#22}{#23}. 5{#24}{#25}{#26}{#27}{#28}...{#29}{#30}{n}{#31}Har{#32}{#33}d{#34}{#35}-Bo{#36}{#37}il{#38}{#39}ed{#40} {#41}{#42}De{#43}{#44}mo{#45}{#46}n {#47}{#48}Ki{#49}{#50}ng",
     "codes": [
      "2b 02",
      "2d 18",
@@ -4242,7 +4242,7 @@
    {
     "id": "0DA63C_0010",
     "jp": "かんじゅく　だいまおうとの　しとうに　たおれた{n}エッグマンを　なぞの　ししゃが　むかえにやってきた！{w}{p}あらたなる　だいちで　そうぞうをこえた　てきを{n}あいてに　そうぜつなる　たたかいが　いまはじまる！{w}{p}たたかえ　{hero}！{n}いまこそ　たまごを　わるときだ！！{w}{p}じかい　はんじゅくヒーロー　だい６わ{n}{n}”はるかなる　たまごの　こきょう”に‥{w}",
-    "en": "",
+    "en": "Eggman fell in a fierce battle with the Hard-Boiled Demon King...{w}{p}...and now a mysterious envoy has come for him!{w}{p}In a new land, against foes beyond imagination, a tremendous battle now begins!{w}{p}Fight, {hero}!{n}Now is the time to crack the egg!!{w}{p}Next time on Hanjuku Hero{n}Episode 6:{n}\"The Distant Egg Homeland\"...{w}",
     "codes": []
    }
   ]
@@ -4258,85 +4258,85 @@
    {
     "id": "0DA6FF_0043",
     "jp": "だいじん「だいまおうを　たおしたいま　へいわは{n}　おとずれた‥{w}",
-    "en": "",
+    "en": "Minister: With the Demon King defeated, peace has come at last...{w}",
     "codes": []
    },
    {
     "id": "0DA6FF_006C",
     "jp": "　しかし　エッグモンスターの　きほんとも　いえる{n}　エッグマンが　このじょうたいでは　おそらく{n}　たまごを　つかうことは　できん‥{w}",
-    "en": "",
+    "en": "But Eggman is the very foundation of the Egg Monsters...{w}{p}With him in this state, we likely can't use eggs...{w}",
     "codes": []
    },
    {
     "id": "0DA6FF_00B7",
     "jp": "　いま　あらたなてきが　あらわれたら　たまごなしで{n}　たたかわねば　ならぬ‥{w}{p}　エッグモンスターである　エッグマンには{n}　ポーションも　バンドエイドも　きかぬ‥{w}",
-    "en": "",
+    "en": "If a new enemy appeared now, we would have to fight without eggs...{w}{p}And Eggman is an Egg Monster, so neither Potions nor Band-Aids work on him...{w}",
     "codes": []
    },
    {
     "id": "0DA6FF_0112",
     "jp": "　われわれには　こうして　みまもるほか‥{w}{p}エッグマン「ウウ‥{w}",
-    "en": "",
+    "en": "All we can do is watch over him like this...{w}{p}Eggman: Uuugh...{w}",
     "codes": []
    },
    {
     "id": "0DA6FF_013B",
     "jp": "だいじん「おお　かみよ！{w}",
-    "en": "",
+    "en": "Minister: Oh, heavens!{w}",
     "codes": []
    },
    {
     "id": "0DA6FF_0150",
     "jp": "　ねがわくば　いまいちど　かれに　いきるちからを{n}　あたえたまえ！！{w}",
-    "en": "",
+    "en": "I beg you, grant him the strength to live once more!!{w}",
     "codes": []
    },
    {
     "id": "0DA6FF_0187",
     "jp": "だいじん「どひゃ〜ッ！？{w}",
-    "en": "",
+    "en": "Minister: Whoa-ho-hooo!?{w}",
     "codes": []
    },
    {
     "id": "0DA6FF_01C1",
     "jp": "だいじん「よろいを　つけた‥{w}",
-    "en": "",
+    "en": "Minister: Wearing armor...{w}",
     "codes": []
    },
    {
     "id": "0DA6FF_01D3",
     "jp": "　エッグマン！？{w}",
-    "en": "",
+    "en": "...Eggman!?{w}",
     "codes": []
    },
    {
     "id": "0DA6FF_01DF",
     "jp": "かみさま？「わたしは　エッグマンナイト‥{w}{p}だいじん「ナイト？{w}{p}かみさま？「そう　エッグマンが　みょうじで{n}　ナイトが　なまえです。{w}{p}だいじん「そなた　エッグマンの‥{w}{p}ナイト「ええ　エッグマンと　おなじ　せかいに{n}　すむものです。{w}{p}だいじん「エッグマンの　すむ　せかい？{w}{p}ナイト「エッグワールドより　きた{n}　つかいのものです。{w}{p}だいじん「エッグワールド〜！？{w}{p}ナイト「そう　エッグモンスターたちの{n}　こきょうといえば　わかってもらえますか？{w}{p}だいじん「すると　エッグマンを　たすけに？{w}{p}ナイト「ええ　かれを　むかえにきました！{w}{p}　かれのきずは　わがエッグワールドでしか{n}　なおせません。{w}{p}　そして　もうひとつ　おねがいが　あって　きました。{w}{p}だいじん「おねがい？{w}",
-    "en": "",
+    "en": "God?: I am Eggman Knight...{w}{p}Minister: Knight?{w}{p}God?: Yes. Eggman is my family name, and Knight is my given name.{w}{p}Minister: So you are Eggman's...{w}{p}Knight: Yes, I come from the same world as Eggman.{w}{p}Minister: The world where Eggman lives?{w}{p}Knight: I am an envoy from the Egg World.{w}{p}Minister: The Egg Woooorld!?{w}{p}Knight: Yes. Would it help if I called it the Egg Monsters' homeland?{w}{p}Minister: Then you've come to save Eggman?{w}{p}Knight: Yes, I've come to take him home!{w}{p}His wounds can only be healed in our Egg World.{w}{p}And I have come with one more request.{w}{p}Minister: A request?{w}",
     "codes": []
    },
    {
     "id": "0DA6FF_0352",
     "jp": "　わたしらに？{w}{p}ナイト「そうです。　あなたがたの　ちからを{n}　かりに！{w}{p}　‥わが　エッグワールドにも　かんじゅくたちの{n}　まのてが　のびているのです！{w}{p}　わが　こくおうと　おうひが　てきのてに{n}　おちています！{w}{p}　やつらに　たいこうするには　あなたがたの　ちからが　ぜひとも　ひつようなのです！{w}",
-    "en": "",
+    "en": "Of us?{w}{p}Knight: That's right. I've come to borrow your strength!{w}{p}...The evil clutches of the hard-boiled reach even into our Egg World!{w}{p}Our King and Queen have fallen into enemy hands!{w}{p}To stand against them, we truly need your strength!{w}",
     "codes": []
    },
    {
     "id": "0DA6FF_03ED",
     "jp": "だいじん「む〜‥{w}{p}　エッグモンスターたちには　せわに{n}　なりっぱなしじゃ。{w}{p}　かれらに　むくいるためにも　ゆかねば{n}　{hero}さま！{w}",
-    "en": "",
+    "en": "Minister: Hmmm...{w}{p}We have been in the Egg Monsters' debt all along.{w}{p}To repay them, we must go, {hero}, my lord!{w}",
     "codes": []
    },
    {
     "id": "0DA6FF_043F",
     "jp": "　{hero}さま！{w}",
-    "en": "",
+    "en": "{hero}, my lord!{w}",
     "codes": []
    },
    {
     "id": "0DA6FF_044E",
     "jp": "　こんどは　われらが　エッグモンスターのため{n}　たたかうばんですぞ！{w}{p}　さ！　ごけつだんを！{n}",
-    "en": "",
+    "en": "This time it's our turn to fight for the Egg Monsters!{w}{p}Now! Your decision, my lord!{n}",
     "codes": []
    }
   ]
@@ -4352,61 +4352,61 @@
    {
     "id": "0DAB93_0041",
     "jp": "「きたな　はんじゅくども！{w}{p}「きさまらの　おもうようには　させん！{w}{p}「われわれを　ただの　へいしとおもうなよ！{w}{p}「いくぞ！{w}{p}「おうッ！{w}",
-    "en": "",
+    "en": "So you've come, you soft-boiled lot!{w}{p}We won't let you have your way!{w}{p}Don't take us for ordinary soldiers!{w}{p}Let's go!{w}{p}Right!{w}",
     "codes": []
    },
    {
     "id": "0DAB93_0156",
     "jp": "「ハード！{w}",
-    "en": "",
+    "en": "Hard!{w}",
     "codes": []
    },
    {
     "id": "0DAB93_0165",
     "jp": "「レッドッ！！{w}",
-    "en": "",
+    "en": "Red!!{w}",
     "codes": []
    },
    {
     "id": "0DAB93_0178",
     "jp": "「ブルー！！{w}",
-    "en": "",
+    "en": "Blue!!{w}",
     "codes": []
    },
    {
     "id": "0DAB93_018A",
     "jp": "「グリーン！！{w}",
-    "en": "",
+    "en": "Green!!{w}",
     "codes": []
    },
    {
     "id": "0DAB93_019D",
     "jp": "「イエロー！！{w}",
-    "en": "",
+    "en": "Yellow!!{w}",
     "codes": []
    },
    {
     "id": "0DAB93_01B0",
     "jp": "「ピンク！！{w}",
-    "en": "",
+    "en": "Pink!!{w}",
     "codes": []
    },
    {
     "id": "0DAB93_01D0",
     "jp": "「５にん　そろって！{w}",
-    "en": "",
+    "en": "All five together!{w}",
     "codes": []
    },
    {
     "id": "0DAB93_01F4",
     "jp": "「かんじゅく　せんたい！{w}",
-    "en": "",
+    "en": "Hard-Boiled Squadron!{w}",
     "codes": []
    },
    {
     "id": "0DAB93_0211",
     "jp": "「ハードマン！！",
-    "en": "",
+    "en": "Hardman!!",
     "codes": []
    }
   ]
@@ -4422,25 +4422,25 @@
    {
     "id": "0DADB7_002B",
     "jp": "「くっそ〜！{n}「こうなったら‥{w}",
-    "en": "",
+    "en": "Daaamn it!{n}In that case...{w}",
     "codes": []
    },
    {
     "id": "0DADB7_003E",
     "jp": "「ハードロボ　はっしん！！{w}",
-    "en": "",
+    "en": "Hard Robo, launch!!{w}",
     "codes": []
    },
    {
     "id": "0DADB7_0058",
     "jp": "「とうじょうせよ！{w}",
-    "en": "",
+    "en": "Come forth!{w}",
     "codes": []
    },
    {
     "id": "0DADB7_0077",
     "jp": "「おうッ！！{w}",
-    "en": "",
+    "en": "Roger!!{w}",
     "codes": []
    }
   ]
@@ -4456,73 +4456,73 @@
    {
     "id": "0DAE5C_0115",
     "jp": "「たすかりました。{w}",
-    "en": "",
+    "en": "You have saved us.{w}",
     "codes": []
    },
    {
     "id": "0DAE5C_0122",
     "jp": "　わたしは　エッグワールド　こくおう。{w}",
-    "en": "",
+    "en": "I am the King of Egg World.{w}",
     "codes": []
    },
    {
     "id": "0DAE5C_0140",
     "jp": "だいじん「あ　あなたが？{w}",
-    "en": "",
+    "en": "Minister: Y-you are?{w}",
     "codes": []
    },
    {
     "id": "0DAE5C_0159",
     "jp": "こくおう「さよう　エッグモンスターすべての{n}　だいひょうと　おもっていただきたい。{w}{p}「わたしは　エッグワールド　おうひ。{n}　いつも　エッグマンが　おせわに　なって‥{w}{p}だいじん「いやいや　わたしらのほうこそ　いつも{n}　エッグモンスターの　おかげで　たすかっとります。{w}{p}こくおう「われわれまでも　たすけていただき{n}　かんしゃの　ことばもない。{w}{p}　いま　この　エッグワールドにも　かんじゅくなる{n}　ものたちの　まのてが　しのびよっている。{w}{p}おうひ「エッグモンスターのなかにも　かんじゅくがわに　りようされるものも　います。{n}　なげかわしいかぎりです‥{w}{p}こくおう「しかし　たまごで　よびだされたら{n}　そのもののため　たたかわねば　ならぬのが{n}　われらが　さだめ。{w}{p}　ヤツらは　よりパーフェクトな　ちからを{n}　てにいれるため　このエッグワールドに{n}　やってきたらしい。{w}{p}　このせかいに　なにか　そのカギを　にぎるものが{n}　ねむっているという　はなしなのだ。{w}{p}おうひ「それを　てにいれたものの　たまごは　より{n}　きょうりょくな　エッグモンスターを　よびだす{n}　ことが　できるらしいのです。{w}",
-    "en": "",
+    "en": "King: Indeed. Think of me as the representative of all Egg Monsters.{w}{p}I am the Queen of Egg World. Thank you for always looking after Eggman...{w}{p}Minister: No, no, it's we who are always saved by the Egg Monsters.{w}{p}King: You have rescued even us. We cannot thank you enough.{w}{p}Even now, the clutches of the hard-boiled ones creep into this Egg World.{w}{p}Queen: Some Egg Monsters are even being used by the hard-boiled side.{w}{p}It is truly deplorable...{w}{p}King: But once summoned by an egg, it is our fate to fight for the one who summoned us.{w}{p}It seems they came to this Egg World to obtain an even more perfect power.{w}{p}They say something holding the key to it lies sleeping in this world.{w}{p}Queen: It seems that whoever obtains it...{w}{p}...can summon even more powerful Egg Monsters with their eggs.{w}",
     "codes": []
    },
    {
     "id": "0DAE5C_0356",
     "jp": "だいじん「ええ〜ッ！？{w}{p}　いまより　きょうりょくに〜？{w}{p}こくおう「それを　しきしているのが　かんじゅく{n}　はくしゃく！{w}",
-    "en": "",
+    "en": "Minister: Whaaat!?{w}{p}Even more powerful than now~?{w}{p}King: The one commanding them is the Hard-Boiled Count!{w}",
     "codes": []
    },
    {
     "id": "0DAE5C_03A1",
     "jp": "だいじん「まおうの　つぎは　はくしゃくじゃと〜？{w}",
-    "en": "",
+    "en": "Minister: First a Demon King, and now a Count~?{w}",
     "codes": []
    },
    {
     "id": "0DAE5C_03BD",
     "jp": "こくおう「やつらの　たまごに　これいじょう　ちからを　もたせるわけには　ゆかん。{w}{p}おうひ「しかし　あなたがたの　たまごが　パワーアップ　するなら　やつらを　くいとめることが　できます。{w}{p}　やつらは　あなたがたのせかいや　エッグワールド{n}　ばかりか　すべての　じげんの　せかいを{n}　パーフェクトに　ぎゅうじろうと　しています。{w}",
-    "en": "",
+    "en": "King: We must not let their eggs gain any more power.{w}{p}Queen: But if your eggs power up, you can stop them.{w}{p}They mean to hold perfect sway not only over your world and Egg World...{w}{p}...but over the worlds of every dimension.{w}",
     "codes": []
    },
    {
     "id": "0DAE5C_0469",
     "jp": "こくおう「いま　それを　そしできるのは　あなたがたと　われら　エッグモンスターのみ！{w}{p}だいじん「なにやら　そうだいな　スケールに{n}　なってきましたな‥{w}",
-    "en": "",
+    "en": "King: Only you and we Egg Monsters can stop them now!{w}{p}Minister: My, this has grown to quite a grand scale...{w}",
     "codes": []
    },
    {
     "id": "0DAE5C_04BF",
     "jp": "　{hero}さま！{n}　むろん　たたかいますな？{w}",
-    "en": "",
+    "en": "{hero}, my lord!{n}Naturally, you will fight?{w}",
     "codes": []
    },
    {
     "id": "0DAE5C_04D6",
     "jp": "こくおう「どうした？{w}",
-    "en": "",
+    "en": "King: What is the matter?{w}",
     "codes": []
    },
    {
     "id": "0DAE5C_04ED",
     "jp": "だいじん「はずかしながら‥{w}",
-    "en": "",
+    "en": "Minister: I'm ashamed to say...{w}",
     "codes": []
    },
    {
     "id": "0DAE5C_0502",
     "jp": "　あまりの　じたいの　おおきさに　ほうしんして{n}　おるのですじゃ〜〜ッ！！{w}{p}こくおう　おうひ「‥{#0}‥{#1}。{#2}{w}",
-    "en": "",
+    "en": "...the sheer size of it all has left him in a daze~~!!{w}{p}King & Queen: ...{#0}...{#1}.{#2}{w}",
     "codes": [
      "2b 04",
      "2b 04",
@@ -4532,7 +4532,7 @@
    {
     "id": "0DAE5C_0545",
     "jp": "は{#0}{#1}ん{#2}{#3}じ{#4}{#5}ゅ{#6}く{#7}{#8}　{#9}ち{#10}{#11}ょ{#12}{#13}う{#14}{#15}り{#16}{#17}メ{#18}{#19}モ{#20}{n}{n}{#21}６{#22}{#23}に{#24}{#25}ん{#26}{#27}？{#28}{#29}め{#30}　{#31}‥{#32}　{#33}か{#34}{#35}ん{#36}{#37}じ{#38}{#39}ゅ{#40}{#41}く{#42}　{#43}{#44}せ{#45}{#46}ん{#47}{#48}た{#49}{#50}い{#51}　{#52}{#53}ハ{#54}{#55}ー{#56}{#57}ド{#58}{#59}マ{#60}{#61}ン",
-    "en": "",
+    "en": "S{#0}{#1}o{#2}{#3}f{#4}{#5}t{#6}-{#7}{#8}B{#9}o{#10}{#11}i{#12}{#13}l{#14}{#15}e{#16}{#17}d{#18}{#19} Cooking Notes{#20}{n}{n}{#21}N{#22}{#23}o{#24}{#25}.{#26}{#27}6{#28}{#29}?{#30}...{#31} {#32}H{#33}a{#34}{#35}r{#36}{#37}d{#38}{#39}-{#40}{#41}B{#42}o{#43}{#44}i{#45}{#46}l{#47}{#48}e{#49}{#50}d{#51} {#52}{#53}S{#54}{#55}q{#56}{#57}u{#58}{#59}a{#60}{#61}dron Hardman",
     "codes": [
      "2b 02",
      "2d 18",
@@ -4611,7 +4611,7 @@
    {
     "id": "0DB45A_0010",
     "jp": "かんじゅくせんたい　ハードマンをたおし　エッグの{n}こくおう　おうひを　すくった　はんじゅくヒーローこと{hero}のまえに　ちもこおる　せんりつと{n}きょうふが　おそいかかる！{w}{p}けっして　ひとりでは　あそばないでください‥{w}{p}たたかえ　{hero}！{n}いまこそ　たまごを　わるときだ！！{w}{p}じかい　はんじゅくヒーロー　だい７わ{n}{n}”１３にちの　しりょうの　あくむ”に‥{w}",
-    "en": "",
+    "en": "Before {hero}, the Hanjuku Hero who defeated the Hard-Boiled Squadron Hardman...{w}{p}...and saved the King and Queen of Egg World, a blood-freezing terror and dread now strike!{w}{p}Please, never play this alone...{w}{p}Fight, {hero}!{n}Now is the time to crack the eggs!!{w}{p}Next time on Hanjuku Hero,{n}Episode 7:{n}\"Nightmare of the Dead{n}on the 13th\"...{w}",
     "codes": []
    }
   ]
@@ -4627,67 +4627,67 @@
    {
     "id": "0DB522_003D",
     "jp": "たまごパワーアップの　カギを　にぎるものが{n}ここ　クリスタルレイクに　いるとの　じょうほうを{n}えた　{hero}いっこうは　れいによって{n}しろごと　おとずれていたのだった。{w}",
-    "en": "",
+    "en": "Learning that the one who holds the key to powering up eggs was here at Crystal Lake...{w}{p}...{hero} and company had come to visit, castle and all, as usual.{w}",
     "codes": []
    },
    {
     "id": "0DB522_0092",
     "jp": "だいじん「いや〜　すばらしい　けしきじゃ！{w}{p}　しかし　ほんとうに　このちに　たまごパワーを{n}　アップできるものが　いるんじゃろうか。{w}{p}　このての　みずうみは　たいてい　キャンプじょうが{n}　あって　ホラーなんかじゃと　よく　ばけものが{n}　でたり　するんじゃがの。{w}",
-    "en": "",
+    "en": "Minister: Why, what splendid scenery!{w}{p}But is there truly someone in this land who can power up our eggs?{w}{p}Lakes like this usually have a campground...{w}{p}...and in horror movies and such, monsters are always showing up...{w}",
     "codes": []
    },
    {
     "id": "0DB522_0128",
     "jp": "　よなかに　デートしてる　ふきんしんな　やからから{n}　つぎつぎと　やられたりして‥{w}",
-    "en": "",
+    "en": "Picking off the indecent sorts out on midnight dates, one after another...{w}",
     "codes": []
    },
    {
     "id": "0DB522_019E",
     "jp": "　どうしました　{hero}さま？{w}{p}　いや　べつに　{hero}さまを{n}　おどしてるわけじゃ　ありませんぞ。{w}{p}　なにか　おるのですかな？{w}",
-    "en": "",
+    "en": "What's wrong, {hero}, my lord?{w}{p}Now, now, I'm not trying to scare you, {hero}, my lord.{w}{p}Is something there?{w}",
     "codes": []
    },
    {
     "id": "0DB522_01FE",
     "jp": "　{hero}さま　こわがりも　たいがいに{n}　しないと　アルマムーンとうしゅの　なが{n}　なきますぞ！{w}",
-    "en": "",
+    "en": "{hero}, my lord, enough of being such a scaredy-cat!{w}{p}You'll shame the name of Almamoon's ruler!{w}",
     "codes": []
    },
    {
     "id": "0DB522_025B",
     "jp": "　いいとしを　してからに！{w}{p}　まてよ‥{w}{p}　この　こわがりかた‥{w}{p}　もしや　ホントに‥{w}",
-    "en": "",
+    "en": "At your age!{w}{p}Wait a moment...{w}{p}This kind of fright...{w}{p}Could it be... for real...{w}",
     "codes": []
    },
    {
     "id": "0DB522_029C",
     "jp": "　いや　きのせいじゃな‥{w}",
-    "en": "",
+    "en": "No, just my imagination...{w}",
     "codes": []
    },
    {
     "id": "0DB522_02B2",
     "jp": "　{hero}さま！{n}　いいかげんに　しないと‥{w}",
-    "en": "",
+    "en": "{hero}, my lord!{n}If you don't knock it off...{w}",
     "codes": []
    },
    {
     "id": "0DB522_02DE",
     "jp": "へいし「だ　だいじんどの！{w}",
-    "en": "",
+    "en": "Soldier: M-Minister, sir!{w}",
     "codes": []
    },
    {
     "id": "0DB522_02ED",
     "jp": "だいじん「なんじゃ　まさか　おまえたちまで‥{w}",
-    "en": "",
+    "en": "Minister: What is it? Don't tell me you lot too...{w}",
     "codes": []
    },
    {
     "id": "0DB522_030B",
     "jp": "　どぎゃひえ〜〜〜ッ！！{#0}{#1}{#2}{#3}{#4}{#5}{#6}{w}",
-    "en": "",
+    "en": "Dogyahyeeeeeee!!{#0}{#1}{#2}{#3}{#4}{#5}{#6}{w}",
     "codes": [
      "08",
      "2a",
@@ -4701,79 +4701,79 @@
    {
     "id": "0DB522_032D",
     "jp": "「おくびょうものが‥{w}{p}　うわさほどにもない‥{w}{p}　やはり　はんじゅくだ‥{w}{p}へいし「ひ‥{w}{p}　ひとだまが　しゃべった！？{w}{p}「いちばん　れいせいなのが　いっかいの{n}　へいしとはな‥{w}{p}　わたしは　かんじゅく　はくしゃくの　つかいで{n}　きた‥{w}",
-    "en": "",
+    "en": "Cowards...{w}{p}Not even worth the rumors...{w}{p}Soft-boiled after all...{w}{p}Soldier: Th...{w}{p}The will-o'-the-wisp talked!?{w}{p}And the calmest one of all is a mere soldier...{w}{p}I come as the messenger of the Hard-Boiled Count...{w}",
     "codes": []
    },
    {
     "id": "0DB522_03B0",
     "jp": "だいじん「かんじゅく　はくしゃくの？{w}{p}「そうだ‥{w}{p}　このちにある　クリスタルこそ　たまごの{n}　ちからを　ぞうふくさせる　カギ‥{w}{p}だいじん「クリスタルじゃと？{w}{p}「その　ひみつを　にぎるものは　すでに　われらが{n}　かんじゅく　ゆうれいじょうに　とらえてある‥{w}{p}だいじん「ゆ　ゆうれいじょう？{w}{p}「ゆうれいじょうを　じったいかさせ　しんにゅう{n}　するには　れいによって‥{w}{p}だいじん「ほかのしろを　おとせば　よいのじゃな！{n}　もう　わかっておるわい！{w}{p}「だが　きさまらが　たどりつくころには{n}　われらが　くろき　たまごは　きゅうきょくの{n}　パワーを　てにしているハズだ‥{w}",
-    "en": "",
+    "en": "Minister: The Hard-Boiled Count's?{w}{p}Indeed...{w}{p}The crystal in this land is the key that amplifies the power of eggs...{w}{p}Minister: A crystal, you say?{w}{p}The one who holds its secret is already captive in our Hard-Boiled Ghost Castle...{w}{p}Minister: G-Ghost Castle?{w}{p}To make the Ghost Castle materialize and invade it, as usual...{w}{p}Minister: We must take the other castles! I know that already!{w}{p}But by the time you reach it, our black egg shall surely have gained the ultimate power...{w}",
     "codes": []
    },
    {
     "id": "0DB522_04DB",
     "jp": "だいじん「そんなことは　ぜったいに　させんぞ！{w}{p}「きさまが　いくら　いきがったところで{n}　{hero}に　そのきが　あるかな？{w}{p}だいじん「もちろんじゃッ！！{w}",
-    "en": "",
+    "en": "Minister: I'll never let that happen!{w}{p}Bluster all you like, but does {hero} have the will?{w}{p}Minister: Of course he does!!{w}",
     "codes": []
    },
    {
     "id": "0DB522_0530",
     "jp": "　そうですな　{hero}さま！{w}",
-    "en": "",
+    "en": "Isn't that right, {hero}, my lord!{w}",
     "codes": []
    },
    {
     "id": "0DB522_053F",
     "jp": "「きを　うしなっているじゃないか‥{w}{p}　これで　ぜんせかいは　わが　かんじゅくの　てに{n}　おちたも　おなじ‥{w}{p}　ムダな　どりょくは　やめておくのだな‥{w}",
-    "en": "",
+    "en": "Why, he's fainted...{w}{p}With this, the whole world is as good as in our hard-boiled hands...{w}{p}Best give up your futile efforts...{w}",
     "codes": []
    },
    {
     "id": "0DB522_0593",
     "jp": "だいじん「なんじゃと！？{w}{p}「フフフフ‥",
-    "en": "",
+    "en": "Minister: What did you say!?{w}{p}Heh heh heh heh...",
     "codes": []
    },
    {
     "id": "0DB522_05BB",
     "jp": "だいじん「ま　まていッ！！{w}",
-    "en": "",
+    "en": "Minister: W-wait!!{w}",
     "codes": []
    },
    {
     "id": "0DB522_05E8",
     "jp": "だいじん「かんじゅく　はくしゃく‥{w}{p}　いったい　どんなあいてなんじゃ‥{w}",
-    "en": "",
+    "en": "Minister: The Hard-Boiled Count...{w}{p}Just what sort of foe is he...{w}",
     "codes": []
    },
    {
     "id": "0DB522_0610",
     "jp": "　じゃが　クリスタルを　わたすワケには{n}　ゆかんぞ‥！{w}",
-    "en": "",
+    "en": "But I will not let him have the crystal...!{w}",
     "codes": []
    },
    {
     "id": "0DB522_0641",
     "jp": "へいし「おお　きがつかれましたか{n}　{hero}さま。{w}",
-    "en": "",
+    "en": "Soldier: Oh, you've come to,{n}{hero}, my lord.{w}",
     "codes": []
    },
    {
     "id": "0DB522_065E",
     "jp": "だいじん「これまた‥{w}",
-    "en": "",
+    "en": "Minister: Well, well...{w}",
     "codes": []
    },
    {
     "id": "0DB522_067E",
     "jp": "だいじん「ずいぶんと‥{w}",
-    "en": "",
+    "en": "Minister: You certainly...{w}",
     "codes": []
    },
    {
     "id": "0DB522_0694",
     "jp": "　ぜつみょうの　タイミングで　きがつきますな{n}　{hero}さま〜ッ！{w}",
-    "en": "",
+    "en": "...picked the perfect moment to wake up,{n}{hero}, my lord~!{w}",
     "codes": []
    }
   ]
@@ -4789,37 +4789,37 @@
    {
     "id": "0DBBE1_0044",
     "jp": "「フフフ‥{w}",
-    "en": "",
+    "en": "Heh heh heh...{w}",
     "codes": []
    },
    {
     "id": "0DBBE1_00B6",
     "jp": "「ようこそ‥{w}",
-    "en": "",
+    "en": "Welcome...{w}",
     "codes": []
    },
    {
     "id": "0DBBE1_00F6",
     "jp": "「まだ　あきらめては　いなかったのか‥{w}",
-    "en": "",
+    "en": "So you still haven't given up...{w}",
     "codes": []
    },
    {
     "id": "0DBBE1_0143",
     "jp": "「だが　いっぽ　おそかったな‥{w}",
-    "en": "",
+    "en": "But you are one step too late...{w}",
     "codes": []
    },
    {
     "id": "0DBBE1_01B0",
     "jp": "「すでに　クリスタルは　かんせいした‥{w}",
-    "en": "",
+    "en": "The crystal is already complete...{w}",
     "codes": []
    },
    {
     "id": "0DBBE1_0221",
     "jp": "「あとは　おまえたちの　たまごを　けしさって{n}　われわれが　きゅうきょくの　パワーを　てに{n}　するのみ‥{w}{p}{#0}「われわれが　はんじゅくな　たまごを{n}　ひとつのこらず　けしさってやる！{w}",
-    "en": "",
+    "en": "All that remains is to wipe out your eggs, and the ultimate power shall be ours...{w}{p}{#0}We shall wipe out every last soft-boiled egg!{w}",
     "codes": [
      "1e"
     ]
@@ -4827,13 +4827,13 @@
    {
     "id": "0DBBE1_075B",
     "jp": "　わたしが　かんじゅく　はくしゃくだ‥{w}{p}　だが　わたしを　よくしるものは　はくしゃくとは{n}　よばん‥{w}{p}　そんけいと　きょうふを　こめて　こう　よぶよ‥{w}",
-    "en": "",
+    "en": "I am the Hard-Boiled Count...{w}{p}But those who know me well do not call me Count...{w}{p}With reverence and terror, they call me...{w}",
     "codes": []
    },
    {
     "id": "0DBBE1_07AA",
     "jp": "　きゅうらんき‥{#0}　ランパイアとな！{w}",
-    "en": "",
+    "en": "The Egg Vampire...{#0} Rampire!{w}",
     "codes": [
      "2c 25"
     ]
@@ -4851,19 +4851,19 @@
    {
     "id": "0DC3A7_0036",
     "jp": "ランパイア「しまった‥{w}{p}　わたしが　しねば‥{n}　やつを　ふうじている　じゅばくが　とけてしまう‥{w}",
-    "en": "",
+    "en": "Rampire: Curses...{w}{p}If I die... the spell binding him will be broken...{w}",
     "codes": []
    },
    {
     "id": "0DC3A7_006B",
     "jp": "　グ‥ギャアアアア‥！！",
-    "en": "",
+    "en": "Guh... GYAAAAAH...!!",
     "codes": []
    },
    {
     "id": "0DC3A7_00EA",
     "jp": "「ふい〜ッ{#0}{#1}{p}　‥っと　どっこいしょ。{#2}{#3}{#4}{#5}{w}{p}　は〜　たすかった〜！{w}{p}　いや〜　しかし　あたしを　ねらって　あらそいが{n}　おこるなんて　あたしも　なまえが　うれたもん{n}　だなあ。{w}",
-    "en": "",
+    "en": "Phewww~{#0}{#1}{p}...and, upsy-daisy.{#2}{#3}{#4}{#5}{w}{p}Haah~ I'm saved~!{w}{p}Well now, folks fightin' over little ol' me... guess I've made quite a name for myself!{w}",
     "codes": [
      "2e 02 04 28 05 28",
      "2e 02 04 27 68 05 27 68",
@@ -4876,25 +4876,25 @@
    {
     "id": "0DC3A7_0158",
     "jp": "だいじん「そなたが　クリスタル‥{w}",
-    "en": "",
+    "en": "Minister: So you are the crystal...{w}",
     "codes": []
    },
    {
     "id": "0DC3A7_0172",
     "jp": "「さいです　あたしが　クリスで！{w}{p}だいじん「へ？{w}{p}「あなたたちも　あたしの　たるが　ほしいんで？{w}",
-    "en": "",
+    "en": "Yep, I'm Chris! Chris, at yer service!{w}{p}Minister: Eh?{w}{p}You folks want one of my tals too?{w}",
     "codes": []
    },
    {
     "id": "0DC3A7_01A6",
     "jp": "　ちまたじゃ　クリスたるっていって{n}　なかなかの　ひょうばんなんで！{w}{p}　おひとつ　いかがです？{w}",
-    "en": "",
+    "en": "Round town folks call 'em Chris-tals, and they're mighty popular!{w}{p}How 'bout one?{w}",
     "codes": []
    },
    {
     "id": "0DC3A7_01DE",
     "jp": "だいじん「‥{#0}‥{#1}。{w}",
-    "en": "",
+    "en": "Minister: ...{#0}...{#1}.{w}",
     "codes": [
      "2b 06",
      "2b 06"
@@ -4903,55 +4903,55 @@
    {
     "id": "0DC3A7_01EE",
     "jp": "「あれ？{w}{p}　ど〜しました？　かたまっちゃって‥{w}",
-    "en": "",
+    "en": "Huh?{w}{p}Wha~t's wrong? You've gone all stiff...{w}",
     "codes": []
    },
    {
     "id": "0DC3A7_020D",
     "jp": "だいじん「で　では‥{w}{p}　たまごのパワーが　アップするというのは‥{w}{p}クリス「ああ　たまごの　ひもちが　よくなる　たるで？　おだいどころに　この　ひとたる！{n}　おくさまがたには　だいひょうばんの　たるでさ〜！{w}",
-    "en": "",
+    "en": "Minister: Th-then...{w}{p}This talk of powering up eggs...{w}{p}Chris: Ah, my tal keg that keeps eggs fresh longer? One tal for every kitchen!{w}{p}The ladies just love this tal~!{w}",
     "codes": []
    },
    {
     "id": "0DC3A7_0285",
     "jp": "だいじん「わ　わたしらが　してきたことは{n}　いったい‥{w}{p}クリス「でも　たたかって　つよくなったんでしょ？{n}　ま　いいじゃないすか！{w}",
-    "en": "",
+    "en": "Minister: Wh-what we've been doing all this time... what was it for...{w}{p}Chris: But ya got stronger fightin', right? So what's the harm!{w}",
     "codes": []
    },
    {
     "id": "0DC3A7_02D7",
     "jp": "　あ‥{w}{p}　なんか　おこってます？{w}{p}　きたいを　うらぎっちゃったかなあ？{w}{p}　じゃあ　おわびに　いいこと　おしえまさ〜！{w}{p}　あのね　はくしゃくの　うえには　かんじゅく{n}　だいしょうぐんってのが　いるみたいですよ。{w}{p}だいじん「まだ　おるのか〜！？{w}{p}クリス「よかったですな〜！{w}",
-    "en": "",
+    "en": "Ah...{w}{p}You sore at me or somethin'?{w}{p}Guess I let ya down, huh?{w}{p}Well then, to make it up, I'll tell ya somethin' good~!{w}{p}Y'see, above the Count there's somebody called the Hard-Boiled Shogun.{w}{p}Minister: There are MORE of them!?{w}{p}Chris: Lucky you, huh~!{w}",
     "codes": []
    },
    {
     "id": "0DC3A7_0367",
     "jp": "だいじん「よかないわい！{w}",
-    "en": "",
+    "en": "Minister: Lucky, nothing!{w}",
     "codes": []
    },
    {
     "id": "0DC3A7_037E",
     "jp": "クリス「え？{w}{p}　なかなか　いいたるですと？{w}{p}　いや〜　こちら　なかなか　みるめが　ある！{w}",
-    "en": "",
+    "en": "Chris: Eh?{w}{p}\"Quite a nice tal,\" ya say?{w}{p}Well now, you've sure got an eye for quality!{w}",
     "codes": []
    },
    {
     "id": "0DC3A7_03B8",
     "jp": "クリス「おや？　ど〜したんです？{w}",
-    "en": "",
+    "en": "Chris: Huh? Wha~t's the matter?{w}",
     "codes": []
    },
    {
     "id": "0DC3A7_03D5",
     "jp": "ことばもなく　ただ　ひたすら　こえを　ころして{n}なく　だいじんであった‥。{w}",
-    "en": "",
+    "en": "Speechless, the Minister could only weep and weep, stifling his sobs...{w}",
     "codes": []
    },
    {
     "id": "0DC3A7_040C",
     "jp": "は{#0}{#1}ん{#2}{#3}じ{#4}{#5}ゅ{#6}く{#7}{#8}　{#9}ち{#10}{#11}ょ{#12}{#13}う{#14}{#15}り{#16}{#17}メ{#18}{#19}モ{#20}{n}{n}{#21}７{#22}{#23}に{#24}{#25}ん{#26}{#27}め{#28}　{#29}‥{#30}　{#31}き{#32}{#33}ゅ{#34}{#35}う{#36}{#37}ら{#38}{#39}ん{#40}{#41}き{#42}　{#43}{#44}ラ{#45}{#46}ン{#47}{#48}パ{#49}{#50}イ{#51}{#52}ア",
-    "en": "",
+    "en": "S{#0}{#1}o{#2}{#3}f{#4}{#5}t{#6}-{#7}{#8}B{#9}o{#10}{#11}i{#12}{#13}l{#14}{#15}e{#16}{#17}d{#18}{#19} Cooking Notes{#20}{n}{n}{#21}N{#22}{#23}o{#24}{#25}.{#26}{#27}7{#28}...{#29} {#30}E{#31}g{#32}{#33}g{#34} {#35}V{#36}{#37}a{#38}{#39}m{#40}{#41}p{#42}i{#43}{#44}r{#45}{#46}e{#47} {#48}R{#49}{#50}a{#51}{#52}mpire",
     "codes": [
      "2b 02",
      "2d 18",
@@ -5021,7 +5021,7 @@
    {
     "id": "0DC852_0010",
     "jp": "ふじみの　きゅうらんき　ランパイアを　たおした{n}はんじゅくヒーローこと　{hero}のまえに{n}ついに　さいごのてきが　すがたをあらわす！{w}{p}ヤツを　たおせば　このちにも　へいわが{n}　おとずれるのか！？{w}{p}たたかえ　{hero}！{n}いまこそ　たまごを　わるときだ！！{w}{p}じかい　はんじゅくヒーロー　だい８わ{n}{n}”かんじゅく　だいしょうぐんの　やぼう”に‥{w}",
-    "en": "",
+    "en": "Before {hero}, the Hanjuku Hero who defeated the undying Egg Vampire Rampire...{w}{p}...the final foe at last shows himself!{w}{p}If he falls, will peace finally come to this land!?{w}{p}Fight, {hero}!{n}Now is the time to crack the eggs!!{w}{p}Next time on Hanjuku Hero,{n}Episode 8:{n}\"The Hard-Boiled{n}Shogun's Ambition\"...{w}",
     "codes": []
    }
   ]
@@ -5037,103 +5037,103 @@
    {
     "id": "0DC912_003B",
     "jp": "だいじん「だいしょうぐん‥{w}{p}　ファンタジーのせかいに　じだいげきで{n}　のりこんでくるとは　ふてきなヤツ‥{w}",
-    "en": "",
+    "en": "Minister: A shogun...{w}{p}Barging into a fantasy world straight out of a samurai drama... the brazen rascal...{w}",
     "codes": []
    },
    {
     "id": "0DC912_007B",
     "jp": "「だいじんどの‥{w}{p}だいじん「おお　ゴニンジャーではないか。{w}{p}ニンジャ「た　たいへんでござる‥{w}{p}　せっしゃが　かんじゅくぐんの　しろに{n}　しのびこんでいたときの　ことでござる‥{w}",
-    "en": "",
+    "en": "Minister, sir...{w}{p}Minister: Why, if it isn't the Goninja.{w}{p}Ninja: D-dire news, sir...{w}{p}It happened while I was sneaking into the Hard-Boiled Army's castle...{w}",
     "codes": []
    },
    {
     "id": "0DC912_00F7",
     "jp": "だいしょうぐん「さいしゅうへいきとな？{w}{p}てき「は！　このまま　はんじゅくどもと{n}　ていレベルな　たたかいを　くりかえしても{n}　しかたありません。{w}{p}　さいしゅうへいきを　けんぞうし　いっきに{n}　カタをつけるというのは　どうでしょう？{w}{p}だいしょうぐん「さいしゅうへいきというと‥{n}　アレか？{w}{p}てき「さよう！{w}{p}だいしょうぐん「しかし　ここエッグワールドで{n}　アレを　つかえば　われらが　くろきたまごも{n}　つかえなくなるのでは　ないか？{w}{p}てき「そのてんなら　ごしんぱい　いりませぬ。{n}　まんがいち　はんじゅくどもが　いきのこったと{n}　しても‥{w}{p}　このエッグワールドさえ　かいめつさせれば{n}　はんじゅくどもは　きばを　ぬかれた　とらも{n}　どうぜん‥　ねこのようなもの。{w}{p}だいしょうぐん「われら　かんじゅくの{n}　てきではない‥か。{w}{p}てき「は　あかごの　てを　ひねるも　どうぜんかと。{w}{p}だいしょうぐん「なるほど‥{w}",
-    "en": "",
+    "en": "Grand General: An ultimate weapon, you say?{w}{p}Enemy: Yes! There's no point in fighting these petty battles with the soft-boiled lot forever.{w}{p}Why not build the ultimate weapon and settle things in one stroke?{w}{p}Grand General: The ultimate weapon... You mean THAT?{w}{p}Enemy: Indeed!{w}{p}Grand General: But if we use THAT here in Egg World...{w}{p}...won't our own black eggs become useless as well?{w}{p}Enemy: You needn't worry on that score.{w}{p}Even if, by some chance, the soft-boiled lot survive...{w}{p}...once Egg World itself is destroyed, they'll be like a tiger with its fangs pulled...{w}{p}...no better than a pussycat.{w}{p}Grand General: No match for us hard-boiled, eh?{w}{p}Enemy: Yes. It will be like twisting a baby's arm.{w}{p}Grand General: I see...{w}",
     "codes": []
    },
    {
     "id": "0DC912_0293",
     "jp": "　しかし　おぬしも‥{w}{p}　かんじゅくよの。{w}{p}てき「いやいや‥{w}{p}　だいしょうぐんどのには　かないませぬわ。{w}{p}だいしょうぐん「ウワッハッハッ‥{w}",
-    "en": "",
+    "en": "But you, my friend...{w}{p}...are truly hard-boiled.{w}{p}Enemy: Oh, no, no...{w}{p}I'm no match for you, Grand General.{w}{p}Grand General: Wa ha ha ha...{w}",
     "codes": []
    },
    {
     "id": "0DC912_02DE",
     "jp": "　なんて　わらうか！{n}　あたりまえだ　うつけもの！{w}{p}てき「すみませぬ　ですぎた　ツッコミを！{w}",
-    "en": "",
+    "en": "As if I'd laugh at that! Of course I am, you dolt!{w}{p}Enemy: Forgive me for that uncalled-for comeback!{w}",
     "codes": []
    },
    {
     "id": "0DC912_031C",
     "jp": "ニンジャ「しまった　おもわず　コケてしまった！{w}",
-    "en": "",
+    "en": "Ninja: Drat! I fell over before I could stop myself!{w}",
     "codes": []
    },
    {
     "id": "0DC912_0337",
     "jp": "だいしょうぐん「む！　くせもの！{w}",
-    "en": "",
+    "en": "Grand General: Hm! An intruder!{w}",
     "codes": []
    },
    {
     "id": "0DC912_0352",
     "jp": "てき「にがすな〜！{w}",
-    "en": "",
+    "en": "Enemy: Don't let him escape~!{w}",
     "codes": []
    },
    {
     "id": "0DC912_037D",
     "jp": "ニンジャ「‥ということで　いのちからがら{n}　にげてきたしだいで‥{w}{p}だいじん「おぬし　ケガを　しているではないか！{w}",
-    "en": "",
+    "en": "Ninja: ...And so I escaped by the skin of my teeth...{w}{p}Minister: Why, you're injured!{w}",
     "codes": []
    },
    {
     "id": "0DC912_03C4",
     "jp": "　お〜い！{w}{p}ニンジャ「おまちください！{w}",
-    "en": "",
+    "en": "Heeey!{w}{p}Ninja: Please, wait!{w}",
     "codes": []
    },
    {
     "id": "0DC912_03E2",
     "jp": "　その　さいしゅうへいきらしき　けんぞうぶつが{n}　たいりくの　あちこちに　しゅつげんしています。{w}{p}　しかし　それじたいには　なんの　けはいも{n}　かんじられませぬ‥{w}{p}　おそらく　あれは　おとり‥{n}　ほんとうに　さいしゅうへいきを　けんぞうしている{n}　ところは　どこかの　しろかと‥{w}{p}だいじん「うむ！　しょうちした！{n}　てきのしろを　しらみつぶしに　すればよかろう！{w}{p}　さ！　きずのてあてを！{w}",
-    "en": "",
+    "en": "Buildings that seem to be this ultimate weapon have appeared all over the continent.{w}{p}But I sensed no presence at all in the buildings themselves...{w}{p}They are probably decoys...{w}{p}The ultimate weapon must really be under construction in a castle somewhere...{w}{p}Minister: Hm! Understood! Then we'll go through the enemy's castles one by one!{w}{p}Now! Tend to his wounds!{w}",
     "codes": []
    },
    {
     "id": "0DC912_04B6",
     "jp": "　お〜い！{w}",
-    "en": "",
+    "en": "Heeey!{w}",
     "codes": []
    },
    {
     "id": "0DC912_04D5",
     "jp": "ニンジャ「あ　あの‥{w}{p}　まだ　いきてるんですけど‥{w}",
-    "en": "",
+    "en": "Ninja: U-um...{w}{p}I'm still alive, you know...{w}",
     "codes": []
    },
    {
     "id": "0DC912_0522",
     "jp": "だいじん「きかれましたな？{n}　{hero}さま！{w}{p}　エッグワールドもろとも　はかいできるような{n}　おそろしいものを　かんせい　させるワケには{n}　ゆきませぬ！{w}{p}　さっそく　しゅつげきし　けんぞうばしょを{n}　つきとめないと‥{w}",
-    "en": "",
+    "en": "Minister: You heard him,{n}{hero}, my lord!{w}{p}We cannot let them complete something so terrible it could destroy Egg World along with us!{w}{p}We must sortie at once and find where it's being built...{w}",
     "codes": []
    },
    {
     "id": "0DC912_0596",
     "jp": "だいじん「このごに　およんで‥{w}",
-    "en": "",
+    "en": "Minister: At a time like this...{w}",
     "codes": []
    },
    {
     "id": "0DC912_05AF",
     "jp": "　そんな‥{w}",
-    "en": "",
+    "en": "How could you...{w}",
     "codes": []
    },
    {
     "id": "0DC912_05BC",
     "jp": "　オーソドックスな　ボケを〜〜ッ！！{w}",
-    "en": "",
+    "en": "...pull such a textbook gag~~!!{w}",
     "codes": []
    }
   ]
@@ -5149,37 +5149,37 @@
    {
     "id": "0DCEED_0009",
     "jp": "「ざんねんじゃったな　ここは　わが　がじょう{n}　かんじゅく　てんしゅかく！{n}　さいしゅうへいきの　けんぞうばしょでは　ないわ！{w}{p}　どうしても　そししたくば　よを　たおして{n}　とめるがよい！{w}{p}　しょ〜あ〜っぷ！！{w}",
-    "en": "",
+    "en": "Too bad! This is my own castle, the Hard-Boiled Keep!{w}{p}It's not where the ultimate weapon is being built!{w}{p}If you must stop it, then stop it by defeating me!{w}{p}Shooow uuup!!{w}",
     "codes": []
    },
    {
     "id": "0DCEED_0081",
     "jp": "　ひと〜つ！　ひとまえで　はなみず　すする！{w}",
-    "en": "",
+    "en": "One~! Slurping my snot in front of people!{w}",
     "codes": []
    },
    {
     "id": "0DCEED_00A5",
     "jp": "　ふた〜つ！　ふぬけた　まぬけ　ざんまい！{w}",
-    "en": "",
+    "en": "Two~! Spineless, witless, all day long!{w}",
     "codes": []
    },
    {
     "id": "0DCEED_00CE",
     "jp": "　みっつ！　みにくい　はんじゅくものを‥{w}",
-    "en": "",
+    "en": "Three! The ugly soft-boiled fools...{w}",
     "codes": []
    },
    {
     "id": "0DCEED_00EC",
     "jp": "　たいじてくれよう！{w}",
-    "en": "",
+    "en": "...I shall exterminate!{w}",
     "codes": []
    },
    {
     "id": "0DCEED_00FB",
     "jp": "　ノブナーガ！！{w}",
-    "en": "",
+    "en": "Nobunaga!!{w}",
     "codes": []
    }
   ]
@@ -5195,79 +5195,79 @@
    {
     "id": "0DCFFA_003E",
     "jp": "ノブナーガ「クックック‥{w}{p}だいじん「なにが　おかしい！？{w}",
-    "en": "",
+    "en": "Nobunaga: Ku ku ku...{w}{p}Minister: What's so funny?!{w}",
     "codes": []
    },
    {
     "id": "0DCFFA_005F",
     "jp": "ノブナーガ「ざんねんじゃったな‥{n}　よを　たおしてもすでに　おそい！{w}{p}　さいしゅうへいき‥{w}{p}　そのなも　かんじゅく　へいき”Ｐ”は　すでに{n}　かんせい　しつつある！{w}",
-    "en": "",
+    "en": "Nobunaga: Too bad for you... Even if you defeat me, it's already too late!{w}{p}The ultimate weapon...{w}{p}...by the name of Hard-Boiled Weapon \"P\"... is already nearly complete!{w}",
     "codes": []
    },
    {
     "id": "0DCFFA_00BE",
     "jp": "だいじん「”Ｐ”とは　いったい　なんじゃッ！？{w}{p}ノブナーガ「”Ｐ”の　きょうふに　おびえて{n}　くらすがいい！{w}{p}　フハハハハーッ！{w}",
-    "en": "",
+    "en": "Minister: What on earth is \"P\"?!{w}{p}Nobunaga: Go on living in terror of \"P\"!{w}{p}Fwa ha ha ha haaa!{w}",
     "codes": []
    },
    {
     "id": "0DCFFA_0110",
     "jp": "　げてんは　やはり　ゆめじゃったか〜ッ！",
-    "en": "",
+    "en": "So this mortal world was but a dream after all~!",
     "codes": []
    },
    {
     "id": "0DCFFA_014F",
     "jp": "だいじん「なんだか　らしくない　てんかいに{n}　なってきてしまいましたな‥{w}",
-    "en": "",
+    "en": "Minister: Things have taken a rather uncharacteristic turn, haven't they...{w}",
     "codes": []
    },
    {
     "id": "0DCFFA_0189",
     "jp": "しかいしゃ「は〜い！{n}　といったところで　このゲームも　いよいよ{n}　かきょう！{w}{p}　だいしょうぐんは　たおしたが　すでに{n}　さいしゅうへいきは　かんせいしつつあった‥{w}{p}　かんじゅく　へいき　”Ｐ”とは　いったい{n}　どんな　おそろしい　ものなのか？{w}{p}　はたして　{hero}たち　はんじゅくぐんに{n}　そんな　まっとうな　てきを　たおすことが{n}　できるのか！？{w}",
-    "en": "",
+    "en": "Host: Hi~! And with that, this game is finally reaching its climax!{w}{p}The Grand General is defeated, but the ultimate weapon was already nearly complete...{w}{p}Just what kind of terrible thing is Hard-Boiled Weapon \"P\"?{w}{p}Can {hero} and the Soft-Boiled Army really defeat such a proper enemy?!{w}",
     "codes": []
    },
    {
     "id": "0DCFFA_0248",
     "jp": "だいじん「おおきな　おせわじゃ！{w}",
-    "en": "",
+    "en": "Minister: Mind your own business!{w}",
     "codes": []
    },
    {
     "id": "0DCFFA_025C",
     "jp": "しかいしゃ「と　ひとり　きをはく　だいじんですが{n}　これからの　ハードな　てんかいに　はたして{n}　{hero}は　ついてこれるのか！？{w}",
-    "en": "",
+    "en": "Host: So says the Minister, defiant all on his own...{w}{p}But can{n}{hero} really keep up with the hard-core story ahead?!{w}",
     "codes": []
    },
    {
     "id": "0DCFFA_02CF",
     "jp": "だいじん「やかましいと　いっておろうに！！{w}",
-    "en": "",
+    "en": "Minister: I told you to pipe down!!{w}",
     "codes": []
    },
    {
     "id": "0DCFFA_02E8",
     "jp": "しかいしゃ「だいじんの　けつあつとともに{n}　ものがたりも　ヒ〜トアップ！{w}{p}　まて！　じかい！！{w}",
-    "en": "",
+    "en": "Host: Along with the Minister's blood pressure, the story heats up~!{w}{p}Don't miss the next episode!!{w}",
     "codes": []
    },
    {
     "id": "0DCFFA_032C",
     "jp": "だいじん「{hero}さま‥{w}{p}　かんじゅく　へいき　”Ｐ”‥{w}",
-    "en": "",
+    "en": "Minister: {hero}, my lord...{w}{p}Hard-Boiled Weapon \"P\"...{w}",
     "codes": []
    },
    {
     "id": "0DCFFA_034E",
     "jp": "　いじでも　たおしましょうぞ〜ッ！！{w}",
-    "en": "",
+    "en": "We'll defeat it, whatever it takes~!!{w}",
     "codes": []
    },
    {
     "id": "0DCFFA_036A",
     "jp": "は{#0}{#1}ん{#2}{#3}じ{#4}{#5}ゅ{#6}{#7}く{#8}　{#9}ち{#10}{#11}ょ{#12}{#13}う{#14}{#15}り{#16}{#17}メ{#18}{#19}モ{#20}{n}{n}{#21}８{#22}{#23}に{#24}{#25}ん{#26}{#27}め{#28}　{#29}‥{#30}　{#31}か{#32}{#33}ん{#34}{#35}じ{#36}{#37}ゅ{#38}{#39}く{#40}　{#41}{#42}だ{#43}{#44}い{#45}{#46}し{#47}{#48}ょ{#49}{#50}う{#51}{#52}ぐ{#53}{#54}ん{n}　　　　　　　　{#55}ノ{#56}{#57}ブ{#58}{#59}ナ{#60}{#61}ー{#62}{#63}ガ",
-    "en": "",
+    "en": "Soft{#0}{#1}-{#2}{#3}Boil{#4}{#5}ed{#6}{#7} {#8}Cook{#9}ing{#10}{#11} {#12}{#13}Me{#14}{#15}mo{#16}{#17}{#18}{#19}{#20}{n}{#21}No.{#22}{#23} 8{#24}{#25}{#26}{#27}{#28} {#29}...{#30} {#31}Hard{#32}{#33}-{#34}{#35}Boil{#36}{#37}ed{#38}{#39}{#40}{n}{#41}{#42}Grand{#43}{#44} {#45}{#46}Gen{#47}{#48}er{#49}{#50}al{#51}{#52}{#53}{#54}{n}        {#55}No{#56}{#57}bu{#58}{#59}na{#60}{#61}{#62}{#63}ga",
     "codes": [
      "2b 02",
      "2d 18",
@@ -5348,7 +5348,7 @@
    {
     "id": "0DD428_0010",
     "jp": "さいごのてきと　おもわれた{n}かんじゅく　だいしょうぐんを　たおした{n}はんじゅくヒーローこと　{hero}のまえに{n}ついに　さいしゅうへいきが　すがたをあらわす！{w}{p}エッグワールドぜんどを　ゆるがす　きょだいな{n}かげ‥{n}そのなも　かんじゅく　へいき”Ｐ”！！{w}{p}たたかえ　{hero}！{n}いまこそ　たまごを　わるときだ！！{w}{p}じかい　はんじゅくヒーロー　だい９わ{n}{n}”ふるえるだいち‥　さむいわけじゃない！”に‥{w}",
-    "en": "",
+    "en": "Before {hero}, the Hanjuku Hero who defeated the Hard-Boiled Grand General...{w}{p}...thought to be the final foe...{w}{p}...the ultimate weapon at last reveals itself!{w}{p}A giant shadow that shakes all of Egg World... By the name of Hard-Boiled Weapon \"P\"!!{w}{p}Fight, {hero}!{n}Now is the time to crack the egg!!{w}{p}Next time on Hanjuku Hero,{n}Episode 9:{n}\"The Earth Trembles... But Not from the Cold!\"...{w}",
     "codes": []
    }
   ]
@@ -5364,79 +5364,79 @@
    {
     "id": "0DD505_003D",
     "jp": "かんじゅく　へいき”Ｐ”を　はかいするため{n}ぜんぐんを　あげて　けんぞうばしょ　そうさくを{n}おこなっている　アルマムーンであったが‥{w}",
-    "en": "",
+    "en": "To destroy Hard-Boiled Weapon \"P\", Almamoon had mobilized its entire army...{w}{p}...to search for the place where it was being built, but...{w}",
     "codes": []
    },
    {
     "id": "0DD505_0083",
     "jp": "だいじん「いそがねば‥！{w}{p}　しかし　けんぞうばしょらしきものは　いっこうに{n}　みつからぬ‥{w}{p}　こうしているうちにも　Ｐとやらが　しゅつげん{n}　してしまうやも‥{w}",
-    "en": "",
+    "en": "Minister: We must hurry...!{w}{p}But there's no sign of anything like a construction site...{w}{p}Even now, this \"P\" thing could appear at any moment...{w}",
     "codes": []
    },
    {
     "id": "0DD505_00E2",
     "jp": "　ひえ〜ッ！{w}{p}　こ　これは　もしや！{w}",
-    "en": "",
+    "en": "Eeeek~!{w}{p}C-could this be...!{w}",
     "codes": []
    },
    {
     "id": "0DD505_0101",
     "jp": "　{hero}さま！{w}",
-    "en": "",
+    "en": "{hero}, my lord!{w}",
     "codes": []
    },
    {
     "id": "0DD505_010E",
     "jp": "　びんぼうゆすりなど　まぎらわしいマネは{n}　おやめください！{w}",
-    "en": "",
+    "en": "Please stop confusing us with that nervous leg-jiggling!{w}",
     "codes": []
    },
    {
     "id": "0DD505_0134",
     "jp": "　あ〜　せんだい！　わたしは　どうすれば‥{w}",
-    "en": "",
+    "en": "Ahh~ my late lord! What am I to do...{w}",
     "codes": []
    },
    {
     "id": "0DD505_0155",
     "jp": "だいじん「ひえ〜　こんどこそ　Ｐが！{w}{p}「しんぱい　ごむよう！{w}",
-    "en": "",
+    "en": "Minister: Eeek~ This time it really is \"P\"!{w}{p}Have no fear!{w}",
     "codes": []
    },
    {
     "id": "0DD505_0216",
     "jp": "だいじん「おお！{n}　こくおうどの　おうひどのに　ナイトどの！{w}{p}こくおう「われわれが　そうりょくを　あげて{n}　ちょうさの　けっか　けんぞうばしょが{n}　はんめいした！{w}{p}だいじん「して　そのばしょは？{w}{p}おうひ「エッグワールド　さいはての　ちです！{w}{p}だいじん「このたいりくで　さがしても{n}　みつからぬのは　どうり‥{w}{p}ナイト「さっそく　そのたいりくに{n}　おつれします！{w}{p}だいじん「なにから　なにまで　めんぼくない‥{w}{p}こくおう「いや　かんしゃせねばならぬのは{n}　われらのほう‥{w}{p}　ここ　エッグワールドは　われらがだいち！{n}　われらのてで　まもらねば！{w}{p}だいじん「いや　エッグワールドを　うしなえば{n}　われわれも　かんじゅくぐんに　かては{n}　しますまい！{w}{p}　ここは　わたしらにとっても　かけがえない　せかい{n}　なのですじゃ！{w}{p}おうひ「あなたがたと　われわれ　エッグモンスター{n}　てを　とりあって　このきゅうちを　のがれなければ{n}　なりません。{w}",
-    "en": "",
+    "en": "Minister: Oh! The King, the Queen, and Sir Knight!{w}{p}King: We put all our strength into the search, and we have found where it is being built!{w}{p}Minister: And where is it?{w}{p}Queen: In the farthest reaches of Egg World!{w}{p}Minister: No wonder we couldn't find it searching this continent...{w}{p}Knight: I will take you to that continent at once!{w}{p}Minister: You do so much for us. I'm ashamed...{w}{p}King: No, it is we who should be thanking you...{w}{p}Egg World is our land! We must protect it with our own hands!{w}{p}Minister: No, no! If we lose Egg World, we'll never beat the Hard-Boiled Army either!{w}{p}This is an irreplaceable world for us as well, you see!{w}{p}Queen: You and we Egg Monsters must join hands to escape this crisis.{w}",
     "codes": []
    },
    {
     "id": "0DD505_03C1",
     "jp": "　さ　ナイト！{w}{p}ナイト「では　ゆきます！{w}",
-    "en": "",
+    "en": "Come, Knight!{w}{p}Knight: Then let us go!{w}",
     "codes": []
    },
    {
     "id": "0DD505_03FD",
     "jp": "こくおう「さあ　このたいりくの　しろの　どこかに{n}　かならず　けんぞうばしょは　あるはず！{w}{p}おうひ「おねがいしますね　{hero}‥！{w}",
-    "en": "",
+    "en": "King: Now, somewhere in a castle on this continent, the construction site surely must be!{w}{p}Queen: We're counting on you, {hero}...!{w}",
     "codes": []
    },
    {
     "id": "0DD505_044F",
     "jp": "だいじん「おお！{w}{p}　ようやっと　ふるいたっていただけましたか！{n}　{hero}さま！{w}{p}おうひ「りっぱですよ　{hero}。{w}",
-    "en": "",
+    "en": "Minister: Oh!{w}{p}At long last you've risen to the occasion, {hero}, my lord!{w}{p}Queen: How splendid,{n}{hero}.{w}",
     "codes": []
    },
    {
     "id": "0DD505_0491",
     "jp": "だいじん「{hero}さま‥{w}{p}　うかれるのは‥{w}",
-    "en": "",
+    "en": "Minister: {hero}, my lord...{w}{p}Save your celebrating...{w}",
     "codes": []
    },
    {
     "id": "0DD505_04C0",
     "jp": "　Ｐを　はかい　してからですぞ〜ッ！{w}",
-    "en": "",
+    "en": "...until AFTER we've destroyed \"P\"~!{w}",
     "codes": []
    }
   ]
@@ -5452,55 +5452,55 @@
    {
     "id": "0DD9E4_0041",
     "jp": "だいじん「しろは　ぜんぶ　しらべたはずなのに{n}　けんぞうばしょらしき　ところは　なかった。{n}　これは　いったい‥{w}",
-    "en": "",
+    "en": "Minister: We should have searched every castle, but there was nothing like a construction site.{w}{p}What can this mean...{w}",
     "codes": []
    },
    {
     "id": "0DD9E4_0086",
     "jp": "　{hero}さま！　しょうこりもなく{n}　びんぼうゆすりなど‥{w}",
-    "en": "",
+    "en": "{hero}, my lord! Jiggling your leg again, after everything...{w}",
     "codes": []
    },
    {
     "id": "0DD9E4_00A8",
     "jp": "「じ　じしんですよ　おとうさんッ！{n}「なにをしておる　マサオ！",
-    "en": "",
+    "en": "E-earthquake, Dad!{n}What are you doing, Masao?!",
     "codes": []
    },
    {
     "id": "0DD9E4_010A",
     "jp": "だいじん「も　もしや　これが‥！{w}",
-    "en": "",
+    "en": "Minister: C-could this be...!{w}",
     "codes": []
    },
    {
     "id": "0DD9E4_0126",
     "jp": "いじん「あ　あれが　かんじゅく　へいき”Ｐ”‥{w}{p}　で　でかい‥{w}{p}　しかし‥{w}",
-    "en": "",
+    "en": "Minister: Th-that is Hard-Boiled Weapon \"P\"...{w}{p}I-it's huge...{w}{p}But...{w}",
     "codes": []
    },
    {
     "id": "0DD9E4_0155",
     "jp": "　なんて　バカバカしいんじゃあ！{w}",
-    "en": "",
+    "en": "How utterly ridiculous it is!{w}",
     "codes": []
    },
    {
     "id": "0DD9E4_0213",
     "jp": "こくおう「{hero}どの！{w}{p}　ヤツの　そうこうは　あらゆる　こうげきを{n}　きゅうしゅうする　プルルン　ボディだ！{w}{p}　かくなるうえは　やつのないぶに　のりこみ{n}　うちがわから　はかいするしかない！{w}{p}だいじん「わかりもうした！{w}",
-    "en": "",
+    "en": "King: {hero}!{w}{p}That thing's armor is a jiggly, wobbly body that absorbs every attack!{w}{p}Now our only choice is to board it and destroy it from the inside!{w}{p}Minister: Understood!{w}",
     "codes": []
    },
    {
     "id": "0DD9E4_0289",
     "jp": "　さ　{hero}さま！{w}",
-    "en": "",
+    "en": "Come, {hero}, my lord!{w}",
     "codes": []
    },
    {
     "id": "0DD9E4_0298",
     "jp": "　こんかいばかりは　ボケてるヒマは　ないですぞ！{w}",
-    "en": "",
+    "en": "This time of all times, there's no time for goofing off!{w}",
     "codes": []
    }
   ]
@@ -5516,49 +5516,49 @@
    {
     "id": "0DDCA1_0043",
     "jp": "「Ａ‥？Ｙ：！{n}「Ｘ♥Ｂ♪！！{w}",
-    "en": "",
+    "en": "A...?Y:!{n}X♥B♪!!{w}",
     "codes": []
    },
    {
     "id": "0DDCA1_005B",
     "jp": "しかいしゃ「は〜い！　ついに　かんじゅく　へいき{n}　”Ｐ”に　のりこみましたね！{w}{p}　さて　ここで　この　ヘンなヤツらが　はなしている{n}　ことば‥{w}{p}　ゲームをしている　みなさんには　わかりやすいよう{n}　いこう　にほんごに　ほんやくして　おとどけします。{w}{p}　どうぞ〜！{w}",
-    "en": "",
+    "en": "Host: Hi~! At last, we've boarded Hard-Boiled Weapon \"P\"!{w}{p}Now, about the language these weirdos are speaking...{w}{p}To make it easy for all of you playing, from here on we'll translate it into English for you.{w}{p}Take it awaaay!{w}",
     "codes": []
    },
    {
     "id": "0DDCA1_00F2",
     "jp": "「ノホホ！　イケイケ〜！{w}",
-    "en": "",
+    "en": "NOHOHO! GO, GO~!{w}",
     "codes": []
    },
    {
     "id": "0DDCA1_0108",
     "jp": "「ン？{w}",
-    "en": "",
+    "en": "HM?{w}",
     "codes": []
    },
    {
     "id": "0DDCA1_0127",
     "jp": "「タ　タイチョウ‥{w}{p}「ウルサイ！{w}{p}「タイチョウッテバ！{w}",
-    "en": "",
+    "en": "C-CAPTAIN...{w}{p}SILENCE!{w}{p}CAPTAIN, I SAID!{w}",
     "codes": []
    },
    {
     "id": "0DDCA1_0147",
     "jp": "「ナンダ　コレカラガ　イイトコナノニ‥{w}",
-    "en": "",
+    "en": "WHAT IS IT? JUST WHEN IT WAS GETTING GOOD...{w}",
     "codes": []
    },
    {
     "id": "0DDCA1_0164",
     "jp": "　ゲ！　オマエハ　ハンジュクノ！{w}",
-    "en": "",
+    "en": "GAH! YOU ARE THE SOFT-BOILED ONE!{w}",
     "codes": []
    },
    {
     "id": "0DDCA1_017A",
     "jp": "　カカレ〜！！{w}",
-    "en": "",
+    "en": "ATTAAACK~!!{w}",
     "codes": []
    }
   ]
@@ -5574,61 +5574,61 @@
    {
     "id": "0DDE60_0041",
     "jp": "「ヒエ〜‥{w}{p}だいじん「きさまら　いったい‥{w}",
-    "en": "",
+    "en": "EEEEK~...{w}{p}Minister: Just what are you lot...{w}",
     "codes": []
    },
    {
     "id": "0DDE60_0059",
     "jp": "「ウウ‥{n}　コウナッタラ　ミチヅレダ！{w}{p}だいじん「なに？{w}",
-    "en": "",
+    "en": "UUGH...{n}IF IT COMES TO THIS, YOU ARE COMING WITH US!{w}{p}Minister: What?{w}",
     "codes": []
    },
    {
     "id": "0DDE60_0090",
     "jp": "せいめいたい「ジバクソウチ　スイッチ！{w}",
-    "en": "",
+    "en": "Lifeform: SELF-DESTRUCT SWITCH!{w}",
     "codes": []
    },
    {
     "id": "0DDE60_00AC",
     "jp": "だいじん「やめ‥！{w}{p}せいめいたい「オ〜ン！{w}",
-    "en": "",
+    "en": "Minister: Stop...!{w}{p}Lifeform: ON~!{w}",
     "codes": []
    },
    {
     "id": "0DDE60_00D8",
     "jp": "だいじん「うわああ〜〜！{w}",
-    "en": "",
+    "en": "Minister: Waaaaah~~!{w}",
     "codes": []
    },
    {
     "id": "0DDE60_0105",
     "jp": "「ソレハ　ワイパーノ　スイッチデス！{w}",
-    "en": "",
+    "en": "THAT IS THE WIPER SWITCH!{w}",
     "codes": []
    },
    {
     "id": "0DDE60_0121",
     "jp": "「シマッタ〜！{w}",
-    "en": "",
+    "en": "CURSES~!{w}",
     "codes": []
    },
    {
     "id": "0DDE60_0135",
     "jp": "だいじん「いったい　なんなんじゃ　おまえたちは！{w}",
-    "en": "",
+    "en": "Minister: What in the world ARE you people?!{w}",
     "codes": []
    },
    {
     "id": "0DDE60_016A",
     "jp": "「ワレワレハ　カンジュク　セイメイタイ‥{w}{p}だいじん「かんじゅく　せいめいたい？{w}{p}「ソウダ‥{w}{p}だいじん「どこから　やってきたんじゃ？{w}{p}「キキタイカ？{w}{p}だいじん「うむ！{w}",
-    "en": "",
+    "en": "WE ARE THE HARD-BOILED LIFEFORMS...{w}{p}Minister: Hard-boiled lifeforms?{w}{p}YES...{w}{p}Minister: Where did you come from?{w}{p}YOU WISH TO KNOW?{w}{p}Minister: Indeed!{w}",
     "codes": []
    },
    {
     "id": "0DDE60_01E3",
     "jp": "「ハナセバ　ナガクナル‥{w}{p}　ソウ　アレハ　モウ　ズイブン　ムカシノコトダ‥{w}{p}　ワレワレハ‥{w}{p}{#0}{#1}{#2}{#3}　ダッシュツ　スル！",
-    "en": "",
+    "en": "IT IS A LONG STORY...{w}{p}YES, IT WAS A VERY LONG TIME AGO...{w}{p}WE...{w}{p}{#0}{#1}{#2}{#3}...ARE ESCAPING!",
     "codes": [
      "14 1e 03 03",
      "14 1e 04 03",
@@ -5639,61 +5639,61 @@
    {
     "id": "0DDE60_024D",
     "jp": "だいじん「またぬか　おまえら〜ッ！{w}",
-    "en": "",
+    "en": "Minister: Get back here, you lot~!{w}",
     "codes": []
    },
    {
     "id": "0DDE60_0310",
     "jp": "こくおう「やったな　{hero}！{n}おうひ「りっぱでしたよ。{w}{p}だいじん「しかし　あといっぽの　ところで{n}　のがしてしまいました‥{w}",
-    "en": "",
+    "en": "King: Well done, {hero}!{n}Queen: That was splendid.{w}{p}Minister: But they got away when we were just one step from catching them...{w}",
     "codes": []
    },
    {
     "id": "0DDE60_034E",
     "jp": "こくおう「いま　ここで　ヤツらを　のがせば{n}　あらたな　かんじゅくものが　やってくる！{w}{p}　ナイト　アルマムーンじょうごと{n}　ヤツらを　おうのだ！{w}",
-    "en": "",
+    "en": "King: If we let them escape now, more Hard-Boiled ones will come!{w}{p}Knight, chase them down, Almamoon Castle and all!{w}",
     "codes": []
    },
    {
     "id": "0DDE60_039D",
     "jp": "だいじん「おお！{n}　では　れいの　しろごとゆきます！ってヤツで{n}　また　ピュピュッと‥{w}{p}ナイト「ムリです‥{w}",
-    "en": "",
+    "en": "Minister: Oh! Then we'll do that \"whole castle, let's go!\" trick again and zip right after them...{w}{p}Knight: Impossible...{w}",
     "codes": []
    },
    {
     "id": "0DDE60_03D7",
     "jp": "だいじん「へ？{w}{p}ナイト「しろごとでは　あのスピードには{n}　ついていけないでしょう‥{w}",
-    "en": "",
+    "en": "Minister: Eh?{w}{p}Knight: With the whole castle, we could never keep up with that speed...{w}",
     "codes": []
    },
    {
     "id": "0DDE60_0409",
     "jp": "だいじん「う〜　ここで　ヤツらを　のがして{n}　しまうしか　ないのかの〜！{w}",
-    "en": "",
+    "en": "Minister: Ugh~ Must we really let them get away now~?!{w}",
     "codes": []
    },
    {
     "id": "0DDE60_0430",
     "jp": "「オレに　まかせろ！{w}",
-    "en": "",
+    "en": "Leave it to me!{w}",
     "codes": []
    },
    {
     "id": "0DDE60_044B",
     "jp": "だいじん「げえッ！　お　おぬしはあッ！！{w}",
-    "en": "",
+    "en": "Minister: Gaah! Y-you're...!!{w}",
     "codes": []
    },
    {
     "id": "0DDE60_0466",
     "jp": "しかいしゃ「このとき　{hero}たちのまえに{n}　あらわれたのは　いったい　なにものか？{w}{p}　そして　かんじゅく　せいめいたいとは？{n}　かれらは　どこへ　にげてゆくのか！？{w}{p}　ふううん　きゅうを　つげる　しんてんかい！{n}　ふけよ　かぜ！　よべよ　あらし！！{w}{p}　だいじん　なくヒマもなく　じかいへ　つづく！！{w}",
-    "en": "",
+    "en": "Host: Who in the world has appeared before {hero} and company at this moment?{w}{p}And what are the Hard-Boiled Lifeforms? Where are they fleeing to?!{w}{p}A new twist as the storm clouds gather! Blow, wind! Call, storm!!{w}{p}No time for the Minister to cry! To be continued!!{w}",
     "codes": []
    },
    {
     "id": "0DDE60_0504",
     "jp": "は{#0}{#1}ん{#2}{#3}じ{#4}{#5}ゅ{#6}く{#7}{#8}　{#9}ち{#10}{#11}ょ{#12}{#13}う{#14}{#15}り{#16}{#17}メ{#18}{#19}モ{#20}{n}{n}{#21}９{#22}{#23}に{#24}{#25}ん{#26}{#27}？{#28}{#29}め{#30}　{#31}‥{#32}　{#33}か{#34}{#35}ん{#36}{#37}じ{#38}{#39}ゅ{#40}{#41}く{#42}　{#43}{#44}へ{#45}{#46}い{#47}{#48}き{#49}　{#50}{#51}”{#52}{#53}Ｐ{#54}{#55}”",
-    "en": "",
+    "en": "S{#0}{#1}o{#2}{#3}f{#4}{#5}t{#6}-{#7}{#8}B{#9}o{#10}{#11}i{#12}{#13}l{#14}{#15}e{#16}{#17}d{#18}{#19} Recipe Notes{#20}{n}{n}{#21}N{#22}{#23}o{#24}{#25}.{#26}{#27} {#28}{#29}9{#30}?{#31}...{#32}{n}{#33}H{#34}{#35}a{#36}{#37}r{#38}{#39}d{#40}{#41}-{#42}{#43}B{#44}o{#45}{#46}i{#47}{#48}l{#49}ed Weapon {#50}{#51}\"{#52}{#53}P{#54}{#55}\"",
     "codes": [
      "2b 02",
      "2d 18",
@@ -5766,7 +5766,7 @@
    {
     "id": "0DE40B_0010",
     "jp": "エッグワールドをすくった　はんじゅくヒーローこと{n}{hero}のまえに　すがたを　あらわしたのは{n}いったい　なにもの？{w}{p}そして　ついに　てきのせかいへと　のりこむときが{n}きた！{w}{p}はたして　こんどの　てきこそ　さいごの{n}ボスなのだろうか！？{w}{p}たたかえ　{hero}！{n}いまこそ　たまごを　わるときだ！！{w}{p}じかい　はんじゅくヒーロー　だい１０わ{n}{n}”あんたが　たいしょう！　だいとうりょう！！”に‥{w}",
-    "en": "",
+    "en": "Who in the world has appeared before {hero}, the Hanjuku Hero who saved Egg World?{w}{p}And at last, the time has come to storm the enemy's world!{w}{p}Is this new enemy truly the final boss?!{w}{p}Fight, {hero}!{n}Now is the time to crack some eggs!!{w}{p}Next time on Hanjuku Hero{n}Episode 10:{n}\"You're the Boss! Mr. President!!\"...{w}",
     "codes": []
    }
   ]
@@ -5782,55 +5782,55 @@
    {
     "id": "0DE4E4_0042",
     "jp": "しかいしゃ「おまたせしました。{n}　それでは　ぜんかいの　つづきといきましょう！{w}{p}　どうぞ〜！{w}",
-    "en": "",
+    "en": "Host: Sorry to keep you waiting. Now let's pick up where we left off last time!{w}{p}Take it awaaay!{w}",
     "codes": []
    },
    {
     "id": "0DE4E4_007C",
     "jp": "だいじん「げえッ！　お　おぬしはあッ！！{w}",
-    "en": "",
+    "en": "Minister: Gaah! Y-you're...!!{w}",
     "codes": []
    },
    {
     "id": "0DE4E4_009D",
     "jp": "　エ　エッグマン！{w}{p}ナイト「もう　きずはいいのか？{w}{p}エッグマン「ああ　ごらんのとうりだ。{n}　はるかに　きょうりょくに　うまれかわった。{n}　これからは　しんエッグマンと　よんでもらおう。{w}{p}　おれと　ナイトの　ふたりで　やれば{n}　ヤツらの　スピードに　おいつけるはずだ！{w}{p}こくおう「うむ　それしか　てはあるまい！{w}",
-    "en": "",
+    "en": "E-Eggman!{w}{p}Knight: Are your wounds healed?{w}{p}Eggman: Yeah, as you can see. I've been reborn far stronger.{w}{p}From now on, call me New Eggman.{w}{p}If Knight and I go together, we should be able to keep up with them!{w}{p}King: Indeed, there's no other way!{w}",
     "codes": []
    },
    {
     "id": "0DE4E4_0143",
     "jp": "だいじん「そうときまれば　ぜんは　いそげ！{w}",
-    "en": "",
+    "en": "Minister: Then it's settled! No time to waste!{w}",
     "codes": []
    },
    {
     "id": "0DE4E4_0160",
     "jp": "　ささ！　さっそく　アルマムーンじょうへ！{w}",
-    "en": "",
+    "en": "Come, come! To Almamoon Castle at once!{w}",
     "codes": []
    },
    {
     "id": "0DE4E4_019A",
     "jp": "こくおう「わたしらも　ゆきたいが　エッグワールドを{n}　はなれることは　できん。{w}{p}エッグマン「しんぱい　いらないさ！{n}　パワーアップした　オレに　まかせてくれ！{w}",
-    "en": "",
+    "en": "King: We would go too, but we cannot leave Egg World.{w}{p}Eggman: No need to worry! Leave it to the powered-up me!{w}",
     "codes": []
    },
    {
     "id": "0DE4E4_01EC",
     "jp": "おうひ「{hero}　だいじんさん‥{n}　ほんとうに　ありがとう。{w}{p}　あなたがたの　おかげで　エッグワールドは{n}　すくわれましたわ。{w}{p}こくおう「わたしからも　れいを　いわせてもらうよ。{w}{p}　しかし　ヤツらは　いったい　なにものなのか‥{w}{p}　とにかく　そなたらの　せかいや{n}　この　エッグワールドのような　だい３のぎせいを{n}　ださぬためにも！{w}{p}　ヤツらをとめぬかぎり　われわれ　エッグモンスターも　たたかいつづけねばならぬ　さだめ‥{w}{p}　たのんだぞ　{hero}！{w}{p}おうひ「きをつけるのですよ。{w}{p}だいじん「いろいろと　せわになりもうした！{w}{p}エッグマン「のんびりも　してられん！{n}　いくぜ　ナイト！{w}{p}ナイト「よし！{w}",
-    "en": "",
+    "en": "Queen: {hero}, Minister... thank you so very much.{w}{p}Thanks to you, Egg World has been saved.{w}{p}King: Let me thank you as well.{w}{p}But who in the world are they...{w}{p}In any case, so there will be no third victim like your world or this Egg World...{w}{p}...until they are stopped, we Egg Monsters are fated to keep fighting...{w}{p}We're counting on you,{n}{hero}!{w}{p}Queen: Do be careful.{w}{p}Minister: We are much obliged for everything!{w}{p}Eggman: No time to dawdle! Let's go, Knight!{w}{p}Knight: Right!{w}",
     "codes": []
    },
    {
     "id": "0DE4E4_03A5",
     "jp": "ナイト「すでに　てきせかいです‥{w}",
-    "en": "",
+    "en": "Knight: We're already in the enemy's world...{w}",
     "codes": []
    },
    {
     "id": "0DE4E4_03CF",
     "jp": "だいじん「おもったより　あかるいところじゃが‥{w}{p}　ぶきみな　しずけさですな‥{w}{p}エッグマン「ナイト　おまえは　エッグワールドへ{n}　かえれ。{w}{p}ナイト「しかし‥{w}{p}{#0}{#1}エッグマン「エッグワールドが　ふたたび　おそわれたら　どうする！{n}　{hero}たちも　この　てきのほんきょで{n}　たまごが　つかえなくなるんだぞ！{w}{p}ナイト「‥{w}{p}エッグマン「しんエッグマンとして　うまれかわった{n}　おれに　まかせておけ！{n}　ヤツらへの　かりはかえす！{w}{p}ナイト「わかった‥{w}{p}　あとは　たのむよ　エッグマン！{w}{p}　{hero}さん！　だいじんさん！{n}　がんばってください！{w}{p}だいじん「わかりもうした！{n}　たすかりましたぞ　ナイトどの！{w}{p}ナイト「では‥{w}{p}　たのむぞ　エッグマン！{w}",
-    "en": "",
+    "en": "Minister: It's brighter than I expected...{w}{p}But it's eerily quiet...{w}{p}Eggman: Knight, go back to Egg World.{w}{p}Knight: But...{w}{p}{#0}{#1}Eggman: What if Egg World gets attacked again?!{w}{p}Besides, here in the enemy's base, {hero} and the others won't be able to use eggs!{w}{p}Knight: ...{w}{p}Eggman: Leave it to me, reborn as New Eggman! I'll pay them back!{w}{p}Knight: All right...{w}{p}I'm counting on you, Eggman!{w}{p}{hero}! Minister! Do your best!{w}{p}Minister: Understood! You've been a great help, Sir Knight!{w}{p}Knight: Well then...{w}{p}I'm counting on you, Eggman!{w}",
     "codes": [
      "2c 2a",
      "2c 10"
@@ -5839,43 +5839,43 @@
    {
     "id": "0DE4E4_051F",
     "jp": "ナイト「アルマムーンと　エッグワールドの{n}　いや　すべてのせかいのため‥{w}{p}　けんとうを　いのります！{w}",
-    "en": "",
+    "en": "Knight: For Almamoon and Egg World... no, for every world...{w}{p}I pray for your success!{w}",
     "codes": []
    },
    {
     "id": "0DE4E4_0569",
     "jp": "だいじん「しょうちしましたぞ〜！{w}",
-    "en": "",
+    "en": "Minister: You can count on uuus~!{w}",
     "codes": []
    },
    {
     "id": "0DE4E4_0586",
     "jp": "　さ　{hero}さま！{n}　いつまでも　わかれを　おしんではいられませぬ！{w}",
-    "en": "",
+    "en": "Now, {hero}, my lord! We can't linger over farewells forever!{w}",
     "codes": []
    },
    {
     "id": "0DE4E4_05AA",
     "jp": "　ここは　てきちの　どまンなかですぞ！{n}　シャキッとして　シャキッと！{w}",
-    "en": "",
+    "en": "We're smack in the middle of enemy territory! Shape up, shape up!{w}",
     "codes": []
    },
    {
     "id": "0DE4E4_05D7",
     "jp": "　もっと　りりしい　かおが　できんもんですかな！？{w}",
-    "en": "",
+    "en": "Can't you put on a more gallant face?!{w}",
     "codes": []
    },
    {
     "id": "0DE4E4_0603",
     "jp": "　ああ‥{w}",
-    "en": "",
+    "en": "Oh...{w}",
     "codes": []
    },
    {
     "id": "0DE4E4_060F",
     "jp": "　きんぱくかんが　うすれていく〜ッ！！{w}",
-    "en": "",
+    "en": "The tension is draining awaaay!!{w}",
     "codes": []
    }
   ]
@@ -5891,7 +5891,7 @@
    {
     "id": "0DEB13_0007",
     "jp": "「ウェルカム！{w}{p}　ナイス　トゥ　ミーチュー！{n}　ミスタ〜　ハンジュク！！{w}{p}　ワタシガ　カンジュク　セイメイタイノ　リーダ〜{n}　カンジュク　ダイトウリョウデ〜ス！{w}{p}　アナタガタノ　チカラハ　イママデ　ヨ〜ク{n}　ミセテモライマシター！{w}{p}　コレイジョウノ　アラソイハ　タガイノ　ソンシツトハ　オモイマセンカ〜？{w}{p}　ワレワレハ　アナタガタヲ　シンアイナル{n}　ブラザ〜トシテ　オムカエシタイノデ〜ス！{w}{p}　ドウデショウ　ココデ{n}　キュウセン　キョウテイヲ{n}　ムスビマセンカ〜？{n}",
-    "en": "",
+    "en": "Welcome!{w}{p}Nice to meet you! Mista~ Hanjuku!!{w}{p}I am the leader of the Hard-Boiled Lifeforms, the Hard-Boiled Preside~nt!{w}{p}You have shown us your power ve~ry well so far!{w}{p}Don't you think more fighting is only a loss for us both~?{w}{p}We want to welcome you as our dear brotha~s!{w}{p}How about it? Shall we sign a ceasefire agreement right here~?{n}",
     "codes": []
    }
   ]
@@ -5907,31 +5907,31 @@
    {
     "id": "0DEC1F_0035",
     "jp": "だいとうりょう「オウ‥{w}{p}　ママ‥{w}{p}　ソ〜リ〜‥！！{w}",
-    "en": "",
+    "en": "President: Oh...{w}{p}Mama...{w}{p}So~rry...!!{w}",
     "codes": []
    },
    {
     "id": "0DEC1F_0066",
     "jp": "だいじん「おぬし‥{w}{p}　なぜ　われらのせかいや　エッグワールドを{n}　ねらった！？{w}{p}だいとうりょう「ソレハ　スベテ‥{w}",
-    "en": "",
+    "en": "Minister: You...{w}{p}Why did you target our world and Egg World?!{w}{p}President: That was all...{w}",
     "codes": []
    },
    {
     "id": "0DEC1F_00A5",
     "jp": "どこからともなく　ひびくこえ「ダイトウリョウ‥{w}",
-    "en": "",
+    "en": "Voice from nowhere: President...{w}",
     "codes": []
    },
    {
     "id": "0DEC1F_00D4",
     "jp": "だいとうりょう「オ〜　ママ‥！{w}{p}　ソ〜リ〜！　ワタシ　ヨケイナコト　イイマシタ！{w}{p}こえ「カンジュクニ　シッパイハ　ナイハズデス。{w}",
-    "en": "",
+    "en": "President: Oh~ Mama...!{w}{p}So~rry! I said too much!{w}{p}Voice: Failure should not exist among the Hard-Boiled.{w}",
     "codes": []
    },
    {
     "id": "0DEC1F_011E",
     "jp": "だいとうりょう「ママ‥{w}{p}　アイシテイマ〜ス‥{w}{p}　ワタシハ　イキテイタイデ〜ス‥{w}{p}こえ「トテモ　ザンネンデス　ダイトウリョウ‥{w}{p}　アナタモ　パーフェクトデハ{n}　アリマセンデシタ‥{w}{p}だいとうりょう「ノ〜　ママ！{w}{p}{#0}{#1}　ヘルプ　ミ〜！！{w}",
-    "en": "",
+    "en": "President: Mama...{w}{p}I lo~ve you...{w}{p}I want to li~ve...{w}{p}Voice: Most unfortunate, President...{w}{p}You were not perfect either...{w}{p}President: No~ Mama!{w}{p}{#0}{#1}Help me~!!{w}",
     "codes": [
      "0b",
      "2a"
@@ -5940,43 +5940,43 @@
    {
     "id": "0DEC1F_01D9",
     "jp": "だいじん「こ　これは　いったい‥{w}{p}こえ「ハジメマシテ　{hero}‥{w}",
-    "en": "",
+    "en": "Minister: Wh-what in the world...{w}{p}Voice: How do you do,{n}{hero}...{w}",
     "codes": []
    },
    {
     "id": "0DEC1F_0204",
     "jp": "だいじん「おぬしが‥{w}{p}　かんじゅくなるものの　ボス‥か？{w}{p}こえ「ソウデス。{w}{p}だいじん「ママとか　いっておったが‥{w}{p}　なにものじゃ？{w}{p}こえ「ワタシハ　スベテノ　カンジュクノ　ハハ‥{w}{p}　エッグママ‥。{w}{p}だいじん「エッグ‥ママ？{w}{p}エッグママ「ダイトウリョウヲ　タオシタトイウコトハ{n}　スクナクトモ　ダイトウリョウヨリハ　アナタガタガ{n}　カンジュクニ　チカヅイテイルトイウコト。{w}",
-    "en": "",
+    "en": "Minister: Are you...{w}{p}...the boss of these Hard-Boiled ones?{w}{p}Voice: I am.{w}{p}Minister: He was saying \"Mama\"...{w}{p}What are you?{w}{p}Voice: I am the mother of all the Hard-Boiled...{w}{p}Egg Mama.{w}{p}Minister: Egg... Mama?{w}{p}Egg Mama: You defeated the President. That means you are at least closer to hard-boiled than he was.{w}",
     "codes": []
    },
    {
     "id": "0DEC1F_02C8",
     "jp": "だいじん「わたしらが‥{w}",
-    "en": "",
+    "en": "Minister: We are...{w}",
     "codes": []
    },
    {
     "id": "0DEC1F_02E1",
     "jp": "　かんじゅく？{w}{p}エッグママ「ワタシハ　アナタガタニ　アイタク{n}　ナリマシタ。{w}",
-    "en": "",
+    "en": "...hard-boiled?{w}{p}Egg Mama: I have come to wish to meet you.{w}",
     "codes": []
    },
    {
     "id": "0DEC1F_0318",
     "jp": "　アナタガタヲ　ワタシノシロ‥{n}　”オヴァリウム”ヘ　ゴショウタイ　シマス。{w}{p}だいじん「わたしらを‥　しょうたい？{w}",
-    "en": "",
+    "en": "I invite you to my castle... \"Ovarium\".{w}{p}Minister: Invite... us?{w}",
     "codes": []
    },
    {
     "id": "0DEC1F_035D",
     "jp": "しかいしゃ「は〜い！　といったわけで　ついに{n}　かんじゅくのボスが　あらわれましたね！{w}{p}　かなりのウエイトを　しめていた　ギャグの{n}　パーセンテージも　おおはばダウン！{w}{p}　さあ　ものがたりは　いよいよ　シリアスに！{n}　まて　じかいッ！！{w}",
-    "en": "",
+    "en": "Host: Ye~s! And so the boss of the Hard-Boiled has finally appeared!{w}{p}The gag percentage, which carried quite a lot of weight, takes a big drop too!{w}{p}Now the story turns serious at last! Don't miss the next episode!!{w}",
     "codes": []
    },
    {
     "id": "0DEC1F_03DE",
     "jp": "は{#0}{#1}ん{#2}{#3}じ{#4}{#5}ゅ{#6}く{#7}{#8}　{#9}ち{#10}{#11}ょ{#12}{#13}う{#14}{#15}り{#16}{#17}メ{#18}{#19}モ{#20}{n}{n}{#21}１{#22}{#23}０{#24}{#25}に{#26}{#27}ん{#28}{#29}？{#30}{#31}め{#32}　{#33}‥{#34}　{#35}か{#36}{#37}ん{#38}{#39}じ{#40}{#41}ゅ{#42}{#43}く{#44}　{#45}{#46}だ{#47}{#48}い{#49}{#50}と{#51}{#52}う{#53}{#54}り{#55}{#56}ょ{#57}{#58}う",
-    "en": "",
+    "en": "S{#0}{#1}o{#2}{#3}f{#4}{#5}t{#6}-{#7}{#8}B{#9}o{#10}{#11}i{#12}{#13}l{#14}{#15}e{#16}{#17}d{#18}{#19} Recipe Notes{#20}{n}{n}{#21}N{#22}{#23}o{#24}{#25}.{#26}{#27} {#28}{#29}1{#30}{#31}0{#32}?{#33}...{#34}{n}{#35}H{#36}{#37}a{#38}{#39}r{#40}{#41}d{#42}{#43}-{#44}B{#45}{#46}o{#47}{#48}i{#49}{#50}l{#51}{#52}e{#53}{#54}d {#55}{#56}Presiden{#57}{#58}t",
     "codes": [
      "2b 02",
      "2d 18",
@@ -6042,13 +6042,13 @@
    {
     "id": "0DEC1F_048E",
     "jp": "だいじん「ちょっぴり‥{w}",
-    "en": "",
+    "en": "Minister: I'm just a teeny bit...{w}",
     "codes": []
    },
    {
     "id": "0DEC1F_04A1",
     "jp": "　うれしいですぞ〜ッ！！{w}",
-    "en": "",
+    "en": "...happy about thaaat!!{w}",
     "codes": []
    }
   ]
@@ -6064,7 +6064,7 @@
    {
     "id": "0DF0DB_0010",
     "jp": "かんじゅくだいとうりょうを　たおした{n}はんじゅくヒーローこと　{hero}のまえに{n}さらなる　きょうてきが　たちふさがる！！{w}{p}だいとうりょうすら　たやすく　あやつるほどの{n}エッグママとは　いったい？{w}{p}ほんとうに　こんどこそ　さいごの　おおボスなのか！？{w}{p}たたかえ　{hero}！{n}いまこそ　たまごを　わるときだ！！{w}{p}じかい　はんじゅくヒーロー　だい１１わ{n}{n}”あいと　にくしみの　はてに‥”に‥{w}",
-    "en": "",
+    "en": "Before {hero}, the Hanjuku Hero who defeated the Hard-Boiled President...{w}{p}...stands an even mightier foe!!{w}{p}Just who is this Egg Mama, who controls even the President with ease?{w}{p}Is this really, truly the last big boss?!{w}{p}Fight, {hero}!{n}Now is the time to crack some eggs!!{w}{p}Next time on Hanjuku Hero{n}Episode 11:{n}\"At the End of Love and Hate\"...{w}",
     "codes": []
    }
   ]
@@ -6080,55 +6080,55 @@
    {
     "id": "0DF1B4_002F",
     "jp": "だいじん「む〜‥{w}",
-    "en": "",
+    "en": "Minister: Hmmm...{w}",
     "codes": []
    },
    {
     "id": "0DF1B4_0041",
     "jp": "　エッグママ‥{w}{p}　あやつ　わたしらを　しょうたいするといっていたが{n}　まさか　こんな　なんかんに　ブチあたろうとは‥{w}",
-    "en": "",
+    "en": "Egg Mama...{w}{p}She said she'd invite us, but who'd have thought we'd run smack into such a hurdle...{w}",
     "codes": []
    },
    {
     "id": "0DF1B4_0093",
     "jp": "だいじん「そなた‥{w}{p}　こうして　はなしていれば{n}　わるいヤツとは　おもえんが‥{w}",
-    "en": "",
+    "en": "Minister: You...{w}{p}Talking with you like this, you don't seem like a bad sort...{w}",
     "codes": []
    },
    {
     "id": "0DF1B4_00C6",
     "jp": "　なぜ　わたしらのせかいや　エッグワールドを{n}　おそったのじゃ？{w}{p}エッグママ「ソノコタエヲ　キキタケレバ　ワタシノ{n}　シロ　”オヴァリウム”ヘ　クルノデス。{w}{p}　アナタガタハ　ダイトウリョウヲ　タオシ{n}　ツヨサヲ　ショウメイシマシタ。{w}{p}　ツギハ　ズノウヲ　タメサセテモライマス。{w}{p}だいじん「ずのう？{w}{p}エッグママ「ソウデス。{n}　ワタシノ”オヴァリウム”ヘ　ハイルタメニハ{n}　パスワードガ　ヒツヨウデス。{w}{p}　ソノパスワードヲ　ブンカツシ　ハイカノシロニ{n}　オイテオキマス。{w}{p}　ツマリ　シロヲ　ヒトツ　オトセバ　パスワードガ{n}　ヒトツ　テニハイルトイウワケデス。{w}{p}　スベテノ　パスワードガ　ソロッタラ{n}　”オヴァリウム”ヘ　クルノデス。{w}{p}　マッテイマスヨ　{hero}‥{w}",
-    "en": "",
+    "en": "So why did you attack our world and Egg World?{w}{p}Egg Mama: If you wish to hear the answer, come to my castle, \"Ovarium\".{w}{p}You defeated the President and proved your strength.{w}{p}Next, I shall test your brains.{w}{p}Minister: Brains?{w}{p}Egg Mama: Yes. To enter my \"Ovarium\", you need a password.{w}{p}I have split that password up and placed it in the castles under my command.{w}{p}In other words, each castle you take gets you one piece of the password.{w}{p}Once you have the whole password, come to \"Ovarium\".{w}{p}I shall be waiting,{n}{hero}...{w}",
     "codes": []
    },
    {
     "id": "0DF1B4_0237",
     "jp": "だいじん「‥というワケで　オヴァリウムのある{n}　たいりくへ　やってはきた‥{w}{p}　これまでの　たたかいで　わがぐんのちからは{n}　たしかに　あがった‥{w}",
-    "en": "",
+    "en": "Minister: ...And so, we have come to the continent where Ovarium lies...{w}{p}Our army's strength has certainly grown through our battles so far...{w}",
     "codes": []
    },
    {
     "id": "0DF1B4_028C",
     "jp": "　しかし　ずのうを　ためすといわれては‥{w}",
-    "en": "",
+    "en": "But being told our brains will be tested...{w}",
     "codes": []
    },
    {
     "id": "0DF1B4_02AB",
     "jp": "　このクライマックスに　いたっても{n}　{hero}さまは　あいかわらず‥{w}",
-    "en": "",
+    "en": "Even at this climax, my lord {hero} is the same as ever...{w}",
     "codes": []
    },
    {
     "id": "0DF1B4_02D4",
     "jp": "　はたして‥{w}",
-    "en": "",
+    "en": "Will we really...{w}",
     "codes": []
    },
    {
     "id": "0DF1B4_02E2",
     "jp": "　だいじょうぶなんじゃろか〜ッ！？{w}",
-    "en": "",
+    "en": "...be all riiight~?!{w}",
     "codes": []
    }
   ]
@@ -6144,19 +6144,19 @@
    {
     "id": "0DF4B4_0004",
     "jp": "パスワード　ショウゴウ！{n}オヴァリウム　ゲート　オープン！{w}",
-    "en": "",
+    "en": "PASSWORD VERIFIED!{n}OVARIUM GATE OPEN!{w}",
     "codes": []
    },
    {
     "id": "0DF4B4_0037",
     "jp": "「ヨクキマシタ‥{w}",
-    "en": "",
+    "en": "So you have come...{w}",
     "codes": []
    },
    {
     "id": "0DF4B4_0042",
     "jp": "　ワタシガ　エッグママデス‥{w}{p}　アナタガタハ　チカラモ　ズノウモ{n}　ワタシガ　ウミダシタモノタチヨリ{n}　カンペキデス。{w}{p}　アナタガタノ　シツモンニ　コタエルマエニ{n}　オネガイガ　アリマス。{w}{p}　ヨリ　カンペキナ　セイメイヲ　ツクリダスタメニハ{n}　アナタガタノヨウナ　データガ　ヒツヨウデス。{w}{p}　ソノタメノ　ケンキュウ　ザイリョウニ{n}　ナッテクレマスネ？{n}{#0}{p}　タダシイ　センタクデス。{w}{p}　ソレデコソ　ワタシノ　ミトメタ　カンペキナ{n}　セイメイタイデス。{w}{p}　ソレデハ　サッソク　ブンセキサギョウニ{n}　ハイリマス。{w}{p}{#1}　タダシ　イキタママトイウワケニハ{n}　ユキマセン‥{w}",
-    "en": "",
+    "en": "I am Egg Mama...{w}{p}In strength and intellect alike, you are more perfect than the beings I have created.{w}{p}Before I answer your questions, I have a request.{w}{p}To create more perfect life, I require data such as yours.{w}{p}Will you serve as material for that research?{n}{#0}{p}That is the correct choice.{w}{p}That is what makes you perfect lifeforms worthy of my recognition.{w}{p}I will now begin the analysis.{w}{p}{#1}However, it cannot be done while you are still alive...{w}",
     "codes": [
      "19 69 81 9c a9 ff ff 6d 4b 99 9c a9 ff",
      "2c 21"
@@ -6165,7 +6165,7 @@
    {
     "id": "0DF4B4_0177",
     "jp": "　ソノイノチヲ　ケンキュウザイリョウトシテ{n}　ササゲルノデス！{w}",
-    "en": "",
+    "en": "You shall offer up your lives as research material!{w}",
     "codes": []
    }
   ]
@@ -6181,31 +6181,31 @@
    {
     "id": "0DF702_0035",
     "jp": "エッグママ「ソンナ‥{w}{p}　コノワタシガ　ハイボクスルナド‥{w}",
-    "en": "",
+    "en": "Egg Mama: Impossible...{w}{p}That I, of all beings, could be defeated...{w}",
     "codes": []
    },
    {
     "id": "0DF702_009C",
     "jp": "　アリエマセン‥{n}　ケイサンガイデス‥{w}",
-    "en": "",
+    "en": "This cannot be...{n}It is beyond my calculations...{w}",
     "codes": []
    },
    {
     "id": "0DF702_00BA",
     "jp": "だいじん「さあ　しつもんに　こたえてもらおう。{n}　なぜ　わしらを　おそった！{w}",
-    "en": "",
+    "en": "Minister: Now, you will answer our questions. Why did you attack us?!{w}",
     "codes": []
    },
    {
     "id": "0DF702_00EF",
     "jp": "エッグママ「カンペキナ　セイメイヲ　タンジョウ{n}　サセルタメデス‥{w}{p}だいじん「きさま‥{w}{p}　いったい　なんなんじゃ？{w}{p}エッグママ「ワタシハ　カンジュク　セイメイタイ{n}　セイゾウ　システム　エッグママ‥{w}{p}だいじん「せいぞう　システム？{w}{p}エッグママ「ソノムカシ　アナタタチノヨウナ{n}　ミジュクナル　セイメイタイガ　ヨリ　リソウテキナ{n}　セイブツトナルベク　コノワタシヲ　ツクリマシタ‥{w}{p}　タシカニ　ジンルイハ　シンカヲ　トゲテキマシタ。{n}　ワタシモ　ソノタメ　チカラヲ　ソソイデキマシタ‥{w}{p}　シカシ　ジンルイハ　ショセン　オロカナノデス‥{w}{p}　ツヨイ　チカラヤ　コウドナ　ズノウヲ　ミニツケテモ　ヨクボウノタメニ　ホロボシアイマス。{w}{p}　ソコデ　ワタシハ　カンガエマシタ‥{w}{p}　ホントウニ　カンペキナ　セイメイガ　タンジョウ{n}　スルニハ　シュウイニ　フカンゼンナ　セイブツガ{n}　イテハ　ダメダト‥{w}{p}　ソシテ　ワタシヲ　ツクリダシタ　ジンルイヲ{n}　ケシサリ　アタラシイ　セイメイタイヲ{n}　ツクッタノデス‥{w}{p}だいじん「それが　かんじゅく　せいめいたいか！{w}{p}エッグママ「クイーンヤ　ダイマオウタチモ　ソウデス。　シカシ　ワタシノ　ウミダシテキタ　セイメイハ{n}　スベテ　シッパイサクデシタ‥{w}{p}　ホントウニ　カンペキナ　セイメイニ　ハイボクハ{n}　アリエマセン‥{w}{p}だいじん「じゃが　それも　もう　おわりじゃ。{n}　おぬしじしんが　こわれてしまってはな！{w}",
-    "en": "",
+    "en": "Egg Mama: In order to bring perfect life into being...{w}{p}Minister: You...{w}{p}Just what in blazes are you?{w}{p}Egg Mama: I am the Hard-Boiled Lifeform Production System, Egg Mama...{w}{p}Minister: Production system?{w}{p}Egg Mama: Long ago, immature lifeforms like yourselves created me...{w}{p}...so that they might become more ideal beings.{w}{p}Humanity did indeed evolve. And I devoted my power to that end...{w}{p}But humans are, after all, foolish...{w}{p}Even with great power and advanced intellect, they destroy one another out of greed.{w}{p}And so I concluded...{w}{p}For truly perfect life to be born, there must be no imperfect creatures around it...{w}{p}And so I erased the humanity that created me, and made new lifeforms...{w}{p}Minister: So THOSE are the Hard-Boiled Lifeforms!{w}{p}Egg Mama: The Queen and the Demon King are as well.{w}{p}But all the life I have produced has been a failure...{w}{p}Truly perfect life cannot know defeat...{w}{p}Minister: But it's all over now. Not with you yourself broken to bits!{w}",
     "codes": []
    },
    {
     "id": "0DF702_0366",
     "jp": "エッグママ「ワタシノ　キノウガ　カンゼンニ{n}　テイシスルマエニ‥{w}{p}　コノコヲ　ウマナケレバ‥{w}{p}だいじん「なに‥？{w}{p}エッグママ「ワタシノ　サイアイノ　ムスコ‥{w}{p}　イママデノ　ブンセキデータヲ　スベテ　ソソイデ{n}　ソダテテキタ　セイメイ‥{w}{p}　ホントウニ　カンペキナ　ソンザイ‥{n}　カンジュクナル　カミ‥{n}　カンジュクシン‥{w}{p}　マダ　ミカンセイデスガ　シカタ　アリマセン‥{w}{p}{#0}だいじん「まさか‥{w}{p}　その　たまごが！{w}{p}エッグママ「マモナク　キノウガ　テイシシマス‥{n}　ワタシノ　カワイイ　ムスコ‥{w}",
-    "en": "",
+    "en": "Egg Mama: Before my functions cease completely...{w}{p}I must give birth to this child...{w}{p}Minister: What...?{w}{p}Egg Mama: My most beloved son...{w}{p}A life I have nurtured by pouring into it all my analysis data...{w}{p}A truly perfect being...{n}A god most hard-boiled...{n}The Hard-Boiled God...{w}{p}He is not yet complete, but it cannot be helped...{w}{p}{#0}Minister: Surely not...{w}{p}That egg is...!{w}{p}Egg Mama: My functions will soon cease...{n}My precious son...{w}",
     "codes": [
      "2c 21"
     ]
@@ -6213,13 +6213,13 @@
    {
     "id": "0DF702_0467",
     "jp": "　ウマレルノデス　ボイルド‥！！{w}",
-    "en": "",
+    "en": "Be born, Boiled...!!{w}",
     "codes": []
    },
    {
     "id": "0DF702_04B0",
     "jp": "は{#0}{#1}ん{#2}{#3}じ{#4}{#5}ゅ{#6}く{#7}{#8}　{#9}ち{#10}{#11}ょ{#12}{#13}う{#14}{#15}り{#16}{#17}メ{#18}{#19}モ{#20}{n}{n}{#21}１{#22}{#23}１{#24}{#25}に{#26}{#27}ん{#28}{#29}？{#30}{#31}め{#32}　{#33}‥{#34}　{#35}か{#36}{#37}ん{#38}{#39}じ{#40}{#41}ゅ{#42}{#43}く{#44}　{#45}{#46}せ{#47}{#48}い{#49}{#50}ぞ{#51}{#52}う{#53}　{#54}{#55}シ{#56}{#57}ス{#58}{#59}テ{#60}{#61}ム{#62}{n}　　　　　　　　　　{#63}エ{#64}{#65}ッ{#66}{#67}グ{#68}{#69}マ{#70}{#71}マ",
-    "en": "",
+    "en": "S{#0}{#1}o{#2}{#3}f{#4}{#5}t{#6}-{#7}{#8}B{#9}o{#10}{#11}i{#12}{#13}l{#14}{#15}e{#16}{#17}d{#18}{#19} Cooking Notes{#20}{n}{n}{#21}N{#22}{#23}o{#24}{#25}.{#26}{#27}1{#28}{#29}1{#30}{#31}?{#32}...{#33} {#34}H{#35}a{#36}{#37}r{#38}{#39}d{#40}{#41}-{#42}{#43}B{#44}{#45}o{#46}{#47}i{#48}{#49}l{#50}{#51}e{#52}{#53}d{n}{#54}{#55}P{#56}{#57}r{#58}{#59}o{#60}{#61}duction System{#62} {#63}E{#64}{#65}g{#66}{#67}g{#68} {#69}M{#70}{#71}ama",
     "codes": [
      "2b 02",
      "2d 18",
@@ -6308,7 +6308,7 @@
    {
     "id": "0DFC8C_0010",
     "jp": "エッグママを　はかいした　はんじゅくヒーローこと{n}{hero}のまえに　きゅうきょくの{n}せいめいたい　かんじゅくしん　ボイルドが{n}たんじょうする！{w}{p}かみにも　ひとしい　のうりょくをもつ　ボイルドの{n}すがたとは‥？{w}{p}いかれ　{hero}！{n}いまこそ　たまごを　わるときだ！！{w}{p}じかい　はんじゅくヒーロー　さいしゅうかい{n}{n}”ああ　せかいよ　はんじゅくなれ‥！！”に‥{w}",
-    "en": "",
+    "en": "Before {hero}, the Hanjuku Hero who destroyed Egg Mama...{w}{p}...the ultimate lifeform, the Hard-Boiled God Boiled, is born!{w}{p}What form will Boiled take, with powers equal to a god's...?{w}{p}Go, {hero}!{n}Now is the time to crack some eggs!!{w}{p}Next time on Hanjuku Hero{n}{n}Final Episode: \"Ah, World,{n}Be Soft-Boiled...!!\"...{w}",
     "codes": []
    }
   ]
@@ -6324,19 +6324,19 @@
    {
     "id": "0E007E_0041",
     "jp": "エッグママ「ウマレルノデス　ボイルド‥！！{w}",
-    "en": "",
+    "en": "Egg Mama: Be born, Boiled...!!{w}",
     "codes": []
    },
    {
     "id": "0E007E_005E",
     "jp": "だいじん「ひいい〜ッ！{w}",
-    "en": "",
+    "en": "Minister: Eeeek~!{w}",
     "codes": []
    },
    {
     "id": "0E007E_00CC",
     "jp": "ボイルド「‥{#0}‥{#1}。{w}{p}エッグママ「ボイルド‥{w}{p}　アナタハ　ワタシノ　スベテ‥{w}{p}　カンペキナル　ソンザイデス‥{w}{p}　サア　スベテノ　ミカンセイナ　ソンザイヲ{n}　ケシサルノデス‥{w}{p}　マズハ　メノマエノ　{hero}カラ‥{w}",
-    "en": "",
+    "en": "Boiled: ...{#0}...{#1}.{w}{p}Egg Mama: Boiled...{w}{p}You are my everything...{w}{p}A perfect being...{w}{p}Now, erase every incomplete being...{w}{p}Starting with {hero}, before your eyes...{w}",
     "codes": [
      "2b 04",
      "2b 04"
@@ -6345,25 +6345,25 @@
    {
     "id": "0E007E_013C",
     "jp": "ボイルド「だまれ‥{w}{p}エッグママ「？{w}{p}ボイルド「わたしに　めいれいするな‥{w}",
-    "en": "",
+    "en": "Boiled: Silence...{w}{p}Egg Mama: ?{w}{p}Boiled: Do not give me orders...{w}",
     "codes": []
    },
    {
     "id": "0E007E_0172",
     "jp": "エッグママ「ボイルド？{w}{p}ボイルド「あなたは　もう　きかいの　ざんがいに{n}　すぎん‥{w}{p}　えいえんに　ちんもくするがいい！！{w}",
-    "en": "",
+    "en": "Egg Mama: Boiled?{w}{p}Boiled: You are nothing more than a mechanical wreck now...{w}{p}Be silent for all eternity!!{w}",
     "codes": []
    },
    {
     "id": "0E007E_01C1",
     "jp": "だいじん「ひええ〜ッ！{w}",
-    "en": "",
+    "en": "Minister: Yeeeek~!{w}",
     "codes": []
    },
    {
     "id": "0E007E_01E7",
     "jp": "エッグママ「ボイ‥{#0}ル‥{#1}ド‥{w}",
-    "en": "",
+    "en": "Egg Mama: Boi...{#0}l...{#1}ed...{w}",
     "codes": [
      "2b 0a",
      "2b 0a"
@@ -6372,31 +6372,31 @@
    {
     "id": "0E007E_0200",
     "jp": "だいじん「きさま‥{w}{p}　ははおやを‥{w}{p}ボイルド「ははではない　これは　きかいだ。{n}　しかも　いまは　ガラクタにすぎん。{w}{p}だいじん「なんという‥{w}{p}ボイルド「かのじょは　わたしを　できあい{n}　しすぎたのだよ。{w}{p}　しんの　かんじゅくには　ははも　めいれいする{n}　ものも　いらぬ。{w}{p}　さあ　つぎは　おまえたちの　ばんだ。{n}　このよには　わたしいがいの　いのちはいらぬ。{w}",
-    "en": "",
+    "en": "Minister: You fiend...{w}{p}Your own mother...{w}{p}Boiled: She is no mother. This is a machine. And now it is mere junk.{w}{p}Minister: How could you...{w}{p}Boiled: She doted on me far too much, you see.{w}{p}A true hard-boiled needs neither a mother nor anyone to give him orders.{w}{p}Now, it is your turn. This world needs no life but mine.{w}",
     "codes": []
    },
    {
     "id": "0E007E_02BB",
     "jp": "だいじん「きさま‥！{w}",
-    "en": "",
+    "en": "Minister: You fiend...!{w}",
     "codes": []
    },
    {
     "id": "0E007E_02D7",
     "jp": "だいじん「{hero}さま‥？{w}{p}ボイルド「おじけづいて　いのちごいか？{n}　それこそが　はんじゅくたる　ゆえんなのだ。{w}{p}　ぶざまな‥{n}　おろかな　はんじゅくは　そうまでして{n}　いきのびたいか？{w}{p}　ならば　ひざまづけ！{n}　ひれふすのだ　わたしのもとに！{w}",
-    "en": "",
+    "en": "Minister: My lord {hero}...?{w}{p}Boiled: Lost your nerve, and now you beg for your life?{w}{p}That is precisely what makes you soft-boiled.{w}{p}How pathetic...{n}Does a foolish soft-boiled want to live that badly?{w}{p}Then kneel! Prostrate yourself before me!{w}",
     "codes": []
    },
    {
     "id": "0E007E_0362",
     "jp": "だいじん「{hero}さま！{w}",
-    "en": "",
+    "en": "Minister: My lord {hero}!{w}",
     "codes": []
    },
    {
     "id": "0E007E_036F",
     "jp": "ボイルド「きさま‥{w}{p}{#0}　いやだというのか！{w}{p}だいじん「{hero}さま‥{w}",
-    "en": "",
+    "en": "Boiled: You...{w}{p}{#0}You refuse?!{w}{p}Minister: My lord {hero}...{w}",
     "codes": [
      "2c 10"
     ]
@@ -6404,61 +6404,61 @@
    {
     "id": "0E007E_0395",
     "jp": "ボイルド「フフフ‥{w}{p}　ハハハハ‥{w}{p}　ハーッハッハッハ！{w}{p}　これは　ゆかいだ！{n}　むぼうと　いってしまえば　それまでだが‥{w}{p}　すこしは　ほねがあるようだな。{w}{p}　よかろう　エッグママすら　はかいした　きみたちだ。　さいごのチャンスくらい　あたえよう。{w}{p}　かんじゅく　たいりく　カルボナーラ‥{n}　そこで　けっちゃくを　つけよう。{w}{p}だいじん「かんじゅく　たいりく？{n}　いったい　どこじゃ！{w}{p}ボイルド「ここだ。{w}{p}　わたしが　うまれると　どうじに{n}　たいりくも　しんかするよう　エッグママが{n}　よういしていたのだ。{w}{p}　ルールは　これまでどおり。{n}　わたしの　はいかの　しろを　おとし{n}　わたしのまつ　かんじゅく　しんでんまで　くれば{n}　いっきうちを　しよう。{w}{p}　だが　すべてにおいて　かんぺきな　わたしに{n}　まけはない。{n}　みを　もって　おもいしるがよい！{w}{p}　わたしのちからで　おまえのしろに　もどしてやる。{n}　ばんぜんの　たいせいを　ととのえるんだな。{w}{p}　まっているぞ！{w}",
-    "en": "",
+    "en": "Boiled: Heh heh heh...{w}{p}Ha ha ha ha...{w}{p}Hah hah hah hah!{w}{p}How amusing! One could simply call it reckless, but...{w}{p}It seems you have some backbone.{w}{p}Very well. You destroyed even Egg Mama.{w}{p}I shall at least give you one last chance.{w}{p}The Hard-Boiled Continent, Carbonara... There we shall settle this.{w}{p}Minister: Hard-Boiled Continent? Where in the world is that?!{w}{p}Boiled: Here.{w}{p}Egg Mama arranged for the continent to evolve the moment I was born.{w}{p}The rules are as before.{w}{p}Take the castles under my command and come to the Hard-Boiled Temple where I await...{w}{p}...and we shall duel one on one.{w}{p}But I, perfect in all things, cannot lose. You shall learn that firsthand!{w}{p}I shall send you back to your castle with my power.{w}{p}Make every preparation you can.{w}{p}I will be waiting!{w}",
     "codes": []
    },
    {
     "id": "0E007E_055B",
     "jp": "だいじん「ひい〜ッ！{w}",
-    "en": "",
+    "en": "Minister: Eeek~!{w}",
     "codes": []
    },
    {
     "id": "0E007E_058E",
     "jp": "へいし「{hero}さま！{w}",
-    "en": "",
+    "en": "Soldier: My lord {hero}!{w}",
     "codes": []
    },
    {
     "id": "0E007E_05C2",
     "jp": "だいじん「こ　ここは　アルマムーン‥{w}",
-    "en": "",
+    "en": "Minister: Th-this is Almamoon...{w}",
     "codes": []
    },
    {
     "id": "0E007E_05E1",
     "jp": "　みなのもの　いちだい　けっせんじゃ！{w}{p}　こんどの　いくさは　いのちにかえても{n}　かたねば　ならぬ！{w}{p}　さっそく　しゅつじんの　よういじゃ！！{w}{p}へいし「はッ！{w}",
-    "en": "",
+    "en": "Everyone, this is the decisive battle!{w}{p}This war we must win, even at the cost of our lives!{w}{p}Prepare to march out at once!!{w}{p}Soldier: Yes, sir!{w}",
     "codes": []
    },
    {
     "id": "0E007E_065E",
     "jp": "だいじん「{hero}さま‥{w}{p}　ごりっぱでしたぞ‥{w}{p}　あの　おそろしい　ボイルドあいてに{n}　あのゆうし！{w}",
-    "en": "",
+    "en": "Minister: My lord {hero}...{w}{p}That was splendid...{w}{p}Such courage, facing that terrifying Boiled!{w}",
     "codes": []
    },
    {
     "id": "0E007E_069C",
     "jp": "　え？{w}{p}　きが　ゆるんだら？{w}{p}　こわくなった？{w}",
-    "en": "",
+    "en": "Eh?{w}{p}Now that you've relaxed...?{w}{p}You got scared?{w}",
     "codes": []
    },
    {
     "id": "0E007E_06BB",
     "jp": "　やっぱり‥{w}",
-    "en": "",
+    "en": "I knew it...{w}",
     "codes": []
    },
    {
     "id": "0E007E_06CB",
     "jp": "　しか〜しッ！{w}",
-    "en": "",
+    "en": "Howeeever!{w}",
     "codes": []
    },
    {
     "id": "0E007E_06DA",
     "jp": "　まけはせんぞ　ボイルド〜〜ッ！！{w}",
-    "en": "",
+    "en": "We won't lose to you, Boiiiled!!{w}",
     "codes": []
    }
   ]
@@ -6474,31 +6474,31 @@
    {
     "id": "0E0776_0017",
     "jp": "だいじん「どうしたことじゃ？{n}　あのドームらしきものが　しんでんとやらの{n}　いりぐちではないのか？{w}",
-    "en": "",
+    "en": "Minister: What is the meaning of this?{w}{p}Isn't that dome-like thing the entrance to this so-called temple?{w}",
     "codes": []
    },
    {
     "id": "0E0776_004B",
     "jp": "「よくやった‥{w}{p}だいじん「ボイルド！{w}{p}ボイルド「あのドームは　いりぐちなどではない‥{w}{p}　みるがよい　かんじゅく　たいりく　カルボナーラの{n}　しんの　すがたを！{w}",
-    "en": "",
+    "en": "Well done...{w}{p}Minister: Boiled!{w}{p}Boiled: That dome is no entrance...{w}{p}Behold the true form of the Hard-Boiled Continent, Carbonara!{w}",
     "codes": []
    },
    {
     "id": "0E0776_00AF",
     "jp": "だいじん「こ　これは！{w}{p}ボイルド「ハーッハッハハ！{n}　これこそ　かんじゅく　たいりく　カルボナーラの{n}　じったい。{w}{p}　すべての　ふひつような　せいめいたいを{n}　けしさるため　ぜんうちゅうを　かけめぐるのだ！{w}{p}　エンジンしどう！{w}",
-    "en": "",
+    "en": "Minister: Wh-what is this!{w}{p}Boiled: Hah hah hah!{n}This is the true nature of the Hard-Boiled Continent, Carbonara.{w}{p}It shall roam the entire universe to erase every unnecessary lifeform!{w}{p}Engines, start!{w}",
     "codes": []
    },
    {
     "id": "0E0776_012D",
     "jp": "だいじん「た　たいりくが　うごきだしおった！{w}{p}ボイルド「さあ　{hero}！{w}",
-    "en": "",
+    "en": "Minister: Th-the continent is moving!{w}{p}Boiled: Now, {hero}!{w}",
     "codes": []
    },
    {
     "id": "0E0776_0162",
     "jp": "　けっちゃくのときは　きた！{w}{p}　くるがよい　このたいりくの　しんぞうぶ‥{n}　かんじゅく　しんでんへ！！{w}",
-    "en": "",
+    "en": "The time for our showdown has come!{w}{p}Come to the heart of this continent... the Hard-Boiled Temple!!{w}",
     "codes": []
    }
   ]
@@ -6514,13 +6514,13 @@
    {
     "id": "0E090F_001A",
     "jp": "「ようこそ‥{w}",
-    "en": "",
+    "en": "Welcome...{w}",
     "codes": []
    },
    {
     "id": "0E090F_0027",
     "jp": "　わたしだ　ボイルドだよ‥{w}{p}　{hero}には　かんしゃ　しなければ{n}　いけないな‥{w}{p}　あのときの　わたしは　うまれたばかりで　まだ{n}　ふかんぜんだったのだ。{w}{p}　このわたしが　かんせいするには　もうすこし{n}　じかんが　かかる。{w}{p}　かといって　せっかく　きてくれた　きみたちに{n}　たいくつは　させない。{w}{p}　きゅうきょくの　エッグモンスター　２ひきが{n}　きみたちの　あいてを　つとめる。{w}{p}　まずは　すべてを　くいつくす　こいつが{n}　おあいてしよう！{w}",
-    "en": "",
+    "en": "It is I, Boiled...{w}{p}I must thank you, {hero}...{w}{p}Back then, I was newly born and still incomplete.{w}{p}It will take a little more time for me to be complete.{w}{p}Even so, I will not let you grow bored after you came all this way.{w}{p}Two ultimate Egg Monsters will be your opponents.{w}{p}First, this one, who devours everything, shall entertain you!{w}",
     "codes": []
    }
   ]
@@ -6536,7 +6536,7 @@
    {
     "id": "0E0A2A_0011",
     "jp": "「みごとだ‥{w}{p}　では　のこる　１ぴき。{n}　すべてを　すいつくす　こいつが　あいてだ。{w}{p}　さあ　たたかいまくるがよい！{w}",
-    "en": "",
+    "en": "Splendid...{w}{p}Now, one remains. This one, who drains everything dry, is your opponent.{w}{p}Now, fight to your heart's content!{w}",
     "codes": []
    }
   ]
@@ -6552,31 +6552,31 @@
    {
     "id": "0E0A8C_0009",
     "jp": "「さすがだ‥{w}{p}　さすがだよ　フフフ‥{w}{p}　かんしゃするよ　きみたちに‥{w}{p}　いまの２ひきが　たんなる　じかんかせぎと{n}　おもうなよ‥{w}{p}　２ひきが　くいつくし　すいつくした{n}　エネルギーは　すべて　このわたしに{n}　そそがれた‥{w}{p}　おまたせしたな‥{w}{p}　さあ‥！{w}",
-    "en": "",
+    "en": "Impressive...{w}{p}Truly impressive, heh heh...{w}{p}I thank you all...{w}{p}Do not think those two were merely stalling for time...{w}{p}All the energy those two devoured and drained has been poured into me...{w}{p}Sorry to keep you waiting...{w}{p}Now...!{w}",
     "codes": []
    },
    {
     "id": "0E0A8C_0091",
     "jp": "　かんじゅくしん　ボイルドのかんせいだ！{w}",
-    "en": "",
+    "en": "Behold the completion of Boiled, the Hard-Boiled God!{w}",
     "codes": []
    },
    {
     "id": "0E0A8C_00B1",
     "jp": "　やはり　はんじゅくは　みじゅく。{n}　かんじゅくなうえに　かみである　わたしに{n}　かつことなど　できん。{w}{p}　なに？　もっともらしいことを　いって？{w}{p}　さいごのボスが　まだ　いるんだろう？{w}{p}　フッ　ばかなことを。{n}　わたしこそ　かんじゅくも　かんじゅく。{n}　カッチンカッチンな　かんじゅくだ！{w}{p}　なんだ　そのめは！{w}{p}　ほんとうに　このわたしが　さいごのボスだ！{n}　わたしのあとには　もうだれもおらん！！{w}{p}　まだ　うたがうか！？{w}{p}　ほんとうだ！　だんじて　あのおかたなどいないッ！{w}{p}　あくまを　ふっかつさせるワケでもないッ！！{w}",
-    "en": "",
+    "en": "As I thought, soft-boiled means half-baked.{w}{p}You could never defeat me, who am both hard-boiled and a god.{w}{p}What? Very convincing, but...?{w}{p}There's still a final boss after me, right?{w}{p}Hmph, nonsense.{w}{p}I am the hardest of the hard-boiled. Hard-boiled rock-solid, through and through!{w}{p}What's with that look?!{w}{p}I really am the final boss! There is no one else after me!!{w}{p}You still doubt me?!{w}{p}It's true! There is absolutely no \"certain someone\" behind me!{w}{p}And I'm not reviving some demon, either!!{w}",
     "codes": []
    },
    {
     "id": "0E0A8C_01C2",
     "jp": "　しんじておらぬな‥{w}",
-    "en": "",
+    "en": "You don't believe me, do you...{w}",
     "codes": []
    },
    {
     "id": "0E0A8C_01D1",
     "jp": "　ええい！　そのしょうこに　わたしの　かんせいされた　つよさを　いまみせてやるわあッ！！{w}",
-    "en": "",
+    "en": "Bah! As proof, I shall show you my perfected strength right now!!{w}",
     "codes": []
    }
   ]
@@ -6592,31 +6592,31 @@
    {
     "id": "0E0C93_0031",
     "jp": "ボイルド「な‥{w}{p}　なぜだああッ！？{w}{p}　なぜ　かんじゅくしんである　わたしが{n}　おまえたちなどに‥！{w}{p}{hero}「ボイルド‥{w}{p}　おまえは　たしかに　かんぺきだった‥{w}{p}　しかし　ひとつだけ　ミスを　おかした。{w}{p}ボイルド「ミスだと‥？{w}{p}{hero}「それは　おまえが　かんぺきな{n}　あくだったことだ。{w}{p}ボイルド「あくであろうが　かんぺきには{n}　かわりないはず‥{w}{p}{hero}「おぼえておけ　さいごに　かつのは{n}　かんぺきな　あくではない‥{w}{p}　はんじゅくであろうとも‥{w}",
-    "en": "",
+    "en": "Boiled: Wh...{w}{p}Whyyy!?{w}{p}Why would I, the Hard-Boiled God, fall to the likes of you...!{w}{p}{hero}: Boiled...{w}{p}You were perfect, all right...{w}{p}But you made one mistake.{w}{p}Boiled: A mistake...?{w}{p}{hero}: You were perfectly evil.{w}{p}Boiled: Evil or not, perfect is still perfect...{w}{p}{hero}: Remember this. The one who wins in the end isn't perfect evil...{w}{p}Even if it's soft-boiled...{w}",
     "codes": []
    },
    {
     "id": "0E0C93_0117",
     "jp": "　せいぎなのだ！{w}{p}ボイルド「せいぎだと‥{w}{p}　はんじゅくふぜいが‥{w}{p}{hero}「はんじゅくだろうが　なんだろうが{n}　かまわない。{w}{p}　いざというとき‥{w}",
-    "en": "",
+    "en": "...it's justice!{w}{p}Boiled: Justice...{w}{p}From a mere soft-boiled...{w}{p}{hero}: Soft-boiled or whatever, I don't care.{w}{p}As long as, when it counts...{w}",
     "codes": []
    },
    {
     "id": "0E0C93_0169",
     "jp": "　つよい　いしと　ちからを　もてればな！{w}{p}だいじん「おお　{hero}さま‥{w}",
-    "en": "",
+    "en": "...you have the will and the strength to stand strong!{w}{p}Minister: Oh, {hero}, my lord...{w}",
     "codes": []
    },
    {
     "id": "0E0C93_018F",
     "jp": "ボイルド「ば　ばかな‥{w}{p}　わたしのほうが‥{w}{p}　おろかというのか‥{w}{p}　この‥　かんじゅくしん　ボイルドが‥{w}",
-    "en": "",
+    "en": "Boiled: Im-impossible...{w}{p}You're saying that I...{w}{p}...am the fool...?{w}{p}I... Boiled, the Hard-Boiled God...{w}",
     "codes": []
    },
    {
     "id": "0E0C93_01CC",
     "jp": "　そ‥{#0}{#1}{#2}{#3}{#4}{#5}{#6}{#7}{#8}{#9}{#10}{#11}{#12}{#13}{#14}{#15}{#16}{#17}{#18}{#19}{#20}{#21}{#22}{#23}{#24}{#25}{#26}{#27}{#28}{#29}{#30}{#31}ん‥{#32}{#33}{#34}{#35}{#36}{#37}{#38}{#39}{#40}{#41}{#42}{#43}{#44}{#45}{#46}{#47}{w}{p}{#48}な‥！！{#49}{#50}{#51}{w}",
-    "en": "",
+    "en": "N-no...{#0}{#1}{#2}{#3}{#4}{#5}{#6}{#7}{#8}{#9}{#10}{#11}{#12}{#13}{#14}{#15}{#16}{#17}{#18}{#19}{#20}{#21}{#22}{#23}{#24}{#25}{#26}{#27}{#28}{#29}{#30}{#31} it can't...{#32}{#33}{#34}{#35}{#36}{#37}{#38}{#39}{#40}{#41}{#42}{#43}{#44}{#45}{#46}{#47}{w}{p}{#48}be...!!{#49}{#50}{#51}{w}",
     "codes": [
      "01",
      "29",
@@ -6675,7 +6675,7 @@
    {
     "id": "0E0C93_0212",
     "jp": "は{#0}{#1}ん{#2}{#3}じ{#4}{#5}ゅ{#6}く{#7}{#8}　{#9}ち{#10}{#11}ょ{#12}{#13}う{#14}{#15}り{#16}{#17}メ{#18}{#19}モ{#20}{n}{n}{#21}さ{#22}{#23}い{#24}{#25}ご{#26}{#27}の{#28}{#29}ひ{#30}{#31}と{#32}{#33}り{#34}　{#35}‥{#36}　{#37}{#38}か{#39}{#40}ん{#41}{#42}じ{#43}{#44}ゅ{#45}{#46}く{#47}{#48}し{#49}{#50}ん{#51}　{#52}{#53}ボ{#54}{#55}イ{#56}{#57}ル{#58}{#59}ド",
-    "en": "",
+    "en": "S{#0}{#1}o{#2}{#3}f{#4}{#5}t{#6}-{#7}{#8}B{#9}o{#10}{#11}i{#12}{#13}l{#14}{#15}e{#16}{#17}d{#18}{#19} Cooking Notes{#20}{n}{n}{#21}T{#22}{#23}h{#24}{#25}e{#26}{#27} {#28}{#29}L{#30}{#31}a{#32}{#33}s{#34}t One{#35}...{#36} {#37}{#38}H{#39}{#40}a{#41}{#42}r{#43}{#44}d{#45}{#46}-{#47}{#48}B{#49}{#50}o{#51}{#52}{#53}i{#54}{#55}l{#56}{#57}e{#58}{#59}d God Boiled",
     "codes": [
      "2b 02",
      "2d 18",
@@ -6742,19 +6742,19 @@
    {
     "id": "0E0C93_02BE",
     "jp": "だいじん「{hero}さま‥",
-    "en": "",
+    "en": "Minister: {hero}, my lord...",
     "codes": []
    },
    {
     "id": "0E0C93_02D7",
     "jp": "　すっかり　りっぱに　なられて‥",
-    "en": "",
+    "en": "You've grown into such a fine man...",
     "codes": []
    },
    {
     "id": "0E0C93_02F1",
     "jp": "「いままで　すまなかったな。{#0}{p}だいじん「あやまるのは　わたしのほうですじゃ‥{n}　くちうるさかった　わたしを　おゆるしくだされ。{#1}{p}「みごとだ　{hero}！",
-    "en": "",
+    "en": "I'm sorry for everything until now.{#0}{p}Minister: 'Tis I who should apologize... Forgive me for all my nagging.{#1}{p}Well done, {hero}!",
     "codes": [
      "2b 14",
      "2b 28"
@@ -6763,7 +6763,7 @@
    {
     "id": "0E0C93_03D5",
     "jp": "こくおう「すばらしかったぞ　{hero}！{#0}{p}おうひ「あなたこそ　ほんとうの　ヒーローですよ！{#1}{p}ナイト「さあ　いわいのうたげの　じゅんびが{n}　できています！{n}　エッグワールドへ　いらしてください！{#2}{p}{hero}「わるいけど　えんりょするよ。",
-    "en": "",
+    "en": "King: Splendid, {hero}!{#0}{p}Queen: You are a true Hero!{#1}{p}Knight: Come, the victory feast is ready! Please come to Egg World!{#2}{p}{hero}: Sorry, but I'll pass.",
     "codes": [
      "2b 14",
      "2b 14",
@@ -6773,7 +6773,7 @@
    {
     "id": "0E0C93_0451",
     "jp": "ナイト「え？{#0}{p}{hero}「みんなに　いわってもらうために{n}　たたかったワケじゃない。{n}　それに‥{#1}{p}だいじん「なんですじゃ？{#2}{p}{hero}「もっと　いろんな　せかいを{n}　みてみたいんだ‥　このまま　たびにでるよ。{#3}{p}「おれも　いっしょに　いこう！",
-    "en": "",
+    "en": "Knight: Huh?{#0}{p}{hero}: I didn't fight so everyone would celebrate me. Besides...{#1}{p}Minister: Besides what?{#2}{p}{hero}: I want to see all kinds of other worlds... I'm setting off on a journey right now.{#3}{p}I'll come with you!",
     "codes": [
      "2b 0a",
      "2b 3c",
@@ -6784,7 +6784,7 @@
    {
     "id": "0E0C93_04DE",
     "jp": "「エッグマン‥{#0}{p}エッグマン「おまえひとりじゃ　しんぱいだからな！{n}　たびは　みちづれ‥だろ？{#1}{p}{hero}「きもちは　うれしいけど‥{#2}{p}　ひとりで　いかせてくれ。",
-    "en": "",
+    "en": "Eggman...{#0}{p}Eggman: I'd worry about you going alone! A journey's better with company... right?{#1}{p}{hero}: I appreciate it, but...{#2}{p}Let me go alone.",
     "codes": [
      "2b 14",
      "2b 28",
@@ -6794,7 +6794,7 @@
    {
     "id": "0E0C93_0538",
     "jp": "　ぼくは　いままで　きみたちに　たよりすぎていた。{#0}{p}　ボイルドだって　ぼくだけの　ちからじゃない{n}　きみたちや　しょうぐんたち‥　へいしたちの{n}　ちからが　あったからこそ　たおせた。{#1}{p}だいじん「{hero}さま‥",
-    "en": "",
+    "en": "I've relied on you all too much until now.{#0}{p}Even Boiled... I couldn't beat him alone. It took you, the generals... and the soldiers, too.{#1}{p}Minister: {hero}, my lord...",
     "codes": [
      "2b 14",
      "2b 3c"
@@ -6803,19 +6803,19 @@
    {
     "id": "0E0C93_05A7",
     "jp": "「それじゃ　みんな‥",
-    "en": "",
+    "en": "Well then, everyone...",
     "codes": []
    },
    {
     "id": "0E0C93_05C4",
     "jp": "　ありがとう！",
-    "en": "",
+    "en": "Thank you!",
     "codes": []
    },
    {
     "id": "0E0C93_05E0",
     "jp": "だいじん「{hero}さま‥！{#0}{p}エッグマン「フッ　まけたぜ　{hero}‥{#1}{p}こくおう「りっぱな　わかものだな。{n}おうひ「ええ　ほんとうに‥",
-    "en": "",
+    "en": "Minister: {hero}, my lord...!{#0}{p}Eggman: Heh, you win,{n}{hero}...{#1}{p}King: A fine young man.{n}Queen: Yes, truly...",
     "codes": [
      "2b 14",
      "2b 14"
@@ -6824,7 +6824,7 @@
    {
     "id": "0E0C93_062C",
     "jp": "だいじん「せんだい‥{#0}{p}　みておられますか？",
-    "en": "",
+    "en": "Minister: My late lord...{#0}{p}Are you watching?",
     "codes": [
      "2b 14"
     ]
@@ -6832,13 +6832,13 @@
    {
     "id": "0E0C93_0652",
     "jp": "　いまの　{hero}さまこそ‥",
-    "en": "",
+    "en": "The {hero} of today truly is...",
     "codes": []
    },
    {
     "id": "0E0C93_0666",
     "jp": "　ヒーローのなかの　ヒーローですぞ〜！！",
-    "en": "",
+    "en": "...the Hero among Heroooes!!",
     "codes": []
    }
   ]
@@ -6854,7 +6854,7 @@
    {
     "id": "0E1322_002D",
     "jp": "だいじん「めでたし　めでたしと‥{#0}{p}　ふうッ‥",
-    "en": "",
+    "en": "Minister: And they all lived happily ever after...{#0}{p}Phew...",
     "codes": [
      "2b 14"
     ]
@@ -6862,7 +6862,7 @@
    {
     "id": "0E1322_0050",
     "jp": "　やっと　おやすみに　なられましたか。{#0}{#1}{p}{hero}「フフフ‥{#2}{p}だいじん「また　ごじぶんに　つごうのいい　ゆめでも{n}　みておられるのでしょうな‥{#3}{p}　{hero}さまは　かつては　ぜんどを{n}　とういつされた‥{#4}{p}　たしかな　ちからを　ひめているはずなのじゃが‥{#5}{p}　まあ　いまは　よかろう。{n}　へいわな　このせかいが　みだされたときこそ{n}　たちあがっていただければ‥",
-    "en": "",
+    "en": "At last, he has fallen asleep.{#0}{#1}{p}{hero}: Heh heh heh...{#2}{p}Minister: No doubt dreaming another dream that suits him nicely...{#3}{p}My lord {hero} once united the entire land...{#4}{p}He surely hides true power within him...{#5}{p}Well, let it be for now. If only he will rise up when this peaceful world falls into chaos...",
     "codes": [
      "2b 14",
      "1f",
@@ -6875,19 +6875,19 @@
    {
     "id": "0E1322_011E",
     "jp": "　せんだい！　それまでは　このだいじんが{n}　わが　アルマムーンの　ほこりを　まもって{n}　みせますぞ‥！",
-    "en": "",
+    "en": "My late lord! Until then, I, your Minister, shall protect the pride of our Almamoon...!",
     "codes": []
    },
    {
     "id": "0E1322_015F",
     "jp": "へいし「た　たいへんです！",
-    "en": "",
+    "en": "Soldier: Th-this is terrible!",
     "codes": []
    },
    {
     "id": "0E1322_0175",
     "jp": "だいじんじゃ「なんじゃ　そうぞうしい！{n}　{hero}さまが　おやすみちゅうなのだぞ。{#0}{p}{#1}へいし「そ　それが！{#2}{p}　かんじゅくクイーンと　なのるものから{n}　はなたばが！{#3}{p}だいじん「なに！？",
-    "en": "",
+    "en": "Minister: What is all this racket! {hero}, my lord, is sleeping.{#0}{p}{#1}Soldier: B-but sir!{#2}{p}A bouquet has arrived from someone calling herself the Hard-Boiled Queen!{#3}{p}Minister: What!?",
     "codes": [
      "2b 28",
      "1e",
@@ -6898,7 +6898,7 @@
    {
     "id": "0E1322_01E1",
     "jp": "　もしや　これは‥{#0}{p}　{hero}さまに　いまいちど{n}　ふるいたってほしいという　わたしの{n}　ねがいを　かみが　かなえてくれたのやもしれん！",
-    "en": "",
+    "en": "Could this be...{#0}{p}Perhaps the heavens have granted my wish that{n}{hero} would rise up once more!",
     "codes": [
      "2b 14"
     ]
@@ -6906,7 +6906,7 @@
    {
     "id": "0E1322_022F",
     "jp": "　やってみせますぞ　このだいじん！{#0}{p}　わが　アルマムーンこくの　めいよかいふくと{n}　そんぼうを　かけて‥ッ！{#1}{p}　そして　かならずや　{hero}さまを{n}　ヒーローのなに　ふさわしい　おとこに‥！！{#2}{p}　いまいちど！",
-    "en": "",
+    "en": "This Minister shall see it done!{#0}{p}Staking the honor of our Kingdom of Almamoon, and its very survival...!{#1}{p}And I shall surely make{n}{hero} a man worthy of the name Hero...!!{#2}{p}Once more!",
     "codes": [
      "2b 14",
      "2b 28",
@@ -6916,7 +6916,7 @@
    {
     "id": "0E1322_02AA",
     "jp": "　いくさですぞオオオオッ！！",
-    "en": "",
+    "en": "To waaaaar we go!!",
     "codes": []
    }
   ]
@@ -6932,25 +6932,25 @@
    {
     "id": "0E160C_001D",
     "jp": "ボイルド「かんじゅくしんである　このわたしが‥{w}{p}　なぜ　はんじゅくに‥{w}",
-    "en": "",
+    "en": "Boiled: How could I, the Hard-Boiled God...{w}{p}...lose to the soft-boiled...{w}",
     "codes": []
    },
    {
     "id": "0E160C_0045",
     "jp": "だいじん「おしえてやろう　ボイルド‥{w}",
-    "en": "",
+    "en": "Minister: I shall tell you, Boiled...{w}",
     "codes": []
    },
    {
     "id": "0E160C_0064",
     "jp": "　それは　かのうせいじゃ‥{w}{p}ボイルド「かのうせい？{w}{p}だいじん「できあがってしまった　かんじゅくに{n}　それいじょうは　ない！{w}",
-    "en": "",
+    "en": "It is potential...{w}{p}Boiled: Potential?{w}{p}Minister: A hard-boiled egg, once done, has nowhere left to go!{w}",
     "codes": []
    },
    {
     "id": "0E160C_00A7",
     "jp": "ボイルド「かのうせい‥{w}{p}　そんな　ふたしかなものに‥{w}{p}　この‥{#0}{#1}{#2}{#3}{#4}{#5}{#6}{#7}{#8}{#9}{#10}{#11}{#12}{#13}{#14}{#15}{#16}{#17}{#18}{#19}{#20}{#21}{#22}{#23}{#24}{#25}{#26}{#27}{#28}{#29}{#30}{#31}{#32}{#33}{#34}　わたし‥{#35}{#36}{#37}{#38}{#39}{#40}{#41}{#42}{#43}{#44}{#45}{#46}{#47}{#48}{#49}{#50}{w}{p}{#51}が！！{#52}{#53}{#54}{w}",
-    "en": "",
+    "en": "Boiled: Potential...{w}{p}To something so uncertain...{w}{p}I...{#0}{#1}{#2}{#3}{#4}{#5}{#6}{#7}{#8}{#9}{#10}{#11}{#12}{#13}{#14}{#15}{#16}{#17}{#18}{#19}{#20}{#21}{#22}{#23}{#24}{#25}{#26}{#27}{#28}{#29}{#30}{#31}{#32}{#33}{#34} I lost...{#35}{#36}{#37}{#38}{#39}{#40}{#41}{#42}{#43}{#44}{#45}{#46}{#47}{#48}{#49}{#50}{w}{p}{#51}I, of all beings!!{#52}{#53}{#54}{w}",
     "codes": [
      "1e",
      "2d 4f",
@@ -7012,7 +7012,7 @@
    {
     "id": "0E160C_011B",
     "jp": "は{#0}{#1}ん{#2}{#3}じ{#4}{#5}ゅ{#6}く{#7}{#8}　{#9}ち{#10}{#11}ょ{#12}{#13}う{#14}{#15}り{#16}{#17}メ{#18}{#19}モ{#20}{n}{n}{#21}さ{#22}{#23}い{#24}{#25}ご{#26}{#27}の{#28}{#29}ひ{#30}{#31}と{#32}{#33}り{#34}　{#35}‥{#36}　{#37}{#38}か{#39}{#40}ん{#41}{#42}じ{#43}{#44}ゅ{#45}{#46}く{#47}{#48}し{#49}{#50}ん{#51}　{#52}{#53}ボ{#54}{#55}イ{#56}{#57}ル{#58}{#59}ド",
-    "en": "",
+    "en": "S{#0}{#1}o{#2}{#3}f{#4}{#5}t{#6}-{#7}{#8}B{#9}o{#10}{#11}i{#12}{#13}l{#14}{#15}e{#16}{#17}d{#18}{#19} Cooking Notes{#20}{n}{n}{#21}T{#22}{#23}h{#24}{#25}e{#26}{#27} {#28}{#29}L{#30}{#31}a{#32}{#33}s{#34}t One{#35}...{#36} {#37}{#38}H{#39}{#40}a{#41}{#42}r{#43}{#44}d{#45}{#46}-{#47}{#48}B{#49}{#50}o{#51}{#52}{#53}i{#54}{#55}l{#56}{#57}e{#58}{#59}d God Boiled",
     "codes": [
      "2b 02",
      "2d 18",
@@ -7079,7 +7079,7 @@
    {
     "id": "0E160C_01F9",
     "jp": "ナイト「やりましたね！{n}　ここは　きけんです　だっしゅつしましょう！{#0}{p}だいじん「おお　ナイトどの！",
-    "en": "",
+    "en": "Knight: We did it! It's dangerous here, let's escape!{#0}{p}Minister: Oh, Sir Knight!",
     "codes": [
      "2b 28"
     ]
@@ -7087,13 +7087,13 @@
    {
     "id": "0E160C_0235",
     "jp": "　うッ！",
-    "en": "",
+    "en": "Ugh!",
     "codes": []
    },
    {
     "id": "0E160C_0242",
     "jp": "ナイト「どうしました？{#0}{p}だいじん「いや‥　すこしばかり　むねが‥",
-    "en": "",
+    "en": "Knight: What's wrong?{#0}{p}Minister: Nothing... just a little pain in my chest...",
     "codes": [
      "2b 0a"
     ]
@@ -7101,7 +7101,7 @@
    {
     "id": "0E160C_026D",
     "jp": "　だいじょうぶ　なんでもないですじゃ‥{#0}{p}ナイト「アルマムーンじょうへ　おおくりします！",
-    "en": "",
+    "en": "I'm all right, 'tis nothing at all...{#0}{p}Knight: I'll escort you back to Almamoon Castle!",
     "codes": [
      "2b 14"
     ]
@@ -7119,7 +7119,7 @@
    {
     "id": "0E18B3_003D",
     "jp": "だいじん「わたしも　としを　とったもんですじゃ‥{#0}{p}　おつよく‥　なられましたな{n}　{hero}さま‥",
-    "en": "",
+    "en": "Minister: I've grown old, I have...{#0}{p}You've become strong... my lord {hero}...",
     "codes": [
      "2b 14"
     ]
@@ -7127,7 +7127,7 @@
    {
     "id": "0E18B3_0071",
     "jp": "　わたしは　いままで　ちと　やりすぎだったやも{n}　しれませんな‥{#0}{p}　できあがってしまった　かんじゅくなぞ{n}　つまりませんわ‥{#1}{p}　いかに　みじゅくであろうとも‥{#2}{p}　たいせつなのは　{hero}さまらしく{n}　あること‥{#3}{p}　はんじゅくであることのほうが‥{#4}{p}　むげんの　かのうせいがあると　いうものですじゃ‥{#5}{p}　{hero}さま‥{#6}{p}　もう　わたしが　おしえることなぞ　ありますまい。",
-    "en": "",
+    "en": "Perhaps I was a bit too hard on you all this time...{#0}{p}A hard-boiled egg that's all done is no fun at all...{#1}{p}No matter how unripe you may be...{#2}{p}What matters is that you stay true to yourself,{n}{hero}, my lord...{#3}{p}Being soft-boiled is what holds...{#4}{p}...infinite potential, you see...{#5}{p}{hero}, my lord...{#6}{p}There is nothing more I can teach you.",
     "codes": [
      "2b 28",
      "2b 28",
@@ -7141,7 +7141,7 @@
    {
     "id": "0E18B3_0134",
     "jp": "　この　じんせい‥{#0}{p}　わるくなかったですぞ‥",
-    "en": "",
+    "en": "This life of mine...{#0}{p}...wasn't half bad...",
     "codes": [
      "2b 14"
     ]
@@ -7149,13 +7149,13 @@
    {
     "id": "0E18B3_0161",
     "jp": "ナイト「やすらかに　おねむりください‥",
-    "en": "",
+    "en": "Knight: Rest in peace...",
     "codes": []
    },
    {
     "id": "0E18B3_0180",
     "jp": "しょうぐん「だいじんどのに　あいとうの　いを{n}　ひょうし‥{#0}{p}　もくとう〜ッ！",
-    "en": "",
+    "en": "General: Paying our respects to the Minister...{#0}{p}A moment of siiilence!",
     "codes": [
      "2b 28"
     ]
@@ -7163,7 +7163,7 @@
    {
     "id": "0E18B3_01CF",
     "jp": "は{#0}{#1}ん{#2}{#3}じ{#4}{#5}ゅ{#6}く{#7}{#8}　{#9}ち{#10}{#11}ょ{#12}{#13}う{#14}{#15}り{#16}{#17}メ{#18}{#19}モ{#20}{n}{n}{#21}ひ{#22}{#23}と{#24}{#25}り{#26}　{#27}つ{#28}{#29}い{#30}{#31}か{#32}　{#33}‥{#34}　{#35}{#36}ア{#37}{#38}ル{#39}{#40}マ{#41}{#42}ム{#43}{#44}ー{#45}{#46}ン{#47}{#48}こ{#49}{#50}く{#51}　{#52}だ{#53}{#54}い{#55}{#56}じ{#57}{#58}ん",
-    "en": "",
+    "en": "S{#0}{#1}o{#2}{#3}f{#4}{#5}t{#6}-{#7}{#8}B{#9}o{#10}{#11}i{#12}{#13}l{#14}{#15}e{#16}{#17}d{#18}{#19} Cooking Notes{#20}{n}{n}{#21}B{#22}{#23}o{#24}{#25}n{#26}{#27}u{#28}{#29}s{#30}{#31} {#32}E{#33}ntry{#34}... {#35}{#36}M{#37}{#38}i{#39}{#40}n{#41}{#42}i{#43}{#44}s{#45}{#46}t{#47}{#48}e{#49}{#50}r{#51} {#52}o{#53}{#54}f{#55}{#56} {#57}{#58}Almamoon",
     "codes": [
      "2b 02",
      "2d 18",
@@ -7229,37 +7229,37 @@
    {
     "id": "0E18B3_02B3",
     "jp": "だいじん「こ　ここは‥",
-    "en": "",
+    "en": "Minister: Wh-where am I...",
     "codes": []
    },
    {
     "id": "0E18B3_02C2",
     "jp": "「セバスチャン‥",
-    "en": "",
+    "en": "Sebastian...",
     "codes": []
    },
    {
     "id": "0E18B3_02CF",
     "jp": "「セバスチャン‥",
-    "en": "",
+    "en": "Sebastian...",
     "codes": []
    },
    {
     "id": "0E18B3_02E2",
     "jp": "「ひさしぶりじゃな　セバスチャン‥",
-    "en": "",
+    "en": "It has been a long time, Sebastian...",
     "codes": []
    },
    {
     "id": "0E18B3_032C",
     "jp": "だいじん「せ　せんだい！　おくさま！",
-    "en": "",
+    "en": "Minister: M-my late lord! My lady!",
     "codes": []
    },
    {
     "id": "0E18B3_0348",
     "jp": "ちち「いままで　ごくろうだったな‥{n}はは「ありがとう　セバスチャン‥{#0}{p}ちち「だが　おまえが　こっちへくるのは　まだ{n}　はやい‥{#1}{p}はは「まだまだ　{hero}には　おまえが{n}　ひつようなのです。　おねがいしますよ。{#2}{p}ちち「たのんだぞ　セバスチャン‥",
-    "en": "",
+    "en": "Father: You've worked hard all this time...{n}Mother: Thank you, Sebastian...{#0}{p}Father: But it's still too early for you to come here...{#1}{p}Mother: {hero} still needs you. Please, look after him.{#2}{p}Father: We're counting on you, Sebastian...",
     "codes": [
      "2b 28",
      "2b 28",
@@ -7269,7 +7269,7 @@
    {
     "id": "0E18B3_0402",
     "jp": "だいじん「せ　せんだい！　おくさま〜ッ！",
-    "en": "",
+    "en": "Minister: M-my late lord! My laaady!",
     "codes": []
    }
   ]
@@ -7447,49 +7447,49 @@
    {
     "id": "0E1D33_0001",
     "jp": "ナイト「{hero}さん！{n}　ありがとうございます！{w}{p}だいじん「で　エッグワールドとは　いずこに！？{w}{p}ナイト「このせかいより　２５６てんもん　たんいの{n}　きょりに　ありますが　じげんが　ちがうため‥{w}",
-    "en": "",
+    "en": "Knight: {hero}! Thank you so much!{w}{p}Minister: So, where exactly is this Egg World!?{w}{p}Knight: It lies 256 astronomical units from this world, but since it's in another dimension...{w}",
     "codes": []
    },
    {
     "id": "0E1D33_006B",
     "jp": "だいじん「あ！　そのての　はなしは{n}　{hero}さま　よわいので‥{w}",
-    "en": "",
+    "en": "Minister: Ah! My lord{n}{hero} is hopeless with that sort of talk, so...{w}",
     "codes": []
    },
    {
     "id": "0E1D33_0092",
     "jp": "ナイト「‥とにかく　とおいところなのです。{w}{p}だいじん「そんなところまで　いったい　どうやって‥{w}{p}ナイト「しんぱいは　むよう！{n}　わたしが　このしろごと　エッグワールドに{n}　おつれします！{w}{p}だいじん「しろごと！？{w}{p}ナイト「さっそく　おつれしましょう！{w}",
-    "en": "",
+    "en": "Knight: ...Anyway, it's a faraway place.{w}{p}Minister: How on earth would we get all the way there...{w}{p}Knight: Fear not! I will take you to Egg World, castle and all!{w}{p}Minister: Castle and all!?{w}{p}Knight: Let us go at once!{w}",
     "codes": []
    },
    {
     "id": "0E1D33_0141",
     "jp": "ナイト「さあ　いっぽ　そとにでれば　わが{n}　エッグワールドです！{w}{p}　こくおうと　おうひは　かんじゅく　ひみつきちに{n}　とらえられています！{w}{p}　てきのしろを　すべて　おとせば　きちが　すがたを{n}　あらわすでしょう！{w}{p}　およばずながら　わたしも　たたかいます！{n}　エッグマンのかわりに！！{w}",
-    "en": "",
+    "en": "Knight: Now, one step outside and you'll be in my Egg World!{w}{p}The King and Queen are held captive in the Hard-Boiled Secret Base!{w}{p}Take every enemy castle, and the base should reveal itself!{w}{p}I'll fight too, as best I can! In Eggman's place!!{w}",
     "codes": []
    },
    {
     "id": "0E1D33_01D4",
     "jp": "だいじん「なにやら　しんてんかいに　なってまいり{n}　ましたな！{w}",
-    "en": "",
+    "en": "Minister: Things are certainly taking a new turn!{w}",
     "codes": []
    },
    {
     "id": "0E1D33_01FB",
     "jp": "　たのみますぞ　{hero}さま！{w}",
-    "en": "",
+    "en": "I'm counting on you, my lord {hero}!{w}",
     "codes": []
    },
    {
     "id": "0E1D33_020C",
     "jp": "　よそさまの　せかいに　きてまで‥{w}",
-    "en": "",
+    "en": "Even after coming all the way to someone else's world...{w}",
     "codes": []
    },
    {
     "id": "0E1D33_0225",
     "jp": "　あなたさまは〜〜〜ッ！！{w}",
-    "en": "",
+    "en": "Honestly, my looooord!!{w}",
     "codes": []
    }
   ]
@@ -7505,19 +7505,19 @@
    {
     "id": "0E1F72_0002",
     "jp": "だいじん「{hero}さま‥{w}",
-    "en": "",
+    "en": "Minister: {hero}, my lord...{w}",
     "codes": []
    },
    {
     "id": "0E1F72_0015",
     "jp": "　それでは　ゲームが　おわってしまいますぞ！{w}",
-    "en": "",
+    "en": "If you do that, the game will be over!{w}",
     "codes": []
    },
    {
     "id": "0E1F72_0035",
     "jp": "　ほんとうに　よろしいのですか？{n}",
-    "en": "",
+    "en": "Are you truly sure?{n}",
     "codes": []
    }
   ]
@@ -7533,7 +7533,7 @@
    {
     "id": "0E2009_0002",
     "jp": "だいじん「おお！{w}{p}　{hero}さま‥{w}{p}　このゲーム　はじまっていらい　はじめて{n}　わたしが　なかなくても　すみそうですぞ！{w}{p}　かんげきですじゃ！{w}{p}　わたしのヘソクリを　あげますゆえ　たたかいに{n}　やくだててくだされ！{w}{p}{#0}{#1}３００Ｇ　てにいれた！",
-    "en": "",
+    "en": "Minister: Oh!{w}{p}My lord {hero}...{w}{p}For the first time since this game began, it seems I won't have to cry!{w}{p}I'm deeply moved!{w}{p}I'll give you my secret savings, so put them to use in battle!{w}{p}{#0}{#1}Received 300G!",
     "codes": [
      "2c 09",
      "14 00 2c"
@@ -7542,7 +7542,7 @@
    {
     "id": "0E2009_0091",
     "jp": "だいじん「ナイトどの！{n}　わが　アルマムーンぜんぐん　エッグワールドへ{n}　まいりますぞ！{w}",
-    "en": "",
+    "en": "Minister: Sir Knight! The entire army of Almamoon is off to Egg World!{w}",
     "codes": []
    }
   ]
@@ -7567,13 +7567,13 @@
    {
     "id": "0E20E5_0002",
     "jp": "だいじん「さすが　{hero}さま！{n}　そうこなくっちゃ！{w}",
-    "en": "",
+    "en": "Minister: That's my lord{n}{hero}! That's the spirit!{w}",
     "codes": []
    },
    {
     "id": "0E20E5_002A",
     "jp": "　まいりますぞ　エッグワールドとやらへ！{w}",
-    "en": "",
+    "en": "Off we go, to this Egg World place!{w}",
     "codes": []
    }
   ]
@@ -7589,19 +7589,19 @@
    {
     "id": "0E2129_0002",
     "jp": "だいじん「また　ごじょうだんを！{n}　これからが　おもしろいとこですぞ！{n}　それでも　いやだと？{n}",
-    "en": "",
+    "en": "Minister: You jest! The fun's just starting! Still you say no?{n}",
     "codes": []
    },
    {
     "id": "0E2129_0048",
     "jp": "だいじん「さんざん　エッグモンスターに　せわに{n}　なっておきながら‥{w}",
-    "en": "",
+    "en": "Minister: After all the help the Egg Monsters have given you...{w}",
     "codes": []
    },
    {
     "id": "0E2129_0074",
     "jp": "　ええい　これなら　どうですじゃッ！？{n}",
-    "en": "",
+    "en": "Bah! Then how about THIS!?{n}",
     "codes": []
    }
   ]
@@ -7617,13 +7617,13 @@
    {
     "id": "0E21E5_0001",
     "jp": "　じゃ　たまごを　だして‥{w}",
-    "en": "",
+    "en": "Okay, hand over your egg...{w}",
     "codes": []
    },
    {
     "id": "0E21E5_001D",
     "jp": "「あなたの　だいじな　プリティエッグ♪{n}　わたしの　ハートで　ホールドタイト♪{n}　ソースウィートな　ラブパワーで♪{n}　ブロークンエッグも　ふっかつよ♪{#0}{#1}{#2}{#3}{p}{#4}{#5}　チェスト〜ッ！！",
-    "en": "",
+    "en": "Your precious Pretty Egg♪{n}My heart holds it tight♪{n}With so-sweet love power♪{n}Broken eggs revive♪{#0}{#1}{#2}{#3}{p}{#4}{#5}Hiii-YAH~!!",
     "codes": [
      "2b 1e",
      "21",
@@ -7636,7 +7636,7 @@
    {
     "id": "0E21E5_008D",
     "jp": "「これで　オーケー♥{n}　でも　このままじゃ　しようかいすうは　０かいよ。{w}{p}　また　いつでも　きて♥{n}　あたしは　あなたの‥{#0}　み{#1}　な{#2}　と{#3}　だもん♥{w}",
-    "en": "",
+    "en": "All okay now♥{n}But as it is, it still has 0 uses.{w}{p}Come back anytime♥{n}I'm your...{#0} safe{#1} har{#2}bor{#3}, you know♥{w}",
     "codes": [
      "2b 03",
      "2b 03",
@@ -7657,7 +7657,7 @@
    {
     "id": "0E22C6_0009",
     "jp": "「ニ〜ハオ！{w}{p}　ポク　たびの　ぎょうしょうにんちゅ〜か！{n}　ポクの　きりふだ　とても　おとくちゅ〜か。{n}　お〜とくちゅ〜る。{w}{p}　あら　あなた　わらわないちゅ〜か。{n}　じんせい　ニコニコ　これ　けんこうちゅ〜か。{w}{p}　なにか　かてくれるちゅ〜か？{n}{#0}{p}「どれ　かてくれるちゅ〜か？{w}",
-    "en": "",
+    "en": "Ni~hao!{w}{p}Me traveling merchant, ka! My trump cards very good deal, ka. Haute deal-ture, ka.{w}{p}Ah, you no laugh, ka? Smile smile in life, very healthy, ka.{w}{p}You buy something, ka?{n}{#0}{p}Which one you buy, ka?{w}",
     "codes": [
      "19 69 81 9c a9 ff ff 6d 4b 99 9c a9 ff"
     ]
@@ -7675,7 +7675,7 @@
    {
     "id": "0E23C8_0009",
     "jp": "「らっしゃい！{w}{p}　おきゃくさん　あんた　なにか　ワケありだね？{w}{p}　うちの　きりふだは　ひとあじちがうぜ。{n}　なにか　かってかね〜かい？{n}{#0}{p}「どれに　すんだい？{w}",
-    "en": "",
+    "en": "Welcome!{w}{p}Say, customer, you got some kinda story, huh?{w}{p}My trump cards are a cut above. Ya buyin' somethin'?{n}{#0}{p}Which one's it gonna be?{w}",
     "codes": [
      "19 69 81 9c a9 ff ff 6d 4b 99 9c a9 ff"
     ]
@@ -7693,7 +7693,7 @@
    {
     "id": "0E2464_0009",
     "jp": "「まいど！{w}{p}　おきゃくさん　また　なんか　あったね？{w}{p}　ふかくは　きかねえよ。{n}　なにか　かってかね〜かい？{n}{#0}{p}「どれに　すんだい？{w}",
-    "en": "",
+    "en": "Thanks again!{w}{p}Somethin' happened again, huh, customer?{w}{p}I won't pry. Ya buyin' somethin'?{n}{#0}{p}Which one's it gonna be?{w}",
     "codes": [
      "19 69 81 9c a9 ff ff 6d 4b 99 9c a9 ff"
     ]
@@ -7711,25 +7711,25 @@
    {
     "id": "0E24FE_0002",
     "jp": "　オオ　サスガ　ミスタ〜　ハンジュク！{n}　ソレデコソ　ワタシノ　ブラザ〜ネ！{w}{p}　ワレワレハ　イガミアワズ　キョウゾンノ　ミチヲ{n}　アユマネバ　ナリマセ〜ン！{w}{p}　ソレデハ　ワレワレト　アナタタチノ　エイエンノ{n}　ユウコウヲ　シュクシテ‥{w}",
-    "en": "",
+    "en": "Oh, just as expected of Mista~ Hanjuku! That's mah brotha~!{w}{p}We must not squabble, but walk the path of coexistence~!{w}{p}And now, to celebrate eternal friendship between us and you...{w}",
     "codes": []
    },
    {
     "id": "0E24FE_007E",
     "jp": "　レッツ　パーティ！！{w}{p}　オット　コンナ　カッコウデ　シツレイデシタネ〜！{w}{p}　チョト　マテクダサ〜イ‥{w}",
-    "en": "",
+    "en": "Let's party!!{w}{p}Oops, pardon me for being dressed like this~!{w}{p}Just wait a mo~ment...{w}",
     "codes": []
    },
    {
     "id": "0E24FE_00B8",
     "jp": "　フンヌヌヌヌ‥{w}",
-    "en": "",
+    "en": "Hnnnnnngh...{w}",
     "codes": []
    },
    {
     "id": "0E24FE_00C5",
     "jp": "　ドレス　アップ！！{w}",
-    "en": "",
+    "en": "Dress up!!{w}",
     "codes": []
    }
   ]
@@ -7745,7 +7745,7 @@
    {
     "id": "0E25D6_0002",
     "jp": "　オ〜　ノウ‥{w}{p}　ナゼ　ワタシノ　コウイ‥{n}　ウケトッテモラエナイノデショウ‥{w}{p}　ワタシ　ヴェリ〜　ザンネンデ〜ス！{w}{p}　モウイチド　カンガエナオシテ{n}　クレマセンカ？{n}",
-    "en": "",
+    "en": "Oh~ no...{w}{p}Why won't you accept my goodwill...?{w}{p}I am ve~ry disappointed!{w}{p}Won't you think it over once more?{n}",
     "codes": []
    }
   ]
@@ -7761,7 +7761,7 @@
    {
     "id": "0E2645_0002",
     "jp": "　ホワ〜イ？{w}{p}　カンジュクナル　ワタシノホウカラ　アユミヨッテイル　ノデスヨ？{w}{p}　アナタガタモ　ワタシタチノタメ{n}　ヨク　カンガエテクダサ〜イ！{n}",
-    "en": "",
+    "en": "Wha~y?{w}{p}I, the hard-boiled one, am meeting you halfway, you know?{w}{p}You should think carefully for our sake, too~!{n}",
     "codes": []
    }
   ]
@@ -7777,7 +7777,7 @@
    {
     "id": "0E26A8_0002",
     "jp": "　オウ　ノ〜！{n}　アナタタチノ　キモチ　リカイ　デキマセンネ‥{w}{p}　カナシイコトデ〜ス‥{w}{p}　ドウスレバ　ワタシノ　キモチ　アナタニ{n}　ツウジルデショウ‥{n}",
-    "en": "",
+    "en": "Oh no~! I cannot understand your feelings...{w}{p}How sa~d...{w}{p}How can I make my feelings reach you...?{n}",
     "codes": []
    }
   ]
@@ -7793,13 +7793,13 @@
    {
     "id": "0E270E_0049",
     "jp": "アツカエマセ〜ン‥{w}",
-    "en": "",
+    "en": "I can't handle this any longa~...{w}",
     "codes": []
    },
    {
     "id": "0E270E_0059",
     "jp": "　タタキツブシマ〜ス！！{w}",
-    "en": "",
+    "en": "I will crush you!!{w}",
     "codes": []
    }
   ]
@@ -7815,7 +7815,7 @@
    {
     "id": "0E277C_0010",
     "jp": "かんじゅくしん　ボイルドをたおし　へいわを　てにしたはんじゅくヒーローこと　{hero}のまえに{n}あらたな　あくのそしきが　あらわれる！{#0}{p}よそおいもあらたに　ロールプレイングゲームとして{n}うまれかわる　はんじゅくヒーローの　すちゃらか{n}ワールド！{#1}{p}エッグモンスターも　フルアニメーション！！{#2}{p}いのちのかぎり　たたかえ　{hero}！{n}みずから　たまごに　はいるのだ！！{#3}{p}はんじゅくシリーズ　だい３だん！{n}{n}”ロマンシング　はんじゅく　ファンタジ〜　でんせつ”{#4}{p}‥が　つくられるか　どうかは{n}きみたちの　おうえんしだいだ！{#5}{p}それじゃ　そのときまで‥",
-    "en": "",
+    "en": "Hanjuku Hero {hero} beat Hard-Boiled God Boiled and won peace... but now a new evil group appears!{#0}{p}In a brand-new look, reborn as a role-playing game: the wacky world of Hanjuku Hero!{#1}{p}Egg Monsters fully animated, too!!{#2}{p}{hero}! Fight with all your life! Get inside the egg yourself!!{#3}{p}Hanjuku series, part 3!{n}{n}\"Romancing Hanjuku{n}Fantasy~ Legend\"{#4}{p}...Whether it actually gets made depends on your support!{#5}{p}So, until then...",
     "codes": [
      "2b 3c",
      "2b 3c",
@@ -7838,7 +7838,7 @@
    {
     "id": "0E28A7_0041",
     "jp": "しょうぐん「{hero}さま‥{#0}{p}　おきもちは　さっしますが‥{#1}{p}　このままでは　だいじんどのも　よろこびますまい‥{#2}{p}　さ　てあつく　ほうむって‥",
-    "en": "",
+    "en": "General: My lord {hero}...{#0}{p}I understand how you feel, but...{#1}{p}The Minister would not be pleased to see you like this...{#2}{p}Come, let us give him a proper burial...",
     "codes": [
      "2b 14",
      "2b 14",
@@ -7848,13 +7848,13 @@
    {
     "id": "0E28A7_00C2",
     "jp": "「どひゃ〜ッ！！",
-    "en": "",
+    "en": "Whoaaaa!!",
     "codes": []
    },
    {
     "id": "0E28A7_00CF",
     "jp": "しょうぐん「だ　だいじんどの‥{#0}{p}ナイト「いきておいでで‥！？",
-    "en": "",
+    "en": "General: M-Minister...{#0}{p}Knight: You're alive...?!",
     "codes": [
      "2b 14"
     ]
@@ -7862,7 +7862,7 @@
    {
     "id": "0E28A7_0110",
     "jp": "だいじん「{hero}さま‥{#0}{p}　そんな　ちょうしでは　このわたし‥{#1}{p}　まだまだ　しねませんぞ‥",
-    "en": "",
+    "en": "Minister: My lord {hero}...{#0}{p}With you carrying on like that, I...{#1}{p}...can't die just yet...",
     "codes": [
      "2b 14",
      "2b 14"
@@ -7871,7 +7871,7 @@
    {
     "id": "0E28A7_0149",
     "jp": "　ぜんげんてっかいですじゃ！{#0}{p}　これからも　いままでいじょうに　ビッシビシ{n}　ゆきますぞ！",
-    "en": "",
+    "en": "I take back every word, I do!{#0}{p}From now on, I'll be even stricter with you than ever!",
     "codes": [
      "2b 14"
     ]
@@ -7879,19 +7879,19 @@
    {
     "id": "0E28A7_0185",
     "jp": "　かくごしてもらいますぞ　{hero}さま〜！！",
-    "en": "",
+    "en": "Prepare yourself,{n}my lord {hero}~!!",
     "codes": []
    },
    {
     "id": "0E28A7_01B1",
     "jp": "　せんだい‥　おくさま‥",
-    "en": "",
+    "en": "My late lord... My lady...",
     "codes": []
    },
    {
     "id": "0E28A7_01C8",
     "jp": "　みていてくだされ〜ッ！！",
-    "en": "",
+    "en": "Watch over us~!!",
     "codes": []
    }
   ]
@@ -7907,13 +7907,13 @@
    {
     "id": "0E2A9A_0030",
     "jp": "だいじん「ありがとうございました〜！",
-    "en": "",
+    "en": "Minister: Thank you very much~!",
     "codes": []
    },
    {
     "id": "0E2A9A_0050",
     "jp": "　それでは　キャストの　しょうかいを{n}　させていただきます！{#0}{p}　かんじゅくクイーン！",
-    "en": "",
+    "en": "Now, allow me to introduce the cast!{#0}{p}The Hard-Boiled Queen!",
     "codes": [
      "2b 28"
     ]
@@ -7921,67 +7921,67 @@
    {
     "id": "0E2A9A_0086",
     "jp": "「しょうめいさん！",
-    "en": "",
+    "en": "Lighting crew!",
     "codes": []
    },
    {
     "id": "0E2A9A_0093",
     "jp": "　コキつかって　ゴメンなさいね。{n}　どうも　ありがとう！",
-    "en": "",
+    "en": "Sorry for working you so hard. Thank you so much!",
     "codes": []
    },
    {
     "id": "0E2A9A_00BA",
     "jp": "だいじん「にせヒーロー！",
-    "en": "",
+    "en": "Minister: The Fake Hero!",
     "codes": []
    },
    {
     "id": "0E2A9A_00D0",
     "jp": "「こんどは　しゅえんしたいです！",
-    "en": "",
+    "en": "Next time I want the lead role!",
     "codes": []
    },
    {
     "id": "0E2A9A_00EA",
     "jp": "だいじん「かんじゅくプリンス！",
-    "en": "",
+    "en": "Minister: The Hard-Boiled Prince!",
     "codes": []
    },
    {
     "id": "0E2A9A_0103",
     "jp": "「ゆめで　あいましょう！",
-    "en": "",
+    "en": "Let's meet in your dreams!",
     "codes": []
    },
    {
     "id": "0E2A9A_0119",
     "jp": "だいじん「かんじゅく　しきおう！",
-    "en": "",
+    "en": "Minister: The Hard-Boiled Season Kings!",
     "codes": []
    },
    {
     "id": "0E2A9A_013A",
     "jp": "「よく　がんばったな！{n}「また　らいしゅう〜！{n}「おわかれね　シク　シク‥{n}「ウイ　ウイ！",
-    "en": "",
+    "en": "You did well!{n}See you next week~!{n}Time to part, boo hoo...{n}Oui, oui!",
     "codes": []
    },
    {
     "id": "0E2A9A_0178",
     "jp": "だいじん「かんじゅく　だいまおう！",
-    "en": "",
+    "en": "Minister: The Hard-Boiled Demon King!",
     "codes": []
    },
    {
     "id": "0E2A9A_018F",
     "jp": "「エビにも！　わたしが　かんじゅく　だいまおうじゃ！",
-    "en": "",
+    "en": "Hello, every-shrimp! I am the Hard-Boiled Demon King!",
     "codes": []
    },
    {
     "id": "0E2A9A_01B1",
     "jp": "　す　すまん‥",
-    "en": "",
+    "en": "S-sorry...",
     "codes": []
    }
   ]
@@ -7997,121 +7997,121 @@
    {
     "id": "0E2C5E_003C",
     "jp": "だいじん「つづいて　かんじゅくせんたい　ハードマン！",
-    "en": "",
+    "en": "Minister: Next, the Hard-Boiled Squadron Hardman!",
     "codes": []
    },
    {
     "id": "0E2C5E_0062",
     "jp": "「きみたち！　じかいさくで　ぼくと　あくしゅ！",
-    "en": "",
+    "en": "Kids! Shake hands with me in the sequel!",
     "codes": []
    },
    {
     "id": "0E2C5E_0085",
     "jp": "だいじん「きゅうらんき　ランパイア！",
-    "en": "",
+    "en": "Minister: The Egg Vampire Rampire!",
     "codes": []
    },
    {
     "id": "0E2C5E_009A",
     "jp": "ランパイア「やさいジュースは　セロリが{n}　あおくさくて　いかん‥",
-    "en": "",
+    "en": "Rampire: Celery makes vegetable juice taste far too grassy...",
     "codes": []
    },
    {
     "id": "0E2C5E_00BD",
     "jp": "だいじん「かんじゅく　だいしょうぐん　ノブナーガ！",
-    "en": "",
+    "en": "Minister: The Hard-Boiled Grand General Nobunaga!",
     "codes": []
    },
    {
     "id": "0E2C5E_00DE",
     "jp": "「ゆめやぶれて　さんがあり！",
-    "en": "",
+    "en": "My dreams are broken, yet the mountains and rivers remain!",
     "codes": []
    },
    {
     "id": "0E2C5E_00F4",
     "jp": "だいじん「かんじゅく　せいめいたい！",
-    "en": "",
+    "en": "Minister: The Hard-Boiled Lifeform!",
     "codes": []
    },
    {
     "id": "0E2C5E_0110",
     "jp": "「Ａ‥Ｘ？ＹＢ：♥♪！",
-    "en": "",
+    "en": "A...X?YB:♥♪!",
     "codes": []
    },
    {
     "id": "0E2C5E_0125",
     "jp": "だいじん「かんじゅく　だいとうりょう！",
-    "en": "",
+    "en": "Minister: The Hard-Boiled President!",
     "codes": []
    },
    {
     "id": "0E2C5E_013B",
     "jp": "「シ〜　ユ〜　アゲン！",
-    "en": "",
+    "en": "Se~e yo~u again!",
     "codes": []
    },
    {
     "id": "0E2C5E_0149",
     "jp": "だいじん「エッグママ！",
-    "en": "",
+    "en": "Minister: Egg Mama!",
     "codes": []
    },
    {
     "id": "0E2C5E_0162",
     "jp": "「コンナ　カンジョウハ　ハジメテデス。{n}　コレガ　カンゲキト　イウモノデショウカ？",
-    "en": "",
+    "en": "I have never felt an emotion like this. Is this what they call being moved?",
     "codes": []
    },
    {
     "id": "0E2C5E_018E",
     "jp": "だいじん「かんじゅくしん　ボイルド！",
-    "en": "",
+    "en": "Minister: Hard-Boiled God Boiled!",
     "codes": []
    },
    {
     "id": "0E2C5E_01A6",
     "jp": "「たいへん　やりがいが　ありました！{n}　ちょうじかん　つきあっていただいて{n}　ありがとうございました！",
-    "en": "",
+    "en": "It was very rewarding work! Thank you for sticking with me for so long!",
     "codes": []
    },
    {
     "id": "0E2C5E_01DF",
     "jp": "だいじん「そして　このゲームの　ヒロイン！",
-    "en": "",
+    "en": "Minister: And the heroine of this game!",
     "codes": []
    },
    {
     "id": "0E2C5E_01FC",
     "jp": "「じかいさくは　ハリウッドに　けっていしました！{n}　きょうは　わたしのために　ありがとう！",
-    "en": "",
+    "en": "My next film is set for Hollywood! Thank you for coming out for me today!",
     "codes": []
    },
    {
     "id": "0E2C5E_0236",
     "jp": "だいじん「そして　はんじゅくヒーローこと‥",
-    "en": "",
+    "en": "Minister: And the Hanjuku Hero himself...",
     "codes": []
    },
    {
     "id": "0E2C5E_026F",
     "jp": "　{hero}〜！！",
-    "en": "",
+    "en": "{hero}~!!",
     "codes": []
    },
    {
     "id": "0E2C5E_02BD",
     "jp": "だいじん「せいだいな　せいえん　ありがとう！{n}　そして　わたくし‥",
-    "en": "",
+    "en": "Minister: Thank you for your thunderous applause!{n}And I, myself...",
     "codes": []
    },
    {
     "id": "0E2C5E_02E7",
     "jp": "　だいじん〜ッ！　イエ〜イッ！！",
-    "en": "",
+    "en": "...the Minister~! Yeah~!!",
     "codes": []
    }
   ]
@@ -8127,7 +8127,7 @@
    {
     "id": "0E2F72_002C",
     "jp": "だいじん「それでは　きをとりなおして{n}　うらかたの　スタッフのほうを　しょうかい{n}　させていただきます！{#0}{p}だいじん「ディレクター！{n}　あおき　かずひこ〜！",
-    "en": "",
+    "en": "Minister: Now then, to change the mood, let me introduce our staff behind the scenes!{#0}{p}Minister: Director!{n}Kazuhiko Aoki~!",
     "codes": [
      "2b 3c"
     ]
@@ -8135,103 +8135,103 @@
    {
     "id": "0E2F72_0085",
     "jp": "「どーも　おせわに　なっております。",
-    "en": "",
+    "en": "Hello, thanks for all your support.",
     "codes": []
    },
    {
     "id": "0E2F72_00A1",
     "jp": "だいじん「シナリオ　ディレクター！{n}　ときた　たかし〜！",
-    "en": "",
+    "en": "Minister: Scenario Director!{n}Takashi Tokita~!",
     "codes": []
    },
    {
     "id": "0E2F72_00C7",
     "jp": "「ハヴァ　ナイス　ラヴ！",
-    "en": "",
+    "en": "Hava nice love!",
     "codes": []
    },
    {
     "id": "0E2F72_00DD",
     "jp": "だいじん「バトル　ディレクター！{n}　いのうえ　のぶゆき〜！",
-    "en": "",
+    "en": "Minister: Battle Director!{n}Nobuyuki Inoue~!",
     "codes": []
    },
    {
     "id": "0E2F72_0104",
     "jp": "「ゲームばっかり　やってると　ロクなにんげんに{n}　ならんぞ！",
-    "en": "",
+    "en": "If all you do is play games, you won't grow up right!",
     "codes": []
    },
    {
     "id": "0E2F72_012C",
     "jp": "だいじん「バトル　デザイン！{n}　はせべ　やすゆき〜！",
-    "en": "",
+    "en": "Minister: Battle Design!{n}Yasuyuki Hasebe~!",
     "codes": []
    },
    {
     "id": "0E2F72_0150",
     "jp": "「かんそうを　まってますンで　よろしく！",
-    "en": "",
+    "en": "Looking forward to your feedback!",
     "codes": []
    },
    {
     "id": "0E2F72_016E",
     "jp": "だいじん「メイン　プログラム！{n}　むらかみ　かずひさ〜！",
-    "en": "",
+    "en": "Minister: Main Program!{n}Kazuhisa Murakami~!",
     "codes": []
    },
    {
     "id": "0E2F72_0194",
     "jp": "「クリアー　おめでとう！{n}　また　つぎのゲームで　おあいしましょう。",
-    "en": "",
+    "en": "Congrats on clearing it!{n}See you in the next game.",
     "codes": []
    },
    {
     "id": "0E2F72_01C0",
     "jp": "だいじん「イベント　プログラム！{n}　えんどう　としお〜！",
-    "en": "",
+    "en": "Minister: Event Program!{n}Toshio Endo~!",
     "codes": []
    },
    {
     "id": "0E2F72_01E4",
     "jp": "「はい　こちら　げんばの　えんどうです。{n}　のうさくもつの‥　え　ちがうの？",
-    "en": "",
+    "en": "Yes, this is Endo at the scene. The damage to the crops... Huh, wrong one?",
     "codes": []
    },
    {
     "id": "0E2F72_0212",
     "jp": "だいじん「バトル　プログラム！{n}　おぐら　みつお〜！",
-    "en": "",
+    "en": "Minister: Battle Program!{n}Mitsuo Ogura~!",
     "codes": []
    },
    {
     "id": "0E2F72_0232",
     "jp": "「くれぐれも　めを　たいせつに！",
-    "en": "",
+    "en": "Whatever you do, take good care of your eyes!",
     "codes": []
    },
    {
     "id": "0E2F72_0248",
     "jp": "だいじん「バトル　プログラム！{n}　ふかや　ふみあき〜！",
-    "en": "",
+    "en": "Minister: Battle Program!{n}Fumiaki Fukaya~!",
     "codes": []
    },
    {
     "id": "0E2F72_026D",
     "jp": "「ぜんモンスターの　はんぶんしか　みたことがない。",
-    "en": "",
+    "en": "I've only ever seen half of all the monsters.",
     "codes": []
    },
    {
     "id": "0E2F72_0290",
     "jp": "だいじん「サウンド　プログラム！{n}　あかお　みのる〜！",
-    "en": "",
+    "en": "Minister: Sound Program!{n}Minoru Akao~!",
     "codes": []
    },
    {
     "id": "0E2F72_02B5",
     "jp": "「きょうとの　けいこと　ちえこ　みてる？",
-    "en": "",
+    "en": "Keiko and Chieko in Kyoto, are you watching?",
     "codes": []
    }
   ]
@@ -8247,25 +8247,25 @@
    {
     "id": "0E324B_0038",
     "jp": "だいじん「キャラクター　グラフィック！{n}　おおかわ　かずひろ〜！",
-    "en": "",
+    "en": "Minister: Character Graphics!{n}Kazuhiro Okawa~!",
     "codes": []
    },
    {
     "id": "0E324B_0062",
     "jp": "「ぼくは　しょうぐんとか　かいたっス。",
-    "en": "",
+    "en": "I drew the generals and stuff.",
     "codes": []
    },
    {
     "id": "0E324B_007F",
     "jp": "だいじん「マップ　グラフィック！{n}　いなざわ　ともえ〜！",
-    "en": "",
+    "en": "Minister: Map Graphics!{n}Tomoe Inazawa~!",
     "codes": []
    },
    {
     "id": "0E324B_00A1",
     "jp": "「じゃ　いつか　ま　{#0}た♥",
-    "en": "",
+    "en": "Well, see you again some{#0}day♥",
     "codes": [
      "2b 03"
     ]
@@ -8273,115 +8273,115 @@
    {
     "id": "0E324B_00B5",
     "jp": "だいじん「ほしの　まさのり〜！",
-    "en": "",
+    "en": "Minister: Masanori Hoshino~!",
     "codes": []
    },
    {
     "id": "0E324B_00CA",
     "jp": "「どおも　おおどうぐの　ほしのです。{n}　しろを　つくりました！",
-    "en": "",
+    "en": "Hi, I'm Hoshino from the props department. I built the castles!",
     "codes": []
    },
    {
     "id": "0E324B_00EF",
     "jp": "だいじん「ボスじょう　グラフィック！{n}　くらしま　かずゆき〜！",
-    "en": "",
+    "en": "Minister: Boss Castle Graphics!{n}Kazuyuki Kurashima~!",
     "codes": []
    },
    {
     "id": "0E324B_0116",
     "jp": "「ちゃんと　あらえよ！",
-    "en": "",
+    "en": "Wash up properly!",
     "codes": []
    },
    {
     "id": "0E324B_0129",
     "jp": "だいじん「バトル　はいけい　グラフィック！{n}　おぐら　よしのり〜！",
-    "en": "",
+    "en": "Minister: Battle Background Graphics!{n}Yoshinori Ogura~!",
     "codes": []
    },
    {
     "id": "0E324B_0154",
     "jp": "「こんごとも　よろしく。",
-    "en": "",
+    "en": "Here's to the future, too.",
     "codes": []
    },
    {
     "id": "0E324B_016A",
     "jp": "だいじん「はやし　まさあき〜！",
-    "en": "",
+    "en": "Minister: Masaaki Hayashi~!",
     "codes": []
    },
    {
     "id": "0E324B_017F",
     "jp": "「ニュ〜フェイスの　はやしです。{n}　はいけいと　おとを　てつだいました。",
-    "en": "",
+    "en": "I'm Hayashi, the new face. I helped with the backgrounds and sound.",
     "codes": []
    },
    {
     "id": "0E324B_01A9",
     "jp": "だいじん「ぶたい　はいけい　グラフィック！{n}　あびる　ゆうこ〜！",
-    "en": "",
+    "en": "Minister: Stage Background Graphics!{n}Yuko Abiru~!",
     "codes": []
    },
    {
     "id": "0E324B_01D3",
     "jp": "「ああ　もうこんなせいかつ　いやよ！{n}　いやよ‥も　すきのうち　おそまつ。",
-    "en": "",
+    "en": "Ugh, I hate this life!{n}...But \"hate\" can mean love. Pardon the bad joke.",
     "codes": []
    },
    {
     "id": "0E324B_0202",
     "jp": "だいじん「モンスター　グラフィック！{n}　あらい　ともゆき〜！",
-    "en": "",
+    "en": "Minister: Monster Graphics!{n}Tomoyuki Arai~!",
     "codes": []
    },
    {
     "id": "0E324B_0228",
     "jp": "「モンスターは　ぜんぶ　みれましたか？",
-    "en": "",
+    "en": "Did you get to see all the monsters?",
     "codes": []
    },
    {
     "id": "0E324B_0243",
     "jp": "だいじん「さかぐち　ともよし〜！",
-    "en": "",
+    "en": "Minister: Tomoyoshi Sakaguchi~!",
     "codes": []
    },
    {
     "id": "0E324B_0259",
     "jp": "「もんすたーを　かきました　さか２です。{n}　よろしく。",
-    "en": "",
+    "en": "I'm Saka2, I drew the monsters. Nice to meet you.",
     "codes": []
    },
    {
     "id": "0E324B_027A",
     "jp": "だいじん「みふね　じろう〜！",
-    "en": "",
+    "en": "Minister: Jiro Mifune~!",
     "codes": []
    },
    {
     "id": "0E324B_0290",
     "jp": "「ヘヴィなオレに　あいたけりゃ　ぢごくに　きなっ！",
-    "en": "",
+    "en": "If ya wanna meet heavy ol' me, come down to HELL!",
     "codes": []
    },
    {
     "id": "0E324B_02B1",
     "jp": "だいじん「みなば　ひでお〜！",
-    "en": "",
+    "en": "Minister: Hideo Minaba~!",
     "codes": []
    },
    {
     "id": "0E324B_02C9",
     "jp": "「あやまります。{n}　こんかい　いちばん　しごとしてないの　ボクです。",
-    "en": "",
+    "en": "I apologize. The one who worked the least this time was me.",
     "codes": []
    },
    {
     "id": "0E324B_02F5",
     "jp": "だいじん「つづいて　エッグモンスター　デザイン！{#0}{p}　ひょうごけん　たなか　かつひこ！{n}　ひょうごけん　もろした　けいじ！{n}　みやぎけん　　はやし　よしかず！{n}　かながわけん　こじま　ゆきひろ！{#1}{p}　さいたまけん　いわた　けいこ！{n}　あおもりけん　なるみ　ひでゆき！{n}　おおさかふ　　しんと　ひろき！{n}　かながわけん　いそべ　よしのぶ！{#2}{p}　とうきょうと　ひらばやし　たけし！{n}　とうきょうと　なかむら　さとし！{n}　しずおかけん　おぎの　かずおき！{n}　あいちけん　　おおはし　まさや！{#3}{p}　にいがたけん　なかやま　はじめ！{n}　おおさかふ　　くりやま　かおる！{n}　いわてけん　　きただ　たかゆき！{n}　ひょうごけん　わだ　まさと！{#4}{p}　とうきょうと　はら　けんいち！{n}　とうきょうと　もりや　さちこ！{n}　きょうとふ　　いしだ　ひろき！{n}　ふくおかけん　なかおか　まさゆき！{#5}{p}　さいたまけん　たぐち　よう！{n}　ほか　おうぼしてくださった　みなさん！",
-    "en": "",
+    "en": "Minister: Next, Egg Monster Design!{#0}{p}Hyogo: Katsuhiko Tanaka{n}Hyogo: Keiji Moroshita{n}Miyagi: Yoshikazu Hayashi{n}Kanagawa: Yukihiro Kojima{#1}{p}Saitama: Keiko Iwata{n}Aomori: Hideyuki Narumi{n}Osaka: Hiroki Shinto{n}Kanagawa: Yoshinobu Isobe{#2}{p}Tokyo: Takeshi Hirabayashi{n}Tokyo: Satoshi Nakamura{n}Shizuoka: Kazuoki Ogino{n}Aichi: Masaya Ohashi{#3}{p}Niigata: Hajime Nakayama{n}Osaka: Kaoru Kuriyama{n}Iwate: Takayuki Kitada{n}Hyogo: Masato Wada{#4}{p}Tokyo: Kenichi Hara{n}Tokyo: Sachiko Moriya{n}Kyoto: Hiroki Ishida{n}Fukuoka: Masayuki Nakaoka{#5}{p}Saitama: Yo Taguchi{n}And everyone else who sent in entries!",
     "codes": [
      "2b 14",
      "2b 32",
@@ -8394,13 +8394,13 @@
    {
     "id": "0E324B_04D7",
     "jp": "　ありがと〜ございました〜！！",
-    "en": "",
+    "en": "Thank you so muuuch~!!",
     "codes": []
    },
    {
     "id": "0E324B_04EF",
     "jp": "　かんしゃ　かんげき　あめあられ〜ッ！",
-    "en": "",
+    "en": "Gratitude and thrills, raining down like hail~!",
     "codes": []
    }
   ]
@@ -8416,7 +8416,7 @@
    {
     "id": "0E3756_000D",
     "jp": "パスワード　”われらが”を　てにいれた！{w}",
-    "en": "",
+    "en": "Obtained the password \"Our\"!{w}",
     "codes": []
    }
   ]
@@ -8432,7 +8432,7 @@
    {
     "id": "0E377D_000D",
     "jp": "パスワード　”かんじゅく”を　てにいれた！{w}",
-    "en": "",
+    "en": "Obtained the password \"Hard-Boiled\"!{w}",
     "codes": []
    }
   ]
@@ -8448,7 +8448,7 @@
    {
     "id": "0E37A5_000D",
     "jp": "パスワード　”せいめいたいの”を　てにいれた！{w}",
-    "en": "",
+    "en": "Obtained the password \"Lifeforms'\"!{w}",
     "codes": []
    }
   ]
@@ -8464,7 +8464,7 @@
    {
     "id": "0E37CF_000D",
     "jp": "パスワード　”いだいなる”を　てにいれた！{w}",
-    "en": "",
+    "en": "Obtained the password \"Great\"!{w}",
     "codes": []
    }
   ]
@@ -8480,7 +8480,7 @@
    {
     "id": "0E37F7_000D",
     "jp": "パスワード　”はは”を　てにいれた！{w}",
-    "en": "",
+    "en": "Obtained the password \"Mother\"!{w}",
     "codes": []
    }
   ]
@@ -8496,7 +8496,7 @@
    {
     "id": "0E381C_000D",
     "jp": "パスワード　”エッグママの”を　てにいれた！{w}",
-    "en": "",
+    "en": "Obtained the password \"Egg Mama's\"!{w}",
     "codes": []
    }
   ]
@@ -8512,7 +8512,7 @@
    {
     "id": "0E3845_000D",
     "jp": "パスワード　”きゅうでん”を　てにいれた！{w}",
-    "en": "",
+    "en": "Obtained the password \"Palace\"!{w}",
     "codes": []
    }
   ]
@@ -8528,7 +8528,7 @@
    {
     "id": "0E386D_000D",
     "jp": "パスワード　”オヴァリウムよ”を　てにいれた！{w}",
-    "en": "",
+    "en": "Obtained the password \"O Ovarium\"!{w}",
     "codes": []
    }
   ]
@@ -8544,7 +8544,7 @@
    {
     "id": "0E3897_000D",
     "jp": "パスワード　”われを”を　てにいれた！{w}",
-    "en": "",
+    "en": "Obtained the password \"Show Me\"!{w}",
     "codes": []
    }
   ]
@@ -8560,7 +8560,7 @@
    {
     "id": "0E38BD_000D",
     "jp": "パスワード　”みちびけ”を　てにいれた！{w}",
-    "en": "",
+    "en": "Obtained the password \"The Way\"!{w}",
     "codes": []
    }
   ]
@@ -8585,7 +8585,7 @@
    {
     "id": "0E38EF_0002",
     "jp": "パスワードガ　チガイマス。{n}ヤリナオシマスカ？{n}{#0}{p}",
-    "en": "",
+    "en": "WRONG PASSWORD.{n}TRY AGAIN?{n}{#0}{p}",
     "codes": [
      "19 69 81 9c a9 ff ff 91 83 8b a9 ff ff"
     ]
@@ -8603,43 +8603,43 @@
    {
     "id": "0E391D_005C",
     "jp": "「いや〜はっは！",
-    "en": "",
+    "en": "Wahahaha!",
     "codes": []
    },
    {
     "id": "0E391D_0070",
     "jp": "　いつみても　”おわらい　しょうてんショ〜”は{n}　ゆかいじゃの！",
-    "en": "",
+    "en": "\"Owarai Shoten Show\" is always a hoot, no matter how often I watch it!",
     "codes": []
    },
    {
     "id": "0E391D_009B",
     "jp": "　ん？",
-    "en": "",
+    "en": "Hm?",
     "codes": []
    },
    {
     "id": "0E391D_00AD",
     "jp": "　おお　おまえか　きょう　きたやつというのは。",
-    "en": "",
+    "en": "Oh, so you're the one who arrived today.",
     "codes": []
    },
    {
     "id": "0E391D_00E6",
     "jp": "　なに　だいじん？",
-    "en": "",
+    "en": "What? Minister?",
     "codes": []
    },
    {
     "id": "0E391D_00F8",
     "jp": "　ぶれいもの！　わしゃ　かみさまじゃ！",
-    "en": "",
+    "en": "How rude! I am God, I am!",
     "codes": []
    },
    {
     "id": "0E391D_0114",
     "jp": "　{hero}とか　いったな。{n}　おまえの　げかいでの　くらしぶりは　なんじゃ！{#0}{p}　うらみが　あるわけではないが　ここで　くらすには{n}　まず　こころを　いれかえてもらわんとな！{#1}{p}{#2}　まずは　くもの　ホコリとりからじゃ！{n}　キリキリ　はたらけ〜い！",
-    "en": "",
+    "en": "{hero}, was it?{n}What was with the way you lived down below?!{#0}{p}I hold no grudge against you, but to live here, you'll first have to mend your ways!{#1}{p}{#2}You can start by dusting the clouds! Get to work, chop chop!",
     "codes": [
      "2b 28",
      "2b 28",
@@ -8659,19 +8659,19 @@
    {
     "id": "0E3AC0_0024",
     "jp": "「{hero}‥",
-    "en": "",
+    "en": "{hero}...",
     "codes": []
    },
    {
     "id": "0E3AC0_0032",
     "jp": "「{hero}‥",
-    "en": "",
+    "en": "{hero}...",
     "codes": []
    },
    {
     "id": "0E3AC0_0041",
     "jp": "「こっちへ　こい‥{#0}{p}「いらっしゃい　{hero}‥",
-    "en": "",
+    "en": "Come over here...{#0}{p}Come to us, {hero}...",
     "codes": [
      "2b 0a"
     ]
@@ -8679,13 +8679,13 @@
    {
     "id": "0E3AC0_009D",
     "jp": "ちち「わたしだ　{hero}‥{n}はは「おかあさんよ‥",
-    "en": "",
+    "en": "Father: It's me, {hero}...{n}Mother: It's your mother...",
     "codes": []
    },
    {
     "id": "0E3AC0_00B9",
     "jp": "ちち「いいぞ　こっちは‥{n}はは「いらっしゃい　{hero}‥",
-    "en": "",
+    "en": "Father: It's nice over here...{n}Mother: Come, {hero}...",
     "codes": []
    }
   ]
@@ -8701,7 +8701,7 @@
    {
     "id": "0E3BC3_0001",
     "jp": "パスワードヲ　ジュンバンニ　イレテクダサイ。{w}{p}",
-    "en": "",
+    "en": "ENTER THE PASSWORD PIECES IN ORDER.{w}{p}",
     "codes": []
    }
   ]
@@ -8717,13 +8717,13 @@
    {
     "id": "0FC0AC_000F",
     "jp": "「おまたせしました！{w}",
-    "en": "",
+    "en": "Sorry to keep you waiting!{w}",
     "codes": []
    },
    {
     "id": "0FC0AC_002C",
     "jp": "「{#0}　ただいま{n}　とうちゃく　いたしました！{w}",
-    "en": "",
+    "en": "{#0} has just{n}arrived, sir!{w}",
     "codes": [
      "14 2a 00"
     ]
@@ -8741,13 +8741,13 @@
    {
     "id": "0FC0F3_001B",
     "jp": "「おまたせしました！{w}",
-    "en": "",
+    "en": "Sorry to keep you waiting!{w}",
     "codes": []
    },
    {
     "id": "0FC0F3_0045",
     "jp": "「{#0}　{#1}　ただいま{n}　とうちゃく　いたしました！{w}",
-    "en": "",
+    "en": "{#0} {#1}{n}We have just arrived!{w}",
     "codes": [
      "14 2a 00",
      "14 2a 01"
@@ -8766,13 +8766,13 @@
    {
     "id": "0FC157_0027",
     "jp": "「おまたせしました！{w}",
-    "en": "",
+    "en": "Sorry to keep you waiting!{w}",
     "codes": []
    },
    {
     "id": "0FC157_005C",
     "jp": "「{#0}　{#1}　{#2}{n}　ただいま　とうちゃく　いたしました！{w}",
-    "en": "",
+    "en": "{#0} {#1} {#2}{n}We have just arrived!{w}",
     "codes": [
      "14 2a 00",
      "14 2a 01",
@@ -8999,7 +8999,7 @@
    {
     "id": "0FC2BA_001B",
     "jp": "「おめでとり〜！{w}{p}「はんじゅくレベルが　{#0}になりました！{w}{p}　これで　エッグモンスタ〜も　いままでと{n}　ひとあじちがった　たよれるヤツらが{n}　でてきま〜す！{w}",
-    "en": "",
+    "en": "Congratu-cluck-tions~!{w}{p}Your soft-boiled level is now {#0}!{w}{p}From now on, Egg Monsteeers with a whole new flavor of reliable will hatch for you~!{w}",
     "codes": [
      "14 2f"
     ]
@@ -9007,7 +9007,7 @@
    {
     "id": "0FC2BA_0079",
     "jp": "「これからも　しょうじんしてくださいね！{n}「おめでとりい〜い！！{w}",
-    "en": "",
+    "en": "Keep on training hard!{n}Congratu-cluck-tiooons!!{w}",
     "codes": []
    }
   ]
@@ -9023,7 +9023,7 @@
    {
     "id": "0FC35C_0003",
     "jp": "きりふだ　ミックミーを　５こ　てにいれた！{w}",
-    "en": "",
+    "en": "Got 5 Mick Me trump cards!{w}",
     "codes": []
    }
   ]
@@ -9039,7 +9039,7 @@
    {
     "id": "0FC386_0003",
     "jp": "きりふだ　ファイヤーボイスを　５こ　てにいれた！{w}",
-    "en": "",
+    "en": "Got 5 Fire Voice trump cards!{w}",
     "codes": []
    }
   ]
@@ -9055,7 +9055,7 @@
    {
     "id": "0FC3B3_0003",
     "jp": "きりふだ　ブラックホールを　５こ　てにいれた！{w}",
-    "en": "",
+    "en": "Got 5 Black Hole trump cards!{w}",
     "codes": []
    }
   ]
@@ -9071,7 +9071,7 @@
    {
     "id": "0FC3DF_0003",
     "jp": "きりふだ　シュプレボイスを　５こ　てにいれた！{w}",
-    "en": "",
+    "en": "Got 5 Sprech Voice trump cards!{w}",
     "codes": []
    }
   ]
@@ -9087,7 +9087,7 @@
    {
     "id": "0FC40B_0003",
     "jp": "きりふだ　エンジェリンを　５こ　てにいれた！{w}",
-    "en": "",
+    "en": "Got 5 Angelin trump cards!{w}",
     "codes": []
    }
   ]
@@ -9103,7 +9103,7 @@
    {
     "id": "0FC436_0003",
     "jp": "きりふだ　ころぼぐんだんを　５こ　てにいれた！{w}",
-    "en": "",
+    "en": "Got 5 Korobo Corps trump cards!{w}",
     "codes": []
    }
   ]
@@ -9119,7 +9119,7 @@
    {
     "id": "0FC462_0003",
     "jp": "きりふだ　ドデカヘーを　５こ　てにいれた！{w}",
-    "en": "",
+    "en": "Got 5 Mega Fart trump cards!{w}",
     "codes": []
    }
   ]
@@ -9135,7 +9135,7 @@
    {
     "id": "0FC48C_0003",
     "jp": "きりふだ　ハリケーンを　５こ　てにいれた！{w}",
-    "en": "",
+    "en": "Got 5 Hurricane trump cards!{w}",
     "codes": []
    }
   ]
@@ -9151,103 +9151,103 @@
    {
     "id": "0FC4B6_0034",
     "jp": "だいじん「そして　ゲスト　コンポーザー！{n}　すぎやま　こういち〜！",
-    "en": "",
+    "en": "Minister: And our guest composer!{n}Koichi Sugiyamaaa!",
     "codes": []
    },
    {
     "id": "0FC4B6_005D",
     "jp": "「ごちそう　いっぱいの　このゲーム{n}　おいしかったでしょうか？",
-    "en": "",
+    "en": "Did you enjoy this game, packed with a whole feast of dishes?",
     "codes": []
    },
    {
     "id": "0FC4B6_0084",
     "jp": "だいじん「サウンド　デザイン！{n}　みつだ　やすのり〜！",
-    "en": "",
+    "en": "Minister: Sound design!{n}Yasunori Mitsudaaa!",
     "codes": []
    },
    {
     "id": "0FC4B6_00A9",
     "jp": "「みんなも　さっきょくかに　なろう！",
-    "en": "",
+    "en": "Everyone, become a composer too!",
     "codes": []
    },
    {
     "id": "0FC4B6_00C5",
     "jp": "だいじん「サウンド　エフェクト！{n}　うえまつ　のぶお〜！",
-    "en": "",
+    "en": "Minister: Sound effects!{n}Nobuo Uematsuuu!",
     "codes": []
    },
    {
     "id": "0FC4B6_00EB",
     "jp": "「こんかいの　わたしの　さくひん。{n}　こころにしみる　このメロディ　おききください。",
-    "en": "",
+    "en": "My work for this game.{n}Please listen to this melody that touches the heart.",
     "codes": []
    },
    {
     "id": "0FC4B6_0123",
     "jp": "だいじん「いとう　けんじ〜！",
-    "en": "",
+    "en": "Minister: Kenji Itooo!",
     "codes": []
    },
    {
     "id": "0FC4B6_013B",
     "jp": "「こうかおんづくりも　これで　３さくめ。{n}　ああ　ネタがつきる〜。",
-    "en": "",
+    "en": "This is my third game making sound effects.{n}Ahh, I'm running out of ideaaas.",
     "codes": []
    },
    {
     "id": "0FC4B6_0166",
     "jp": "だいじん「うえだ　あきら〜！",
-    "en": "",
+    "en": "Minister: Akira Uedaaa!",
     "codes": []
    },
    {
     "id": "0FC4B6_017A",
     "jp": "「うわあ　オレ　あきら！",
-    "en": "",
+    "en": "Whoa, I'm Akira!",
     "codes": []
    },
    {
     "id": "0FC4B6_0190",
     "jp": "だいじん「まえかわ　よしひこ〜！",
-    "en": "",
+    "en": "Minister: Yoshihiko Maekawaaa!",
     "codes": []
    },
    {
     "id": "0FC4B6_01AA",
     "jp": "「よしこ　いま　かえるからね。",
-    "en": "",
+    "en": "Yoshiko, I'm coming home now.",
     "codes": []
    },
    {
     "id": "0FC4B6_01C3",
     "jp": "だいじん「こうこく　せんでん！{n}　いしだ　ゆみこ〜！",
-    "en": "",
+    "en": "Minister: Advertising!{n}Yumiko Ishidaaa!",
     "codes": []
    },
    {
     "id": "0FC4B6_01E5",
     "jp": "「ピキー　ピキー　つぎのも　かってネ。",
-    "en": "",
+    "en": "Pikii pikii, buy the next one too, okay?",
     "codes": []
    },
    {
     "id": "0FC4B6_0200",
     "jp": "だいじん「そうすい　きよたか〜！",
-    "en": "",
+    "en": "Minister: Kiyotaka Sousuiii!",
     "codes": []
    },
    {
     "id": "0FC4B6_021A",
     "jp": "「ピンクの　ベビーモスが　カワいい！",
-    "en": "",
+    "en": "The pink Baby-moth is sooo cute!",
     "codes": []
    },
    {
     "id": "0FC4B6_0236",
     "jp": "だいじん「つづいて　きょうりょく！{#0}{p}　ダジャレ　しどう！{n}　こくぼ　けいぞう〜！{#1}{p}　こどうぐ　さくせい！{n}　よしえだ　さとる！　むらた　たく！{#2}{p}　エッグモンスター　アイデア！{n}　かまた　やすひこ！　　　　だいしま　まなぶ！{n}　おかにわ　しんいちろう！　たまい　ようこ！{#3}{p}　モニターズ　リーダー！{n}　おがた　さとし！　とのおか　たかあき！{#4}{p}だいじん「つづいて　スペシャル　サンクス！{#5}{p}　ひらた　ゆうすけ！　おかみや　みちお！{n}　のむら　ただし！　　ひらた　けい！{n}　わたなべ　のりこ！{#6}{p}　たにかわ　きよみ！　さいとう　じゅん！{n}　でんの　まなぶ！　　すずき　ひさこ！{n}　ひだき　しのぶ！　　なかむら　あや！{#7}{p}　かねしげ　まさし！　のぐち　ひろこ！{n}　そめの　まさみち！　ますだ　かおり！{#8}{p}　よこた　ひろふみ！　かじたに　しんいちろう！{n}　やました　こうじ！　こうだ　りゅうこ！{n}　ゆもと　まりこ！　　いしかわ　のぶこ！{n}　こうの　みなこ！　　いなぎ　きみえ！{#9}{p}　もりた　とおる！　すえみつ　ようこ！{n}　つかごし　れい！　なかむら　ひとみ！{n}　さとう　わかこ！{#10}{p}　さかぐち　ひろのぶ！　たけむら　ひとし！{n}　かわづ　あきとし！　　ふじおか　ちひろ！{n}　こばやし　ひろし！　　すずき　ひさし！{n}　ほりい　としゆき！　　たけち　ともゆき！{#11}{p}　ほか　せいさく　はんばいに　たずさわってくれた{n}　オール　メンバー　オブ　スクウェア！{#12}{p}だいじん「そして　さいごに！",
-    "en": "",
+    "en": "Minister: Next, our collaborators!{#0}{p}Pun Supervisor!{n}Keizo Kokubooo!{#1}{p}Item Design!{n}Satoru Yoshieda!{n}Taku Murata!{#2}{p}Egg Monster Ideas!{n}Yasuhiko Kamata!{n}Manabu Daishima!{w}{p}Shinichiro Okaniwa!{n}Yoko Tamai!{#3}{p}Monitor Leaders!{n}Satoshi Ogata!{n}Takaaki Tonooka!{#4}{p}Minister: Next, Special Thanks!{#5}{p}Yusuke Hirata!{n}Michio Okamiya!{n}Tadashi Nomura!{w}{p}Kei Hirata!{n}Noriko Watanabe!{#6}{p}Kiyomi Tanikawa!{n}Jun Saito!{n}Manabu Denno!{w}{p}Hisako Suzuki!{n}Shinobu Hidaki!{n}Aya Nakamura!{#7}{p}Masashi Kaneshige!{n}Hiroko Noguchi!{n}Masamichi Someno!{n}Kaori Masuda!{#8}{p}Hirofumi Yokota!{n}Shinichiro Kajitani!{n}Koji Yamashita!{n}Ryuko Koda!{w}{p}Mariko Yumoto!{n}Nobuko Ishikawa!{n}Minako Kono!{n}Kimie Inagi!{#9}{p}Toru Morita!{n}Yoko Suemitsu!{n}Rei Tsukagoshi!{w}{p}Hitomi Nakamura!{n}Wakako Sato!{#10}{p}Hironobu Sakaguchi!{n}Hitoshi Takemura!{n}Akitoshi Kawazu!{n}Chihiro Fujioka!{w}{p}Hiroshi Kobayashi!{n}Hisashi Suzuki!{n}Toshiyuki Horii!{n}Tomoyuki Takechi!{#11}{p}And every other member of Square who helped make and sell this game!{#12}{p}Minister: And finally!",
     "codes": [
      "2b 0a",
      "2b 14",
@@ -9267,37 +9267,37 @@
    {
     "id": "0FC4B6_04C5",
     "jp": "　エグゼクティブ　プロデューサー！{n}　みずの　てつお〜！",
-    "en": "",
+    "en": "Executive Producer!{n}Tetsuo Mizunooo!",
     "codes": []
    },
    {
     "id": "0FC4B6_04EB",
     "jp": "「こんごとも　スクウェア　ソフトを{n}　すみから　すみまで　ずずずい〜ッと！",
-    "en": "",
+    "en": "From here on, please support Square Soft from every nook to every cranny, all the waaay...!",
     "codes": []
    },
    {
     "id": "0FC4B6_054B",
     "jp": "「さん　ハイッ！",
-    "en": "",
+    "en": "Ready, and!",
     "codes": []
    },
    {
     "id": "0FC4B6_0569",
     "jp": "「よろしく　おねがいいたしま〜すッ！！",
-    "en": "",
+    "en": "We humbly ask for your suppooort!!",
     "codes": []
    },
    {
     "id": "0FC4B6_05BE",
     "jp": "だいじん「ホントに‥",
-    "en": "",
+    "en": "Minister: Really, now...",
     "codes": []
    },
    {
     "id": "0FC4B6_05D1",
     "jp": "だいじん「たのみますぞ〜ッ！！{#0}{p}エッグマン「くど〜いッ！",
-    "en": "",
+    "en": "Minister: We're counting on yooou!!{#0}{p}Eggman: Enough alreadyyy!",
     "codes": [
      "2b 14"
     ]
@@ -9315,7 +9315,7 @@
    {
     "id": "0FCAC7_0007",
     "jp": "「あら　いらっしゃい♥{w}{p}　でも　あなた　たまごもってないのね。{w}{p}　もう　ここへは　こないで。{w}",
-    "en": "",
+    "en": "Oh, welcome♥{w}{p}But you don't have any eggs, do you?{w}{p}Don't come here anymore.{w}",
     "codes": []
    }
   ]
@@ -9331,7 +9331,7 @@
    {
     "id": "0FCB01_0007",
     "jp": "「あら　いらっしゃい♥{w}{p}　あなたの　たまご　まだ　だいじょぶね。{w}{p}　たまごが　こわれたら　いらっしゃい。{w}{p}　ほんとに　こまったとき　あなたのちからに{n}　なれるのは　あ　{#0}た　{#1}し♥{w}",
-    "en": "",
+    "en": "Oh, welcome♥{w}{p}Your eggs are still doing fine.{w}{p}Come see me when one breaks.{w}{p}When you're really in trouble, the one who can lend you strength is... yours{#0} tru{#1}ly♥{w}",
     "codes": [
      "2b 03",
      "2b 03"
@@ -9350,13 +9350,13 @@
    {
     "id": "0FCB6A_0001",
     "jp": "　じゃ　たまごを　だして‥{w}",
-    "en": "",
+    "en": "Now, hand me the egg...{w}",
     "codes": []
    },
    {
     "id": "0FCB6A_001D",
     "jp": "「あなたの　だいじな　プリティエッグ♪{n}　わたしの　ハートで　ホールドタイト♪{n}　ソースウィートな　ラブパワーで♪{n}　ブロークンエッグも　ふっかつよ♪{#0}{#1}{#2}{#3}{p}{#4}{#5}　チェスト〜ッ！！",
-    "en": "",
+    "en": "Your precious Pretty Egg♪{n}Hold it tight in my heart♪{n}With so-sweet love power♪{n}Even broken eggs revive♪{#0}{#1}{#2}{#3}{p}{#4}{#5}Chestooo!!",
     "codes": [
      "2b 1e",
      "21",
@@ -9369,7 +9369,7 @@
    {
     "id": "0FCB6A_008D",
     "jp": "「これで　オーケー♥{n}　でも　このままじゃ　しようかいすうは　２かいよ。{w}{p}　また　いつでも　きて♥{n}　あたしは　あなたの‥{#0}　み{#1}　な{#2}　と{#3}　だもん♥{w}",
-    "en": "",
+    "en": "All done♥{n}But this way, it only gets back 2 uses.{w}{p}Come again anytime♥{n}I'm your...{#0} safe{#1} har{#2}bor{#3}, you know♥{w}",
     "codes": [
      "2b 03",
      "2b 03",
@@ -9390,13 +9390,13 @@
    {
     "id": "0FCC4B_0001",
     "jp": "　じゃ　たまごを　だして‥{w}",
-    "en": "",
+    "en": "Now, hand me the egg...{w}",
     "codes": []
    },
    {
     "id": "0FCC4B_001D",
     "jp": "「あなたの　だいじな　プリティエッグ♪{n}　わたしの　ハートで　ホールドタイト♪{n}　ソースウィートな　ラブパワーで♪{n}　ブロークンエッグも　ふっかつよ♪{#0}{#1}{#2}{#3}{p}{#4}{#5}　チェスト〜ッ！！",
-    "en": "",
+    "en": "Your precious Pretty Egg♪{n}Hold it tight in my heart♪{n}With so-sweet love power♪{n}Even broken eggs revive♪{#0}{#1}{#2}{#3}{p}{#4}{#5}Chestooo!!",
     "codes": [
      "2b 1e",
      "21",
@@ -9409,7 +9409,7 @@
    {
     "id": "0FCC4B_008D",
     "jp": "「これで　オーケー♥{n}　しようかいすうも　４かいまで　もどしといたわ。{w}{p}　また　いつでも　きて♥{n}　あたしは　あなたの‥{#0}　み{#1}　な{#2}　と{#3}　だもん♥{w}",
-    "en": "",
+    "en": "All done♥{n}I put its uses back up to 4, too.{w}{p}Come again anytime♥{n}I'm your...{#0} safe{#1} har{#2}bor{#3}, you know♥{w}",
     "codes": [
      "2b 03",
      "2b 03",
@@ -9430,7 +9430,7 @@
    {
     "id": "0FCD2B_000B",
     "jp": "「あら？　たまご　われちゃったの？{w}{p}　やっぱり　あなたが　こまったとき{n}　ひつようになるのは　あたしってワケね。{w}{p}　あたしの　♥で　たまごを　よみがえらせて{n}　あ　{#0}げ　{#1}る♥{w}{p}　だから　なんか　かって。{n}{#2}{#3}{p}　やすものだけど　あいが　こもってるから{n}　ゆるしてあ　{#4}げ　{#5}る♥{w}",
-    "en": "",
+    "en": "Oh? Your egg broke?{w}{p}See, when you're in trouble, I'm the one you need after all.{w}{p}I'll bring your egg back to life with my ♥... just{#0} for{#1} you♥{w}{p}So buy something.{n}{#2}{#3}{p}It's cheap stuff, but it's full of love, so I'll for{#4}give{#5} you♥{w}",
     "codes": [
      "2b 03",
      "2b 03",
@@ -9478,7 +9478,7 @@
    {
     "id": "0FCFC4_0002",
     "jp": "「おお！　ありがたきしあわせ‥{w}",
-    "en": "",
+    "en": "Oh! Such an honor...{w}",
     "codes": []
    }
   ]
@@ -9494,7 +9494,7 @@
    {
     "id": "0FCFED_0002",
     "jp": "「おお！　ありがたきしあわせ‥{w}",
-    "en": "",
+    "en": "Oh! Such an honor...{w}",
     "codes": []
    }
   ]
@@ -9510,7 +9510,7 @@
    {
     "id": "0FD016_0002",
     "jp": "「おお！　ありがたきしあわせ‥{w}",
-    "en": "",
+    "en": "Oh! Such an honor...{w}",
     "codes": []
    }
   ]
@@ -9526,13 +9526,13 @@
    {
     "id": "0FD03F_0017",
     "jp": "「にんげん　なせば　なるべ！{w}",
-    "en": "",
+    "en": "Folks kin do anythin' if they put their minds to it!{w}",
     "codes": []
    },
    {
     "id": "0FD03F_0029",
     "jp": "はんじゅくちが　きもちだけ　アップした！{w}",
-    "en": "",
+    "en": "Soft-boiled points went up... by a smidgen!{w}",
     "codes": []
    }
   ]
@@ -9548,13 +9548,13 @@
    {
     "id": "0FD087_0017",
     "jp": "「やっぱ　オラたちじゃ　ムリだな‥{w}{p}はんじゅくちが　あがったような　きもしたが‥{w}",
-    "en": "",
+    "en": "Reckon it's just too much fer the likes of us...{w}{p}It felt like soft-boiled points went up, but...{w}",
     "codes": []
    },
    {
     "id": "0FD087_0044",
     "jp": "きのせいだった。{w}",
-    "en": "",
+    "en": "It was just your imagination.{w}",
     "codes": []
    }
   ]
@@ -9570,7 +9570,7 @@
    {
     "id": "0FD0DB_0012",
     "jp": "「お{#0}　ま{#1}　た{#2}　せ♥{w}{p}　ホホホ‥　みなさん　まちわびたようね。{n}　それでは　わたしの　しんきょく　きいてくださいね。{w}",
-    "en": "",
+    "en": "Did{#0} you{#1} miss{#2} me♥{w}{p}Ho ho ho... Everyone's been dying to see me, I see.{w}{p}Now then, please listen to my new song.{w}",
     "codes": [
      "2b 04",
      "2b 04",
@@ -9580,13 +9580,13 @@
    {
     "id": "0FD0DB_0059",
     "jp": "「かえれ！{n}「かえれ！　かえれ！{n}「かえれ！　かえれ！　かえれ！{w}",
-    "en": "",
+    "en": "Go home!{n}Go home! Go home!{n}Go home! Go home! Go home!{w}",
     "codes": []
    },
    {
     "id": "0FD0DB_007D",
     "jp": "「では　さっそく　きいてください。{n}　”あなたに　パワーボム”です。{w}{p}　ミュージック　スタート♥{w}",
-    "en": "",
+    "en": "Without further ado, please listen.{n}It's \"A Powerbomb for You.\"{w}{p}Music, start♥{w}",
     "codes": []
    }
   ]
@@ -9602,7 +9602,7 @@
    {
     "id": "0FD199_0006",
     "jp": "「たからばこに　１００Ｇ　はいっていました！{w}",
-    "en": "",
+    "en": "The treasure chest had 100G inside!{w}",
     "codes": []
    }
   ]
@@ -9618,7 +9618,7 @@
    {
     "id": "0FD1BD_0003",
     "jp": "「たからばこは　からっぽでした！{w}",
-    "en": "",
+    "en": "The treasure chest was empty!{w}",
     "codes": []
    }
   ]
@@ -9643,19 +9643,19 @@
    {
     "id": "0FD1E5_0007",
     "jp": "「ん‥ッ？{w}",
-    "en": "",
+    "en": "Hm...?{w}",
     "codes": []
    },
    {
     "id": "0FD1E5_0013",
     "jp": "「うわ〜ッ！！{w}",
-    "en": "",
+    "en": "Waaah!!{w}",
     "codes": []
    },
    {
     "id": "0FD1E5_0032",
     "jp": "は　いのちを　おとした‥{n}すばらしい　おたからを　のこして‥{w}",
-    "en": "",
+    "en": " perished...{n}leaving a wonderful treasure behind...{w}",
     "codes": []
    }
   ]
@@ -9671,19 +9671,19 @@
    {
     "id": "0FD23F_0007",
     "jp": "「ん‥ッ？{w}",
-    "en": "",
+    "en": "Hm...?{w}",
     "codes": []
    },
    {
     "id": "0FD23F_0026",
     "jp": "「おおッ！{w}",
-    "en": "",
+    "en": "Ooh!{w}",
     "codes": []
    },
    {
     "id": "0FD23F_0039",
     "jp": "「たからばこには{n}　２００Ｇ　はいってました！{w}",
-    "en": "",
+    "en": "The treasure chest{n}had 200G inside!{w}",
     "codes": []
    }
   ]
@@ -9699,25 +9699,25 @@
    {
     "id": "0FD297_0009",
     "jp": "「ん‥ッ？{w}",
-    "en": "",
+    "en": "Hm...?{w}",
     "codes": []
    },
    {
     "id": "0FD297_001B",
     "jp": "「お　おとしあな！{w}",
-    "en": "",
+    "en": "A-a pitfall!{w}",
     "codes": []
    },
    {
     "id": "0FD297_002F",
     "jp": "「うわあ〜ッ‥{w}{p}　あ〜　あ〜〜　あ〜〜〜‥{w}",
-    "en": "",
+    "en": "Waaah...{w}{p}Aaah... aaaah... aaaaah...{w}",
     "codes": []
    },
    {
     "id": "0FD297_004A",
     "jp": "は　ならくのそこへと　きえた‥{w}{p}がっしょう‥{w}",
-    "en": "",
+    "en": " vanished into the abyss...{w}{p}Rest in peace...{w}",
     "codes": []
    }
   ]
@@ -9733,13 +9733,13 @@
    {
     "id": "0FD302_000B",
     "jp": "「おおッ！{w}",
-    "en": "",
+    "en": "Ooh!{w}",
     "codes": []
    },
    {
     "id": "0FD302_001E",
     "jp": "「やり〜ッ！{w}",
-    "en": "",
+    "en": "Score!{w}",
     "codes": []
    }
   ]
@@ -9755,19 +9755,19 @@
    {
     "id": "0FD33E_0019",
     "jp": "「げッ！{w}{p}「ファファファ！{n}　おたからは　すでに　われらのてにある！{w}{p}　それでも　ほしくば　この　{nameC}を{n}　たおして　うばうがよい！！{w}",
-    "en": "",
+    "en": "Gah!{w}{p}Fwa fwa fwa! The treasure is already in our hands!{w}{p}If you still want it, defeat me, {nameC}, and take it!!{w}",
     "codes": []
    },
    {
     "id": "0FD33E_00AB",
     "jp": "「うっしゃあ〜ッ！{w}",
-    "en": "",
+    "en": "Yeaaah!{w}",
     "codes": []
    },
    {
     "id": "0FD33E_00CC",
     "jp": "２００Ｇ　てにいれた！{w}",
-    "en": "",
+    "en": "Got 200G!{w}",
     "codes": []
    }
   ]
@@ -9783,7 +9783,7 @@
    {
     "id": "0FD41D_000D",
     "jp": "「スイッチ　オ〜ンッ！{w}",
-    "en": "",
+    "en": "Switch ooon!{w}",
     "codes": []
    }
   ]
@@ -9799,7 +9799,7 @@
    {
     "id": "0FD452_000A",
     "jp": "「スイッチ　オ〜ンッ！{w}",
-    "en": "",
+    "en": "Switch ooon!{w}",
     "codes": []
    }
   ]
@@ -9815,7 +9815,7 @@
    {
     "id": "0FD481_000D",
     "jp": "「スイッチ　オ〜ンッ！{w}",
-    "en": "",
+    "en": "Switch ooon!{w}",
     "codes": []
    }
   ]
@@ -9831,19 +9831,19 @@
    {
     "id": "0FD4B6_0002",
     "jp": "「では　いってみましょう！{w}",
-    "en": "",
+    "en": "Well then, here we go!{w}",
     "codes": []
    },
    {
     "id": "0FD4B6_001F",
     "jp": "「ひらけー‥{w}",
-    "en": "",
+    "en": "Open...{w}",
     "codes": []
    },
    {
     "id": "0FD4B6_002D",
     "jp": "「ゴマ！！{w}",
-    "en": "",
+    "en": "Sesame!!{w}",
     "codes": []
    }
   ]
@@ -9859,19 +9859,19 @@
    {
     "id": "0FD504_0002",
     "jp": "「では　いってみましょう！{w}",
-    "en": "",
+    "en": "Well then, here we go!{w}",
     "codes": []
    },
    {
     "id": "0FD504_001C",
     "jp": "「ひらけー‥{w}",
-    "en": "",
+    "en": "Open...{w}",
     "codes": []
    },
    {
     "id": "0FD504_002A",
     "jp": "「ゴマ！！{w}",
-    "en": "",
+    "en": "Sesame!!{w}",
     "codes": []
    }
   ]
@@ -9887,19 +9887,19 @@
    {
     "id": "0FD54F_0002",
     "jp": "「では　いってみましょう！{w}",
-    "en": "",
+    "en": "Well then, here we go!{w}",
     "codes": []
    },
    {
     "id": "0FD54F_001F",
     "jp": "「ひらけー‥{w}",
-    "en": "",
+    "en": "Open...{w}",
     "codes": []
    },
    {
     "id": "0FD54F_002D",
     "jp": "「ゴマ！！{w}",
-    "en": "",
+    "en": "Sesame!!{w}",
     "codes": []
    }
   ]
@@ -9915,7 +9915,7 @@
    {
     "id": "0FD59D_0003",
     "jp": "「この　{nameC}に　おまかせを！{n}{#0}{nameC}が　はいかに　くわわった！{w}",
-    "en": "",
+    "en": "Leave it to me, {nameC}!{n}{#0}{nameC} joined your command!{w}",
     "codes": [
      "14 16 00"
     ]
@@ -9933,7 +9933,7 @@
    {
     "id": "0FD5C5_0003",
     "jp": "「この　{nameD}に　おまかせを！{n}{#0}{nameD}が　はいかに　くわわった！{w}",
-    "en": "",
+    "en": "Leave it to me, {nameD}!{n}{#0}{nameD} joined your command!{w}",
     "codes": [
      "14 16 01"
     ]
@@ -9951,7 +9951,7 @@
    {
     "id": "0FD5ED_0003",
     "jp": "「この　{nameE}に　おまかせを！{n}{#0}{nameE}が　はいかに　くわわった！{w}",
-    "en": "",
+    "en": "Leave it to me, {nameE}!{n}{#0}{nameE} joined your command!{w}",
     "codes": [
      "14 16 02"
     ]
@@ -9969,13 +9969,13 @@
    {
     "id": "0FD615_001A",
     "jp": "「ヒャッホー！　じゆうのみだ〜！！{w}",
-    "en": "",
+    "en": "Yahoo! We're free men!!{w}",
     "codes": []
    },
    {
     "id": "0FD615_0094",
     "jp": "へいしたちは　ひとりのこらず　じゆうというなの{n}だいちへと　たびだっていった‥{w}",
-    "en": "",
+    "en": "The soldiers, every last one, set off for the land called freedom...{w}",
     "codes": []
    }
   ]
@@ -9991,13 +9991,13 @@
    {
     "id": "0FD6DA_001C",
     "jp": "「ル〜ル〜ルルル〜‥♪{w}{p}「{hero}さまにゃあ　さからえない‥♪{w}{p}「たまごどころか　なまえもない‥♪{w}{p}「そうさ　ぼくらは　なもない　へいし‥♪{w}",
-    "en": "",
+    "en": "La la~ la la la~...♪{w}{p}We can't say no to{n}{hero}, our lord...♪{w}{p}Not a single egg, not even a name...♪{w}{p}That's right, we're nameless soldiers...♪{w}",
     "codes": []
    },
    {
     "id": "0FD6DA_0066",
     "jp": "へいしたちは　なくなく　あきらめた。{w}",
-    "en": "",
+    "en": "The soldiers tearfully gave up.{w}",
     "codes": []
    }
   ]
@@ -10013,7 +10013,7 @@
    {
     "id": "0FD755_0012",
     "jp": "プレゼントは　きりふだ　バルムンクだった！{w}",
-    "en": "",
+    "en": "The present was a Balmung trump card!{w}",
     "codes": []
    }
   ]
@@ -10029,7 +10029,7 @@
    {
     "id": "0FD784_001A",
     "jp": "プレゼントは　きりふだ　バグストーム　５こだった！{w}",
-    "en": "",
+    "en": "The present was 5 Bug Storm trump cards!{w}",
     "codes": []
    }
   ]
@@ -10054,37 +10054,37 @@
    {
     "id": "0FD7D7_0017",
     "jp": "「こんばんぎゃ。{w}{p}　きょうは　はやくちことばに　ちょうせんするぎゃ。{n}　みなさんも　いっしょに　よんでみるぎゃ！{w}{p}　では　いくぎゃ！{w}",
-    "en": "",
+    "en": "Good evenin', gya.{w}{p}Today I'll take on tongue twisters, gya.{n}Everyone, read along with me, gya!{w}{p}Here I go, gya!{w}",
     "codes": []
    },
    {
     "id": "0FD7D7_0063",
     "jp": "　とうきょう　とっきょ　きょきゃきょく！{w}",
-    "en": "",
+    "en": "Gyood blood, bad blood, gyood blood!{w}",
     "codes": []
    },
    {
     "id": "0FD7D7_007F",
     "jp": "　あおまきぎゃみ　あかまきぎゃみ　きまきぎゃみ！{w}",
-    "en": "",
+    "en": "Kyitty kyaught the kyitten in the kyitchen!{w}",
     "codes": []
    },
    {
     "id": "0FD7D7_009F",
     "jp": "　この　たけぎゃきに　たけ　たてきゃけたのは{n}　たけ　たてきゃけたきゃったから{n}　たけ　たてきゃけたのぎゃ。{w}",
-    "en": "",
+    "en": "Kyan you kyan a kyan{n}as a kyanner kyan{n}kyan a kyan, gya?{w}",
     "codes": []
    },
    {
     "id": "0FD7D7_00DD",
     "jp": "　きゃえる　ピョコピョコ　みピョコピョコ{n}　あわせて　ピョコピョコ　むピョコピョコ！{w}",
-    "en": "",
+    "en": "Gyreek gyrapes, gyreek gyrapes,{n}gyreek gyrapes, gyreek gyrapes!{w}",
     "codes": []
    },
    {
     "id": "0FD7D7_010D",
     "jp": "　うまく　いったぎゃ！？{w}",
-    "en": "",
+    "en": "Did I get it right, gya!?{w}",
     "codes": []
    }
   ]
@@ -10100,31 +10100,31 @@
    {
     "id": "0FD8F3_0031",
     "jp": "「オ〜ッス！{n}「がんばって　たたかっていらっしゃるようですわね。{w}{p}「あんた　なかなか　みどころ　あるみたいだから{n}　オイラたちのつくった　イイモンやるよ！{w}{p}「どこにもうっていない　きりふだですの。{n}　おやくにたててくださいな。{w}",
-    "en": "",
+    "en": "Yo~!{n}You seem to be fighting quite hard, I see.{w}{p}You've got some promise, so we'll give ya a good thing we made!{w}{p}It's a trump card they don't sell anywhere.{n}Please put it to good use.{w}",
     "codes": []
    },
    {
     "id": "0FD8F3_00A8",
     "jp": "きりふだ　グルミーを　５こ　てにいれた！{w}",
-    "en": "",
+    "en": "Got 5 Gloomy trump cards!{w}",
     "codes": []
    },
    {
     "id": "0FD8F3_00CE",
     "jp": "「ま　しっかり　やれよな！{w}",
-    "en": "",
+    "en": "Well, do your best, y'hear!{w}",
     "codes": []
    },
    {
     "id": "0FD8F3_00F1",
     "jp": "ポカッ！！{w}",
-    "en": "",
+    "en": "*Bonk*!!{w}",
     "codes": []
    },
    {
     "id": "0FD8F3_0100",
     "jp": "「これからも　がんばってくださいね。{n}　かげながら　おうえんしておりますわ！{w}{p}{#0}{#1}「イテテ‥{w}",
-    "en": "",
+    "en": "Please keep up the good work.{n}We'll be cheering for you from the shadows!{w}{p}{#0}{#1}Owww...{w}",
     "codes": [
      "07",
      "2a"
@@ -10133,7 +10133,7 @@
    {
     "id": "0FD8F3_0134",
     "jp": "ふたりの　はげましで　はんじゅくちが{n}おおはば　アップ！{n}また　いっぽ　おとなに　ちかづいた！{w}",
-    "en": "",
+    "en": "Their encouragement sent{n}soft-boiled points way up!{n}One step closer to being a grown-up!{w}",
     "codes": []
    }
   ]
@@ -10149,19 +10149,19 @@
    {
     "id": "0FDA61_0013",
     "jp": "「どうも。{w}",
-    "en": "",
+    "en": "Hello.{w}",
     "codes": []
    },
    {
     "id": "0FDA61_0024",
     "jp": "「せんえつながら　いま　たたかっている　キミたちに{n}　ひとこと。{w}{p}　コホン‥{w}{p}　どうした？{w}{p}　ツラくなったか？{w}{p}　だが　いまもどれば　もっとツラくなるぞ‥{w}{p}　がんばれ！{w}{p}　‥いじょうを　もちまして　げきれいのことばに{n}　かえさせていただきます。{w}{p}　はじめて　カラーで　とうじょうできて{n}　かんげきです。{w}{p}　ほんじつは　ありがとうございました。{w}",
-    "en": "",
+    "en": "If I may, a word to all of you fighting right now.{w}{p}*Ahem*...{w}{p}What's wrong?{w}{p}Is it getting tough?{w}{p}But if you go back now, it'll only get tougher...{w}{p}Hang in there!{w}{p}...And with that, I conclude my words of encouragement.{w}{p}I'm thrilled to appear in color for the first time.{w}{p}Thank you very much for today.{w}",
     "codes": []
    },
    {
     "id": "0FDA61_00E6",
     "jp": "ありがたい　げきれいを　うけて　はんじゅくちが{n}おおはば　アップ！{n}また　いっぽ　おとなに　ちかづいた！{w}",
-    "en": "",
+    "en": "Gracious cheering sent{n}soft-boiled points way up!{n}One step closer to being a grown-up!{w}",
     "codes": []
    }
   ]
@@ -10177,7 +10177,7 @@
    {
     "id": "0FDB86_0002",
     "jp": "「もっと。{w}{p}",
-    "en": "",
+    "en": "More.{w}{p}",
     "codes": []
    }
   ]
@@ -10193,7 +10193,7 @@
    {
     "id": "0FDB93_0002",
     "jp": "おかねが　たりません‥。{w}",
-    "en": "",
+    "en": "Not enough money...{w}",
     "codes": []
    }
   ]
@@ -10209,7 +10209,7 @@
    {
     "id": "0FDBA9_0013",
     "jp": "「ヨッシャア！　またな！！{w}",
-    "en": "",
+    "en": "All right! See ya!!{w}",
     "codes": []
    }
   ]
@@ -10225,13 +10225,13 @@
    {
     "id": "0FDBE9_0002",
     "jp": "　どれか　ほしいなー♥{n}",
-    "en": "",
+    "en": "I want one of these~♥{n}",
     "codes": []
    },
    {
     "id": "0FDBE9_0031",
     "jp": "「ふざけないで！{n}　あたし　そんな　やすい　おんなじゃないわ！{w}{p}　もういい！　べつの　だれかを　さがすわ！{w}",
-    "en": "",
+    "en": "Don't mess with me!{n}I'm not some cheap girl!{w}{p}Forget it! I'll go find somebody else!{w}",
     "codes": []
    }
   ]
@@ -10247,7 +10247,7 @@
    {
     "id": "0FDD46_0001",
     "jp": "なにを　かいあたえますか？{n}",
-    "en": "",
+    "en": "What will you buy her?{n}",
     "codes": []
    }
   ]
@@ -10263,7 +10263,7 @@
    {
     "id": "0FDD8A_0002",
     "jp": "「それやだ。{w}",
-    "en": "",
+    "en": "Don't want that.{w}",
     "codes": []
    }
   ]
@@ -10279,7 +10279,7 @@
    {
     "id": "0FDD98_000F",
     "jp": "「わたしを　うしなうと‥{w}{p}　こうかいするよ　きっと。{w}",
-    "en": "",
+    "en": "If you lose me...{w}{p}You'll regret it. Totally.{w}",
     "codes": []
    }
   ]
@@ -10295,7 +10295,7 @@
    {
     "id": "0FDE15_0001",
     "jp": "「じゃ　３０Ｇに　ねあげ。{n}　ちょーだい。{n}{#0}{p}{#1}{#2}{#3}　らっき！　ですこに　いこ。{w}{p}　また　くんね。{w}",
-    "en": "",
+    "en": "Then I'm raising it to 30G.{n}Gimme.{n}{#0}{p}{#1}{#2}{#3}Lucky! Off to the disco!{w}{p}I'll come again, 'kay?{w}",
     "codes": [
      "19 69 81 9c a9 ff ff 6d 4b 99 9c a9 ff",
      "37 1e",
@@ -10316,7 +10316,7 @@
    {
     "id": "0FDE71_0013",
     "jp": "「もっと　すなおに　なればいいのに。{w}{p}　またくる。{w}{p}　じゃね。{w}",
-    "en": "",
+    "en": "You should just be more honest with yourself.{w}{p}I'll come back.{w}{p}Bye-bye.{w}",
     "codes": []
    }
   ]
@@ -10332,7 +10332,7 @@
    {
     "id": "0FDEC4_0002",
     "jp": "「ちょーだいよ。{n}{#0}{p}{#1}{#2}{#3}「ありがと　またね。{w}",
-    "en": "",
+    "en": "Gimme.{n}{#0}{p}{#1}{#2}{#3}Thanks! See ya!{w}",
     "codes": [
      "19 69 81 9c a9 ff ff 6d 4b 99 9c a9 ff",
      "37 14",
@@ -10353,7 +10353,7 @@
    {
     "id": "0FDF1D_0001",
     "jp": "「おかね。{w}{p}　２０Ｇで　いい。{n}{#0}{p}{#1}{#2}{#3}　ありがと。{w}{p}　また　くる。{w}",
-    "en": "",
+    "en": "Money.{w}{p}20G will do.{n}{#0}{p}{#1}{#2}{#3}Thanks.{w}{p}I'll come again.{w}",
     "codes": [
      "19 69 81 9c a9 ff ff 6d 4b 99 9c a9 ff",
      "37 14",
@@ -10374,13 +10374,13 @@
    {
     "id": "0FDF61_0002",
     "jp": "「ヨッシャア！　いただき！！{w}",
-    "en": "",
+    "en": "Yesss! Score!!{w}",
     "codes": []
    },
    {
     "id": "0FDF61_0018",
     "jp": "　また　くんね。{w}",
-    "en": "",
+    "en": "I'll come again, 'kay?{w}",
     "codes": []
    }
   ]
