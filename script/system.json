@@ -109,35 +109,35 @@
   "off": "00C9EF",
   "len": 22,
   "jp": "{up}　　わ　　　ねん　　　のつき　　　　　Ｇ",
-  "en": ""
+  "en": "{up}  ep  yr   mo.     G"
  },
  {
   "id": "S0CA05",
   "off": "00CA05",
   "len": 36,
   "jp": "ステータス{n}しょうぐん{n}しろ{n}きりふだ{n}システム{n}けんのけいこ{n}セーブ",
-  "en": ""
+  "en": "Status{n}Generals{n}Castles{n}Cards{n}System{n}Training{n}Save"
  },
  {
   "id": "S0CA29",
   "off": "00CA29",
   "len": 10,
   "jp": "{n}{n}{n}{n}{n}{n}{19}{19}{19}",
-  "en": ""
+  "en": "{n}{n}{n}{n}{n}{n}{19}{19}{19}"
  },
  {
   "id": "S0CA33",
   "off": "00CA33",
   "len": 86,
   "jp": "しゅうにゅう　　　　　　Ｇ{n}そうちんぎん　　　　　　Ｇ{n}しょうぐん　　　　　　　にん{n}しろ　　　　　　　　　　コ{n}きりふだ　　　　　　　　コ{n}へいし　　　　　　　　　にん",
-  "en": ""
+  "en": "Income      G{n}Wages       G{n}Generals{n}Castles{n}Cards{n}Troops"
  },
  {
   "id": "S0CA89",
   "off": "00CA89",
   "len": 37,
   "jp": "たまご　　　　　　　　　コ{n}はんじゅくレベル{n}はんじゅくち{n}つぎのレベル",
-  "en": ""
+  "en": "Eggs{n}Level{n}Points{n}To Next"
  },
  {
   "id": "S0CAAE",
@@ -158,7 +158,7 @@
   "off": "00CAD5",
   "len": 11,
   "jp": "うむッ！{n}いかんッ！",
-  "en": ""
+  "en": "Yes!{n}No!"
  },
  {
   "id": "S0CAE0",
@@ -179,7 +179,7 @@
   "off": "00CB13",
   "len": 16,
   "jp": "じかんのながれ{n}サウンドモード",
-  "en": ""
+  "en": "Time Flow{n}Sound Mode"
  },
  {
   "id": "S0CB23",
@@ -193,7 +193,7 @@
   "off": "00CB3F",
   "len": 12,
   "jp": "はやい{n}ふつう{n}おそい",
-  "en": ""
+  "en": "Fast{n}Normal{n}Slow"
  },
  {
   "id": "S0CB4B",
@@ -228,7 +228,7 @@
   "off": "00CBEE",
   "len": 10,
   "jp": "ステレオ{n}モノラル",
-  "en": ""
+  "en": "Stereo{n}Mono"
  },
  {
   "id": "S0CBF8",
@@ -277,28 +277,28 @@
   "off": "00CC93",
   "len": 19,
   "jp": "へいし　　　　　　　　にん{n}きりふだ",
-  "en": ""
+  "en": "Troops{n}Cards"
  },
  {
   "id": "S0CCA6",
   "off": "00CCA6",
   "len": 15,
   "jp": "セーブ１{n}セーブ２{n}セーブ３",
-  "en": ""
+  "en": "Save 1{n}Save 2{n}Save 3"
  },
  {
   "id": "S0CCB5",
   "off": "00CCB5",
   "len": 7,
   "jp": "ーセーブ　ー",
-  "en": ""
+  "en": "-Save-"
  },
  {
   "id": "S0CCBC",
   "off": "00CCBC",
   "len": 30,
   "jp": "{n}{n}{n}{n}　　ねん　　　のつき{n}　　　　　　　　　　　　　Ｇ",
-  "en": ""
+  "en": "{n}{n}{n}{n}  yr   mo.{n}             G"
  },
  {
   "id": "S0CCDA",
@@ -312,7 +312,7 @@
   "off": "00CCF6",
   "len": 5,
   "jp": "からっぽ",
-  "en": ""
+  "en": "Empty"
  },
  {
   "id": "S0CCFB",
@@ -326,14 +326,14 @@
   "off": "00CD0A",
   "len": 16,
   "jp": "{n}{n}{n}　　ーの　さいしょからー",
-  "en": ""
+  "en": "{n}{n}{n}  -From the Start-"
  },
  {
   "id": "S0CD1A",
   "off": "00CD1A",
   "len": 16,
   "jp": "さいしょから{n}このまえのつづき",
-  "en": ""
+  "en": "From the start{n}Continue"
  },
  {
   "id": "S0CD2A",
@@ -347,7 +347,7 @@
   "off": "00CD3B",
   "len": 14,
   "jp": "どこから{n}はじめますかな？",
-  "en": ""
+  "en": "Where shall{n}we begin?"
  },
  {
   "id": "S0CD49",
@@ -361,42 +361,42 @@
   "off": "00CD62",
   "len": 31,
   "jp": "　　　いどう{n}　　　ステータス{n}　　　キャンプ{n}　　　きかん",
-  "en": ""
+  "en": "   Move{n}   Status{n}   Camp{n}   Return"
  },
  {
   "id": "S0CD81",
   "off": "00CD81",
   "len": 81,
   "jp": "　　　　　　　　しょうぐん{n}ＨＰ　　　　　」　　　　Ｐ{n}せんとう　　　　　　　　Ｐ{n}ないせい　　　　　　　　Ｐ{n}ちんぎん　　　　　　　　Ｇ{n}たまご　なし{n}しゅみ",
-  "en": ""
+  "en": "        General{n}HP     /    P{n}Combat      P{n}Domestic    P{n}Wage        G{n}Egg none{n}Hobby"
  },
  {
   "id": "S0CDD2",
   "off": "00CDD2",
   "len": 19,
   "jp": "へいし　　　　　　　　にん{n}きりふだ",
-  "en": ""
+  "en": "Troops{n}Cards"
  },
  {
   "id": "S0CDE5",
   "off": "00CDE5",
   "len": 18,
   "jp": "　　　しゅつげき{n}　　　ステータス",
-  "en": ""
+  "en": "   Sortie{n}   Status"
  },
  {
   "id": "S0CDF7",
   "off": "00CDF7",
   "len": 47,
   "jp": "　　　かんじゅくぐん{n}　　　　　　　　しょうぐん{n}へいし　　　　　にん{n}たまご　　　　　なし",
-  "en": ""
+  "en": "   Hard-Boiled{n}        General{n}Men{n}Egg     none"
  },
  {
   "id": "S0CE26",
   "off": "00CE26",
   "len": 41,
   "jp": "　　　　　　　　じょう{n}しゅうにゅう　　　　Ｇ{n}レベル{n}しょうぐん　　　　　めい",
-  "en": ""
+  "en": "        Castle{n}Income    G{n}Level{n}Staff"
  },
  {
   "id": "S0CE4F",
@@ -410,7 +410,7 @@
   "off": "00CE50",
   "len": 17,
   "jp": "　　　しゅつげき{n}　　　こうかん",
-  "en": ""
+  "en": "   Sortie{n}   Trade"
  },
  {
   "id": "S0CE61",
@@ -424,35 +424,35 @@
   "off": "00CE6F",
   "len": 4,
   "jp": "ぽーず",
-  "en": ""
+  "en": "Pause"
  },
  {
   "id": "S0CE73",
   "off": "00CE73",
   "len": 19,
   "jp": "{up}　　　ねん　　　のつき　　　　　Ｇ",
-  "en": ""
+  "en": "{up}   yr   mo.     G"
  },
  {
   "id": "S0CE86",
   "off": "00CE86",
   "len": 14,
   "jp": "　　　　　　　　しょうぐん",
-  "en": ""
+  "en": "        General"
  },
  {
   "id": "S0CE94",
   "off": "00CE94",
   "len": 15,
   "jp": "　　　へいし{n}　　　きりふだ",
-  "en": ""
+  "en": "   Soldiers{n}   Cards"
  },
  {
   "id": "S0CEA3",
   "off": "00CEA3",
   "len": 17,
   "jp": "{up}　　にん　{raw:E3}ＬＲ{raw:E3}　　にん",
-  "en": ""
+  "en": "{up}  men{raw:E3}LR{raw:E3}  men"
  },
  {
   "id": "S0CEB4",
@@ -543,7 +543,7 @@
   "off": "00CFEB",
   "len": 20,
   "jp": "しんきろうのような{n}ぶきみな　しろだ！",
-  "en": ""
+  "en": "A castle like{n}an eerie mirage!"
  },
  {
   "id": "S0CFFF",
@@ -557,7 +557,7 @@
   "off": "00D01B",
   "len": 28,
   "jp": "がれきのようなものが　　　{n}　　じめんに　おちている！",
-  "en": ""
+  "en": "Something like rubble{n}lies on the ground!"
  },
  {
   "id": "S0D037",
@@ -627,14 +627,14 @@
   "off": "00D12C",
   "len": 24,
   "jp": "{dn}　　しょうぐんは{n}{n}{dn}　　　　おりません‥‥",
-  "en": ""
+  "en": "{dn}  No generals{n}{n}{dn}    here..."
  },
  {
   "id": "S0D144",
   "off": "00D144",
   "len": 14,
   "jp": "きりふだは{n}ありません‥‥",
-  "en": ""
+  "en": "No trump{n}cards..."
  },
  {
   "id": "S0D152",
@@ -655,7 +655,7 @@
   "off": "00D16C",
   "len": 31,
   "jp": "ーしゅつげき　しますか？ー{n}　　　うむッ！{n}　　　いかんッ！",
-  "en": ""
+  "en": "-Sortie?-{n}   Yes!{n}   No!"
  },
  {
   "id": "S0D18B",
@@ -669,42 +669,42 @@
   "off": "00D19E",
   "len": 8,
   "jp": "　じょうですな",
-  "en": ""
+  "en": " Castle, eh?"
  },
  {
   "id": "S0D1A6",
   "off": "00D1A6",
   "len": 19,
   "jp": "　　Ｇかかりますが　よろしいですかな",
-  "en": ""
+  "en": "  G it costs. All right?"
  },
  {
   "id": "S0D1B9",
   "off": "00D1B9",
   "len": 18,
   "jp": "てきにんしゃは{n}{n}しょうぐんですな",
-  "en": ""
+  "en": "The best choice{n}{n}is that general."
  },
  {
   "id": "S0D1CB",
   "off": "00D1CB",
   "len": 23,
   "jp": "これいじょうの{n}ぞうちくは{n}できませんぞ！！",
-  "en": ""
+  "en": "It can't be{n}expanded any{n}further!!"
  },
  {
   "id": "S0D1E2",
   "off": "00D1E2",
   "len": 22,
   "jp": "とほほほ‥{n}しょうぐんが{n}おりませなんだ！",
-  "en": ""
+  "en": "Boo hoo...{n}There are no{n}generals!"
  },
  {
   "id": "S0D1F8",
   "off": "00D1F8",
   "len": 19,
   "jp": "じょうの　レベルが　　になりましたぞ",
-  "en": ""
+  "en": " level is  , sire!"
  },
  {
   "id": "S0D20B",
@@ -718,7 +718,7 @@
   "off": "00D21E",
   "len": 7,
   "jp": "こわれている",
-  "en": ""
+  "en": "Broken"
  },
  {
   "id": "S0D225",
@@ -767,35 +767,35 @@
   "off": "00D26D",
   "len": 7,
   "jp": "しんでいます",
-  "en": ""
+  "en": "Dead"
  },
  {
   "id": "S0D274",
   "off": "00D274",
   "len": 8,
   "jp": "　しょうぐんが",
-  "en": ""
+  "en": " the general"
  },
  {
   "id": "S0D27C",
   "off": "00D27C",
   "len": 6,
   "jp": "　じょうが",
-  "en": ""
+  "en": " Castle"
  },
  {
   "id": "S0D282",
   "off": "00D282",
   "len": 6,
   "jp": "　とりでが",
-  "en": ""
+  "en": " Fort"
  },
  {
   "id": "S0D288",
   "off": "00D288",
   "len": 7,
   "jp": "　キャンプが",
-  "en": ""
+  "en": " Camp"
  },
  {
   "id": "S0D28F",
@@ -844,14 +844,14 @@
   "off": "00D2FA",
   "len": 6,
   "jp": "　じょうに",
-  "en": ""
+  "en": " Castle"
  },
  {
   "id": "S0D300",
   "off": "00D300",
   "len": 10,
   "jp": "{n}{n}のりこんだ！！",
-  "en": ""
+  "en": "{n}{n}stormed in!!"
  },
  {
   "id": "S0D30A",
@@ -998,104 +998,104 @@
   "off": "00D60C",
   "len": 37,
   "jp": "　　はんじゅくヒーロー{n}{n}”ああ　せかいよ{n}　　　かんじゅくなれ‥‥！！",
-  "en": ""
+  "en": "  Hanjuku Hero{n}{n}\"Ah, World,{n}Be Soft-Boiled...!!\""
  },
  {
   "id": "S0D631",
   "off": "00D631",
   "len": 40,
   "jp": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}だい　１わ{n}”くろき　たまごは{n}　　　　　きけんな　かおり”",
-  "en": ""
+  "en": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}Episode 1{n}\"The Black Egg{n}Smells of Danger\""
  },
  {
   "id": "S0D659",
   "off": "00D659",
   "len": 36,
   "jp": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}だい　２わ{n}”ふたりの{n}　　はんじゅくヒーロー！？”",
-  "en": ""
+  "en": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}Episode 2{n}\"Two{n}Hanjuku Heroes!?\""
  },
  {
   "id": "S0D67D",
   "off": "00D67D",
   "len": 44,
   "jp": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}だい　３わ{n}”ああ　せんじょうにちった{n}　　　　　　　　こいのはな”",
-  "en": ""
+  "en": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}Episode 3{n}\"Love's Flower{n}Fallen in Battle\""
  },
  {
   "id": "S0D6A9",
   "off": "00D6A9",
   "len": 40,
   "jp": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}だい　４わ{n}”かえれ　きせつよ{n}　　　　　　　このむねに！”",
-  "en": ""
+  "en": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}Episode 4{n}\"Seasons, Return{n}to My Heart!\""
  },
  {
   "id": "S0D6D1",
   "off": "00D6D1",
   "len": 35,
   "jp": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}だい　５わ{n}”さらば{n}　　　　いとしきエッグマン”",
-  "en": ""
+  "en": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}Episode 5{n}\"Farewell,{n}Beloved Eggman\""
  },
  {
   "id": "S0D6F4",
   "off": "00D6F4",
   "len": 37,
   "jp": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}だい　６わ{n}”はるかなる{n}　　　　たまごの　こきょう”",
-  "en": ""
+  "en": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}Episode 6{n}\"The Distant{n}Egg Homeland\""
  },
  {
   "id": "S0D719",
   "off": "00D719",
   "len": 37,
   "jp": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}だい　７わ{n}”１３にちの{n}　　　　しりょうの　あくむ”",
-  "en": ""
+  "en": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}Episode 7{n}\"Nightmare of the{n}Dead on the 13th\""
  },
  {
   "id": "S0D73E",
   "off": "00D73E",
   "len": 37,
   "jp": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}だい　８わ{n}”かんじゅく{n}　だいしょうぐんの　やぼう”",
-  "en": ""
+  "en": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}Episode 8{n}\"The Hard-Boiled{n}Shogun's Ambition\""
  },
  {
   "id": "S0D763",
   "off": "00D763",
   "len": 41,
   "jp": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}だい　９わ{n}”ふるえるだいち‥‥{n}　　　さむいわけじゃない！”",
-  "en": ""
+  "en": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}Episode 9{n}\"The Earth Trembles{n}Not from the Cold!\""
  },
  {
   "id": "S0D78C",
   "off": "00D78C",
   "len": 43,
   "jp": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}だい１０わ{n}”あんたが　たいしょう！{n}　　　　だいとうりょう！！”",
-  "en": ""
+  "en": "{sk}{sk}{sk}{sk}{sk}{sk}Episode 10{n}\"You're the Boss!{n}Mr. President!!\""
  },
  {
   "id": "S0D7B7",
   "off": "00D7B7",
   "len": 35,
   "jp": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}だい１１わ{n}”あいと{n}　　にくしみの　はてに‥‥”",
-  "en": ""
+  "en": "{sk}{sk}{sk}{sk}{sk}{sk}Episode 11{n}\"At the End of{n}Love and Hate...\""
  },
  {
   "id": "S0D7DA",
   "off": "00D7DA",
   "len": 39,
   "jp": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}さいしゅうわ{n}”ああ　せかいよ{n}　　はんじゅくなれ‥‥！！”",
-  "en": ""
+  "en": "{sk}{sk}{sk}{sk}{sk}Final Episode{n}\"Ah, World,{n}Be Soft-Boiled...!!\""
  },
  {
   "id": "S0D801",
   "off": "00D801",
   "len": 41,
   "jp": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}がいでん１{n}”キャプテンあらいの{n}　　　　　きけんなよくぼう”",
-  "en": ""
+  "en": "{sk}{sk}{sk}{sk}{sk}{sk}Side Story 1{n}\"Captain Arai's{n}Dangerous Desire\""
  },
  {
   "id": "S0D82A",
   "off": "00D82A",
   "len": 41,
   "jp": "{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}{sk}がいでん２{n}”まちはもうあき‥‥{n}　おれたちのなつはおわった”",
-  "en": ""
+  "en": "{sk}{sk}{sk}{sk}{sk}{sk}Side Story 2{n}\"Autumn's in Town...{n}Our Summer Is Over\""
  }
 ]

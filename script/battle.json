@@ -1124,7 +1124,7 @@
   "id": "B0B9",
   "off": "0BA58D",
   "jp": "{v0B}{v03}と　のうりょくを　いれかえた！",
-  "en": "{v0B}Swapped stats with {v03}!"
+  "en": "{v0B}Swapped stats with{n}{v03}!"
  },
  {
   "id": "B0BA",
@@ -2073,697 +2073,697 @@
   "id": "B157",
   "off": "0BC5D4",
   "jp": "”べつめい　デュークトルネイド　とよばれた{n}　このオレのケリが　かわせるかミョー！！”",
-  "en": ""
+  "en": "Can you dodge a kick from me,{n}a.k.a. Duke Tornado? Myo!!"
  },
  {
   "id": "B158",
   "off": "0BC6B3",
   "jp": "”スピーク　ダーク”",
-  "en": ""
+  "en": "Speak... Dark."
  },
  {
   "id": "B159",
   "off": "0BC68F",
   "jp": "{v02}は　のろいの　ケムリを　はいた",
-  "en": ""
+  "en": "{v02} breathed cursed smoke."
  },
  {
   "id": "B15A",
   "off": "0BC708",
   "jp": "”{v0D}ああん　どうして！？　どうして　わたしが！？”{n}　{v02}は　てきの　ふところに　とびこんだ",
-  "en": ""
+  "en": "{v0D}Ah, why?! Why me?!{n}{v02} dove in at the enemy!"
  },
  {
   "id": "B15B",
   "off": "0BC746",
   "jp": "”ちかづかないでよーーッ！{n}　たのむから　ひとりに　してちょーだいッ！！”{n}　{v02}は　ナイフを　フリまわした！",
-  "en": ""
+  "en": "Stay awaaaay!{n}Leave me alone, please!!{n}{v02} flailed a knife!"
  },
  {
   "id": "B15C",
   "off": "0BC818",
   "jp": "”おろかなるモノたちめ‥‥{n}　わが　からだ‥‥　わが　ちからとなれッ‥‥”",
-  "en": ""
+  "en": "Foolish creatures...{n}Become my body... my power..."
  },
  {
   "id": "B15D",
   "off": "0BC7D6",
   "jp": "”やすらぎのち‥‥　しっこくのせかいに‥‥{n}　ひかりを　しんじるものに‥‥　やみをッ‥‥”",
-  "en": ""
+  "en": "Land of peace... sink into{n}black night... To all who{n}trust light... DARKNESS..."
  },
  {
   "id": "B15E",
   "off": "0BC8D9",
   "jp": "”ほーら　おしおきして　ほしいんでしょ♥{n}　てっきゅうが　ほしいんでしょ”",
-  "en": ""
+  "en": "You want me to punish you♥{n}You want the iron ball, right?"
  },
  {
   "id": "B15F",
   "off": "0BC89A",
   "jp": "”ふふ‥‥みつけたわよ　もう　にげられないわよ{n}　たくさん　いいこと　してあげるわ♥”",
-  "en": ""
+  "en": "Hehe... Found you. No escape!{n}I'll be oh so nice to you♥"
  },
  {
   "id": "B160",
   "off": "0BC9A3",
   "jp": "”ならくのそこまで　ふきとべッ！！”{n}　つばさは　きょだいなたつまきを　おこした！",
-  "en": ""
+  "en": "Be blown into the abyss!!{n}The wings stirred up a huge tornado!"
  },
  {
   "id": "B161",
   "off": "0BC965",
   "jp": "”こうじょうしんなど　すてろッ{n}　かいらく　いじょうの　なにを　のぞむというのだ！{n}　リビドーのままに　いきるのだッ！”",
-  "en": ""
+  "en": "Cast off ambition! What do{n}you want beyond pleasure?!{n}Live for your libido!"
  },
  {
   "id": "B162",
   "off": "0BCA2D",
   "jp": "{v0E}”ポコポコポコポコポコポコポコポコ‥‥！！”{v0E}",
-  "en": ""
+  "en": "{v0E}Poko poko poko poko poko poko poko poko...!!{v0E}"
  },
  {
   "id": "B163",
   "off": "0BCA5E",
   "jp": "”スハーーーーッ{n}　ポコポコポコポコ‥‥”",
-  "en": ""
+  "en": "Shhhaaaaaa...{n}Poko poko poko poko..."
  },
  {
   "id": "B164",
   "off": "0BCADA",
   "jp": "”ブシューーッ！！”{n}　{v02}は　きりじょうのドクを　ぶちまけた！",
-  "en": ""
+  "en": "Bshhhh!!{n}{v02} sprayed a poison mist!"
  },
  {
   "id": "B165",
   "off": "0BCAFB",
   "jp": "”さァ　おどれ　おどれ‥‥‥！！{n}　おまえは　おれの　あやつりにんぎょうだッ！！”",
-  "en": ""
+  "en": "Now dance, dance...!!{n}You're my puppet!!"
  },
  {
   "id": "B166",
   "off": "0BCB9B",
   "jp": "”ウイ〜！　のみすぎたごたッ！{n}　なさけなか〜　まっすぐ　とべんとよ！！”",
-  "en": ""
+  "en": "Whee~! Ah drank too much!{n}Shameful~ Cain't fly straight!!"
  },
  {
   "id": "B167",
   "off": "0BCBC2",
   "jp": "”なんばしよんさっとねッ！　じゅつなかばい！！”{n}　{v02}は　あばれだした！",
-  "en": ""
+  "en": "What're ya doin'?! Ah'm hurtin'!!{n}{v02} went berserk!"
  },
  {
   "id": "B168",
   "off": "0BCC3B",
   "jp": "”アチャーッ！”{n}　しかし　バランスをくずして　たおれてしまった！",
-  "en": ""
+  "en": "Hwa-chaaa!{n}But it lost its balance and fell over!"
  },
  {
   "id": "B169",
   "off": "0BCC5E",
   "jp": "{v0C}”ケ‥‥ケ‥‥ケアル！”{n}{v0C}　{v02}のからだは　ほうかいした！？",
-  "en": ""
+  "en": "{v0C}Cu... Cu... Cure!{n}{v0C}{v02} crumbled to dust!?"
  },
  {
   "id": "B16A",
   "off": "0BCCC9",
   "jp": "”きみ　いいからだしてるねェ〜♥”{n}　{v02}は　いろめづかいで　ウインクした",
-  "en": ""
+  "en": "Ooh, nice body you got~♥{n}{v02} winked flirtatiously."
  },
  {
   "id": "B16B",
   "off": "0BCD00",
   "jp": "”よし！　きみだけとくべつに{n}　ぼくの　にくたいびを　ごひろうしよう！！”",
-  "en": ""
+  "en": "Okay! Just for you, I'll{n}show off my gorgeous physique!!"
  },
  {
   "id": "B16C",
   "off": "0BCD99",
   "jp": "{v02}は　ツメで　ひっかいた",
-  "en": ""
+  "en": "{v02} scratched with its claws."
  },
  {
   "id": "B16D",
   "off": "0BCDA7",
   "jp": "{v0E}{v02}は　パタパタ　はばたいた{v0E}",
-  "en": ""
+  "en": "{v0E}{v02} flapped its wings.{v0E}"
  },
  {
   "id": "B16E",
   "off": "0BCE19",
   "jp": "”どりゃーッ！　うつべし！　うつべし！”{n}”かむべし！　かむべし！　かむべし！”",
-  "en": ""
+  "en": "Hyaaah! Hit 'em! Hit 'em!{n}Bite 'em! Bite 'em! Bite 'em!"
  },
  {
   "id": "B16F",
   "off": "0BCE43",
   "jp": "”どりゃーッ！　パンチ！　パンチ！　パンチ！”{n}”キック！　キック！　キック！　キック！”",
-  "en": ""
+  "en": "Hyaaah! Punch! Punch! Punch!{n}Kick! Kick! Kick! Kick!"
  },
  {
   "id": "B170",
   "off": "0BCEE8",
   "jp": "”ぷりぷりぷるる〜♥”",
-  "en": ""
+  "en": "Jiggle jiggle wobble~♥"
  },
  {
   "id": "B171",
   "off": "0BCF03",
   "jp": "”ぷるる〜♥　ぷるる〜♥”{n}",
-  "en": ""
+  "en": "Wobble~♥ Wobble~♥{n}"
  },
  {
   "id": "B172",
   "off": "0BCF64",
   "jp": "”あッ　おさかなだ　うまく　つかまえるグリー！”",
-  "en": ""
+  "en": "Ooh, a fishy! Gonna catch it, gree!"
  },
  {
   "id": "B173",
   "off": "0BCF8D",
   "jp": "”グリグリグリー！　モーグリッ！！”{v0C}{v0C}",
-  "en": ""
+  "en": "Gri gri gree!{n}MOOGLE!!{v0C}{v0C}"
  },
  {
   "id": "B174",
   "off": "0BCFD9",
   "jp": "”ブーーーン！”",
-  "en": ""
+  "en": "Bzzzzzzn!"
  },
  {
   "id": "B175",
   "off": "0BCFF4",
   "jp": "”ガシ　ガシ　ゲシ　ガシ！！”",
-  "en": ""
+  "en": "Bash bash bosh bash!!"
  },
  {
   "id": "B176",
   "off": "0BD05E",
   "jp": "”アーーーーングリ”　{v02}は　おおぐちで{n}　かみついた",
-  "en": ""
+  "en": "Aaaaam-gri! {v02} bit down{n}with its big mouth."
  },
  {
   "id": "B177",
   "off": "0BD089",
   "jp": "{v02}は　おもいっきり　きょうあくな{n}かおをした",
-  "en": ""
+  "en": "{v02} pulled a truly{n}vicious face."
  },
  {
   "id": "B178",
   "off": "0BD0EF",
   "jp": "”はいッ！　シャチホコのポ〜ズ♥{n}　おらおらおらーッ！！　けちらせーーッ！！！”",
-  "en": ""
+  "en": "Hup! The shachihoko pose~♥{n}Rah rah rah!! Scatter 'em!!!"
  },
  {
   "id": "B179",
   "off": "0BD127",
   "jp": "{v02}は　あぶらぶろで　くつろいだ",
-  "en": ""
+  "en": "{v02} relaxed in an oil bath."
  },
  {
   "id": "B17A",
   "off": "0BD165",
   "jp": "”{v0D}ドドドドドドォーッ！”{n}　{v02}は　そっこうで　てきを　おそった",
-  "en": ""
+  "en": "{v0D}Dadadadadadaaa!{n}{v02} rushed the enemy at once."
  },
  {
   "id": "B17B",
   "off": "0BD187",
   "jp": "”グリグリグリグリグリグリグリグリ”",
-  "en": ""
+  "en": "Gri gri gri gri gri gri gri gri"
  },
  {
   "id": "B17C",
   "off": "0BD20B",
   "jp": "”どすこい！　どすこーいッ！！”",
-  "en": ""
+  "en": "Dosukoi! Dosukoooi!!"
  },
  {
   "id": "B17D",
   "off": "0BD21D",
   "jp": "”ガシ！　ガシ！！　ガシ！！！”{n}　{v02}は　たまごを　わった！！",
-  "en": ""
+  "en": "Bash! Bash!! Bash!!!{n}{v02} broke an egg!!"
  },
  {
   "id": "B17E",
   "off": "0BD27B",
   "jp": "”シュボボボボッ！！”{n}　{v02}は　もえさかるはねを　とばした",
-  "en": ""
+  "en": "Fwoosh-woosh!!{n}{v02} launched blazing feathers."
  },
  {
   "id": "B17F",
   "off": "0BD29A",
   "jp": "”ウーダダー　ウダダー　ウダウダダーーー！！”",
-  "en": ""
+  "en": "Udadaa udadaa udaudadaaa!!"
  },
  {
   "id": "B180",
   "off": "0BD31B",
   "jp": "”ロケーット　パァーンチ！”{n}　こうてつのうでが　とびだした！",
-  "en": ""
+  "en": "Rocket... PUUUNCH!{n}A steel arm shot out!"
  },
  {
   "id": "B181",
   "off": "0BD33C",
   "jp": "”{v0D}ドッカーーーーーーーーン！”{n}{v0D}　{v02}は　もうれつに　とっしんした！",
-  "en": ""
+  "en": "{v0D}KA-BOOOOOOOOOM!{n}{v0D}{v02} charged ferociously!"
  },
  {
   "id": "B182",
   "off": "0BD3C9",
   "jp": "”おれに　ちょうせんするたー　１０００まんねん{n}　はやいわッ！！”",
-  "en": ""
+  "en": "Challenge me? You're ten{n}million years too early!!"
  },
  {
   "id": "B183",
   "off": "0BD3B1",
   "jp": "{v02}は　オイルで　てかる　にくたいを　あびせた",
-  "en": ""
+  "en": "{v02} slammed its oily, gleaming body down."
  },
  {
   "id": "B184",
   "off": "0BD43A",
   "jp": "”フンガーーーーーーーッッ”{n}　{v02}は　ほのおを　はいた！",
-  "en": ""
+  "en": "Hngaaaaaaaah!!{n}{v02} breathed fire!"
  },
  {
   "id": "B185",
   "off": "0BD458",
   "jp": "”ぴゃー　ぴゃー”",
-  "en": ""
+  "en": "Pyaa pyaa"
  },
  {
   "id": "B186",
   "off": "0BD4B1",
   "jp": "”ジュニアよ　ケンカってのは　こうやるんだ{n}　{v0D}そりゃそりゃそりゃ〜〜〜〜〜〜〜！！”",
-  "en": ""
+  "en": "Junior, fight like THIS!{n}{v0D}Hya hya hyaaa~~~!!"
  },
  {
   "id": "B187",
   "off": "0BD4FE",
   "jp": "”ジュニアよ　しっぽは　たたかいの　きほん！{n}　よーく　みておくんだぞ！！”{n}　{v02}は　シッポを　ふりまわした！{v0D}",
-  "en": ""
+  "en": "Junior, tails win fights!{n}Watch closely!! {v02}{n}swung its tail!{v0D}"
  },
  {
   "id": "B188",
   "off": "0BD5C6",
   "jp": "”マッコーーーーーーー　アターーーック！！”{n}　{v02}は　ムテッポウに　つっこんだ",
-  "en": ""
+  "en": "SPERM WHAAALE ATTAAAACK!!{n}{v02} charged recklessly."
  },
  {
   "id": "B189",
   "off": "0BD5EF",
   "jp": "”{v0D}プシューーーーーーーーーーーーーーッ！！”{n}{v0D}　{v02}は　いきおいよく　しおをふいた！",
-  "en": ""
+  "en": "{v0D}Pshhhhhhhhhhhh!!{n}{v0D}{v02} spouted{n}water with great force!"
  },
  {
   "id": "B18A",
   "off": "0BD656",
   "jp": "”{v0D}ハニワッッッッ！！”",
-  "en": ""
+  "en": "{v0D}HANIWAAAAA!!"
  },
  {
   "id": "B18B",
   "off": "0BD664",
   "jp": "”{v0D}ハニハニッッッッ！！”",
-  "en": ""
+  "en": "{v0D}HANI-HANIIIII!!"
  },
  {
   "id": "B18C",
   "off": "0BD738",
   "jp": "”ああっ　たまらないワッ　あいしてるワッ！{n}　だいてッ　だきしめてェーーーーーッ！！”",
-  "en": ""
+  "en": "Ahh, I can't bear it!{n}I love you! Hold me!{n}Hold me tiiiiight!!"
  },
  {
   "id": "B18D",
   "off": "0BD6A9",
   "jp": "”うふふっ　しんきょは　だいかんやまに{n}　いっこだての　いえを　かりるのよ！！{n}　そして　あたし　まいあさ　おみそしるつくるの♥”{1B}”こんなこと　いうのって　おかしいかしら？{n}　でもでも　だってだって　あなたを　あいしてるの{n}　わたし　あなたの　あかちゃんが　ほしいの♥”{1B}",
-  "en": ""
+  "en": "Ufufu! For our new home,{n}we'll rent a house uptown!{n}I'll make miso soup daily♥{1B}Is it weird to say this?{n}But, but, I love you so!{n}I want to have your baby♥{1B}"
  },
  {
   "id": "B18E",
   "off": "0BD7E4",
   "jp": "”パオパオー　おはな　ぶぶぶぶーん！！”{n}　{v02}は　はなを　ふりまわした！",
-  "en": ""
+  "en": "Paopao! Trunk go bububu-boom!!{n}{v02} swung its trunk!"
  },
  {
   "id": "B18F",
   "off": "0BD7BE",
   "jp": "”パオパオー　おなか　ぽぽぽぽーん！！”{n}　{v02}は　おなかを　さわらせた！",
-  "en": ""
+  "en": "Paopao! Belly pompompom!!{n}{v02} let them pat its belly!"
  },
  {
   "id": "B190",
   "off": "0BD854",
   "jp": "”{v0D}ウオオーー！”{n}　{v02}は　たいあたりした！",
-  "en": ""
+  "en": "{v0D}Wooooaaah!{n}{v02} body-slammed!"
  },
  {
   "id": "B191",
   "off": "0BD86C",
   "jp": "”ドウーーンッ”　",
-  "en": ""
+  "en": "Dooooom!"
  },
  {
   "id": "B192",
   "off": "0BD8C0",
   "jp": "”ゴォォーーーーッ！！”",
-  "en": ""
+  "en": "Fwoooooosh!!"
  },
  {
   "id": "B193",
   "off": "0BD8E2",
   "jp": "{v0E}”ベシッ！！”{n}{v0E}　ドラゴンは　にんげんを　あいてに　たたきつけて{n}　こうげきした！",
-  "en": ""
+  "en": "{v0E}Whack!!{n}{v0E}A dragon hurled{n}a human at its foe!"
  },
  {
   "id": "B194",
   "off": "0BD990",
   "jp": "”{v0C}ガラガラドッピャラプーーーーーーー！！”{n}{v0C}　ふえのねかろく　おまつりアタック！！",
-  "en": ""
+  "en": "{v0C}Rattle-pyara-puu!!{n}{v0C}Light flutes! Festival Attack!!"
  },
  {
   "id": "B195",
   "off": "0BD96D",
   "jp": "”{v0D}グウオォォォーーーッ！！”{n}　{v02}の　ほうこうが　なりひびいた！",
-  "en": ""
+  "en": "{v0D}Grwoooooaaar!!{n}{v02} let out a mighty roar!"
  },
  {
   "id": "B196",
   "off": "0BDA17",
   "jp": "”{v0D}ズドドドドドドドドドドーーーッ”{n}　でたっ！！　これが　ちきゅうの　いかりだ！！",
-  "en": ""
+  "en": "{v0D}Dododododooom!!{n}Here it is!! The Earth's wrath!!"
  },
  {
   "id": "B197",
   "off": "0BDA43",
   "jp": "”{v0D}うわーーーっ　じしんだー　たすけてくれー！！”{n}”おとうちゃーん　こわいよー”{n}”うわァァァッ　いったい　なにがおきるんだァァ”{n}”タカシさんっ！　ちきゅうが！　ちきゅうがァ！”{n}”つなみだーッ！！　にほんは　ちんぼつするぞー”{n}”オーーーー　マーーーーイ　ガーーーー！！！”{n}　てんぺんちいが　やってきた！！！！！！{n}　ドッカーーーーーーーーーーーン！！！！！！",
-  "en": ""
+  "en": "{v0D}Waaah! Quake! Help us!!{n}Daddyyy, I'm scared!{n}Aaagh! What's happening?!{n}Takashi! Earth! The Earth!{n}Tsunami!! Japan's sinking!{n}Oh myyyy Gooood!!!{n}Cataclysm has come!!!!!!{n}KA-BOOOOOOOOOOOM!!!!!!"
  },
  {
   "id": "B198",
   "off": "0BDB6C",
   "jp": "”ガサガサガサ‥‥　シャクッ！！”{n}　{v02}は　いきなりだきついた",
-  "en": ""
+  "en": "Rustle rustle... SNIP!!{n}{v02} suddenly grabbed hold!"
  },
  {
   "id": "B199",
   "off": "0BDB8D",
   "jp": "{v02}は　くちから　ほそながい{n}いとをだした！",
-  "en": ""
+  "en": "{v02} spat a long, thin{n}thread from its mouth!"
  },
  {
   "id": "B19A",
   "off": "0BDBFD",
   "jp": "”サア‥‥　ワタシノ　アイヲ‥‥！”",
-  "en": ""
+  "en": "NOW... TAKE MY LOVE...!"
  },
  {
   "id": "B19B",
   "off": "0BDBDB",
   "jp": "”ミンナ　マチガッテマス‥‥”{n}　{v02}は　なきながら　だきついた！",
-  "en": ""
+  "en": "EVERYONE IS WRONG...{n}{v02} wept and clung on!"
  },
  {
   "id": "B19C",
   "off": "0BDC96",
   "jp": "”ファラオのさばき！　うけてみそ！！”",
-  "en": ""
+  "en": "Pharaoh's Judgment! Take that, mmkay!!"
  },
  {
   "id": "B19D",
   "off": "0BDC7E",
   "jp": "”{v02}めいぶつ　ほうたいのまい　うけてみそ！”",
-  "en": ""
+  "en": "{v02} specialty: Bandage Dance! Take that, mmkay!"
  },
  {
   "id": "B19E",
   "off": "0BDCE9",
   "jp": "”ダメだ　ダメだ　ダメだ！{n}　おそい！　おそすぎる！！”",
-  "en": ""
+  "en": "No, no, no!{n}Too slow! Way too slow!!"
  },
  {
   "id": "B19F",
   "off": "0BDD16",
   "jp": "”ダメ！　ダメ！！　ダメ！！　ダメ！！{n}　はやすぎる！　もっとタメるんだ！！”",
-  "en": ""
+  "en": "No! No!! No!! No!!{n}Too fast! Build it up more!!"
  },
  {
   "id": "B1A0",
   "off": "0BDDC1",
   "jp": "”ヒューーールリダ　ヘロホリダーーー”",
-  "en": ""
+  "en": "Hyuuuu-rurida herohoridaaa"
  },
  {
   "id": "B1A1",
   "off": "0BDDA3",
   "jp": "”ヒュゥ〜〜〜〜ルリラ〜”",
-  "en": ""
+  "en": "Hyuuu~~~~ruri-ra~"
  },
  {
   "id": "B1A2",
   "off": "0BDE23",
   "jp": "”はい　おきゃくさん　なに　くう　アルか！！”",
-  "en": ""
+  "en": "Hello customer, what you wanna eat, aru!!"
  },
  {
   "id": "B1A3",
   "off": "0BDE4D",
   "jp": "”ハァ〜〜〜！”{n}　{v02}は　くさいいきを　はきだした",
-  "en": ""
+  "en": "Haaaah~~~!{n}{v02} exhaled a foul breath."
  },
  {
   "id": "B1A4",
   "off": "0BDECC",
   "jp": "”このしょうぶ！　もらったァーーッ！！”",
-  "en": ""
+  "en": "This match is MIIIINE!!"
  },
  {
   "id": "B1A5",
   "off": "0BDEEE",
   "jp": "”こらァーッ！　きあい　いれんかーーッ！！{n}　いくぞーーーッ！！”",
-  "en": ""
+  "en": "Hey! Put some guts into it!!{n}Here we gooo!!"
  },
  {
   "id": "B1A6",
   "off": "0BDF60",
   "jp": "”ひかりよ！！{n}　このよの　やみと　じゃあくを　きりさけッッ！！”",
-  "en": ""
+  "en": "O light!!{n}Cleave the darkness and evil of this world!!"
  },
  {
   "id": "B1A7",
   "off": "0BDF83",
   "jp": "”たいきよ　ふるえろッ！{n}　しゃくねつの　かぜとなり　すべてを　つつみこめ！”",
-  "en": ""
+  "en": "Tremble, O heavens!{n}Become a searing wind and engulf all!"
  },
  {
   "id": "B1A8",
   "off": "0BE03C",
   "jp": "”こんやも　あさまで〜　エンヤコラ　エンヤコラ♪{n}　たのしいな〜ったら　たのしいな〜♪　ヘイッ！！”",
-  "en": ""
+  "en": "All night long~ Heave-ho,{n}heave-ho♪ Oh what fun~{n}What fun~♪ Hey!!"
  },
  {
   "id": "B1A9",
   "off": "0BE070",
   "jp": "”フゥ‥‥　やっと　おわったぜ‥‥！”{n}{v0D}　と　おもった　しゅんかん　じめんが　くずれだした！",
-  "en": ""
+  "en": "Phew... finally done...!{n}{v0D}Or not! The ground{n}began to crumble!"
  },
  {
   "id": "B1AA",
   "off": "0BE0DD",
   "jp": "”ウゥ〜〜〜ッ！　マンボーッ！！”",
-  "en": ""
+  "en": "Uuuuh~! MAMBO!!"
  },
  {
   "id": "B1AB",
   "off": "0BE111",
   "jp": "”アブロ　ウン　ポコ　デ　エスパニョ〜ル！！”{n}　{v02}は　エスプレッソを　のませた",
-  "en": ""
+  "en": "Ablo un poco de Espanol!!{n}{v02} force-fed espresso!"
  },
  {
   "id": "B1AC",
   "off": "0BE1BA",
   "jp": "{v0F}{wait:14}{v0F}",
-  "en": ""
+  "en": "{v0F}{wait:14}{v0F}"
  },
  {
   "id": "B1AD",
   "off": "0BE1A9",
   "jp": "{v0E}{wait:08}{v0E}",
-  "en": ""
+  "en": "{v0E}{wait:08}{v0E}"
  },
  {
   "id": "B1AE",
   "off": "0BE1F1",
   "jp": "”エーークスッ　カリバァーーーーッ！！”",
-  "en": ""
+  "en": "Eeeex... CALIBUUUUR!!"
  },
  {
   "id": "B1AF",
   "off": "0BE218",
   "jp": "”マサーーッ　ムネェーーーーッ！！”",
-  "en": ""
+  "en": "Masaaa... MUNEEEEE!!"
  },
  {
   "id": "B1B0",
   "off": "0BE2BC",
   "jp": "”おもいっきり　だきしめて　あ‥げ‥る♥”",
-  "en": ""
+  "en": "Let me give you a big, big h-u-g♥"
  },
  {
   "id": "B1B1",
   "off": "0BE294",
   "jp": "”みずへび　{v02}を　あまくみないで！”",
-  "en": ""
+  "en": "Don't take {v02} the Water{n}Snake lightly!"
  },
  {
   "id": "B1B2",
   "off": "0BE345",
   "jp": "{v02}は　ゆうきをだして　とっしんした！",
-  "en": ""
+  "en": "{v02} summoned courage and charged!"
  },
  {
   "id": "B1B3",
   "off": "0BE359",
   "jp": "{v02}は　とつぜん　あばれだした！",
-  "en": ""
+  "en": "{v02} suddenly went wild!"
  },
  {
   "id": "B1B4",
   "off": "0BE3E1",
   "jp": "”ないて　さけんでも　だれも　たすけにきちャ〜{n}　くれねーよッ！！”",
-  "en": ""
+  "en": "Cry all ya want, nobody's{n}comin' to save ya!!"
  },
  {
   "id": "B1B5",
   "off": "0BE3BC",
   "jp": "”ひさしぶりの　エモノだ‥‥！{n}　たっぷり　かわいがってやるぜッ！！”",
-  "en": ""
+  "en": "Fresh prey at last...!{n}I'll have plenty of fun with you!!"
  },
  {
   "id": "B1B6",
   "off": "0BE472",
   "jp": "”おれは　ゆいしょただしい　サラブレッド！{n}　あくとうども　かくごする　ぶひひん！！”",
-  "en": ""
+  "en": "I'm a noble thoroughbred!{n}Brace yourselves, fiends!{n}Buhihiin!!"
  },
  {
   "id": "B1B7",
   "off": "0BE4B2",
   "jp": "”だいだい　つたわる　せいなるや！{n}　この　ピッタンコのやを　うけるぶひ！！”",
-  "en": ""
+  "en": "Sacred arrow of my line!{n}Take this Bullseye Arrow,{n}buhi!!"
  },
  {
   "id": "B1B8",
   "off": "0BE52C",
   "jp": "”バシ　バシッ！！”{n}　ウムを　いわさない{v02}の　おうふくビンタ！！",
-  "en": ""
+  "en": "Smack, smack!!{n}A ruthless back-and-forth{n}slap from {v02}!!"
  },
  {
   "id": "B1B9",
   "off": "0BE55B",
   "jp": "”みたわネ♥{n}　どんなことに　なるか　おしえて　あげるわ！！”",
-  "en": ""
+  "en": "You saw, didn't you♥{n}Let me show you what happens now!!"
  },
  {
   "id": "B1BA",
   "off": "0BE5CB",
   "jp": "”フムフム　たやすい　ごようです！{n}　パパラパー！！”",
-  "en": ""
+  "en": "Hmm, hmm. A simple task!{n}Paparapaa!!"
  },
  {
   "id": "B1BB",
   "off": "0BE5F6",
   "jp": "”ハッハッハッハッ　たやすい　ごよう！！！{n}{v0D}　パパラパー！！{v0C}”",
-  "en": ""
+  "en": "Hahaha! A simple task!!!{n}{v0D}Paparapa!!{v0C}"
  },
  {
   "id": "B1BC",
   "off": "0BE662",
   "jp": "”このかいわいに　アタイの　びぼうと　けんじゅつに{n}　かてるヤツは　いないのよッ！！”",
-  "en": ""
+  "en": "Nobody in these parts can{n}beat my beauty and blade!!"
  },
  {
   "id": "B1BD",
   "off": "0BE68F",
   "jp": "”アンタも　かわいそうだが　これもさだめさ！{n}　トットと　きえちまいな！！”",
-  "en": ""
+  "en": "Pity, but that's fate!{n}Now hurry an' disappear!!"
  },
  {
   "id": "B1BE",
   "off": "0BE749",
   "jp": "”この　バカもンがーッ！！　としよりの　はなしは{n}　ちゃんと　せいざして　きかんかーー！！”",
-  "en": ""
+  "en": "You fool!! When your elders talk,{n}sit properly and listen!!"
  },
  {
   "id": "B1BF",
   "off": "0BE712",
   "jp": "”いまのわかいもんは　ぜんぜんなっとらん！{n}　まったく　ガミガミガミ‥‥！”",
-  "en": ""
+  "en": "Kids today are hopeless!{n}Honestly, nag nag nag...!"
  },
  {
   "id": "B1C0",
   "off": "0BE7FE",
   "jp": "”バブーーーーーーーーーッ！！”",
-  "en": ""
+  "en": "Babuuuuuuuuuu!!"
  },
  {
   "id": "B1C1",
   "off": "0BE7CE",
   "jp": "{v0D}”オギャーーーーー！！！”{n}　そのこえで　だいちが　ふるえた{v0B}",
-  "en": ""
+  "en": "{v0D}WAAAAAHHH!!!{n}The earth shook at that cry!{v0B}"
  },
  {
   "id": "B1C2",
   "off": "0BE891",
   "jp": "”けんとは　こうしてつかうものだ！！！”{n}　{v02}は　かれいに　けんを　あやつった",
-  "en": ""
+  "en": "Use a sword like THIS!!!{n}{v02} wielded the sword gracefully."
  },
  {
   "id": "B1C3",
   "off": "0BE8BA",
   "jp": "{v02}が　てんたかく　けんをかざすと{n}あんうんが　たちこめ　たつまきが　あらわれた",
-  "en": ""
+  "en": "{v02} raised its sword;{n}dark clouds gathered and{n}a tornado appeared!"
  },
  {
   "id": "B1C4",
   "off": "0BE932",
   "jp": "”クエッ　クエーーーーッ！！”{n}”ザババザババザバババザババババッッ！！”",
-  "en": ""
+  "en": "Kweh! Kweeeeh!!{n}Zababa zababa zabababa zabababa!!"
  },
  {
   "id": "B1C5",
   "off": "0BE968",
   "jp": "{v0D}”ゴゴゴゴゴォォォォォーーーーーーーッッッッ！！”{v0B}",
-  "en": ""
+  "en": "{v0D}Rumble rumble rooooooar!!!!{v0B}"
  },
  {
   "id": "B1C6",
   "off": "0BEA1C",
   "jp": "”アノクタラ　サンミャク　サンボダイ‥‥{n}　カーーーーーッ！！”",
-  "en": ""
+  "en": "Anokutara Sanmyaku Sanbodai...{n}KAAAAAAAH!!"
  },
  {
   "id": "B1C7",
   "off": "0BE9F2",
   "jp": "”アブーーラ　カタブーーラ！！”{n}　ひたいのもじが　にじいろに　かがやきだした！",
-  "en": ""
+  "en": "Abraaa Cadabraaa!!{n}The letters on its forehead glowed rainbow!"
  },
  {
   "id": "B1C8",
   "off": "0BEA9F",
   "jp": "”しこそは　びょうどうに　あたえられん！{n}　ほろびこそ　すべてを　しはいするものなり！！”",
-  "en": ""
+  "en": "Death comes to all alike!{n}Ruin alone rules all things!!"
  },
  {
   "id": "B1C9",
   "off": "0BEAE0",
   "jp": "”むちなるかな　おのが　いきとせる　つみ{n}　おのれじしんの　むねに　ふかくきざまん{n}　えいごうの　やみのさばき！　サイコバーーンッッ！！”",
-  "en": ""
+  "en": "Fool! Thy life's sins be{n}carved deep in thy heart!{n}Endless dark! PSYCHO BURN!"
  },
  {
   "id": "B1CA",
   "off": "0BEBAE",
   "jp": "”かもん　つくしたち！！”",
-  "en": ""
+  "en": "C'mon, horsetails!!"
  },
  {
   "id": "B1CB",
