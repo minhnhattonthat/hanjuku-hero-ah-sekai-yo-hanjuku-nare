@@ -49,13 +49,14 @@ def script_ptrs(rom):
     return out
 
 
-def parse(rom, pos, limit=0x4000):
-    """Yield (kind, offset, bytes) items from file offset pos until end. kind: text/cmd/actor/end."""
+def parse(rom, pos, limit=0x4000, header=True):
+    """Yield (kind, offset, bytes) items from file offset pos until end. kind: head/text/cmd/actor/end."""
     start = pos
-    while rom[pos] != 0xFF:  # actor records (sprite, x, y, flags) until FF ($04:8915)
-        pos += 4
-    yield ("head", start, rom[start:pos + 1])
-    pos += 1
+    if header:
+        while rom[pos] != 0xFF:  # actor records (sprite, x, y, flags) until FF ($04:8915)
+            pos += 4
+        yield ("head", start, rom[start:pos + 1])
+        pos += 1
     while pos - start < limit:
         b = rom[pos]
         if b in (0x00, 0xF7):
