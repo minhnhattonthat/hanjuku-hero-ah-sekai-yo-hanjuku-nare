@@ -155,7 +155,7 @@ def build(args):
         for m in s["msgs"]:
             n_all += 1
             t = text_of(m, "event")
-            m["_en"] = layout.wrap_event(t, m["codes"], m.get("choice_after")) if t else ""
+            m["_en"] = layout.wrap_event(t, m["codes"], m.get("choice_after"), m.get("name_before")) if t else ""
             n_en += bool(t)
         blob = events.rebuild_script(orig, s, en, field="_en", cmd_map=cmap)
         placed[s["off"]] = pk.put(blob)

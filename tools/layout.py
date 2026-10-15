@@ -97,10 +97,26 @@ def page_widths(text, codes=(), choice_after=None):
     return pages, ws
 
 
-def wrap_event(text, codes=(), choice_after=None):
+PFX = "{PFX}"  # stands for a speaker name printed by a command just before the message (wrap-time only)
+
+
+def speakers(text, codes=(), name_before=False):
+    """The game prints a speaker's name with command 36 right before 「. English: add ": " after that name."""
+    for t in name_tokens(codes):
+        text = re.sub(re.escape(t) + r"(?=[A-Za-z0-9\"'(.])", t + ": ", text)
+    if name_before and text[:1] not in (" ", ":", ",", ".", "!", "?", "'", "{"):
+        text = PFX + ": " + text
+    elif name_before and text.startswith("{") and not text.startswith((" ", ":")):
+        text = PFX + ": " + text
+    return text
+
+
+def wrap_event(text, codes=(), choice_after=None, name_before=False):
+    text = speakers(text, codes, name_before)
     pages, ws = page_widths(text, codes, choice_after)
-    wide = name_tokens(codes)
-    return "{p}".join(wrap(pg, w, autowrap=(w == EVENT_W), wide=wide) for pg, w in zip(pages, ws))
+    wide = name_tokens(codes) | {PFX}
+    out = "{p}".join(wrap(pg, w, autowrap=(w == EVENT_W), wide=wide) for pg, w in zip(pages, ws))
+    return out.replace(PFX, "")
 
 
 def wrap_menu(text):

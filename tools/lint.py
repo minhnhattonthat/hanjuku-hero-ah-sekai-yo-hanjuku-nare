@@ -29,7 +29,8 @@ def main():
             continue
         if JPRE.search(en):
             errs.append(f"{e['id']}: Japanese left in English")
-        for msg in batches.check_entry(form, lim, e["jp"], en, e.get("codes", ()), e.get("choice_after")):
+        for msg in batches.check_entry(form, lim, e["jp"], en, e.get("codes", ()), e.get("choice_after"),
+                                         e.get("name_before")):
             errs.append(f"{e['id']}: {msg}")
     for x in errs[:60]:
         print(x)

@@ -18,7 +18,8 @@ def main():
         x, y, w, h = map(int, sys.argv[sys.argv.index("--box") + 1].split(","))
         box = (x, y, x + w, y + h)
     mx = int(sys.argv[sys.argv.index("--max") + 1]) if "--max" in sys.argv else 30
-    fs = sorted(glob.glob(os.path.join(d, "f*.png")))
+    fr = int(sys.argv[sys.argv.index("--from") + 1]) if "--from" in sys.argv else 0
+    fs = [f for f in sorted(glob.glob(os.path.join(d, "f0*.png"))) if int(os.path.basename(f)[1:7]) >= fr]
     ims = [Image.open(f).convert("RGB").crop(box) for f in fs]
     def changed(a, b):  # pixels that differ (a blinking "more" arrow is ~30 px)
         return sum(ImageChops.difference(a, b).convert("L").point(lambda v: 255 if v > 24 else 0).histogram()[255:])

@@ -626,13 +626,15 @@
      "25 10",
      "2b 03",
      "36"
-    ]
+    ],
+    "name_before": true
    },
    {
     "id": "0D1A01_007C",
     "jp": "「ん‥？{w}",
     "en": "Hm...?{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    },
    {
     "id": "0D1A01_010C",
@@ -656,7 +658,8 @@
     "id": "0D1A01_01F3",
     "jp": "は　いりぐちへと　ひきかえした。{w}",
     "en": " headed back to{n}the entrance.{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    }
   ]
  },
@@ -757,7 +760,8 @@
     "codes": [
      "36"
     ],
-    "choice_after": "33"
+    "choice_after": "33",
+    "name_before": true
    }
   ]
  },
@@ -773,7 +777,8 @@
     "id": "0D20C0_003C",
     "jp": "「みちが　ふたつに　わかれとる‥{w}",
     "en": "The road splits in two...{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    },
    {
     "id": "0D20C0_0070",
@@ -815,13 +820,15 @@
     "en": "Waaaaaah!{n}Heeelp meee...{w}{p}{#0}...meee...{n}...meee....{n}...meee.....{n}...meee......{w}",
     "codes": [
      "36"
-    ]
+    ],
+    "name_before": true
    },
    {
     "id": "0D2231_013D",
     "jp": "は　それから　にどと{n}アルマムーンに　もどってくることは　なかった‥{w}",
     "en": " never returned to{n}Almamoon again after that...{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    }
   ]
  },
@@ -1642,7 +1649,8 @@
     "id": "0D3ED3_0029",
     "jp": "の　ＨＰが　かいふくした！{n}ハ　ビバノンノン♪{w}",
     "en": " recovered HP!{n}Ahh, Viva-non-non♪{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    }
   ]
  },
@@ -1682,7 +1690,8 @@
     "id": "0D40DA_0027",
     "jp": "の　ＨＰが　かいふくした！{n}ハ　ビバノンノン♪{w}",
     "en": " recovered HP!{n}Ahh, Viva-non-non♪{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    },
    {
     "id": "0D40DA_0042",
@@ -9658,19 +9667,22 @@
     "id": "0FD1E5_0007",
     "jp": "「ん‥ッ？{w}",
     "en": "Hm...?{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    },
    {
     "id": "0FD1E5_0013",
     "jp": "「うわ〜ッ！！{w}",
     "en": "Waaah!!{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    },
    {
     "id": "0FD1E5_0032",
     "jp": "は　いのちを　おとした‥{n}すばらしい　おたからを　のこして‥{w}",
     "en": " perished...{n}leaving a wonderful treasure behind...{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    }
   ]
  },
@@ -9686,19 +9698,22 @@
     "id": "0FD23F_0007",
     "jp": "「ん‥ッ？{w}",
     "en": "Hm...?{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    },
    {
     "id": "0FD23F_0026",
     "jp": "「おおッ！{w}",
     "en": "Ooh!{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    },
    {
     "id": "0FD23F_0039",
     "jp": "「たからばこには{n}　２００Ｇ　はいってました！{w}",
     "en": "The treasure chest{n}had 200G inside!{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    }
   ]
  },
@@ -9714,25 +9729,29 @@
     "id": "0FD297_0009",
     "jp": "「ん‥ッ？{w}",
     "en": "Hm...?{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    },
    {
     "id": "0FD297_001B",
     "jp": "「お　おとしあな！{w}",
     "en": "A-a pitfall!{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    },
    {
     "id": "0FD297_002F",
     "jp": "「うわあ〜ッ‥{w}{p}　あ〜　あ〜〜　あ〜〜〜‥{w}",
     "en": "Waaah...{w}{p}Aaah... aaaah... aaaaah...{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    },
    {
     "id": "0FD297_004A",
     "jp": "は　ならくのそこへと　きえた‥{w}{p}がっしょう‥{w}",
     "en": " vanished into the abyss...{w}{p}Rest in peace...{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    }
   ]
  },
@@ -9748,13 +9767,15 @@
     "id": "0FD302_000B",
     "jp": "「おおッ！{w}",
     "en": "Ooh!{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    },
    {
     "id": "0FD302_001E",
     "jp": "「やり〜ッ！{w}",
     "en": "Score!{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    }
   ]
  },
@@ -9770,13 +9791,15 @@
     "id": "0FD33E_0019",
     "jp": "「げッ！{w}{p}「ファファファ！{n}　おたからは　すでに　われらのてにある！{w}{p}　それでも　ほしくば　この　{nameC}を{n}　たおして　うばうがよい！！{w}",
     "en": "Gah!{w}{p}Fwa fwa fwa! The treasure is already in our hands!{w}{p}If you still want it, defeat me, {nameC}, and take it!!{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    },
    {
     "id": "0FD33E_00AB",
     "jp": "「うっしゃあ〜ッ！{w}",
     "en": "Yeaaah!{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    },
    {
     "id": "0FD33E_00CC",
@@ -9798,7 +9821,8 @@
     "id": "0FD41D_000D",
     "jp": "「スイッチ　オ〜ンッ！{w}",
     "en": "Switch ooon!{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    }
   ]
  },
@@ -9814,7 +9838,8 @@
     "id": "0FD452_000A",
     "jp": "「スイッチ　オ〜ンッ！{w}",
     "en": "Switch ooon!{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    }
   ]
  },
@@ -9830,7 +9855,8 @@
     "id": "0FD481_000D",
     "jp": "「スイッチ　オ〜ンッ！{w}",
     "en": "Switch ooon!{w}",
-    "codes": []
+    "codes": [],
+    "name_before": true
    }
   ]
  },

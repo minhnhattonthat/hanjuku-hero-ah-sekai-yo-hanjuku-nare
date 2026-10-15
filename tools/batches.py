@@ -157,7 +157,7 @@ def pages(text):
     return re.split(r"\{p\}|\{1B\}", text)
 
 
-def check_entry(form, lim, jp, en, codes=(), choice_after=None):
+def check_entry(form, lim, jp, en, codes=(), choice_after=None, name_before=False):
     errs = []
     if not en.strip():
         return ["empty"]
@@ -172,8 +172,9 @@ def check_entry(form, lim, jp, en, codes=(), choice_after=None):
     if not seq_ok(jp, en):
         errs.append("control tokens differ from JP")
     w, lines = map(int, lim.split("x"))
-    wide = layout.name_tokens(codes)
+    wide = layout.name_tokens(codes) | {layout.PFX}
     if form == "dlg":
+        en = layout.speakers(en, codes, name_before)
         pgs, ws = layout.page_widths(en, codes, choice_after)
     else:
         pgs, ws = [en], [w]
