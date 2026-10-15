@@ -740,7 +740,7 @@
    {
     "id": "0D1CEC_02B9",
     "jp": "「これで　はんじゅくちさ　あがったはずだ〜。{w}{p}　いっつも　ここに　いるワケでも　ね〜し{n}　たりきほんがんじゃ　よくねーべ？{w}{p}　とかい〜ながら　オラも　ひとがいいから{n}　ついつい　おはらいやってまうがな。{n}　また　えんがあったら　やってもいいだよ。{w}{p}　したらな！{w}",
-    "en": "That oughta raise yer soft-boiledness.{w}{p}I ain't always 'round here, y'know, and leanin' on others ain't good, is it?{w}{p}Says I, but I'm such a softie, I go and do the exorcism anyhow.{w}{p}If fate brings us together, I'll do it again.{w}{p}See ya!{w}",
+    "en": "That oughta raise yer soft-boiled points.{w}{p}I ain't always 'round here, y'know, and leanin' on others ain't good, is it?{w}{p}Says I, but I'm such a softie, I go and do the exorcism anyhow.{w}{p}If fate brings us together, I'll do it again.{w}{p}See ya!{w}",
     "codes": []
    }
   ]
@@ -926,7 +926,7 @@
    {
     "id": "0D26E3_003F",
     "jp": "「こんげつは‥{w}{p}　オラたちが　おはらいに　ちょうせん{n}　させていただきますだ。{w}{p}　もしかしたら　ちっとは　はんじゅくちさ{n}　あがんじゃねっかと　おもってな。{w}{p}　いくべか　みなのしゅう！{w}",
-    "en": "This month...{w}{p}us folks'll try our hand at an exorcism.{w}{p}Figured it might raise yer soft-boiledness a smidge.{w}{p}Let's go, everybody!{w}",
+    "en": "This month...{w}{p}us folks'll try our hand at an exorcism.{w}{p}Figured it might raise yer soft-boiled points a smidge.{w}{p}Let's go, everybody!{w}",
     "codes": []
    },
    {
@@ -1485,7 +1485,8 @@
     "id": "0D3867_000F",
     "jp": "「だい１０わ{n}　”あんたが　たいしょう！　だいとうりょう！！”は{n}　ただいま　せいさくちゅうの　ようなので‥{w}{p}　わたしが　ちょっと　おじかんを　はいしゃくして{n}　こばなしを　ひとつ‥{w}{p}「こくもつが　おどろいたはなし　しってる？{n}",
     "en": "Episode 10, \"You're the Boss! Mr. President!!\" seems to be in production right now, so...{w}{p}Let me borrow a moment of your time for a little joke...{w}{p}What did the grain say when it got a shock?{n}",
-    "codes": []
+    "codes": [],
+    "choice_after": "19"
    },
    {
     "id": "0D3867_00A0",

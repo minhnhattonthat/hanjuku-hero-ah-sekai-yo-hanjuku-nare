@@ -24,6 +24,17 @@ org $03CCE5
     jsl BtlLoad
     nop #17
 
+; The battle printer assumed text and names share bank $17: the per-char delay ($03:D016) and panel updates
+; reset $F6 to $17. Re-load the message bank before each character fetch, and read inserted names from $17.
+MsgBank = $7FFFF0
+RtlInBank03 = $038027      ; any $6B byte in bank $03, used as a trampoline back to bank $20
+org $03CD1B
+    jsl BtlFetch         ; was: JSR $D016 / LDA [$F4],y
+    nop
+org $03CE77
+    jsl BtlName          ; was: STY $F4 / JSR $D112
+    nop
+
 ; --- system-string printer ($00:F086, bank $01): new code 01 lo hi bank = continue reading at that long address.
 org $00F09A
     jml SysFetch
@@ -165,4 +176,27 @@ BtlLoad:
     sep #$20
     lda.l BtlTab+2,x
     sta $F6
+    sta.l MsgBank
+    rtl
+
+BtlFetch:                ; call $03:D016 (ends in RTS) via the RTL trampoline, then fetch from the message bank
+    phk
+    per .back-1
+    pea.w RtlInBank03-1
+    jml $03D016
+.back:
+    lda.l MsgBank
+    sta $F6
+    lda [$F4],y
+    rtl
+
+BtlName:                 ; name insert: names live in bank $17
+    sty $F4
+    lda #$17
+    sta $F6
+    phk
+    per .back-1
+    pea.w RtlInBank03-1
+    jml $03D112
+.back:
     rtl
