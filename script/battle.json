@@ -1394,115 +1394,115 @@
   "id": "B0E6",
   "off": "0BA735",
   "jp": "”テブクロ　‥‥‥‥‥{n}　の　はんたい　なーんだ？”",
-  "en": ""
+  "en": "Riddle time! What's{n}\"EM TIH\" spelled backwards?"
  },
  {
   "id": "B0E7",
   "off": "0BA750",
   "jp": "”ハートが　あつくもえているゼ！{n}　ええーい　よろいなんか　すてちまえーッ！！{n}　せいせいどうどう　ハダカで　ぶつかってこい！！”",
-  "en": ""
+  "en": "My heart is burning hot!{n}Aw, ditch the armor!!{n}Fight me fair and naked!!"
  },
  {
   "id": "B0E8",
   "off": "0BA792",
   "jp": "”かんじゅくな　いきかたが　たのしいかー！？{n}　はんじゅくは　じゆうきままで　たのしいぞーッ！{n}　とうしゅは　ちょっと　アレだけどさ‥‥”{wait:08}",
-  "en": ""
+  "en": "Is hard-boiled life fun?!{n}Soft-boiled's free & fun!{n}Though our lord's... eh...{wait:08}"
  },
  {
   "id": "B0E9",
   "off": "0BA7DA",
   "jp": "”フッフッフッフッフッ‥‥”",
-  "en": ""
+  "en": "Heh heh heh heh heh..."
  },
  {
   "id": "B0EA",
   "off": "0BA7E9",
   "jp": "”しもやけのうえに　いくえにもマメをつくり{n}　さむぞらのした　あせだくでめざした　インターハイ{n}　よみがえれ！！　あつくもえた　ふゆのいちにち”",
-  "en": ""
+  "en": "Blistered, frostbitten,{n}sweating for the Nationals{n}O hot winter day, return!!"
  },
  {
   "id": "B0EB",
   "off": "0BA832",
   "jp": "”おぬしに　このわたしが　きれるかッ！！{n}　きれるかッ！　きれるかッ！　きれるかーッ！！　",
-  "en": ""
+  "en": "You think you can cut ME?!{n}Can you?! Can you?!{n}Can youuu?!!"
  },
  {
   "id": "B0EC",
   "off": "0BA860",
   "jp": "”こうなりゃ　イチかバチか！！{n}　れいの　わざを　やってみるぞッ！！”",
-  "en": ""
+  "en": "It's all or nothing now!!{n}Time for THAT technique!!"
  },
  {
   "id": "B0ED",
   "off": "0BA884",
   "jp": "”このまえ　エフエフで　へんなワザを　おぼえたんだ{n}　ちょっと　やってみよ〜ぜ〜！！”",
-  "en": ""
+  "en": "I learned a weird move in{n}FF the other day!{n}Let's give it a shoooot!!"
  },
  {
   "id": "B0EE",
   "off": "0BA8B0",
   "jp": "”にんげん　しぬきになれば　なんでもできる！！{n}　ここはひとつ　しんだきになって　ビッグウェイブ{n}　でも　やってみようではないかッッ！！”",
-  "en": ""
+  "en": "Facing death, a man can do{n}anything!! So let's try a{n}Big Wave like we're dead!!"
  },
  {
   "id": "B0EF",
   "off": "0BA8F6",
   "jp": "”かがくにんぽう　ひのとりッッ！！”",
-  "en": ""
+  "en": "Science Ninja Art:{n}Firebird!!"
  },
  {
   "id": "B0F0",
   "off": "0BA909",
   "jp": "{v02}は　ヤケになって　あばれた{wait:10}",
-  "en": ""
+  "en": "{v02} went berserk in{n}desperation.{wait:10}"
  },
  {
   "id": "B0F1",
   "off": "0BA91A",
   "jp": "{v02}は　ドジって　ケガした！！{wait:10}",
-  "en": ""
+  "en": "{v02} goofed and got{n}hurt!!{wait:10}"
  },
  {
   "id": "B0F2",
   "off": "0BA92B",
   "jp": "”シャラップ！！”{n}　{v02}は　どつかれた{wait:10}",
-  "en": ""
+  "en": "Shaddap!!{n}{v02} got whacked.{wait:10}"
  },
  {
   "id": "B0F3",
   "off": "0BA941",
   "jp": "よのなか　そんなに　あまいものでも　なかった‥‥{wait:10}",
-  "en": ""
+  "en": "Life wasn't quite that{n}sweet after all...{wait:10}"
  },
  {
   "id": "B0F4",
   "off": "0BA95C",
   "jp": "どっこい　そのては　つうじない！{wait:10}",
-  "en": ""
+  "en": "Ha! That trick won't work!{wait:10}"
  },
  {
   "id": "B0F5",
   "off": "0BA96F",
   "jp": "なんの　かいけつにも　なってない！！{wait:10}",
-  "en": ""
+  "en": "That solves nothing!!{wait:10}"
  },
  {
   "id": "B0F6",
   "off": "0BA984",
   "jp": "”‥‥‥ごめいとう‥‥‥”{wait:10}",
-  "en": ""
+  "en": "...Correct...{wait:10}"
  },
  {
   "id": "B0F7",
   "off": "0BA994",
   "jp": "なーんて　バカなことを　やってたら{n}おもいっきり　フイを　つかれた{wait:10}",
-  "en": ""
+  "en": "While fooling around like{n}that, they got completely{n}caught off guard.{wait:10}"
  },
  {
   "id": "B0F8",
   "off": "0BA9B8",
   "jp": "”ゴメンなさい　わたしも　ほんとは{n}　かんじゅくぐんで　はたらきたいんですゥー”{wait:10}",
-  "en": ""
+  "en": "Sorry! Truth is, I want to{n}work for the Hard-Boiled{n}Army too~!{wait:10}"
  },
  {
   "id": "B0F9",
@@ -1514,295 +1514,295 @@
   "id": "B0FA",
   "off": "0BA9E4",
   "jp": "”いちどきりの　せいしゅん{n}　その　すべてをかけた　カーリング{n}　ぼくらのながした　なみだのいみを　おしえてよー”",
-  "en": ""
+  "en": "Our youth comes only once,{n}we bet it all on curling.{n}What did our tears mean?!"
  },
  {
   "id": "B0FB",
   "off": "0BAA1E",
   "jp": "なんと　てきは　いあつされている！！{wait:10}",
-  "en": ""
+  "en": "Whoa! The enemy is{n}overwhelmed!!{wait:10}"
  },
  {
   "id": "B0FC",
   "off": "0BAA33",
   "jp": "せいこうした！！{wait:10}",
-  "en": ""
+  "en": "It worked!!{wait:10}"
  },
  {
   "id": "B0FD",
   "off": "0BAA3E",
   "jp": "さすがに　ちょっと　クラクラした{wait:10}",
-  "en": ""
+  "en": "Naturally, that left them{n}a little dizzy.{wait:10}"
  },
  {
   "id": "B0FE",
   "off": "0BAA51",
   "jp": "にんげん　やればできるもんだッッ！！{wait:10}",
-  "en": ""
+  "en": "You CAN do it if you try!!{wait:10}"
  },
  {
   "id": "B0FF",
   "off": "0BAA66",
   "jp": "どんなもんだッ！！{wait:10}",
-  "en": ""
+  "en": "How's THAT?!!{wait:10}"
  },
  {
   "id": "B100",
   "off": "0BF951",
   "jp": "”エーッグチョーップ！”",
-  "en": ""
+  "en": "Egg Choooop!"
  },
  {
   "id": "B101",
   "off": "0BF96A",
   "jp": "”おまえたちのような　ごくあくにん{n}　この{v02}が　ゆるさん！！”",
-  "en": ""
+  "en": "I, {v02}, won't forgive{n}evil scum like you!!"
  },
  {
   "id": "B102",
   "off": "0BAB07",
   "jp": "{v0E}”ぷるるん　ぷるるるるーん♥”{n}{v0E}　{v02}は　いきなりだきついた！",
-  "en": ""
+  "en": "{v0E}Jiggly jiggle~♥{n}{v0E} {v02} suddenly{n}hugged them!"
  },
  {
   "id": "B103",
   "off": "0BAB29",
   "jp": "”うふうふ♥　うふうふ♥”{n}　{v02}は　あいてのあしに　からみついた！",
-  "en": ""
+  "en": "Ufufu♥ Ufufu♥{n}{v02} wrapped around{n}the foe's legs!"
  },
  {
   "id": "B104",
   "off": "0BAB87",
   "jp": "”ぼくが　ギャフンと　いわせてやるー！！”",
-  "en": ""
+  "en": "I'll make you cry uncle!!"
  },
  {
   "id": "B105",
   "off": "0BAB9E",
   "jp": "”はじめましてー　{v02}で〜す♥{n}　みどりのぼうしが　チャームポイントでーす♥”",
-  "en": ""
+  "en": "Nice to meet you! I'm{n}{v02}~♥ My charm point{n}is my green hat~♥"
  },
  {
   "id": "B106",
   "off": "0BABEE",
   "jp": "”しょうがくせいの　ころ　おんなのこに{n}　いじめられて　きょうしつで　パンツを{n}　ぬがされたのは　どこのどいつだーー”",
-  "en": ""
+  "en": "Who got pantsed by the{n}girls in grade school, in{n}front of the class?!!"
  },
  {
   "id": "B107",
   "off": "0BAC3F",
   "jp": "”ださい！{n}　ゴクツブシ！！{n}　かいしょうナシ！！{n}　ボクネンジン！！{n}　ヒトデナシ！！{n}　おまえなんか　にんげんの　クズじゃ！！{n}　ヘモグロビン　くさっとる！！！”",
-  "en": ""
+  "en": "Lame! Freeloader!! Loser!!{n}Dolt!! Heartless!! Trash!!{n}Rotten hemoglobin!!!"
  },
  {
   "id": "B108",
   "off": "0BACED",
   "jp": "{v0C}”にいさん！　れいのわざを　つかうよッ！”{n}”おう！　ぬかるなよッ！！”{v0C}",
-  "en": ""
+  "en": "{v0C}Bro! Let's do{n}THAT move!{n}Right! Careful!!{v0C}"
  },
  {
   "id": "B109",
   "off": "0BAD21",
   "jp": "{v0C}”にいさんの　わからずや〜！！ピカピカピカ”{n}”なんだとこの！　ボカボカ！！ピカピカピカ”{v0C}",
-  "en": ""
+  "en": "{v0C}Bro, you dolt~!!{n}Zap zap zap! Why you! Bonk{n}bonk!! Zap zap zap{v0C}"
  },
  {
   "id": "B10A",
   "off": "0BADCB",
   "jp": "”オ{v0E}ラオラオラオラオラ{v0B}オラオラ！！”",
-  "en": ""
+  "en": "Ora{v0E}oraora{n}oraora{v0B}oraora!!"
  },
  {
   "id": "B10B",
   "off": "0BADF1",
   "jp": "”３‥‥{wait:08}　２‥‥{wait:08}　１‥‥{wait:08}　０‥‥{n}{v0D}　モザイクマンコマンダー　エーーーックス！！”{1B}ドドドドドドドドドドドドドドドドドドドッッッ{v0B}",
-  "en": ""
+  "en": "3...{wait:08} 2...{wait:08} 1...{wait:08} 0...{n}{v0D}Mosaic Man{n}Commander Eeeeeex!!{1B}Dododododododododo{n}dododododo!!!{v0B}"
  },
  {
   "id": "B10C",
   "off": "0BAE7E",
   "jp": "”ジュ　マペール　ケル〜{n}　ジュ　マペール　ベル〜{n}　ヌ　バルル　アン　プー　フランセ”",
-  "en": ""
+  "en": "Je m'appelle Quel~{n}Je m'appelle Belle~{n}Nou parlon un peu francais"
  },
  {
   "id": "B10D",
   "off": "0BAEAC",
   "jp": "”チュ　ヴ　ダンセ　アヴェック　モワ？”",
-  "en": ""
+  "en": "Tu veux danser avec moi?"
  },
  {
   "id": "B10E",
   "off": "0BAF3D",
   "jp": "{v0F}”はらはらふっほ！　はらはらふっほ！{n}　ふるふるふるふるほーッ！！”",
-  "en": ""
+  "en": "{v0F}Hara hara hoho!{n}Hara hara hoho!{n}Furu furu furu furu hooo!!"
  },
  {
   "id": "B10F",
   "off": "0BAF62",
   "jp": "{v0F}”ふがらか　ほがらか　どがんが　ふっほ♪{n}　ばんがら　べがらか　どがんが　ふっほーッ♪”{n}　{v02}は　ヘンなうたを　うたった！",
-  "en": ""
+  "en": "{v0F}Hogaraka dogan♪{n}Bangara begaraka fuho♪{n}{v02} crooned weirdly!"
  },
  {
   "id": "B110",
   "off": "0BAFE5",
   "jp": "”ゴロゴロゴロ”{n}　{v02}は　ころがりだした！",
-  "en": ""
+  "en": "Rumble rumble rumble{n}{v02} started rolling!"
  },
  {
   "id": "B111",
   "off": "0BAFFC",
   "jp": "{v0C}”ドッカァーーン！！”",
-  "en": ""
+  "en": "{v0C}Ka-BOOOOOM!!"
  },
  {
   "id": "B112",
   "off": "0BB064",
   "jp": "”わたしの　こころを　うけとってェーン♥”",
-  "en": ""
+  "en": "Please accept my heart~♥"
  },
  {
   "id": "B113",
   "off": "0BB084",
   "jp": "でたッ！！　１きとう　１ばりきの　スゴイヤツ！！{n}ミサイルくんは　もえあがった！{n}{v0E}”ボヨヨ〜〜〜〜〜〜〜{v0E}〜〜〜ン！！♥”",
-  "en": ""
+  "en": "Behold! 1-cylinder, 1-hp!{n}Missiley flared up!{n}{v0E}Boyoyo{v0E}~n!♥"
  },
  {
   "id": "B114",
   "off": "0BB11C",
   "jp": "”カタストーーーー！！{n}{v0C}{v0C}　ちゅる　ちゅる‥‥”",
-  "en": ""
+  "en": "Catastroooooo!!{n}{v0C}{v0C}{n}Slurp slurp..."
  },
  {
   "id": "B115",
   "off": "0BB13C",
   "jp": "”ほれ　ほれー{n}　きもちよかろー”",
-  "en": ""
+  "en": "There, there~{n}Feels good, don't it~"
  },
  {
   "id": "B116",
   "off": "0BB194",
   "jp": "”プップクプーーッ！！”",
-  "en": ""
+  "en": "Pfft-pff-pfffffft!!"
  },
  {
   "id": "B117",
   "off": "0BB1B6",
   "jp": "{v0C}”クエーーーーーーーーーーーッ！！”{n}{v0C}　{v02}は　ちょうおんぱを{n}　はなった！",
-  "en": ""
+  "en": "{v0C}Kwaaaaaaaaaaah!!{n}{v0C} {v02} emitted{n}a supersonic wave!"
  },
  {
   "id": "B118",
   "off": "0BB259",
   "jp": "”ゴッツァンでーーーーす！！”",
-  "en": ""
+  "en": "Much obliiiiiged!!"
  },
  {
   "id": "B119",
   "off": "0BB224",
   "jp": "”みよ！！　エスニックの　そこぢからーーー！！”",
-  "en": ""
+  "en": "Behold!! The true power of{n}ethnic flavor!!!"
  },
  {
   "id": "B11A",
   "off": "0BB2A9",
   "jp": "”もう　あなたしか　みえないーーーッ！{n}　ブッチューーーーーッ！！”",
-  "en": ""
+  "en": "Now I only have eyes for{n}youuu! Smoooooch!!"
  },
  {
   "id": "B11B",
   "off": "0BB2DF",
   "jp": "”あなたの　ために　きれいに　なるの‥‥{n}　パフパフ！”",
-  "en": ""
+  "en": "I'll get pretty for you...{n}Puff puff!"
  },
  {
   "id": "B11C",
   "off": "0BB356",
   "jp": "{v0C}”ミサイル　ダヨ〜ン！”{v0C}",
-  "en": ""
+  "en": "{v0C}Missile time~!{n}{v0C}"
  },
  {
   "id": "B11D",
   "off": "0BB375",
   "jp": "{v0C}”コンシュウノ　メダマ〜〜〜〜〜！！！{n}　ポチットナ‥‥”{n}　{v02}は　じばくスイッチを　おした",
-  "en": ""
+  "en": "{v0C}Weekly special~!!!{n}*Click*... {v02} hit{n}the self-destruct switch."
  },
  {
   "id": "B11E",
   "off": "0BB40F",
   "jp": "”バンメシになってケロッ！！”",
-  "en": ""
+  "en": "Be my supper, ribbit!!"
  },
  {
   "id": "B11F",
   "off": "0BB42D",
   "jp": "”たのむから　バンメシになってケロッ！！”{n}　{v02}は　あしひれで　けとばした！",
-  "en": ""
+  "en": "Please be my supper,{n}ribbit!! {v02} kicked{n}with its webbed feet!"
  },
  {
   "id": "B120",
   "off": "0BB4DD",
   "jp": "”ほっほっほっほっ！”{n}　グランドパパは　ひくいこえで　わらった",
-  "en": ""
+  "en": "Ho ho ho ho!{n}GrandPa laughed in a low{n}voice."
  },
  {
   "id": "B121",
   "off": "0BB4B4",
   "jp": "”ピクッ‥‥！”{n}　{v02}のまゆが　ピクリと　うごいた{n}　‥‥‥‥‥‥‥‥‥‥‥‥",
-  "en": ""
+  "en": "Twitch...!{n}{v02}'s brow twitched.{n}............"
  },
  {
   "id": "B122",
   "off": "0BB51C",
   "jp": "”ポッ‥‥　このときめきは　なに？”",
-  "en": ""
+  "en": "*Blush*... What is this{n}flutter in my heart?"
  },
  {
   "id": "B123",
   "off": "0BB547",
   "jp": "”わたしと　あなたは　てきどうし{n}　ひ　ひどいわーッ！！！”",
-  "en": ""
+  "en": "You and I are enemies...{n}H-how cruel!!!"
  },
  {
   "id": "B124",
   "off": "0BB5E8",
   "jp": "”イッパツ　いかせてもらうデスッ！！”{v0C}{wait:01}{v0C}",
-  "en": ""
+  "en": "Allow me one shot, yes!!{n}{v0C}{wait:01}{v0C}"
  },
  {
   "id": "B125",
   "off": "0BB60A",
   "jp": "”それでは　えんりょなく{n}　ぬかせて　もらう　デス〜〜〜〜ッ！！”",
-  "en": ""
+  "en": "Then, if you don't mind, I{n}draw my sword, yesss~!!"
  },
  {
   "id": "B126",
   "off": "0BB6AD",
   "jp": "”ああァ〜　こはんですごした〜　あのよるゥ〜♪{n}　きみのひとみはァ〜　かがやいていたねェ〜♪”",
-  "en": ""
+  "en": "Ahh~ that night we spent{n}by the lakeside~♪ Your{n}eyes were shining bright~♪"
  },
  {
   "id": "B127",
   "off": "0BB672",
   "jp": "”なぜェ〜　おれは〜　さすらうのかァ〜♪{n}　だれかがァ〜　たすけを〜　よぶからさァ〜♪”",
-  "en": ""
+  "en": "Whyyy~ do I wander so~♪{n}'Cause someone out there~{n}is callin' for help~♪"
  },
  {
   "id": "B128",
   "off": "0BB764",
   "jp": "”ＸＹＸＹＬＲＡＢ　ＸＹＸＹＬＲＡＢ{n}　うえうえしたみぎ　みぎうえ　ひだりひだり！”{n}　{v02}は　へんな　じゅもんを　となえた！",
-  "en": ""
+  "en": "XYXYLRAB XYXYLRAB! Up up{n}down right right up left{n}left! {v02} chanted!"
  },
  {
   "id": "B129",
   "off": "0BB7A4",
   "jp": "”アイム　ソーリー”{n}　{v02}は　あやまった",
-  "en": ""
+  "en": "I'm sorry.{n}{v02} apologized."
  },
  {
   "id": "B12A",
   "off": "0BB847",
   "jp": "”ワラワラワラワラワラワラワラワラワラワラワラ{n}　ワラワラワラワラワラワラワラワラワラワラワラ{n}　ワラワラワラワラワラワラワラワラワラワラワラ{n}　ワラワラワラワラワラワラワラワラワラワラワラ{n}　ワラワラワラワラワラワラウラワラワラワラワラ{n}　ワラワラワラワラワラワラワラワラワラワラワラ{n}　ワラワラワラワラワラワラワラワラワラワラワラ{n}　ワラワラワラワラワラワラワラワラワラワラワラ{n}　ワラワラワラワラワラワラワラワラワラワラ！",
-  "en": ""
+  "en": "Swarm swarm swarm swarm{n}swarm swarm swirm swarm{n}swarm swarm swarm swarm!"
  },
  {
   "id": "B12B",
@@ -1815,259 +1815,259 @@
   "id": "B12C",
   "off": "0BB94B",
   "jp": "”ばひょろぶーん！！”{n}　ムチが　うなりをあげて　とびだした！",
-  "en": ""
+  "en": "Fwhyoo-BWOOM!!{n}The whip shot out with a{n}roar!"
  },
  {
   "id": "B12D",
   "off": "0BB96C",
   "jp": "{v0F}あたりには　さわやかな　かおりが　たちこめた！",
-  "en": ""
+  "en": "{v0F}A fresh scent{n}filled the air!"
  },
  {
   "id": "B12E",
   "off": "0BB9DF",
   "jp": "{v0C}”ハーーーッ　ハッハッハッハッ！！”{n}{v0C}　{v02}は　げっこうに　かがやく{n}　にくたいを　こじした",
-  "en": ""
+  "en": "{v0C}Haaa ha ha ha!!{n}{v0C} {v02} flaunted{n}his moonlit physique!"
  },
  {
   "id": "B12F",
   "off": "0BBA21",
   "jp": "”キタエヨ！　ワカキニクタイ！　キヨイココロ”",
-  "en": ""
+  "en": "TRAIN! YOUNG BODY!{n}PURE HEART!"
  },
  {
   "id": "B130",
   "off": "0BBAEA",
   "jp": "”よのなかは　りそうじゃないのよー♥{n}　わたしに　したがうひとには　じゆうとへいわを{n}　やくそくして　あげるわよー　アハハハハ♥”",
-  "en": ""
+  "en": "The world's no utopia~♥{n}Obey me for freedom and{n}peace, I promise! Ahaha♥"
  },
  {
   "id": "B131",
   "off": "0BBA85",
   "jp": "{v0E}”さあ　みんな　なくのよ！　おなきなさい！！{n}　あなたたちの　どりょくなんて　すべてムダなのよ！{n}　たいせいに　したがいなさい！！　オホホホホホ♥”",
-  "en": ""
+  "en": "{v0E}Cry! Weep, all!!{n}Your efforts are useless!{n}Obey the order! Ohoho♥"
  },
  {
   "id": "B132",
   "off": "0BBB6A",
   "jp": "”きゅうきょくのエッグモンスター‥‥{n}　ハデス‥‥‥‥‥‥{n}　やつの　じゃくてんは‥‥‥{n}　‥‥‥{n}　‥‥‥{n}　‥‥‥{n}　は　{wait:0A}です‥‥‥‥‥‥‥‥‥”{1B}{wait:14}",
-  "en": ""
+  "en": "Ultimate Egg Monster...{n}Hades... its weakness is{n}...... it's {wait:0A}.........{1B}{wait:14}"
  },
  {
   "id": "B133",
   "off": "0BBBBB",
   "jp": "”たてを　もって　たて！！”{1B}”ソードを　もって　ひとそーどー！！”{1B}”カブトを　かぶっとる！！”{1B}”かたなが　なくて　カタナシ！！”{1B}”つえを　もった　つえーやつ！！”{1B}”ナイフを　もってないフリ！！”{1B}”ダジャレをコクのは　コクなひと！！”{1B}”オノを　もって　オノヤスシ！！”{wait:08}{1B}",
-  "en": ""
+  "en": "Shield we dance?!!{1B}Sword of funny, huh?!!{1B}Hel-met my match!!{1B}No katana? I katana-t{n}take it!!{1B}Got a staff? Now I'm the{n}staff sergeant!!{1B}Knife to meet you!!{1B}Puns deserve{n}PUN-ishment!!{1B}Got an axe? Axe me{n}anything!!{wait:08}{1B}"
  },
  {
   "id": "B134",
   "off": "0BBCE8",
   "jp": "”ぼくんち　とこやさんなんだ〜　ほほほ〜い♥{n}　ナウいソリコミ　いれてあげるネェ〜♥”",
-  "en": ""
+  "en": "My folks run a barbershop~{n}Hohohoi♥ I'll give you{n}a hip shaved-in look~♥"
  },
  {
   "id": "B135",
   "off": "0BBCB7",
   "jp": "{v0E}”ギュワギュワ　ギュゴーギュゴー　グギィ〜！！”{n}　ふしぎな　せんりつが　あいてを　おそった",
-  "en": ""
+  "en": "{v0E}Gwa gwa gugi~!!{n}A mysterious melody{n}assailed the foe!"
  },
  {
   "id": "B136",
   "off": "0BBD66",
   "jp": "{v0E}”ペロペロ‥‥　ペロペロ‥‥♥”{n}{v0E}”ペロペロ‥‥♥”",
-  "en": ""
+  "en": "{v0E}Lick... lick...♥{n}{v0E}Lick lick...♥"
  },
  {
   "id": "B137",
   "off": "0BBD93",
   "jp": "{v0F}”コチョコチョ♥”{n}{v0F}　{v02}は　わきのしたを　くすぐった",
-  "en": ""
+  "en": "{v0F}Tickle tickle♥{n}{v0F} {v02} tickled{n}their armpits."
  },
  {
   "id": "B138",
   "off": "0BBDF1",
   "jp": "{v0E}”ホエホエホエーーー”",
-  "en": ""
+  "en": "{v0E}Hoeh hoeh hoehhh~"
  },
  {
   "id": "B139",
   "off": "0BBE12",
   "jp": "{v0C}”キョエェェーーーーッ！！”{n}{v0C}　{v02}は　とつぜん　さけんだ",
-  "en": ""
+  "en": "{v0C}Kyoeeeeeeh!!{n}{v0C} {v02} suddenly{n}shrieked."
  },
  {
   "id": "B13A",
   "off": "0BBE46",
   "jp": "{v02}は　かるくずつきをした",
-  "en": ""
+  "en": "{v02} gave a light{n}headbutt."
  },
  {
   "id": "B13B",
   "off": "0BBE62",
   "jp": "{v02}は　じめんを　コロコロころがった",
-  "en": ""
+  "en": "{v02} rolled along{n}the ground."
  },
  {
   "id": "B13C",
   "off": "0BBEB1",
   "jp": "”おうおう　なんだ〜　その　クチのききかたワッ！{n}　しばいたろかッ！！”",
-  "en": ""
+  "en": "Oi oi, what's with that{n}mouth on ya?! Wanna get{n}smacked?!!"
  },
  {
   "id": "B13D",
   "off": "0BBEEA",
   "jp": "{v0E}”へへへ‥‥もう　はなさないぜー！{n}　てめえは　もう　おれのもんじゃーッ！！”",
-  "en": ""
+  "en": "{v0E}Heh heh... I won't{n}let go now! You're all{n}mine!!"
  },
  {
   "id": "B13E",
   "off": "0BBF5C",
   "jp": "”ながたびで　おつかれでしょう{n}　そちゃでもどーぞ♥”",
-  "en": ""
+  "en": "Must be tired from your{n}long trip. Have some tea♥"
  },
  {
   "id": "B13F",
   "off": "0BBF8A",
   "jp": "”なんの　おかまいも　できませんが{n}　キンツバでも　ど〜ぞ♥”",
-  "en": ""
+  "en": "I've nothing special to{n}offer, but have a sweet{n}bean cake~♥"
  },
  {
   "id": "B140",
   "off": "0BBFF6",
   "jp": "{v02}は　ずつきをしてみた",
-  "en": ""
+  "en": "{v02} tried a{n}headbutt."
  },
  {
   "id": "B141",
   "off": "0BC010",
   "jp": "{v02}は　じめんを　ゴロゴロころがった",
-  "en": ""
+  "en": "{v02} tumbled along{n}the ground."
  },
  {
   "id": "B142",
   "off": "0BC066",
   "jp": "”おーー！　ひさしぶりに　エサにありつけるぞー！”",
-  "en": ""
+  "en": "Ohh! Finally some grub,{n}after so long!"
  },
  {
   "id": "B143",
   "off": "0BC081",
   "jp": "”いまから　おれのとくぎを　みせてやる！”{n}{v0E}　{v02}は　はいけいに　とけこんだ！",
-  "en": ""
+  "en": "Behold my specialty!{n}{v0E} {v02} blended{n}into the background!"
  },
  {
   "id": "B144",
   "off": "0BC13F",
   "jp": "”ヘヘヘヘヘッ‥‥”{n}{wait:14}　{v02}の　はいごに　あやしい{n}ほのおが　ゆらめきだした！！",
-  "en": ""
+  "en": "Heh heh heh heh...{n}{wait:14}An eerie flame{n}flared behind {v02}!!"
  },
  {
   "id": "B145",
   "off": "0BC117",
   "jp": "”フフフッ‥”{n}{wait:14}　{v02}は　うらみを　こめた",
-  "en": ""
+  "en": "Hmhmhm...{n}{wait:14}{v02} channeled a{n}grudge."
  },
  {
   "id": "B146",
   "off": "0BC1A2",
   "jp": "”わしゃ　うごかん！！”",
-  "en": ""
+  "en": "I shan't budge!!"
  },
  {
   "id": "B147",
   "off": "0BC1BC",
   "jp": "”やかましい！　うごかんといったら　うごかん！！”",
-  "en": ""
+  "en": "Hush! When I say I won't{n}budge, I won't budge!!"
  },
  {
   "id": "B148",
   "off": "0BC225",
   "jp": "”ジゴクに　おちろー！！”",
-  "en": ""
+  "en": "Go to Hell!!"
  },
  {
   "id": "B149",
   "off": "0BC233",
   "jp": "”ママの　オッパイでももらって　ネンネしな！！”{v0E}{wait:04}{v0E}",
-  "en": ""
+  "en": "Go have some of Mommy's{n}milk and go nighty-night!!{n}{v0E}{wait:04}{v0E}"
  },
  {
   "id": "B14A",
   "off": "0BC299",
   "jp": "”わしの　このあついきもち‥‥うけとれッ！！”{v0E}{wait:04}{v0E}",
-  "en": ""
+  "en": "Feel this burning passion{n}of mine... take it!!{n}{v0E}{wait:04}{v0E}"
  },
  {
   "id": "B14B",
   "off": "0BC2B6",
   "jp": "”‥そして　さいごのマッチのひが　きえたとき‥‥{n}　しょうじょは‥‥　つめたくなっていたとさ‥‥”",
-  "en": ""
+  "en": "...and when the last match{n}went out... the girl had{n}grown cold, they say..."
  },
  {
   "id": "B14C",
   "off": "0BC330",
   "jp": "”クァーッペッ！”{n}　{v02}は　タンを　とばした！",
-  "en": ""
+  "en": "Kwaa-ptooey!{n}{v02} spat phlegm!"
  },
  {
   "id": "B14D",
   "off": "0BC349",
   "jp": "”ふふふ‥‥　おまえも　おれのように〜{n}　ネバネバに　なるのだァ〜！”",
-  "en": ""
+  "en": "Heh heh... You'll become{n}all slimy like me~!"
  },
  {
   "id": "B14E",
   "off": "0BC3E7",
   "jp": "{v0F}”らるろ　らるろ　ららるろー”",
-  "en": ""
+  "en": "{v0F}Raruro raruro~"
  },
  {
   "id": "B14F",
   "off": "0BC3C0",
   "jp": "{v0E}”ほれ　くうらろ　しあわへに　なるろ”",
-  "en": ""
+  "en": "{v0E}Here, eath it, you'll{n}be happeh"
  },
  {
   "id": "B150",
   "off": "0BC456",
   "jp": "”ヒヒヒ‥‥”{n}　{v02}は　ながいツメを　だした",
-  "en": ""
+  "en": "Hee hee hee...{n}{v02} bared its long{n}claws."
  },
  {
   "id": "B151",
   "off": "0BC46E",
   "jp": "{v0E}”プファ〜〜〜ッ！！”{v0E}",
-  "en": ""
+  "en": "{v0E}Pfwaaaah!!{v0E}"
  },
  {
   "id": "B152",
   "off": "0BC4BF",
   "jp": "”クレクレクレクレクレクレクレクレクレッ！！”",
-  "en": ""
+  "en": "Gimme gimme gimme gimme{n}gimme gimme gimme!!"
  },
  {
   "id": "B153",
   "off": "0BC4D8",
   "jp": "”グググ‥‥ブッフゥーッ！！”{n}　{v02}は　しょうかえきを　ぶちまけた！",
-  "en": ""
+  "en": "Grrr... BLEEARGH!!{n}{v02} spewed digestive{n}juices!"
  },
  {
   "id": "B154",
   "off": "0BC558",
   "jp": "”こそ　こそ　こそ”",
-  "en": ""
+  "en": "Sneak, sneak, sneak"
  },
  {
   "id": "B155",
   "off": "0BC541",
   "jp": "”そろーり　そろーり”",
-  "en": ""
+  "en": "Tiptoe... tiptoe..."
  },
  {
   "id": "B156",
   "off": "0BC5AE",
   "jp": "”ひとよんで　フレイムリッパー‥‥‥{n}　このオレさまに　かてるかミョー”",
-  "en": ""
+  "en": "Folks call me Flame{n}Ripper... Can you beat{n}the likes of me, myo?"
  },
  {
   "id": "B157",

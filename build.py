@@ -144,6 +144,7 @@ def build(args):
 
     # event scripts
     evs = load("events")
+    cmap = events.choice_mapper(en)
     placed = {}
     n_en = n_all = 0
     for s in evs:
@@ -152,7 +153,7 @@ def build(args):
             t = text_of(m, "event")
             m["_en"] = layout.wrap_event(t) if t else ""
             n_en += bool(t)
-        blob = events.rebuild_script(orig, s, en, field="_en")
+        blob = events.rebuild_script(orig, s, en, field="_en", cmd_map=cmap)
         placed[s["off"]] = pk.put(blob)
     for s in evs:
         p, b = placed[s["off"]]

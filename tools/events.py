@@ -131,25 +131,51 @@ def dump(rom):
     return scripts
 
 
-def rebuild_script(rom, s, table, field="en", fallback_jp=True):
+def choice_mapper(en_table, jp_table=JP):
+    """Command bytes -> command bytes with the 19 (2x6) / 33 (3x8) choice labels translated (script/choices.json)."""
+    m = json.loads((ROOT / "script" / "choices.json").read_text(encoding="utf-8"))
+
+    def fix(b):
+        b = bytes(b)
+        if not b or b[0] not in (0x19, 0x33):
+            return b
+        n = 6 if b[0] == 0x19 else 8
+        out = bytearray(b[:1])
+        for i in range(1, len(b), n):
+            lab = jp_table.decode(b[i:i + n], 0, n)[0].rstrip("　")
+            en = m.get(lab) or m.get(jp_table.decode(b[i:i + n], 0, n)[0])
+            if en is None:
+                out += b[i:i + n]
+                continue
+            e = en_table.encode(en)
+            if len(e) > n:
+                raise ValueError(f"choice {en!r} longer than {n}")
+            out += e + b"\xFF" * (n - len(e))
+        return bytes(out)
+    return fix
+
+
+def rebuild_script(rom, s, table, field="en", fallback_jp=True, cmd_map=None):
     """Return new bytes for one script dict s (from events.json)."""
     off, end = int(s["off"], 16), int(s["end"], 16)
     items, _ = items_of(rom, off, end)
     spans = messages(items)
     assert len(spans) == len(s["msgs"]), s["off"]
+    fix = cmd_map or (lambda x: bytes(x))
     out = bytearray()
     i = 0
     for (a, b), m in zip(spans, s["msgs"]):
         for it in items[i:a]:
-            out += it[2]
+            out += fix(it[2]) if it[0] == "cmd" else it[2]
         txt = m.get(field) or ""
         if txt:
-            out += encode(txt, m["codes"], table)
+            codes = [fix(bytes.fromhex(c)).hex(" ") for c in m["codes"]]
+            out += encode(txt, codes, table)
         else:
             out += b"".join(bytes(it[2]) for it in items[a:b])
         i = b
     for it in items[i:]:
-        out += it[2]
+        out += fix(it[2]) if it[0] == "cmd" else it[2]
     last = items[-1][1] + len(items[-1][2])
     out += rom[last:end]  # tail bytes (padding after F7, data)
     return bytes(out)
