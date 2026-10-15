@@ -28,8 +28,8 @@ Skill: translate-retro-game (H:\translation\batch\.claude\skills\translate-retro
 - Text systems + hooks: docs/re/text.md. Extract: tools/dump.py (never overwrites). Wrap/limits: tools/layout.py.
 
 ## Status
-- Done: phases 1-5 (recon, warp tool, identity test, extraction of events/menu/battle/system/names, font, relocation
-  hooks, width gate), pilot (scripts 00, 35, crawl). Phase 6 running: batches b00-b26 (work/tl).
-- Next: templates (bank 1F $FB400 window labels, bank 04 $27DD0+ name-entry labels), name-entry kana grid, title
-  subtitle graphic, unknown text in battle side box; then merge, review, QA tour.
-- Open bugs: none known.
+- Done: phases 1-6: all text systems translated + reviewed (fix passes fix01-fix04 in work/tl), title screen,
+  name entry, castle menu template, password pieces, choice labels (script/choices.json), name ligatures.
+- Next: phase 8 QA tour (tools/debug/tour.py, then tools/debug/textsheet.py per run dir), fix findings, phase 9 release.
+- Open: big kanji logo on title kept as art; 25 long names fall back to 8-char forms; battle bubble line limit (3)
+  unverified in-game; small system popups fitted to JP window widths (unverified).
