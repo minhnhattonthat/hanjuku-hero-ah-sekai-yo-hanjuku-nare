@@ -58,7 +58,7 @@ def choose_ligatures(texts):
             continue
         trial = dict(ligs)
         cand = sorted({a + b for a, b in zip(t, t[1:]) if a in LIG_OK and b in LIG_OK and a + b != "  "} - set(trial),
-                      key=lambda k: -freq[k])
+                      key=lambda k: (-freq[k], k))  # deterministic order (str hashes vary per run)
         for p in cand:
             if len(_merge(t, trial)) <= SIZE or len(trial) >= budget:
                 break
