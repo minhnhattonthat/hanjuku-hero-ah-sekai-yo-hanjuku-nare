@@ -34,7 +34,7 @@ def lines():
 
 
 EN_PUNCT = ".,'!?-:;()/&+%…*#=<>é"
-EN = {0x3C: '"', 0x3D: "♪", 0x3E: "♥", 0x3F: "~", 0xFF: " "}
+EN = {0x3D: "♪", 0x3E: "♥", 0x3F: "~", 0x89: '"', 0xFF: " "}  # 3C is drawn on the mark row: not used
 for _i in range(26):
     EN[0x40 + _i] = chr(65 + _i)
     EN[0x5A + _i] = chr(97 + _i)
@@ -42,7 +42,7 @@ for _i, _c in enumerate(EN_PUNCT):
     EN[0x74 + _i] = _c
 for _i in range(10):
     EN[0xBA + _i] = str(_i)
-EN_FIRST_FREE = 0x74 + len(EN_PUNCT)  # 0x89: codes from here to 0xB9 are free for extra glyphs
+EN_FIRST_FREE = 0x8A  # codes from here to 0xB9 (not A7) are free for extra glyphs
 
 
 def en_lines():

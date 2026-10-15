@@ -12,6 +12,7 @@ import events  # noqa: E402
 import menutext  # noqa: E402
 import names  # noqa: E402
 import script  # noqa: E402
+import systext  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -24,6 +25,7 @@ def main():
         "menu": lambda: menutext.dump(rom),
         "battle": lambda: btltext.dump(rom),
         "names": lambda: names.dump(rom, events.JP),
+        "system": lambda: systext.dump(rom),
     }
     for name, fn in jobs.items():
         if only and name not in only:

@@ -10,31 +10,31 @@
    {
     "id": "0D0080_0024",
     "jp": "「ん‥？{w}",
-    "en": "",
+    "en": "Hm...?{w}",
     "codes": []
    },
    {
     "id": "0D0080_0053",
     "jp": "「じ　じしんですよ　おとうさんッ！{w}",
-    "en": "",
+    "en": "E-earthquake, Dad!{w}",
     "codes": []
    },
    {
     "id": "0D0080_008E",
     "jp": "「なにをしておる　マサオ！{n}　あ　あぶ‥{w}",
-    "en": "",
+    "en": "What are you doing, Masao?!{n}Th-that's dangerous...{w}",
     "codes": []
    },
    {
     "id": "0D0080_00D1",
     "jp": "「コホン‥{w}{p}　しょくじを　つづけよう。{w}",
-    "en": "",
+    "en": "*Ahem*...{w}{p}Let us continue our meal.{w}",
     "codes": []
    },
    {
     "id": "0D0080_00FA",
     "jp": "じしんで　しろのレベルが　ひとつさがってしまった！{w}",
-    "en": "",
+    "en": "The earthquake lowered the castle's level by one!{w}",
     "codes": []
    }
   ]
@@ -1772,55 +1772,55 @@
    {
     "id": "0D4388_0042",
     "jp": "だいじん「めでたし　めでたしと‥{w}{p}　ふうッ‥{w}",
-    "en": "",
+    "en": "Minister: And they all lived happily ever after...{w}{p}Phew...{w}",
     "codes": []
    },
    {
     "id": "0D4388_0065",
     "jp": "　やっと　おやすみに　なられましたか。{w}{p}　かつては　ぜんどを　とういつされた　おかただと{n}　いうのに‥{w}{p}　へいわとなった　いまでは　このありさま。{n}　こどもと　かわりありませんな‥{w}",
-    "en": "",
+    "en": "At last, he has fallen asleep.{w}{p}To think he once united the entire land...{w}{p}Now that peace has come, look at him. No different from a child...{w}",
     "codes": []
    },
    {
     "id": "0D4388_00CE",
     "jp": "　ああ　かみよ‥　できますれば　いまいちど{n}　あの　きぼうにもえ　われわれを　みちびいて{n}　くださった　わかの　ゆうしを！{w}",
-    "en": "",
+    "en": "Oh, heavens... If only, just once more...{w}{p}If only the young hero who burned with hope and led us all could return!{w}",
     "codes": []
    },
    {
     "id": "0D4388_011F",
     "jp": "　ホッホッホ‥{w}{p}　いやいや　としをとると　グチっぽくなってしまって{n}　いかん。{w}{p}　さて　わたしも　ざいせいあかじ　かけいぼを{n}　つけて　やすむとするかな‥{w}",
-    "en": "",
+    "en": "Ho ho ho...{w}{p}Dear me, old age makes one such a grumbler.{w}{p}Well then, I'll balance the books on our budget deficit and turn in...{w}",
     "codes": []
    },
    {
     "id": "0D4388_0185",
     "jp": "　やはり　わかには　いっこくの　あるじは{n}　にが　おもいのかのう‥{w}",
-    "en": "",
+    "en": "Perhaps ruling a kingdom is simply too heavy a burden for my young lord...{w}",
     "codes": []
    },
    {
     "id": "0D4388_01B9",
     "jp": "　よ〜く　ねむっとるようじゃの‥{w}",
-    "en": "",
+    "en": "Sleeeeeping soundly, I see...{w}",
     "codes": []
    },
    {
     "id": "0D4388_01D4",
     "jp": "　わかさま‥{w}",
-    "en": "",
+    "en": "My lord...{w}",
     "codes": []
    },
    {
     "id": "0D4388_01E3",
     "jp": "　わかさまってば。{w}",
-    "en": "",
+    "en": "My lord, honestly.{w}",
     "codes": []
    },
    {
     "id": "0D4388_01F5",
     "jp": "　わ{#0}　か{#1}　さ{#2}　ま！{w}",
-    "en": "",
+    "en": "My{#0} lord,{#1} wake{#2} UP!{w}",
     "codes": [
      "2b 04",
      "2b 04",
@@ -1830,7 +1830,7 @@
    {
     "id": "0D4388_020D",
     "jp": "　わたしめが　いっ{#0}っ{#1}っ{#2}っ{#3}っ{#4}っ{#5}っ{#6}っ{#7}っ{#8}っ{#9}っっっっつも！！{w}{p}　くろうしておるのは　なぜだか　あなたさまは{n}　わかっておるのですか〜ッ！？{w}",
-    "en": "",
+    "en": "Do you have any idea why I{#0} am{#1} al{#2}ways{#3},{#4} al{#5}ways{#6},{#7} AL{#8}WAYS{#9} working myself to the bone?!{w}{p}Do you understand, my lord?!{w}",
     "codes": [
      "2b 0a",
      "2b 09",
@@ -1847,73 +1847,73 @@
    {
     "id": "0D4388_0274",
     "jp": "だいじん「！！{w}{p}　な　なにか？{w}",
-    "en": "",
+    "en": "Minister: !!{w}{p}Wh-what is it?{w}",
     "codes": []
    },
    {
     "id": "0D4388_0288",
     "jp": "　もしや‥{w}",
-    "en": "",
+    "en": "Could it be...{w}",
     "codes": []
    },
    {
     "id": "0D4388_02AE",
     "jp": "だいじん「わかさま‥{w}{p}　いいとしを　して‥{w}{p}　う‥{w}{p}　ググ‥{w}",
-    "en": "",
+    "en": "Minister: My lord...{w}{p}At your age...{w}{p}Ugh...{w}{p}Hnngh...{w}",
     "codes": []
    },
    {
     "id": "0D4388_02DC",
     "jp": "‥と　まあ　こんなかんじで{n}だいじんは　いつも　いぐすりの　かかせない　ひびを{n}おくっていたのであった。{w}",
-    "en": "",
+    "en": "...And so, the Minister spent his days never without his stomach medicine.{w}",
     "codes": []
    },
    {
     "id": "0D4388_0314",
     "jp": "かくして　ひが　くれて　よるのとばりが　おり‥{w}",
-    "en": "",
+    "en": "And so the sun set, and the curtain of night fell...{w}",
     "codes": []
    },
    {
     "id": "0D4388_0344",
     "jp": "あけの　みょうじょうが　かがやき　いちばんどりの{n}こえとともに　また　ひはのぼり　よくあさの　こと‥{w}",
-    "en": "",
+    "en": "The morning star shone, the first rooster crowed, the sun rose again, and the next morning...{w}",
     "codes": []
    },
    {
     "id": "0D4388_0381",
     "jp": "だいじん「おはようございます！{n}　よく　おやすみに　なられましたかな？{w}{p}　さて　きょうも　せんだいに　まけぬ{n}　アルマムーンの　とうしゅとして　はずかしくない{n}　ぶんぶりょうどうを　めざし！{w}{p}　べんがくに！　けんじゅつに！{n}　はげんでいただきますぞ！！{w}{p}　まずは　こくごの　おべんきょうから！{w}{p}　さ！　しゅくだいであった　ごじぶんの　おなまえ{n}　くらい　かけるように　なりましたかな！？{w}",
-    "en": "",
+    "en": "Minister: Good morning! Did you sleep well, my lord?{w}{p}Today, too, you shall strive for excellence in letters and arms...{w}{p}...as befits the ruler of Almamoon, second to none of your forebears!{w}{p}Study hard! Practice your swordplay!{w}{p}First, your reading and writing lesson!{w}{p}Now! Have you learned to write your own name, as I assigned?!{w}",
     "codes": []
    },
    {
     "id": "0D4388_044A",
     "jp": "だいじん「おお‥{w}{p}　{hero}さま‥{w}{p}　で　できたでは　ありませんか！{w}{p}　ついに　ごじぶんの　おなまえを　かけるように{n}　なりましたな！{w}{p}　おもいおこせば　ながい　みちのり‥{w}",
-    "en": "",
+    "en": "Minister: Oh...{w}{p}{hero}, my lord...{w}{p}Y-you've done it!{w}{p}At long last, you can write your own name!{w}{p}When I think back, what a long road it has been...{w}",
     "codes": []
    },
    {
     "id": "0D4388_04AD",
     "jp": "　う‥　うれしゅうございますぞ！{w}",
-    "en": "",
+    "en": "I... I am overjoyed!{w}",
     "codes": []
    },
    {
     "id": "0D4388_04C7",
     "jp": "　‥などと　よろこんでばかりも{n}　いられませんな。{w}",
-    "en": "",
+    "en": "...But we can't spend all day celebrating.{w}",
     "codes": []
    },
    {
     "id": "0D4388_04EE",
     "jp": "　ささ　{hero}さま！{n}　つぎは　けんじゅつの　けいこですぞ！{w}",
-    "en": "",
+    "en": "Come now, {hero}! Next is your swordplay lesson!{w}",
     "codes": []
    },
    {
     "id": "0D4388_0510",
     "jp": "だいじん「ふうッ‥{n}　すこしは　うでが　あがったようですな。{w}{p}　きょうのけいこは　これくらいに　しておきますか。{w}{p}　あすも　シッカリ　たのみますぞ！{w}",
-    "en": "",
+    "en": "Minister: Phew... It seems your skill has improved a little.{w}{p}Let us end today's lesson here.{w}{p}I'm counting on you again tomorrow!{w}",
     "codes": []
    }
   ]
@@ -9453,7 +9453,7 @@
    {
     "id": "0FCE39_0006",
     "jp": "　　　ひとりのゆうしゃが　でんせつのけんを　てに{n}　　　　あしきまおうに　たたかいをいどんだ。{n}　　　てんちをゆるがす　はげしい　たたかいのすえ{n}　　　まおうは　ついには　きょうだいなりゅうへと{n}　　　　　　　そのすがたを　かえた。{n}{n}　そのりゅうの　からだには　でんせつの　けんですら{n}　　　きずひとつ　つけることは　できなかった。{n}　　　　そのとき　まおうに　とらえられていた{n}　　　　おとめのいのりが　けんと　ゆうしゃに{n}　　　　　　ゆうきと　ちからを　あたえた。{n}{n}　その　きょうだいなるりゅうは　ゆうしゃのゆうきと{n}　　　　　でんせつの　けんのちから‥{n}　　　　そして　おとめの　いのりによって{n}　　あしきちからを　うばわれてしまいましたとさ‥{n}",
-    "en": "",
+    "en": "   A hero took up the{n}    legendary sword{n} and challenged the evil{n}       Demon King.{n}{n}  After a fierce battle{n} that shook heaven and{n} earth, the Demon King{n}  took the form of a{n}     mighty dragon.{n}{n} Not even the legendary{n}  sword could leave a{n}  scratch on its hide.{n}{n} Then the prayer of the{n} maiden held captive by{n} the Demon King gave the{n}  hero and the sword{n} courage and strength.{n}{n} And so the mighty dragon{n} was robbed of its evil{n}  power by the hero's{n} courage, the legendary{n} sword's might and the{n}    maiden's prayer...{n}     Or so they say.{n}",
     "codes": []
    }
   ]
