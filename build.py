@@ -18,10 +18,12 @@ sys.path.insert(0, str(ROOT / "tools"))
 import btltext  # noqa: E402
 import events  # noqa: E402
 import font_en  # noqa: E402
+import font_tiny  # noqa: E402
 import layout  # noqa: E402
 import menutext  # noqa: E402
 import mktbl  # noqa: E402
 import names  # noqa: E402
+import rawtext  # noqa: E402
 import script  # noqa: E402
 import systext  # noqa: E402
 from tbl import Table  # noqa: E402
@@ -181,14 +183,35 @@ def build(args):
         p, b = pk.put(blob)
         rom[o:o + 4] = bytes([0x01, p & 0xFF, p >> 8, b])
 
-    # names (in place)
-    for e in load("names"):
+    rawtext.apply(rom, en)
+
+    # names (in place); names longer than 8 use two-letters-per-tile ligature glyphs
+    nm = load("names")
+    texts = {}
+    for e in nm:
         t = text_of(e, "name")
         if args.marker and e["id"] not in qa:
             t = e["id"]
+        elif e.get("en_full") and e["id"] not in qa:
+            t = e["en_full"]  # full form, fits via ligatures or falls back to the 8-char "en"
+        texts[e["id"]] = t
+    ligs, left = names.choose_ligatures([t for t in texts.values() if t and len(t) > 8])
+    for e in nm:
+        if texts[e["id"]] in left:
+            texts[e["id"]] = e["en"]
+    stats["names_short"] = len(left)
+    for pair, code in ligs.items():
+        rows = font_tiny.pair_rows(pair[0], pair[1])
+        o = FONT + code * 16
+        for y, r in enumerate(rows):
+            rom[o + 2 * y] = 0xFF
+            rom[o + 2 * y + 1] = int(r.replace("#", "1").replace(".", "0"), 2)
+    for e in nm:
+        t = texts[e["id"]]
         if t:
             o = int(e["off"], 16)
-            rom[o:o + 8] = names.encode(dict(e, en=t), en)
+            rom[o:o + 8] = names.encode(dict(e, en=t), en, ligs=ligs)
+    stats["ligatures"] = len(ligs)
 
     out.write_bytes(rom)
     print(f"built {out} ({len(rom)} bytes), data {pk.used():#x} bytes from bank ${DATA_FIRST_BANK:02X}, "

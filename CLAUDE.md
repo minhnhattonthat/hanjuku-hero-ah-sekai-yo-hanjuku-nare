@@ -19,5 +19,17 @@ Skill: translate-retro-game (H:\translation\batch\.claude\skills\translate-retro
 - Full names and terms, no abbreviations; engine work before cutting meaning. Graphics text in scope.
 - Never push/publish. Release = `release/hanjuku-hero-ah-sekai-yo-hanjuku-nare_en.zip` (patch + README).
 
+## Debug / QA
+- Warp to any event script from cold boot: `emu.py ROM --route tools/routes/boot.txt --script tools/debug/warp.lua --var SCENE=0x35 --frames 3000 --mash 45`
+- Tour every script: `python -X utf8 tools/debug/tour.py ROM --all --jobs 6 --out work/qa/tour` (sheets per id).
+- States (from ORIGINAL rom; load fine in builds since original text data stays in place): work/states/castle_menu.mss,
+  battle1.mss, map1.mss, early.mss. Regenerate: tools/routes/to_castle.txt (+ mash) from cold boot.
+- Translate: `tools/batches.py split|check|merge|pairs|status`; brief docs/translator-brief.md; style docs/style-reference.md.
+- Text systems + hooks: docs/re/text.md. Extract: tools/dump.py (never overwrites). Wrap/limits: tools/layout.py.
+
 ## Status
-- Done: Step 0. Next: phase 1 recon. Open bugs: none.
+- Done: phases 1-5 (recon, warp tool, identity test, extraction of events/menu/battle/system/names, font, relocation
+  hooks, width gate), pilot (scripts 00, 35, crawl). Phase 6 running: batches b00-b26 (work/tl).
+- Next: templates (bank 1F $FB400 window labels, bank 04 $27DD0+ name-entry labels), name-entry kana grid, title
+  subtitle graphic, unknown text in battle side box; then merge, review, QA tour.
+- Open bugs: none known.
