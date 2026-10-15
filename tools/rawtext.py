@@ -21,6 +21,9 @@ ENTRIES = [
     (0xFB4B1, 10, " War     §"),
     (0xFB4BD, 10, " Rule    §"),
     (0xFB4C9, 10, " Pay     §"),
+    # yes/no box labels ($04:FC35 4 tiles, $04:FC3A 5 tiles; the command table follows at $04:FC3F)
+    (0x27C35, 4, "Yes!"),
+    (0x27C3A, 5, "No!"),
     # name entry: mode labels ($04:FF9D, 4 x 4) and prompt ($04:FFAE, 18)
     (0x27F9D, 4, "ABC"),
     (0x27FA1, 4, "abc"),
