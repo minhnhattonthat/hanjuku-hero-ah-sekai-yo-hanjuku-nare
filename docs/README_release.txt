@@ -21,6 +21,8 @@ KNOWN ISSUES
   - About 25 long names still use a shortened 8-letter form (e.g. some attack names) because of the 8-tile name
     fields; the date bar uses "yr"/"mo." for the same reason.
   - Some small pop-up windows (map notices) have very tight space; wording there is condensed.
+  - Automated QA reached every event script, the castle menus, map windows and battles, but not the save/load
+    screens, the ending or the staff roll; please report anything odd there.
   - Start a NEW game (cold boot). Save files from the Japanese version keep Japanese names in their data.
 
 TESTED
