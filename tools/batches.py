@@ -157,7 +157,7 @@ def pages(text):
     return re.split(r"\{p\}|\{1B\}", text)
 
 
-def check_entry(form, lim, jp, en):
+def check_entry(form, lim, jp, en, codes=()):
     errs = []
     if not en.strip():
         return ["empty"]
@@ -172,13 +172,15 @@ def check_entry(form, lim, jp, en):
     if not seq_ok(jp, en):
         errs.append("control tokens differ from JP")
     w, lines = map(int, lim.split("x"))
-    wrapped = layout.wrap(en, w)
+    wide = layout.name_tokens(codes)
+    wrapped = layout.wrap(en, w, wide=wide)
     for pg in pages(wrapped):
         ls = pg.split("{n}")
         if len(ls) > lines:
             errs.append(f"page has {len(ls)} lines > {lines}: {pg[:40]!r}")
         for ln in ls:
-            n = sum(layout.token_width(t) for t in TOK.findall(ln)) + len(TOK.sub("", ln))
+            n = sum(layout.NAME_W if t in wide else layout.token_width(t) for t in TOK.findall(ln)) \
+                + len(TOK.sub("", ln))
             if n > w:
                 errs.append(f"line {n} > {w}: {ln[:40]!r}")
     if re.search(r"\}(st|nd|rd|th)\b", en):

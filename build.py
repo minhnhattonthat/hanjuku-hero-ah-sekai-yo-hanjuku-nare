@@ -151,7 +151,7 @@ def build(args):
         for m in s["msgs"]:
             n_all += 1
             t = text_of(m, "event")
-            m["_en"] = layout.wrap_event(t) if t else ""
+            m["_en"] = layout.wrap_event(t, m["codes"]) if t else ""
             n_en += bool(t)
         blob = events.rebuild_script(orig, s, en, field="_en", cmd_map=cmap)
         placed[s["off"]] = pk.put(blob)
@@ -166,7 +166,8 @@ def build(args):
     menu = load("menu")
     for i, e in enumerate(menu):
         t = text_of(e, "menu")
-        e2 = dict(e, en=layout.wrap_menu(t) if t else "")
+        e2 = dict(e, en=layout.wrap(t, layout.MENU_W, autowrap=True, wide=layout.name_tokens(e["codes"]))
+                  if t else "")
         blob = menutext.encode_entry(orig, e2, en if t else jp)
         p, b = pk.put(blob)
         rom[MSG_TAB + 3 * i:MSG_TAB + 3 * i + 3] = bytes([p & 0xFF, p >> 8, b])

@@ -23,7 +23,8 @@ def token_width(t):
     return 0
 
 
-def wrap(text, width, autowrap=False):
+def wrap(text, width, autowrap=False, wide=()):
+    """wide: extra tokens that print a name (e.g. {#3} when that command is 36)."""
     if not width:
         return text
     out, col, var = [], 0, False   # var: current line holds a variable-width token
@@ -44,10 +45,14 @@ def wrap(text, width, autowrap=False):
             if p == "{n}":
                 newline(False)
                 continue
+            w = NAME_W if p in wide else token_width(p)
+            if w and col + w > width and col > 0:
+                if out and out[-1] == " ":
+                    out.pop()
+                newline(True)
             out.append(p)
             if p in PAGE_BREAKS:
                 col, var = 0, False
-            w = token_width(p)
             if w:
                 var = True
                 col += w
@@ -72,8 +77,13 @@ def wrap(text, width, autowrap=False):
     return "".join(out)
 
 
-def wrap_event(text):
-    return wrap(text, EVENT_W, autowrap=True)
+def name_tokens(codes):
+    """{#k} tokens whose command prints a general's name (command 36, $04:9D13)."""
+    return {"{#%d}" % k for k, c in enumerate(codes) if c[:2] == "36"}
+
+
+def wrap_event(text, codes=()):
+    return wrap(text, EVENT_W, autowrap=True, wide=name_tokens(codes))
 
 
 def wrap_menu(text):
