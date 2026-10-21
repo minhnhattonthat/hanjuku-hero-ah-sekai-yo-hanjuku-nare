@@ -39,8 +39,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     Independent title/backdrop visual review and QA gate pass (four sheets;
     `work/qa/logo-final-manifest.tsv`, `work/qa/logo-final-verdicts/`).
     No commit or release script run; both are left to the user as requested.
-- **Next:** rebuild release zip to include the new logo (last rebuilt 2026-10-21, pre-logo patched SHA-1 c55356ab);
-  a fresh full playtest of the ending path (the curtain-call art was checked by
+- **Next:** release zip rebuilt 2026-10-22 with the logo (patched SHA-1 a0470ba7); a fresh full playtest of the ending path (the curtain-call art was checked by
   copying the block into VRAM, the end screen by a replay from `work/playtest/s_credits/0000.mss`).
 - **Open bugs:**
   - Smaller Japanese logo artwork on stage backdrops remains; only the title-screen logo was replaced in D7.
