@@ -23,3 +23,13 @@ def test_trailing_space_not_counted():
 
 def test_tokens_kept():
     assert layout.wrap("Hi {hero}, go{w}{p}Next page", 26) == "Hi {hero}, go{w}{p}Next page"
+
+
+def test_no_break_inside_word_split_by_codes():
+    assert layout.wrap("aaa B{#0}o{#1}iled", 8) == "aaa{n}B{#0}o{#1}iled"
+
+
+def test_bubble_quip_lines_wait():
+    jp = "いけーッ！{wait:10}"
+    assert layout.wrap_battle("Charge! Take that castle, now!!{wait:10}", jp) == \
+        "Charge! Take that{wait:10}{n}castle, now!!{wait:10}"

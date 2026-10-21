@@ -186,7 +186,7 @@ def build(args):
         key = (e["off"], t)
         if key not in cache:
             if t:
-                blob = bt_en.encode(layout.wrap_battle(t)) + b"\x00"
+                blob = bt_en.encode(layout.wrap_battle(t, e["jp"])) + b"\x00"
             else:
                 o = int(e["off"], 16)
                 blob = orig[o:o + btltext.strlen(orig, o)]

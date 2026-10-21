@@ -1960,7 +1960,7 @@
    {
     "id": "0D48F2_0143",
     "jp": "　きさまッ！　なにヤツじゃッ！！{w}",
-    "en": "You there! Who are you!!{w}",
+    "en": "You there! Who are you?!{w}",
     "codes": []
    },
    {
@@ -2014,7 +2014,7 @@
    {
     "id": "0D48F2_03BE",
     "jp": "なぞのびじょ「けれど　わたくしの　たまごは{n}　このくにの　はんじゅくな　たまごなどとは{n}　ちがって　かんぺきな！　かんじゅくな！{n}　くろき　たまごですのよ！{w}{p}だいじん「くろき　たまご！？{w}",
-    "en": "Mysterious Beauty: But my egg is nothing like this kingdom's soft-boiled egg.{w}{p}It's a perfect! Hard-boiled! Black egg!{w}{p}Minister: A black egg!?{w}",
+    "en": "Mysterious Beauty: But my egg is nothing like this kingdom's soft-boiled egg.{w}{p}It's a perfect, hard-boiled, BLACK egg!{w}{p}Minister: A black egg!?{w}",
     "codes": []
    },
    {
@@ -2050,7 +2050,7 @@
    {
     "id": "0D48F2_0668",
     "jp": "クイーン「あ　もう　あかり　もどしていいわよ！{w}",
-    "en": "Queen: Oh, you can bring the lights back up now!{w}",
+    "en": "Queen: Oh, you can put the lights back now!{w}",
     "codes": []
    },
    {
@@ -3111,7 +3111,7 @@
    {
     "id": "0D8056_024B",
     "jp": "ギャルたち「スゴ　スゴ‥{#0}{#1}{#2}{#3}{#4}{#5}{#6}{#7}{#8}{#9}{#10}プリンス「うう‥{w}",
-    "en": "Gals: *slink, slink*...{#0}{#1}{#2}{#3}{#4}{#5}{#6}{#7}{#8}{#9}{#10}Prince: Ugh...{w}",
+    "en": "Gals: *slink, slink*...{#0}{#1}{#2}{#3}{#4}{#5}{#6}{#7}{#8}{#9}{#10}{n}Prince: Ugh...{w}",
     "codes": [
      "2e 04 0b 26 48 0c 26 48 0d 27 48 0e 27 48",
      "2e 04 0b 29 0c 26 10 0d 27 10 0e 29",
@@ -9956,7 +9956,7 @@
    {
     "id": "0FD59D_0003",
     "jp": "「この　{nameC}に　おまかせを！{n}{#0}{nameC}が　はいかに　くわわった！{w}",
-    "en": "Leave it to me, {nameC}!{n}{#0}{nameC} joined your command!{w}",
+    "en": "Leave it to {nameC}!{n}{#0}{nameC} joined your command!{w}",
     "codes": [
      "14 16 00"
     ]
@@ -9974,7 +9974,7 @@
    {
     "id": "0FD5C5_0003",
     "jp": "「この　{nameD}に　おまかせを！{n}{#0}{nameD}が　はいかに　くわわった！{w}",
-    "en": "Leave it to me, {nameD}!{n}{#0}{nameD} joined your command!{w}",
+    "en": "Leave it to {nameD}!{n}{#0}{nameD} joined your command!{w}",
     "codes": [
      "14 16 01"
     ]
@@ -9992,7 +9992,7 @@
    {
     "id": "0FD5ED_0003",
     "jp": "「この　{nameE}に　おまかせを！{n}{#0}{nameE}が　はいかに　くわわった！{w}",
-    "en": "Leave it to me, {nameE}!{n}{#0}{nameE} joined your command!{w}",
+    "en": "Leave it to {nameE}!{n}{#0}{nameE} joined your command!{w}",
     "codes": [
      "14 16 02"
     ]

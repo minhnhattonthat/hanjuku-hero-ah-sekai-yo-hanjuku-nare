@@ -179,7 +179,7 @@
   "off": "00CB13",
   "len": 16,
   "jp": "じかんのながれ{n}サウンドモード",
-  "en": "Time Flow{n}Sound Mode"
+  "en": "Time Flow{n}Sound"
  },
  {
   "id": "S0CB23",
@@ -396,7 +396,7 @@
   "off": "00CE26",
   "len": 41,
   "jp": "　　　　　　　　じょう{n}しゅうにゅう　　　　Ｇ{n}レベル{n}しょうぐん　　　　　めい",
-  "en": "        Castle{n}Income    G{n}Level{n}Staff"
+  "en": "        {n}Income    G{n}Level{n}Staff"
  },
  {
   "id": "S0CE4F",
@@ -424,7 +424,7 @@
   "off": "00CE6F",
   "len": 4,
   "jp": "ぽーず",
-  "en": "Pause"
+  "en": "Zzz"
  },
  {
   "id": "S0CE73",
@@ -669,7 +669,7 @@
   "off": "00D19E",
   "len": 8,
   "jp": "　じょうですな",
-  "en": " Castle, eh?"
+  "en": " Castle?"
  },
  {
   "id": "S0D1A6",
@@ -683,7 +683,7 @@
   "off": "00D1B9",
   "len": 18,
   "jp": "てきにんしゃは{n}{n}しょうぐんですな",
-  "en": "Best is{n}{n}General."
+  "en": "Best pick:{n}{n}for this."
  },
  {
   "id": "S0D1CB",

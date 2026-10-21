@@ -39,12 +39,30 @@ def wrap(text, width, autowrap=False, wide=()):
             out.append("{n}")
         col, var, soft = 0, False, auto
 
-    for p in TOKEN.split(text):
-        if not p:
-            continue
+    parts = [p for p in TOKEN.split(text) if p]
+
+    def zero(t):  # a code that prints nothing and doesn't break the line (effects between letters, waits)
+        return t != "{n}" and t not in PAGE_BREAKS and not (NAME_W if t in wide else token_width(t))
+
+    def glued_len(k):  # letters that continue the current word after parts[k-1], across zero-width codes
+        n = 0
+        for q in parts[k:]:
+            if q.startswith("{"):
+                if not zero(q):
+                    break
+                continue
+            m = re.match(r"[^ ]*", q).group(0)
+            n += len(m)
+            if len(m) < len(q):
+                break
+        return n
+
+    glued = False  # inside a word that a zero-width code split ("H{#37}a{#38}r..."): never break here
+    for k, p in enumerate(parts):
         if p.startswith("{"):
             if p == "{n}":
                 newline(False)
+                glued = False
                 continue
             w = NAME_W if p in wide else token_width(p)
             if w and col + w > width and col > 0:
@@ -55,11 +73,13 @@ def wrap(text, width, autowrap=False, wide=()):
             if w:
                 var = True
                 col += w
+            if not zero(p):
+                glued = False
             continue
-        for w in re.split(r"( )", p):
-            if not w:
-                continue
+        words = [w for w in re.split(r"( )", p) if w]
+        for i, w in enumerate(words):
             if w == " ":
+                glued = False
                 if col == 0 and soft:
                     continue
                 if col + 1 > width:
@@ -68,11 +88,13 @@ def wrap(text, width, autowrap=False, wide=()):
                 out.append(" ")
                 col += 1
                 continue
-            if col + len(w) > width and col > 0:
+            n = len(w) + (glued_len(k + 1) if i == len(words) - 1 else 0)
+            if not (i == 0 and glued) and col + n > width and col > 0:
                 newline(True)
             out.append(w)
             col += len(w)
             soft = False
+        glued = not p.endswith(" ")
     return "".join(out)
 
 
@@ -123,7 +145,15 @@ def wrap_menu(text):
     return wrap(text, MENU_W, autowrap=True)
 
 
-def wrap_battle(text):
+BUBBLE_W = 22  # battle speech bubble: one line at a time, ~23 cols visible (tutorial B018 measured)
+
+
+def wrap_battle(text, jp=""):
+    """Quips (one JP line ending in a wait) show in the 1-line speech bubble: wrap them to the bubble and make each
+    break a wait + new bubble line, as the JP tutorial (B018) does."""
+    if "{wait:" in jp and "{n}" not in jp:
+        w = wrap(text, BUBBLE_W)
+        return re.sub(r"(?<!\{wait:[0-9A-F]{2}\})\{n\}", "{wait:10}{n}", w)
     return wrap(text, BATTLE_W)
 
 

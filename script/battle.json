@@ -147,7 +147,7 @@
   "id": "B018",
   "off": "0B98AE",
   "jp": "バーが　あおいとき　Ａボタンを　たたくのですぞ{wait:10}{n}バーが　あかいとき　ボタンをおしても　ムダですぞ{wait:10}{n}　　　　　　　では　まいりますぞ！！",
-  "en": "Hit A while the bar's blue{wait:10}{n}Red bar? Pressing's no use{wait:10}{n}Here we go, my lord!!"
+  "en": "Bar's blue? Hit A!{wait:10}{n}Red bar? It's no use!{wait:10}{n}Here we go, my lord!!"
  },
  {
   "id": "B019",
