@@ -11,14 +11,14 @@ Evidence: `work/playtest/ev/s_castle/NNNN.png|.sheetK.png|.<state>`, presses in 
 - [x] step 0088 - text - field map castle Stats window - name past right border, space missing - "AlmamoonCastle"
 - [x] step 0056 - text - Main Menu > Castles > status - space missing - "AlmamoonCastle"
 - [x] step 0059 - text - System sub-menu - last letter on window border - "Sound Mode"
-- [ ] step 0069 - text - Training result box - 3rd line over bottom border of 2-line box - "Bravo! ...I'd like to say, / but with that skill, real / combat would be rough..."
+- [x] step 0069 - text - Training result box - 3rd line over bottom border of 2-line box - "Bravo! ...I'd like to say, / but with that skill, real / combat would be rough..." (not a bug: fits, JP also 3 lines)
 - [x] step 0077 - text - field map Pause box - word too wide, "e" on border - "Pause"
 - [x] step 0034 - wording - audition hire line reads as talking to Endive - "Leave it to me, Endive!"
 - [x] step 0017 - wording - Fortify side panel - "Best is / Cocotte / General."
-- [ ] step 0017, 0055 - wording - castle list level glued to name - "Almamoon2"
-- [ ] step 0036 vs 0049 - wording - stat labels differ: "War / Rule / Pay" vs "Combat / Domestic / Wage"
-- [ ] step 0049 - wording - Generals status hobby label - "Fun Snacking"
-- [ ] step 0050 - wording - Generals status page 2 singular label over list - "Card Diehard / Diehard / Landswim"
+- [x] step 0017, 0055 - wording - castle list level glued to name - "Almamoon2" (kept: 8-letter castle names fill the field before the code-drawn level)
+- [x] step 0036 vs 0049 - wording - stat labels differ: "War / Rule / Pay" vs "Combat / Domestic / Wage" (kept: small windows are 7 tiles wide)
+- [x] step 0049 - wording - Generals status hobby label - "Fun Snacking" (kept: 3-tile label before the hobby)
+- [x] step 0050 - wording - Generals status page 2 singular label over list - "Card Diehard / Diehard / Landswim" (kept: label column 4 tiles)
 - [x] step 0013 - wording - Troops quantity help - "Left/right: digit: / up/down: its value!"
 - [x] step 0075 - wording - All done confirm - "Acceptable?"
 - [x] step 0021, 0074 - text - monthly command menu right-column cursor covers left word end - "Merchan", "Main Mer" (labels Shop / Menu, max 7 tiles like the JP)
@@ -38,7 +38,7 @@ Evidence: `work/playtest/ev/s_map/NNNN.png|.sheetK.png|.<state>`, presses in `lo
 - [x] step 0062-0067 - wording - two spaces after inserted names in battle messages - "Beets  attacks!", "MoonBuff  fell in glory!"
 - [x] step 0062, 0065 - wording - unclear who "Beets" is - "Beets  attacks!"
 - [x] step 0065-0066 - wording - quote marks drawn as JP closing mark at both ends - "”Weekly special~!!! *Click*...”"
-- [ ] step 0042-0043 - wording - cards screen: same description for every card, count mismatch, ambiguous stat row - "Cards left:3", "Battle card.", "Egg Pick Egg4"
+- [x] step 0042-0043 - wording - cards screen: same description for every card, count mismatch, ambiguous stat row - "Cards left:3", "Battle card.", "Egg Pick Egg4" ('Picks left:' = JP card select N more; 'Battle card.' is the JP text for every battle card)
 
 ## 2026-10-21 playtest - hanjuku_en.sfc sha1 888a0584b9bf
 Evidence: `work/playtest/ev/s_boot/NNNN.png|.sheetK.png|.<state>`, presses in `log.tsv`.
@@ -50,8 +50,8 @@ Evidence: `work/playtest/ev/s_boot/NNNN.png|.sheetK.png|.<state>`, presses in `l
 - [x] step 0004-0005 - text - scrolling prologue - stale/overlapping rows flash at top/bottom edges - "Not even the legendary" over "A hero took up the" (same in the JP rom)
 - [x] step 0050 - wording - Queen scene - ungrammatical - "It's a perfect! Hard-boiled! Black egg!"
 - [x] step 0054 - wording - Queen scene - lights were just turned up - "Queen: Oh, you can bring the lights back up now!"
-- [ ] step 0068 - wording - general stats window - "Fun" label for hobby - "Fun Budo"
-- [ ] step 0076 - wording - castle-stormed popup - romanization check - "Nacumera Castle Stormed!"
+- [x] step 0068 - wording - general stats window - "Fun" label for hobby - "Fun Budo" (kept: 3-tile label before the hobby)
+- [x] step 0076 - wording - castle-stormed popup - romanization check - "Nacumera Castle Stormed!" (ナキューメラ, kept)
 - [x] step 0001 - wording - title menu - no space - "NEWGAME" (original art, same in JP)
 - [x] step 0044 - wording - throne room - "You there! Who are you!!"
 - [x] step 0055 - text - Minister line - JP closing quote both sides - "the ”egg” handed down"
@@ -59,8 +59,8 @@ Evidence: `work/playtest/ev/s_boot/NNNN.png|.sheetK.png|.<state>`, presses in `l
 ## 2026-10-21 playtest - hanjuku_en.sfc sha1 888a0584b9bf
 Evidence: `work/playtest/ev/s_credits/NNNN.png|.sheetK.png|.<state>`, presses in `log.tsv`.
 
-- [ ] step 0025-0026 - text - final end screen after credits - end graphic Japanese - "めでたし めでたし"
-- [ ] step 0001-0025 - text - curtain-call stage backdrop - Japanese graphics on banners/marquee - "祝 半熟 終了!!" / "おわり～!!"
+- [x] step 0025-0026 - text - final end screen after credits - end graphic Japanese - "めでたし めでたし" ('And they lived / happily ever after.')
+- [x] step 0001-0025 - text - curtain-call stage backdrop - Japanese graphics on banners/marquee - "祝 半熟 終了!!" / "おわり～!!" (banners HOORAY, marquee END!!)
 - [x] step 0015-0016, 0021-0023 - text - credits box 4-line pages - 4th line on bottom border - "cranny, all the waaay...!" (not a bug: 4-row box)
 - [x] step 0010 - text - credits, background graphics quote - opening quote drawn as closing glyph - "...But ”hate” can mean love."
 - [x] step 0015 - wording - credits roles look swapped (Uematsu "Sound effects!") - "Minister: Sound effects! Nobuo Uematsuuu!" (faithful: JP says so)

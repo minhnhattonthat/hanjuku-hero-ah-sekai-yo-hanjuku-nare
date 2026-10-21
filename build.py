@@ -146,6 +146,8 @@ def build(args):
     rom[0x1F3880:0x1F3880 + 0x380] = copyright_tiles()  # $3E:B880 / $3E:BA40, sprite rows
     card = cards.blob()
     rom[cards.CARDS:cards.CARDS + len(card)] = card  # $3F:8000, episode title cards
+    cards.curtain_patch(rom)
+    cards.end_patch(rom)
 
     pk = Packer(rom, DATA_FIRST_BANK, last=0x3D)
     stats = {}

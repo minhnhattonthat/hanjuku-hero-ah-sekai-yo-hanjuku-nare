@@ -76,6 +76,81 @@ def blob():
     return bytes(out)
 
 
+# curtain call and end screen: BG1 4bpp tiles $104-$173 raw at $02:EE40 (file 0x16E40), loaded with the curtain
+# call. Marquee おわり～!! = tiles $106-$10F over $110-$119 (80x16, bulbs in cycling colours C/D/E on F); six
+# banners 祝 半 熟 / 終 了 !! = one 8x24 tile column each (ink 1 on 3, rows 0-3 and 20-23 are the banner frame).
+CURTAIN = 0x16E40
+MARQUEE = "END!!"
+BANNERS = [("H", 0x122, 3), ("O", 0x155, 1), ("O", 0x158, 1), ("R", 0x15B, 1), ("A", 0x15E, 1), ("Y", 0x161, 1)]
+
+
+def tile_px(rom, t):
+    b = rom[CURTAIN + 32 * (t - 0x104):][:32]
+    return [[sum(((b[(p // 2) * 16 + 2 * y + (p & 1)] >> (7 - x)) & 1) << p for p in range(4)) for x in range(8)]
+            for y in range(8)]
+
+
+def put_tile(rom, t, px):
+    b = bytearray(32)
+    for y in range(8):
+        for x in range(8):
+            for p in range(4):
+                b[(p // 2) * 16 + 2 * y + (p & 1)] |= ((px[y][x] >> p) & 1) << (7 - x)
+    rom[CURTAIN + 32 * (t - 0x104):CURTAIN + 32 * (t - 0x103)] = b
+
+
+def curtain_patch(rom):
+    # marquee: each font pixel is one bulb at (2x, 2y), 16 px per letter
+    px = [[0xF] * 80 for _ in range(16)]
+    left = (80 - 16 * len(MARQUEE)) // 2
+    for i, ch in enumerate(MARQUEE):
+        for y, row in enumerate(GLYPHS[ch]):
+            for x, on in enumerate(row):
+                if on == "#":
+                    bx, by = left + 16 * i + 2 * x + 2, 2 * y + 1
+                    px[by][bx] = 0xC + (bx // 2 + by // 2) % 3
+    for r, base in ((0, 0x106), (1, 0x110)):
+        for c in range(10):
+            put_tile(rom, base + c, [line[8 * c:8 * c + 8] for line in px[8 * r:8 * r + 8]])
+    # banners: the letter doubled in height on rows 4-19, centred in the column
+    for ch, top, step in BANNERS:
+        tiles = [top, top + step, top + 2 * step]
+        col = sum((tile_px(rom, t) for t in tiles), [])
+        for y in range(4, 20):
+            col[y] = [3] * 8
+        for y, row in enumerate(GLYPHS[ch]):
+            for x, on in enumerate(row[:7]):
+                if on == "#":
+                    col[4 + 2 * y][x + 1] = col[5 + 2 * y][x + 1] = 1
+        for i, t in enumerate(tiles):
+            put_tile(rom, t, col[8 * i:8 * i + 8])
+
+
+# end screen after the credits (めでたし めでたし): tiles $165-$173 (colour 1 paper, 4 ink), tilemap rows 13-14 raw
+# at $1E:FE80 (32 words each, attr $14xx, $1564 = blank tile)
+END_TILES, END_MAP = CURTAIN + 32 * (0x164 - 0x104), 0x0F7E80
+END = ["And they lived", "happily ever after."]
+
+
+def end_patch(rom):
+    chars = sorted({c for line in END for c in line} - {" "})
+    assert len(chars) <= 15, chars
+    for i, ch in enumerate(chars):
+        t = bytearray(32)
+        for y, row in enumerate(GLYPHS[ch]):
+            for x, px in enumerate(row):
+                v = 4 if px == "#" else 1
+                for p in range(4):
+                    t[(p // 2) * 16 + 2 * y + (p & 1)] |= ((v >> p) & 1) << (7 - x)
+        rom[END_TILES + 32 * (i + 1):END_TILES + 32 * (i + 2)] = t
+    for r, line in enumerate(END):
+        row = [" "] * 32
+        left = (32 - len(line)) // 2
+        row[left:left + len(line)] = line
+        words = [0x1564 + (chars.index(c) + 1 if c != " " else 0) for c in row]
+        rom[END_MAP + 64 * r:END_MAP + 64 * (r + 1)] = b"".join(w.to_bytes(2, "little") for w in words)
+
+
 if __name__ == "__main__":
     for t in TITLES + LABELS:
         px, n = strip(t)
