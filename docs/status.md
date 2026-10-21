@@ -46,4 +46,4 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - 25 long names fall back to 8-char forms; 8-letter castle names touch the code-drawn level digit ("Almamoon2").
   - Hobby label "Fun", stat labels War/Rule/Pay (small windows) vs Combat/Domestic/Wage: width-bound, kept.
   - Hero name empty in warps.
-- **Waiting on the user:** publishing.
+- **Published:** 2026-10-22, github.com/minhnhattonthat/hanjuku-hero-ah-sekai-yo-hanjuku-nare, release v1.0.
