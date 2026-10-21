@@ -16,6 +16,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT / "tools"))
 import btltext  # noqa: E402
+import cards  # noqa: E402
 import check_rom  # noqa: E402
 import events  # noqa: E402
 import font_en  # noqa: E402
@@ -143,6 +144,8 @@ def build(args):
     title = (ROOT / "assets" / "title_m7_en.bin").read_bytes()
     rom[0x1F0000:0x1F0000 + len(title)] = title  # $3E:8000, read by TitlePatch
     rom[0x1F3880:0x1F3880 + 0x380] = copyright_tiles()  # $3E:B880 / $3E:BA40, sprite rows
+    card = cards.blob()
+    rom[cards.CARDS:cards.CARDS + len(card)] = card  # $3F:8000, episode title cards
 
     pk = Packer(rom, DATA_FIRST_BANK, last=0x3D)
     stats = {}

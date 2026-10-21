@@ -7,14 +7,14 @@ Dakuten rows of templates (the row above a label) become all spaces.
 ENTRIES = [
     # date/gold bar template ($1F:B441, 18 tiles): year digits end col 2, month col 7, gold cols 11-15
     (0xFB441, 18, "   yr   mo.     G "),
-    # castle monthly-command menu template ($1F:B53C), 20 tiles per row, cursor at col 0 and col 10
+    # castle monthly-command menu template ($1F:B53C), 20 tiles per row, cursors at cols 0 and 8-9: left labels max 7
     (0xFB53C, 20, ""),
-    (0xFB55C, 20, " Merchant  Recruit"),
+    (0xFB55C, 20, " Shop      Recruit"),
     (0xFB57C, 20, ""),
     (0xFB59C, 20, " Troops    Dismiss"),
     (0xFB5BC, 20, ""),
     (0xFB5DC, 20, " Fortify   Bless Egg"),
-    (0xFB61C, 20, " Main Menu All done!"),
+    (0xFB61C, 20, " Menu      All done!"),
     # general status mini window ($1F:B48D), 10 tiles per row; numbers are drawn by code
     (0xFB499, 10, ""),
     (0xFB4A5, 10, " Egg"),

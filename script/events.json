@@ -6623,7 +6623,7 @@
    {
     "id": "0E0C93_0169",
     "jp": "　つよい　いしと　ちからを　もてればな！{w}{p}だいじん「おお　{hero}さま‥{w}",
-    "en": "...you have the will and the strength to stand strong!{w}{p}Minister: Oh, {hero}, my lord...{w}",
+    "en": "...you have a strong will and the power to match!{w}{p}Minister: Oh, {hero}, my lord...{w}",
     "codes": []
    },
    {
@@ -8271,7 +8271,7 @@
    {
     "id": "0E324B_0038",
     "jp": "だいじん「キャラクター　グラフィック！{n}　おおかわ　かずひろ〜！",
-    "en": "Minister: Character Graphics!{n}Kazuhiro Okawa~!",
+    "en": "Minister: Character art!{n}Kazuhiro Okawa~!",
     "codes": []
    },
    {
@@ -8309,7 +8309,7 @@
    {
     "id": "0E324B_00EF",
     "jp": "だいじん「ボスじょう　グラフィック！{n}　くらしま　かずゆき〜！",
-    "en": "Minister: Boss Castle Graphics!{n}Kazuyuki Kurashima~!",
+    "en": "Minister: Boss Castle art!{n}Kazuyuki Kurashima~!",
     "codes": []
    },
    {
@@ -8321,7 +8321,7 @@
    {
     "id": "0E324B_0129",
     "jp": "だいじん「バトル　はいけい　グラフィック！{n}　おぐら　よしのり〜！",
-    "en": "Minister: Battle Background Graphics!{n}Yoshinori Ogura~!",
+    "en": "Minister: Battle scenery!{n}Yoshinori Ogura~!",
     "codes": []
    },
    {
@@ -8345,7 +8345,7 @@
    {
     "id": "0E324B_01A9",
     "jp": "だいじん「ぶたい　はいけい　グラフィック！{n}　あびる　ゆうこ〜！",
-    "en": "Minister: Stage Background Graphics!{n}Yuko Abiru~!",
+    "en": "Minister: Stage backdrops!{n}Yuko Abiru~!",
     "codes": []
    },
    {
@@ -9175,7 +9175,7 @@
    {
     "id": "0FC4B6_0034",
     "jp": "だいじん「そして　ゲスト　コンポーザー！{n}　すぎやま　こういち〜！",
-    "en": "Minister: And our guest composer!{n}Koichi Sugiyamaaa!",
+    "en": "Minister: Guest composer!{n}Koichi Sugiyamaaa!",
     "codes": []
    },
    {
@@ -9205,7 +9205,7 @@
    {
     "id": "0FC4B6_00EB",
     "jp": "「こんかいの　わたしの　さくひん。{n}　こころにしみる　このメロディ　おききください。",
-    "en": "My work for this game.{n}Please listen to this melody that touches the heart.",
+    "en": "My work this time:{n}a melody to touch the heart. Please give it a listen.",
     "codes": []
    },
    {

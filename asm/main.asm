@@ -116,6 +116,26 @@ org $04E709
     jsl PutcLabel
     bra AuditionEggDone
 
+; --- episode title cards: English glyph strips (tools/cards.py at $3F:8000) instead of the kanji font in $7E
+Cards = $3F8000           ; 24 x 4 bytes: glyph address, count, 0, 0; titles 0-11 then labels 12-23
+org $09F613               ; label sprites: count and x (was 3 or 4 glyphs at x $68/$60)
+    jsl CardLabelPos
+    bra CardLabelPosDone
+org $09F62C
+CardLabelPosDone:
+org $09F6D8               ; title x and line break: no episode-9 two-line case (cmp #$09)
+    db $FF
+org $09F76E
+    db $FF
+org $09F8B0               ; label glyphs (第N話), after the buffer clear
+    jml CardLabel
+org $09F8ED
+CardLabelDone:
+org $09F921               ; title glyphs, after the buffer clear
+    jml CardTitle
+org $09F960
+CardTitleDone:
+
 org $208000
 TitlePatch:
     php
@@ -367,3 +387,96 @@ BtlName:                 ; name insert: names live in bank $17; A = name index f
     jml $03D112
 .back:
     rtl
+
+CardLabelPos:            ; A8 = label glyph count, $F0 = x of the first sprite (centred: (16 - count) * 8); X kept
+    phx
+    lda $0308            ; episode 1-12
+    clc
+    adc #11
+    jsr CardEntry
+    lda.l Cards+2,x
+    plx
+    pha
+    eor #$FF
+    sec
+    adc #16
+    asl #3
+    sta $F0
+    pla
+    rtl
+
+CardLabel:               ; DB = $7E, buffer at $7E:D000 cleared
+    lda $0308
+    clc
+    adc #11
+    jsr CardEntry
+    jsr CardCopy
+    jml CardLabelDone
+
+CardTitle:
+    lda $0308
+    dec
+    jsr CardEntry
+    lda.l Cards+2,x
+    sta $030D            ; glyph count: the sprite placement centres and loops on it
+    jsr CardCopy
+    jml CardTitleDone
+
+CardEntry:               ; A8 = entry -> X = entry * 4
+    rep #$20
+    and #$00FF
+    asl #2
+    tax
+    sep #$20
+    rts
+
+CardCopy:                ; X = entry offset; glyphs to $7E:D000 like $09:F962 (16x16 sprite, 8 per row)
+    lda.l Cards+2,x
+    pha
+    rep #$20
+    lda.l Cards,x
+    tax
+    ldy #$D000
+.glyph:
+    lda #$000F
+    db $54, $7E, $3F     ; mvn dest $7E, src $3F: tile TL
+    tya
+    clc
+    adc #$0010
+    tay
+    lda #$000F
+    db $54, $7E, $3F     ; TR
+    tya
+    clc
+    adc #$01D0
+    tay
+    lda #$000F
+    db $54, $7E, $3F     ; BL
+    tya
+    clc
+    adc #$0010
+    tay
+    lda #$000F
+    db $54, $7E, $3F     ; BR
+    tya
+    sec
+    sbc #$01F0
+    tay
+    and #$01FF           ; 8 glyphs done: next sprite row
+    bne +
+    tya
+    clc
+    adc #$0200
+    tay
++
+    sep #$20
+    lda 1,s
+    dec
+    sta 1,s
+    rep #$20
+    bne .glyph
+    sep #$20
+    pla
+    rts
+
+warnpc $208800

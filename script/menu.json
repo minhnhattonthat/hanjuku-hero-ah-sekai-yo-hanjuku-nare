@@ -168,7 +168,7 @@
   "id": "M17",
   "off": "0FB993",
   "jp": "じゅうじキーの　さゆうで　ケタが{n}じょうげで　すうちが　かわりますぞ！",
-  "en": "Left/right: digit;{n}up/down: its value!",
+  "en": "Left/Right picks a digit,{n}Up/Down changes it!",
   "codes": []
  },
  {
@@ -182,7 +182,7 @@
   "id": "M19",
   "off": "0FB9C9",
   "jp": "よろしいですかな？",
-  "en": "Acceptable?",
+  "en": "Is that all right, sire?",
   "codes": []
  },
  {
