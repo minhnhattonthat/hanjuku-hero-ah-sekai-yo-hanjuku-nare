@@ -41,7 +41,7 @@ org $00F09A
     jml SysFetch
     nop
 
-; --- title screen: English mode-7 tiles $01-$E2 over the decompressed block at $7F:8000 before its DMA
+; --- title screen: English mode-7 tiles $01-$E2 and logo map (tools/title_logo.py)
 org $09F2CE
     jsl TitlePatch
     nop
@@ -143,10 +143,14 @@ TitlePatch:
     rep #$30
     lda.l $7F84BC        ; signature of the title block (tile $13), so other users of this DMA are untouched
     cmp #$0606
-    bne .skip
+    beq .sig2
+    brl .skip
+.sig2:
     lda.l $7F84BE
     cmp #$0107
-    bne .skip
+    beq .matched
+    brl .skip
+.matched:
     phx
     phy
     lda #$387F
@@ -182,6 +186,34 @@ TitlePatch:
     stx $4305
     lda #$01
     sta $420B
+    ; Redraw only the title's 32x11 map, using the original tile budget $01-$C1.
+    ; Mode 7 map is the low VRAM byte, stride 128 words; subtitle rows 13-14 stay intact.
+    phy
+    lda #$00
+    sta $4300
+    sta $2115
+    lda #$18
+    sta $4301
+    ldx #$BC00           ; tools/title_logo.py MAP at $3E:BC00
+    stx $4302
+    ldy #$0000
+.maprow:
+    sty $2116
+    ldx #$0020
+    stx $4305
+    lda #$01
+    sta $420B
+    rep #$20
+    tya
+    clc
+    adc #$0080
+    tay
+    sep #$20
+    cpy #$0580
+    bne .maprow
+    ply
+    lda #$80
+    sta $2115
     ldx #$0040           ; restore the VRAM address the game's next DMA expects
     stx $2116
     lda #$00

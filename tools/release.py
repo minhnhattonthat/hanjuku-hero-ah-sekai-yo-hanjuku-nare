@@ -11,7 +11,7 @@ import zlib
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SKILL = Path(r"H:\translation\batch\.claude\skills\translate-retro-game\scripts")
+SKILL = Path(r"C:\Users\Nathan\.claude\plugins\marketplaces\retro-translation\skills\translate-retro-game\scripts")
 SLUG = "hanjuku-hero-ah-sekai-yo-hanjuku-nare"
 ORIG = ROOT / "rom" / "Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan).sfc"
 PY = [sys.executable, "-X", "utf8"]

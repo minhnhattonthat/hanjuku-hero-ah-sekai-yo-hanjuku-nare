@@ -28,6 +28,7 @@ import names  # noqa: E402
 import rawtext  # noqa: E402
 import script  # noqa: E402
 import systext  # noqa: E402
+import title_logo  # noqa: E402
 from tbl import Table  # noqa: E402
 
 ASAR = ROOT / "tools" / "asar" / "asar.exe"
@@ -144,6 +145,7 @@ def build(args):
     title = (ROOT / "assets" / "title_m7_en.bin").read_bytes()
     rom[0x1F0000:0x1F0000 + len(title)] = title  # $3E:8000, read by TitlePatch
     rom[0x1F3880:0x1F3880 + 0x380] = copyright_tiles()  # $3E:B880 / $3E:BA40, sprite rows
+    title_logo.patch(rom)
     card = cards.blob()
     rom[cards.CARDS:cards.CARDS + len(card)] = card  # $3F:8000, episode title cards
     cards.curtain_patch(rom)

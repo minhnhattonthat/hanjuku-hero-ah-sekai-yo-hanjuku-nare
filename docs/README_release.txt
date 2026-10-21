@@ -13,11 +13,11 @@ APPLYING
 WHAT IS TRANSLATED
   All event dialogue and the opening crawl, castle/menu messages, system messages, battle messages and quips,
   monster/general/attack/trump-card/hobby/castle names, choice labels, the name-entry screen (English letters),
-  password pieces, the castle command menu, and the title-screen ribbon, subtitle and copyright lines.
+  password pieces, the castle command menu, and the title-screen logo, ribbon, subtitle and copyright lines.
   Font: new 8x8 English font; names longer than 8 letters use two-letters-per-tile ligatures where possible.
 
 KNOWN ISSUES
-  - The large stylised kanji logo on the title screen is kept as art (the ribbon and subtitle are English).
+  - Smaller Japanese logos on stage backdrops remain; the large title-screen logo reads HANJUKU HERO.
   - About 25 long names still use a shortened 8-letter form (e.g. some attack names) because of the 8-tile name
     fields; the date bar uses "yr"/"mo." for the same reason.
   - Some small pop-up windows (map notices) have very tight space; wording there is condensed.

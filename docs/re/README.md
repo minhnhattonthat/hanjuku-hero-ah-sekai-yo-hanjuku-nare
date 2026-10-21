@@ -13,3 +13,4 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | File | Covers | State |
 |---|---|---|
 | `text.md` | text systems, encoding, control codes, pointer tables, engine hooks | verified (roundtrip/identity tests in `tests/`) |
+| `graphics.md` | title logo LZSS block, Mode 7 tiles/map/palette, English generator | verified (cold-boot WRAM/VRAM dumps and screenshots) |
