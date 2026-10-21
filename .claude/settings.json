@@ -3,6 +3,9 @@
     "PYTHONUTF8": "1",
     "PYTHONIOENCODING": "utf-8"
   },
+  "permissions": {
+    "deny": ["WebFetch(domain:tcrf.net)"]
+  },
   "hooks": {
     "PreToolUse": [
       {
@@ -15,5 +18,14 @@
         ]
       }
     ]
+  },
+  "extraKnownMarketplaces": {
+    "retro-translation": {
+      "source": { "source": "github", "repo": "minhnhattonthat/translate-retro-game" },
+      "autoUpdate": true
+    }
+  },
+  "enabledPlugins": {
+    "translate-retro-game@retro-translation": true
   }
 }

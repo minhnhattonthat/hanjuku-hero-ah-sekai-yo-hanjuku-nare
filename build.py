@@ -16,6 +16,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT / "tools"))
 import btltext  # noqa: E402
+import check_rom  # noqa: E402
 import events  # noqa: E402
 import font_en  # noqa: E402
 import font_tiny  # noqa: E402
@@ -279,6 +280,7 @@ def main():
     ap.add_argument("--qa", action="append", default=[])
     ap.add_argument("--out", default=str(ROOT / "build" / "hanjuku_en.sfc"))
     a = ap.parse_args()
+    check_rom.check()
     if a.identity:
         ok = identity(a.identity)
         print("identity:", "identical" if ok else "DIFFERENT")
