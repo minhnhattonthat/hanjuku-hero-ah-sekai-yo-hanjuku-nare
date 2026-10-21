@@ -46,6 +46,76 @@ org $09F2CE
     jsl TitlePatch
     nop
 
+; --- labels the game wrote as LDA #tile / STA code (tools/immtext.py); English in Labels (tools/rawtext.py LABELS)
+Labels = $209E00          ; 16 bytes per label, 00-terminated
+RtlInBank04 = $048025
+; battle command windows: tile row at X+$40 (stride 2) in $7E, X preserved
+org $03D5CC
+    lda #$03             ; きりふだ
+    jsl BtlLabel
+    rts
+org $03D5E6
+    lda #$02             ; たまごをつかう
+    jsl BtlLabel
+    rts
+org $03D633
+    lda #$04             ; たいきゃく
+    jsl BtlLabel
+    rts
+org $03D64D
+    lda #$05             ; たまごにもどれ
+    jsl BtlLabel
+    rts
+org $03D67B
+    lda #$01             ; もうこうげき (its tail at $D685 was a second entry: こうげき)
+    jsl BtlLabel
+    rts
+org $03D685
+    lda #$00
+    jsl BtlLabel
+    rts
+org $03D69F
+    lda #$06             ; おくのて
+    jsl BtlLabel
+    rts
+; branch targets in the game's code (asar needs labels for branches, a bare $address assembles wrong)
+org $03CE2A
+InsTroopsDone:
+org $03CFB8
+BtlCharNext:
+org $04C356
+PanelEggDone:
+org $04E713
+AuditionEggDone:
+; battle message name insert when the target is the troops: X advances past the label
+org $03CE15
+    lda #$07             ; へいし
+    jsl BtlLabelAdv
+    bra InsTroopsDone
+; after a name insert the printer took the per-character exit ($CFB6: INX INX, INY), leaving a blank cell after
+; every name ("Beets  attacks!"). English text has its own spaces: skip to the INY.
+org $03CE2E
+    brl BtlCharNext
+org $03CE80
+    brl BtlCharNext
+; general panels: egg yes/no
+org $04C33A
+    lda #$08             ; あり (Dismiss panel, buffer $7E:8800)
+    jsl PanelLabel
+    bra PanelEggDone
+org $04C349
+    lda #$09             ; なし
+    jsl PanelLabel
+    bra PanelEggDone
+org $04E6FA
+    lda #$08             ; あり (audition stat block, putchar $04:E71C)
+    jsl PutcLabel
+    bra AuditionEggDone
+org $04E709
+    lda #$09             ; なし
+    jsl PutcLabel
+    bra AuditionEggDone
+
 org $208000
 TitlePatch:
     php
@@ -203,10 +273,94 @@ BtlFetch:                ; call $03:D016 (ends in RTS) via the RTL trampoline, t
     lda [$F4],y
     rtl
 
-BtlName:                 ; name insert: names live in bank $17
+LabelPtr:                ; A8 = label id -> Y = its address in bank $20, DB = $20 (caller saved Y and DB)
+    rep #$20
+    and #$00FF
+    asl #4
+    clc
+    adc.w #Labels
+    tay
+    sep #$20
+    phk
+    plb
+    rts
+
+BtlLabel:                ; A8 = id, X = tile buffer base: tiles to $7E:0040+X, +2 per char; X, Y kept
+    phx
+    jsr BtlLabelLoop
+    plx
+    rtl
+
+BtlLabelAdv:             ; same, X ends past the label
+    jsr BtlLabelLoop
+    rtl
+
+BtlLabelLoop:
+    phy
+    phb
+    jsr LabelPtr
+.loop:
+    lda $0000,y
+    beq .end
+    sta.l $7E0040,x
+    inx #2
+    iny
+    bra .loop
+.end:
+    plb
+    ply
+    rts
+
+PanelLabel:              ; A8 = id, X = column in the $7E:8800 panel buffer (+1 per char); Y kept
+    phy
+    phb
+    jsr LabelPtr
+.loop:
+    lda $0000,y
+    beq .end
+    sta.l $7E8800,x
+    inx
+    iny
+    bra .loop
+.end:
+    plb
+    ply
+    rtl
+
+PutcLabel:               ; A8 = id, each char through the bank-$04 putchar $04:E71C; X, Y kept
+    phy
+    phb
+    jsr LabelPtr
+.loop:
+    lda $0000,y
+    beq .end
+    phy
+    xba
+    lda $03,s            ; the caller's DB: the putchar reads its WRAM variables through DB
+    pha
+    plb
+    xba
+    phk
+    per .back-1
+    pea.w RtlInBank04-1
+    jml $04E71C
+.back:
+    phk
+    plb
+    ply
+    iny
+    bra .loop
+.end:
+    plb
+    ply
+    rtl
+
+BtlName:                 ; name insert: names live in bank $17; A = name index for $03:D112
     sty $F4
+    pha
     lda #$17
     sta $F6
+    pla
     phk
     per .back-1
     pea.w RtlInBank03-1

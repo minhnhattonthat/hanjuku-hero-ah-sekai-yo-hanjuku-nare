@@ -30,6 +30,27 @@ ENTRIES = [
     (0x27FA5, 4, "123"),
     (0x27FA9, 4, "Done"),
     (0x27FAE, 19, "Write your own name"),  # 19 tiles, then the 0x10 terminator
+    # recruit audition stat block ($1F:ED76/ED89/ED9D, printed by $04:C1BC): digits drawn over the 0s by code,
+    # the egg yes/no from col 17 (LABELS 8/9)
+    (0xFED76, 19, " HP    00P Egg"),
+    (0xFED89, 20, " War   00P Rule  00P"),
+    (0xFED9D, 10, " Pay   00G"),
+]
+
+# labels the game wrote with LDA #tile / STA code (tools/immtext.py), now read from $20:9E00 (asm Labels), 16 bytes
+# each, 00-terminated. Battle command windows hold 8 tiles.
+LABELS_OFF = 0x101E00
+LABELS = [
+    "Attack",    # 0 こうげき
+    "Assault",   # 1 もうこうげき
+    "Use Egg",   # 2 たまごをつかう
+    "Trump",     # 3 きりふだ
+    "Retreat",   # 4 たいきゃく
+    "Return",    # 5 たまごにもどれ (egg monster back into its egg)
+    "Secret",    # 6 おくのて
+    "troops",    # 7 へいし (battle message insert)
+    "Yes",       # 8 あり (has an egg)
+    "No ",       # 9 なし (same width as 8: the Dismiss panel redraws over the previous general's value)
 ]
 # fmt: on
 
@@ -62,3 +83,8 @@ def apply(rom, table):
     for off, cells in GRIDS:
         b = table.encode(cells)
         rom[off:off + len(b)] = b
+    for i, w in enumerate(LABELS):
+        b = table.encode(w)
+        assert len(b) <= 8, w
+        o = LABELS_OFF + 16 * i
+        rom[o:o + 16] = b + b"\x00" * (16 - len(b))
