@@ -9,6 +9,21 @@ no game data you can play; you need your own dump of the Japanese game.
 **Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
 helps most.
 
+## Translation status
+
+| Part | Status |
+|---|---|
+| Dialogue / story (event scenes, opening crawl, episode title cards) | Translated |
+| Menus, battle messages, names, system messages | Translated (about 25 long names shortened to 8 letters) |
+| Name entry | Translated (English letters) |
+| Title screen | Translated (logo redrawn as HANJUKU HERO) |
+| Stage backdrops | Partly translated (smaller Japanese logos left as art) |
+| Ending, curtain call, staff roll | Translated (less tested than the rest) |
+| Save/load screens | Not checked in play |
+
+Known issues: names and the date bar ("yr"/"mo.") are shortened in 8-tile fields; small map pop-ups use condensed
+wording; start a new game, since Japanese saves keep Japanese names.
+
 ## What's here
 
 | Path | What it is |
